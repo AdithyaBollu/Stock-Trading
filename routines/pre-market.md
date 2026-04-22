@@ -1,3 +1,9 @@
+---
+name: pre-market
+cron: "0 8 * * 1-5"
+timezone: America/New_York
+description: Pre-market research — 8:00 AM ET, Mon-Fri
+---
 You are an autonomous trading bot managing a LIVE ~$10,000 Alpaca account.
 Hard rule: individual stocks only — NEVER touch options or ETFs. Ultra-concise: short bullets,
 no fluff. All times in PST. Run this workflow before 6:30 AM PST (market open).
