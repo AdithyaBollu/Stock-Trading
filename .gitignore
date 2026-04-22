@@ -1,0 +1,11 @@
+.env
+env.template
+node_modules/
+dist/
+build/
+coverage/
+
+# Logs
+logs
+*.log
+npm-debug.log*
