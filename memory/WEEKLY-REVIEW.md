@@ -11,15 +11,17 @@ Template for each entry:
 | Week return | ±$X (±X%) |
 | S&P 500 week | ±X% |
 | Bot vs S&P | ±X% |
-| Trades | N (W:X / L:Y / open:Z) |
+| Alpha sleeve deployed | $X (X% of portfolio) |
+| Niche sleeve deployed | $X (X% of portfolio) |
+| Trades | N (W:X / L:Y / open:Z) vs 3/week limit |
 | Win rate | X% |
 | Best trade | SYM +X% |
 | Worst trade | SYM -X% |
 | Profit factor | X.XX |
 ### Closed Trades
-| Ticker | Entry | Exit | P&L | Notes |
+| Ticker | Sleeve | Entry | Exit | P&L | Notes |
 ### Open Positions at Week End
-| Ticker | Entry | Close | Unrealized | Stop |
+| Ticker | Sleeve | Entry | Close | Unrealized | Stop |
 ### What Worked
 - ...
 ### What Didn't Work
