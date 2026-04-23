@@ -10,3 +10,10 @@ No positions yet. Bot launches tomorrow.
 No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/3.
 
 **Notes:** Launch day, stayed flat — no setups cleared the bar. Cash parked at 100% awaiting alpha/niche ideas from tomorrow's pre-market research. Baseline is $10,000; trailing-stop and sizing rules armed.
+
+### Apr 23 — EOD Snapshot (Day 2, Thursday)
+**Portfolio:** $10,000.00 | **Cash:** $10,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/3.
+
+**Notes:** Second flat day — no alpha or niche setups cleared the bar, so capital stayed 100% in cash. Discipline over activity; waiting for a clean signal from pre-market research rather than forcing a trade. Baseline still $10,000, risk rules untouched.
