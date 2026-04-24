@@ -17,3 +17,10 @@ No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades to
 No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/3.
 
 **Notes:** Second flat day — no alpha or niche setups cleared the bar, so capital stayed 100% in cash. Discipline over activity; waiting for a clean signal from pre-market research rather than forcing a trade. Baseline still $10,000, risk rules untouched.
+
+### Apr 24 — EOD Snapshot (Day 3, Friday)
+**Portfolio:** $10,000.00 | **Cash:** $10,000.00 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/3.
+
+**Notes:** Third flat day and the week closes with capital 100% in cash — no alpha or niche setup cleared the checklist, so no entries were taken. Week 1 ends 0/3 trades used, zero P&L vs the $10,000 baseline, sleeves untouched. Plan: fresh pre-market research Monday to surface a catalyst-backed alpha idea rather than force a trade; weekly review will log a patient-but-passive grade.
