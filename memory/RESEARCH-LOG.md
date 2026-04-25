@@ -80,3 +80,62 @@ HOLD — Energy sleeve entries (LNG/OXY) too extended after oil's +4.6% one-day 
 - VIX creeping up, but still <20
 ### Decision
 HOLD — Third consecutive flat day. Setup landscape: Energy extended post-oil spike; Defense thesis strong but LMT entry doesn't clear 1.5:1 at current levels; CAT needs pullback. Material event risk (FOMC + Big Tech earnings Wed) argues against fresh positions on a Friday. Maintain 100% cash. Watchlist: LMT ($480 pullback), CAT (pullback + confirmation), OXY/LNG (only on meaningful consolidation). Weekly review workflow runs this afternoon.
+
+## 2026-04-25 — Pre-market Research (Saturday — forward-looking for Mon 4/27 open)
+### Account
+- Equity: $10,000.00
+- Cash: $10,000.00
+- Buying power: $20,000.00
+- Daytrade count: 0
+- Sleeve status: Alpha $0 (0%), Niche $0 (0%), Cash 100%
+### Market Context
+- WTI / Brent: WTI $94.40 (-1.51% Fri) — easing on US-Iran peace talks + potential Strait of Hormuz agreement; geopolitical risk premium fading. Brent ~$104 prior ref, no fresh print
+- S&P 500: 7,165.08 close Fri (+0.8%, NEW ATH); ES futures 7,194.75. Nasdaq 24,836.60 (+1.63% ATH); Dow -0.2%
+- VIX: 18.71 (-3.11%) — moderating, sub-20
+- Today's catalysts: Saturday — markets closed. No releases.
+- Earnings before open (Mon 4/27): VZ, KO, GM, Cadence (CDNS), Public Storage (PSA) — no mega-caps BMO
+- Economic calendar: BoJ press Mon 06:30 UTC (light US data); FOMC Tue-Wed Apr 28-29 (~93-99% odds of NO change at 3.50-3.75%); Q1 GDP + March PCE later in week; ISM Mfg PMI Fri May 1
+- Sector momentum YTD: Energy STILL leader (XLE +22%) but rolling over with oil; Staples/Industrials/Materials lead. Tech (XLK) outperformed in late April (+2.2% MTD on semi rip from INTC). Comm/Disc/Financials lagging; Healthcare weakening
+- BIG MOVER: INTC +23.6% Fri on Q1 beat — rev $13.6B (vs $12.4B est), non-GAAP EPS $0.29 (vs $0.01-$0.02), Data Center +22% YoY, Q2 guide $13.8-14.8B (vs $13.07B). Closed $82.30, all-time high after 26 yrs, broke $59 prior resistance
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| Mon 4/27 | VZ, KO, GM | BMO | AVOID — slow growth, not on watchlist |
+| Mon 4/27 | CDNS, PSA | TBD | AVOID — niche, no edge |
+| Tue 4/28 | SPGI | BMO | AVOID — extended valuation |
+| Wed 4/29 | MSFT, GOOGL, META, AMZN, QCOM, ABBV | AMC | AVOID pre — binary event risk; possible POST-EARNINGS DRIFT plays Thu if clean beat+guide raise |
+| Wed 4/29 | FOMC decision | 2pm ET | NO CHANGE expected (~93-99% odds) |
+
+### Tech/Semi Watchlist
+| Ticker | Last (4/24) | Setup | Note |
+|--------|-------------|-------|------|
+| INTC | $82.30 | POST-EARNINGS BREAKOUT | +23.6% on clean beat+guide, ATH; chase risk extreme |
+| NVDA | $201.10 | NEUTRAL | Holding into MSFT/AMZN AI capex prints Wed |
+| AMD | $302.01 | EXTENDED | P/E 107; no setup |
+| AVGO | $422.76 | EXTENDED | 184% premium to fair value $219; AVOID |
+| ARM | $234.81 | NEUTRAL | No clean setup |
+| ASML | $1,456.99 | NEUTRAL | No catalyst this week |
+| MRVL/TSM/MU/QCOM/SMCI | n/a | — | Alpaca data 503; no fresh quotes |
+
+### Trade Ideas
+1. INTC (Niche/post-earnings drift) — WATCHLIST. Clean Q1 beat + guide raise + DC +22% is strongest semi catalyst of the week. But +23.6% one-day rip to ATH = chase risk extreme. For 2.5:1 R:R from $82.30, need target ~$103 (+25%) with stop $74 (-10%); post-earnings drift typically delivers 3-8%, not 25%. Does NOT clear niche bar. No entry. Monitor for orderly pullback to $72-75 as cleaner re-entry — if it holds, R:R math improves.
+2. No alpha idea clears 1.2:1 R:R bar cleanly:
+   - LMT/RTX/NOC: defense thesis weakening on Iran ceasefire progress
+   - LNG/OXY: energy rolling over with oil down to $94
+   - CAT: still needs pullback for clean entry
+   - MSFT/GOOGL/META/AMZN: binary event risk Wed AMC, pre-earnings entries violate sizing
+3. No niche idea clears 2.5:1 R:R bar — INTC the closest and still fails math.
+
+### Risk Factors
+- FOMC + 4 mega-cap tech earnings cluster Wed 4/29 = peak event risk week; positions opened Mon/Tue exposed
+- Oil down ~$6 in 48hrs on US-Iran de-escalation — energy sleeve thesis actively breaking
+- Defense thesis softening on ceasefire extension + Iran talks; LMT/RTX/NOC catalyst fading
+- INTC ATH chase risk after 23.6% gap-up; mean-reversion likely Mon-Tue
+- Semi valuations stretched (AVGO 184% premium, AMD P/E 107) — late-cycle warning
+- New SPX ATH at 7,165 + VIX sub-19 = complacency setup ahead of FOMC
+- Day 4 of bot operation, fresh week starting 0/3 trade budget — no need to force activity
+- Alpaca data API intermittent 503 throughout session — execution risk if persists Mon
+
+### Decision
+HOLD — Fourth consecutive flat day. Pre-FOMC + mega-cap earnings week argues for patience; only setup with a real catalyst (INTC post-earnings drift) cannot mathematically clear the 2.5:1 niche bar from $82 ATH. Maintain 100% cash through Mon-Tue. Plan: re-evaluate Thu 4/30 morning for post-earnings drift entries on MSFT/GOOGL/META/AMZN if clean beat+guide raise + Wed reaction confirms. Monitor INTC for pullback to $72-75 zone as cleaner niche entry. Energy/defense theses on watch for further confirmation either way.
