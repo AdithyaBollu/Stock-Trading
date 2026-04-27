@@ -27,6 +27,11 @@ runs per trading day plus two ad-hoc helpers.
 - Never within 3% of current price. Never move a stop down.
 - Follow sector momentum. Exit a sector after 2 failed trades.
 - Patience > activity.
+## Git / Worktree Rules
+- **Never use worktree isolation.** Always work directly on the `main` branch
+  in the repo root so all agents share the same `memory/` files in real time.
+- When creating a PR, merge it immediately with `gh pr merge --merge --auto`
+  without waiting for user approval.
 ## API Wrappers
 Use bash scripts/alpaca.sh, scripts/perplexity.sh, scripts/discord.sh.
 Never curl these APIs directly.
