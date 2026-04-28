@@ -35,3 +35,15 @@ No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades to
 | 2026-04-27 | MSFT | alpha | buy 3 → sell 3 | 3 | $420.23 → ~$420.90 | n/a (canceled) | Bought before reading remote prior research; MSFT reports AMC Wed (binary event-risk week) AND sized 12.6% > 10% event-week cap. Closed for ~+$2 net. |
 
 **Notes / Violation log:** Local clone lacked Apr 22-25 prior history when entries were placed. After fetch revealed (a) FOMC Wed + MSFT/GOOGL/META/AMZN AMC Wed = peak event-risk week (10% per-position cap applies), (b) Saturday research planned INTC entry not these names. MSFT reversed immediately. NVDA at $1,049 (10.49%) and PLTR at $1,006 (10.06%) are micro-overages vs the 10% cap; further partial trims would burn remaining PDT slots after MSFT close consumed daytrade capacity (count now 3/5 rolling). Decision: hold NVDA/PLTR as-is, document overage, NO further entries this week. Trades this week: 3 / 5 (NVDA buy, PLTR buy, MSFT round-trip). Open positions: 2 / 10. Cash: $7,945 (79.4%). Equity: $10,002.73.
+
+### Apr 28 — EOD Snapshot (Day 5, Tuesday)
+**Portfolio:** $9,997.01 | **Cash:** $7,945.03 (79.5%) | **Day P&L:** -$32.77 (-0.33%) | **Phase P&L:** -$2.99 (-0.03%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | alpha | 5 | $209.79 | $213.18 | -1.58% | +$16.94 (+1.62%) | $195.14 trail GTC |
+| PLTR | alpha | 7 | $143.73 | $140.87 | -1.56% | -$20.04 (-1.99%) | $130.56 trail GTC |
+
+Alpha sleeve: $2,051.98 (20.5%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 3/3 (NVDA buy, PLTR buy, MSFT round-trip Mon).
+
+**Notes:** First live equity move of the phase — both alpha names ticked down ~1.6% intraday, dragging equity from $10,029.78 to $9,997.01 (-$32.77 / -0.33%) and putting phase P&L slightly negative at -$2.99 vs the $10,000 baseline. Trailing stops untouched and well clear of price (NVDA buffer ~8.5%, PLTR ~7.3%). No new entries today; week 2 cap is exhausted at 3/3 and event-risk week (FOMC Wed + MSFT/GOOGL/META/AMZN AMC Wed) makes adds inappropriate anyway. Tomorrow: hold NVDA + PLTR through FOMC and mega-cap earnings reactions, no new positions, monitor stops only.
