@@ -230,3 +230,78 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 - Positions: NVDA 5 @ $209.79 ($1,049 / 10.49%), PLTR 7 @ $143.73 ($1,006 / 10.06%) — alpha sleeve totals $2,057 = 20.6%
 - Trades this week: 3 / 5 (counting MSFT as a used slot)
 - Daytrade count: 3 / 5 rolling — at PDT margin, NO further day trades this rolling window. INTC entry per Saturday plan deferred (would cost a PDT slot if exited same week).
+
+## 2026-04-28 — Pre-market Research (Tuesday — FOMC Day 1)
+### Account
+- Equity: $9,981.03 (last_equity 10,029.78, day -$48.75 / -0.49%)
+- Cash: $7,945.03 (79.6%)
+- Buying power: $17,926.06 (regt) / $7,945.03 non-marginable
+- Daytrade count: 1 / 5 rolling (down from 3 yesterday — slots reopening)
+- Sleeve status: Alpha $2,036 (20.4%), Niche $0 (0%), Cash 79.6%
+- Trades this week: 3 / 5 used (NVDA buy, PLTR buy, MSFT round-trip)
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last | P&L | Trail Stop GTC | HWM |
+|--------|--------|--------|-------|------|-----|----------------|-----|
+| NVDA | alpha | 5 | $209.79 | $208.95 | -$4.20 (-0.40%) | $195.14 (10%) | $216.83 |
+| PLTR | alpha | 7 | $143.73 | $141.60 | -$14.93 (-1.48%) | $130.56 (10%) | $145.07 |
+
+### Market Context
+- WTI: ~$98.84-$99.75 (+2.5-3.5% Mon→Tue), Apr range 96.26-99.89; geopolitical re-escalation (Strait of Hormuz tensions, stalled US-Iran talks). Brent ~$104+. Oil RE-IGNITING after last week's de-escalation rollover
+- ES futures (ESM26): ~7,210.50 (+0.06%), Mon close 7,206; SPX cash 7,184 prior day. Tape muted into FOMC
+- NQ futures (NQM26): -0.33% — modest tech weakness pre-FOMC + mega-cap earnings cluster
+- VIX: 18.71 last solid print (4/24 close); regime sub-19, complacent
+- Today's data: Case-Shiller HPI 9am ET, FHFA HPI 9am, Richmond Fed Mfg 10am, Consumer Confidence 10am, 2-yr FRN auction. **FOMC begins today (2-day, decision Wed 2pm ET — likely no change, ~95% odds; potentially Powell's final meeting as Chair)**
+- Sector momentum: Tech (XLK) lead +2.2% MTD on semi rip + INTC catalyst. **SOX index on 18-day winning streak +44%, +150% YoY — most extended vs 200-day MA since 2000 = extreme overbought**. Energy down 14% MTD but oil re-igniting overnight could reverse. Real Estate worst recently
+- Currently-held news: NVDA $208 (down -3.54% intraday, off Mon hwm $216.83). PLTR -1.05% intraday, **reports May 4 (next Mon)** — pre-earnings drift territory by Friday
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| Tue 4/28 | VZ ($1.21 est), AVB, ARE | mixed | AVOID — no edge |
+| Wed 4/29 | **MSFT, GOOGL, META, AMZN, QCOM, ABBV** | AMC | AVOID PRE — binary AI-capex prints + FOMC same day. POST-DRIFT candidates Thu |
+| Wed 4/29 | FOMC decision 2pm ET | — | NO CHANGE expected (~95%); watch dot plot + Powell tone |
+| Thu 4/30 | **AAPL, CVX** | AMC | AVOID PRE — binary; eval drift Fri |
+| Fri 5/1 | ISM Mfg PMI | data | watch sector reaction |
+| Mon 5/4 | **PLTR** (held) | AMC | HELD into print; thesis still intact (50%+ growth, gov contracts). Plan: ride drift through Fri 5/1, decide trim/hold by Mon 5/4 close |
+
+### Tech/Semi Watchlist (4/27 close, premarket bid where tighter)
+| Ticker | Last/Bid | Setup | Note |
+|--------|----------|-------|------|
+| INTC | bid $79.27 / ask $87.75 (wide) | POST-EARNINGS — CHASE/PULLBACK WAIT | After Fri +23.6% rip. Watch for pullback to $76-78 retest zone for cleaner entry. ATH chase risk extreme |
+| NVDA | $216.42 (held @ $209.79) | NEUTRAL — pre AI-capex prints | Holding; -3.5% intraday Tue. Wed AMC MSFT/AMZN/GOOGL = AI-capex tape readers |
+| AMD | $315.50 bid | EXTENDED | P/E 107; up ~$13 from Fri. SOX-rip beneficiary. NO clean entry |
+| AVGO | $398.65 bid | PULLED BACK | Off $422 high, but still 184% premium to fair value. AVOID |
+| MRVL | $147.26 bid | NEUTRAL | No catalyst |
+| TSM | ~$347-464 (wide) | NEUTRAL | Quote unreliable |
+| MU | $495 bid | NEUTRAL | Suspect stale; no edge |
+| QCOM | $142.22 bid | EVENT-RISK | Reports Wed AMC — AVOID pre |
+| ARM | $183.86 bid | NEUTRAL | Wide spread |
+| SMCI | $26.78 bid | WEAK | Below threshold |
+| ASML | $1,250 bid | NEUTRAL | No catalyst this week |
+| PLTR | $136.78 bid (held @ $143.73) | PRE-EARNINGS HOLD | Reports next Mon AMC; -1% intraday Tue. Hold |
+
+### Trade Ideas
+1. **No new alpha entry today.**
+   - Already at 3/5 weekly trade slots used; only 2 remaining
+   - NVDA + PLTR alpha sleeve at 20.4% — have 2 of 5-6 alpha bandwidth filled
+   - Today: FOMC Day 1, light data; Wed: peak event risk (FOMC + 4 mega-cap AMC); Thu: AAPL/CVX
+   - Patience preserves dry powder for post-Wed drift entries Thu/Fri (strategy: post-earnings drift > pre-earnings entry)
+   - Adding into FOMC + extreme-overbought SOX (18-day +44% streak) = poor risk/reward
+2. **INTC** — still on watchlist for pullback-only entry to $76-78 retest. Wide premkt spread $79-87. **NO chase above $87**. If pulls back $76-78 with FOMC out of way Thu, evaluate alpha 10% sizing entry.
+3. **Energy (LNG / OXY / CVX) — emerging watch.** Oil +3% on Strait of Hormuz re-escalation. CVX reports Thu AMC — drift play possible Fri. LNG/natgas infra still on theme list. NO entry today, monitor.
+4. **NVDA add?** No — already at 10.49% sizing (over 10% event-week cap by 5%); adding into AI-capex print Wed = binary risk. Hold existing only.
+5. **No niche idea clears 2.5:1 R:R bar today.**
+
+### Risk Factors
+- **FOMC Tue-Wed peak event window** + MSFT/GOOGL/META/AMZN/QCOM ALL Wed AMC = compressed binary cluster; new positions Tue-Wed carry whipsaw exposure
+- **SOX 18-day +44% rip, +150% YoY = extreme overbought**; longest streak in 32-year history. Mean-reversion overdue; chasing semis (AMD, AVGO, ARM) into FOMC = poor R:R
+- **Oil re-igniting +3% on Iran/Hormuz** — could drive risk-off rotation; energy sleeve theses (LNG, OXY) re-activating but no clean entry yet
+- **NVDA -3.5% intraday Tue** — pre-event-risk wobble; trail stop $195.14 well-positioned (10% below)
+- **PLTR reports next Mon** — pre-earnings drift building; consider trim plan if runs +5% by Fri
+- New SPX ATH (7,184) + VIX <19 = complacency setup ahead of FOMC
+- Daytrade count back to 1/5 (Mon's MSFT round-trip aging out) — slots reopening
+- Powell potentially final meeting as Chair — tone risk on dovish/hawkish surprise
+
+### Decision
+**HOLD** — Tuesday is the wrong day to add. Three reasons clear the bar to stand pat: (1) FOMC + mega-cap AI-capex earnings cluster Wed AMC = binary event risk, strategy explicitly favors post-earnings drift over pre-earnings entry; (2) SOX 18-day winning streak +44% is the most extended in 32 years vs the 200-day — chasing semis here is bad R:R; (3) the better setup (INTC pullback retest to $76-78) hasn't materialized yet, only chase-risk above $87. Plan: monitor NVDA and PLTR through FOMC; if NVDA breaks $195.14 trail OR loses $200 with thesis-deterioration headlines, cut early. Re-evaluate Thu 4/30 for post-earnings drift entries on MSFT/GOOGL/AMZN if clean beat+guide+stock holds opening gap. CVX/LNG energy watch active on oil re-ignition. Niche sleeve still empty — fine, no forcing.
