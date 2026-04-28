@@ -13,7 +13,7 @@ Template for each entry:
 | Bot vs S&P | ±X% |
 | Alpha sleeve deployed | $X (X% of portfolio) |
 | Niche sleeve deployed | $X (X% of portfolio) |
-| Trades | N (W:X / L:Y / open:Z) vs 3/week limit |
+| Trades | N (W:X / L:Y / open:Z) vs 15/week limit |
 | Win rate | X% |
 | Best trade | SYM +X% |
 | Worst trade | SYM -X% |

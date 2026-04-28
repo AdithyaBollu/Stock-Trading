@@ -12,7 +12,7 @@ STEP 1 — Read memory for continuity:
 - tail of memory/TRADE-LOG.md (find most recent EOD snapshot -> yesterday's
   equity, needed for Day P&L)
 - Count TRADE-LOG trade entries dated today (for "Trades today")
-- Count trades Mon-today this week (for 3/week cap)
+- Count trades Mon-today this week (for 15/week cap)
 
 STEP 2 — Pull final state of the day:
 bash scripts/alpaca.sh account
@@ -25,7 +25,7 @@ STEP 3 — Compute metrics:
 - Alpha sleeve value and % of portfolio
 - Niche sleeve value and % of portfolio
 - Trades today (list or "none")
-- Trades this week (running total vs 3/week limit)
+- Trades this week (running total vs 15/week limit)
 
 STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
 ### MMM DD — EOD Snapshot (Day N, Weekday)

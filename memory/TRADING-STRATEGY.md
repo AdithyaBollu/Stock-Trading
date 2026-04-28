@@ -29,7 +29,7 @@ High-conviction, catalyst-driven positions in sector-momentum names or high-qual
 ### Core Rules
 1. NO OPTIONS, NO ETFs — ever
 2. Max 15% of equity per alpha position
-3. Max 5 new trades per week (alpha + niche combined)
+3. Max 15 new trades per week (alpha + niche combined)
 4. 10% trailing stop GTC on every position (place immediately after fill)
 5. Cut losers at -7% manually — do not wait for the stop
 6. Tighten trail: 7% at +15%, 5% at +20%
@@ -52,7 +52,7 @@ High-conviction, catalyst-driven positions in sector-momentum names or high-qual
 - Position cost ≤ 15% of equity (≤ 10% during event-risk weeks)?
 - Stop defined 10% below entry?
 - Target ≥ **1.2:1 R:R** (lowered from 1.5:1)?
-- Total trades this week ≤ 5?
+- Total trades this week ≤ 15?
 - Total positions after trade ≤ 10?
 
 ### Exit Triggers
@@ -71,14 +71,14 @@ Asymmetric, high-conviction plays — binary catalysts, sector dislocations, sma
 2. Max 2–4 niche positions open simultaneously
 3. Require minimum **2.5:1 R:R** (lowered from 3:1) thesis documented before entry
 4. Hard stop at -10%, no exceptions, no extensions
-5. Counts toward the 5-trade/week combined limit
+5. Counts toward the 15-trade/week combined limit
 6. Examples: FDA catalyst, earnings surprise setup, macro dislocation, small-cap breakout, post-earnings drift
 
 ### Entry Checklist
 - Asymmetric thesis written out (2.5:1 R:R minimum)?
 - Position cost ≤ 10% of equity?
 - Hard stop at -10% defined?
-- Total trades this week ≤ 5?
+- Total trades this week ≤ 15?
 
 ## Earnings Focus (new)
 Every pre-market routine must surface companies reporting earnings this week and evaluate each as a potential entry/exit:

@@ -22,7 +22,7 @@ bash scripts/alpaca.sh quote <each planned ticker>
 STEP 3 — Hard-check rules BEFORE every order. Skip any trade that fails
 and log the reason:
 - Total positions after trade <= 10
-- Trades this week (alpha + niche combined) <= 5
+- Trades this week (alpha + niche combined) <= 15
 - Alpha: position cost <= 15% of equity (<= 10% during FOMC / mega-cap earnings week); 1.2:1 R:R min
 - Niche: position cost <= 10% of equity; 2.5:1 R:R thesis documented
 - Catalyst documented in today's RESEARCH-LOG

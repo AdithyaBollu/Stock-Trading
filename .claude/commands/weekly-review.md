@@ -26,7 +26,7 @@ STEP 3 — Compute the week's metrics:
 - Niche sleeve value and % of portfolio vs 20-25% target
 - S&P 500 week return:
   bash scripts/perplexity.sh "S&P 500 weekly performance week ending $DATE"
-- Trades taken this week (W/L/open) vs 3/week limit
+- Trades taken this week (W/L/open) vs 15/week limit
 - Win rate (closed trades only)
 - Best trade, worst trade
 - Profit factor (sum winners / |sum losers|)
@@ -51,7 +51,7 @@ bash scripts/discord.sh "Week ending MMM DD
 Portfolio: \$X (±X% week, ±X% phase)
 vs S&P 500: ±X%
 Alpha: \$X (X%) | Niche: \$X (X%)
-Trades: N (W:X / L:Y / open:Z) vs 3/week limit
+Trades: N (W:X / L:Y / open:Z) vs 15/week limit
 Best: SYM +X%   Worst: SYM -X%
 One-line takeaway: <...>
 Grade: <letter>"

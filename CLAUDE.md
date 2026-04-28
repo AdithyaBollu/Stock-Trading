@@ -20,7 +20,7 @@ runs per trading day plus two ad-hoc helpers.
 - Max 8 total positions.
 - Alpha: max 15% per position.
 - Niche: max 10% per position, 3:1 R:R required, hard -10% stop.
-- Max 3 new trades per week (alpha + niche combined).
+- Max 15 new trades per week (alpha + niche combined).
 - 10% trailing stop GTC on every position.
 - Cut losers at -7% manually.
 - Tighten trail to 7% at +15%, to 5% at +20%.

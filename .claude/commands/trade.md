@@ -10,7 +10,7 @@ Args: SYMBOL SHARES SIDE (buy or sell). SLEEVE (alpha/niche). If missing, ask.
 1. Pull state: account, positions, quote SYMBOL (capture ask price P).
 2. For BUY — Alpha sleeve, validate:
    - Total positions after fill <= 8
-   - Trades this week (alpha + niche combined) + 1 <= 3
+   - Trades this week (alpha + niche combined) + 1 <= 15
    - SHARES * P <= 15% of equity
    - SHARES * P <= available cash
    - daytrade_count < 3
@@ -18,7 +18,7 @@ Args: SYMBOL SHARES SIDE (buy or sell). SLEEVE (alpha/niche). If missing, ask.
    If any fail, STOP and print the failed checks.
 3. For BUY — Niche sleeve, validate:
    - Total positions after fill <= 8
-   - Trades this week (alpha + niche combined) + 1 <= 3
+   - Trades this week (alpha + niche combined) + 1 <= 15
    - SHARES * P <= 10% of equity
    - SHARES * P <= available cash
    - daytrade_count < 3
