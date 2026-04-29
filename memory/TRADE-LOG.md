@@ -47,3 +47,15 @@ No positions. No orders. Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades to
 Alpha sleeve: $2,051.98 (20.5%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 3/3 (NVDA buy, PLTR buy, MSFT round-trip Mon).
 
 **Notes:** First live equity move of the phase — both alpha names ticked down ~1.6% intraday, dragging equity from $10,029.78 to $9,997.01 (-$32.77 / -0.33%) and putting phase P&L slightly negative at -$2.99 vs the $10,000 baseline. Trailing stops untouched and well clear of price (NVDA buffer ~8.5%, PLTR ~7.3%). No new entries today; week 2 cap is exhausted at 3/3 and event-risk week (FOMC Wed + MSFT/GOOGL/META/AMZN AMC Wed) makes adds inappropriate anyway. Tomorrow: hold NVDA + PLTR through FOMC and mega-cap earnings reactions, no new positions, monitor stops only.
+
+### Apr 29 — EOD Snapshot (Day 6, Wednesday)
+**Portfolio:** $9,950.52 | **Cash:** $7,945.03 (79.8%) | **Day P&L:** -$46.49 (-0.47%) | **Phase P&L:** -$49.48 (-0.49%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| NVDA | alpha | 5 | $209.79 | $208.60 | -2.14% | -$5.95 (-0.57%) | $195.14 trail GTC (HWM $216.83) |
+| PLTR | alpha | 7 | $143.73 | $137.50 | -2.61% | -$43.64 (-4.34%) | $130.56 trail GTC (HWM $145.07) |
+
+Alpha sleeve: $2,005.49 (20.2%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 3/15 (NVDA buy, PLTR buy, MSFT round-trip Mon).
+
+**Notes:** FOMC Wed + mega-cap AMC earnings = risk-off tape; both alpha names sold ~2.4% on the session, dropping equity from $9,997.01 to $9,950.52 (-$46.49 / -0.47%) and pushing phase P&L to -$49.48 vs the $10,000 baseline. PLTR drawdown widening (-4.34% from entry, ~5.4% buffer above the $130.56 stop); NVDA still near breakeven (-0.57%, ~6.4% buffer above $195.14). Trailing stop HWMs unchanged. No entries today and none planned — week 2 sits at 3/15 but event-risk overhang (mega-cap reactions tomorrow) keeps the bar high. Tomorrow: hold both, watch mega-cap reaction tape for sector signals, cut PLTR manually if it loses ~$133.67 (-7% from entry) per rule, no new positions.
