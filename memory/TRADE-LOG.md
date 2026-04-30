@@ -69,3 +69,16 @@ Alpha sleeve: $2,005.49 (20.2%). Niche sleeve: $0 (0%). Trades today: none. Trad
 | 2026-04-30 | META | alpha | buy 1 → sell 1 | 1 | $605.38 → $604.86 | n/a (canceled) | Pre-condition for plan A entry was a gap-UP-then-pullback. META actually gapped DOWN -9.5% from $669.12 (4/29 close) to $605 open — drift thesis broken intraday (market read capex raise as margin negative). Should not have entered; reversed for -$0.52 net per "thesis broken intraday → cut immediately" rule. |
 
 **Notes / Violation log:** Plan A required a morning gap-UP followed by pullback that holds first-15-min low. GOOGL met it cleanly (+5.6% gap, $376→$370 pullback into reclaim). META did NOT — it gapped DOWN -9.5% post-AMC despite the BEAT (capex raise spooked margins). I read the intraday tightening of the spread (614.88→606.97) as a "pullback" without checking lastday_price first — it was the gap-down continuing. Reversed META within ~90 sec for ~breakeven once the gap-down direction was clear. Lesson: ALWAYS compare current price to lastday_price BEFORE assuming "gap-up" condition is met. Trades this week: 5 / 15 (NVDA buy, PLTR buy, MSFT round-trip Mon, GOOGL buy, META round-trip Thu). Open positions: 3 / 10 (NVDA, PLTR, GOOGL). Daytrade count: 3 / 5 rolling — at PDT margin, NO further day trades this rolling window. Cash: $7,205.17 (72.4%). Equity: $9,946.14.
+
+### Apr 30 — EOD Snapshot (Day 7, Thursday)
+**Portfolio:** $9,956.71 | **Cash:** $7,205.17 (72.4%) | **Day P&L:** +$6.19 (+0.06%) | **Phase P&L:** -$43.29 (-0.43%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| GOOGL | alpha | 2 | $369.67 | $384.13 | +9.77% | +$28.92 (+3.91%) | $347.26 trail GTC (HWM $385.84) |
+| NVDA | alpha | 5 | $209.79 | $199.97 | -4.44% | -$49.10 (-4.68%) | $195.14 trail GTC (HWM $216.83) |
+| PLTR | alpha | 7 | $143.73 | $140.49 | +1.83% | -$22.70 (-2.26%) | $130.56 trail GTC (HWM $145.07) |
+
+Alpha sleeve: $2,751.54 (27.6%). Niche sleeve: $0 (0%). Trades today: GOOGL buy 2 @ $369.67, META buy 1 → sell 1 (round-trip, thesis-broken cut). Trades this week: 5/15.
+
+**Notes:** New alpha entry GOOGL ripped +9.77% on the day (Q1 blowout drift) and carried the book despite NVDA selling -4.44% on AI-capex margin worries spilling over from META's reaction; equity nudged from $9,950.52 to $9,956.71 (+$6.19 / +0.06%) with phase P&L narrowing slightly to -$43.29 vs the $10,000 baseline. Stops all GTC and untouched: GOOGL ~9.6% buffer above $347.26, PLTR ~7.1% above $130.56, NVDA only ~2.4% above $195.14 — essentially at the rule -7% manual-cut zone, so the trail is the de facto exit trigger if it leaks further. Daytrade count maxed at 3/5 rolling (META round-trip burned the last slot); no further day trades possible this rolling window. Tomorrow (Friday): hold all three, watch NVDA closely and let the trail do the work if breached, monitor GOOGL drift continuation and PLTR sector tape, run weekly review at the close — no new entries (already 5/15 used and PDT-locked from intraday exits).
