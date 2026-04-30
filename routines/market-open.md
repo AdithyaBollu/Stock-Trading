@@ -57,5 +57,5 @@ bash scripts/discord.sh "<tickers, shares, fill prices, sleeve, one-line why>"
 STEP 8 — COMMIT AND PUSH (mandatory if any trades executed):
 git add memory/TRADE-LOG.md
 git commit -m "market-open trades $DATE"
-git push origin main
-Skip commit if no trades fired. On push failure: rebase and retry.
+git push origin HEAD:main
+Skip commit if no trades fired. On push failure: git fetch origin main && git rebase origin/main, then git push origin HEAD:main again.

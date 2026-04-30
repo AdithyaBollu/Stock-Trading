@@ -55,5 +55,5 @@ Tomorrow: <one-line plan>"
 STEP 6 — COMMIT AND PUSH (mandatory — tomorrow's Day P&L depends on this):
 git add memory/TRADE-LOG.md
 git commit -m "EOD snapshot $DATE"
-git push origin main
-On push failure: rebase and retry.
+git push origin HEAD:main
+On push failure: git fetch origin main && git rebase origin/main, then git push origin HEAD:main again.
