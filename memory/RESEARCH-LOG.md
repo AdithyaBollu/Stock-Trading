@@ -405,3 +405,14 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 
 ### Decision
 **TRADE-biased** — Wednesday's mega-cap AMC tape blew out the AI-capex bull thesis on every dimension (MSFT Azure supply-constrained, GOOGL Cloud +63% & backlog $460B, META capex raised $125–145B). Strategy explicitly preferences post-earnings drift over pre-earnings entries, and we now have multiple clean beat-and-raise candidates with sector tailwind and 12 trade slots remaining this week. **Plan for market-open agent**: (1) watch first 15-min tape for GOOGL — primary drift candidate — take alpha 10% entry on opening pullback that holds opening low with volume, stop -10%, target +12.5%; (2) META as TIER 2 same playbook only on pullback (no chase); (3) HOLD NVDA + PLTR untouched; (4) AVOID INTC chase (+15% another leg today), AAPL/CVX (binary AMC tonight), AMZN (data thin); (5) DEFER all entries until after 5:30 AM PST GDP/PCE/ECI prints clear if surprise hot — re-evaluate at 7:00 AM PST if whipsaw. Niche sleeve stays empty — no clean 2.5:1 R:R idea today. Patience on chase-only setups, aggressive on pullback-confirmed drift.
+
+### 2026-04-30 — Midday Addendum (12:00 PM ET, 9:00 AM PST)
+- **Positions:** GOOGL 2 sh @ $369.67 → $374.95 (+1.43%, +$10.56) | NVDA 5 sh @ $209.79 → $200.44 (-4.46%, -$46.75) | PLTR 7 sh @ $143.73 → $138.84 (-3.40%, -$34.25). Equity ~$9,929 (-$71 from baseline).
+- **Stops intact:** GOOGL $340.41 (HWM $378.23) | NVDA $195.14 (HWM $216.83, ~2.6% buffer — tight) | PLTR $130.56 (HWM $145.07, ~6.0% buffer)
+- **No -7% cuts:** worst is NVDA at -4.46%, PLTR at -3.40% — both within rule
+- **No tightens:** no winner ≥+15% (best is GOOGL at +1.43%)
+- **NVDA weakness check via Perplexity:** no specific intraday catalyst surfaced; consistent with broader "settling into valuations" / SOX-mean-reversion narrative flagged pre-market. Hyperscaler AI-capex thesis still intact (MSFT/GOOGL/META Wed prints). Hold; manual cut trigger remains $195.14 stop / -7% at $195.10. Watch close
+- **PLTR:** drift entry working sideways pre-Mon AMC; $133.67 (-7%) cut threshold ~3.7% below current. Hold into print
+- **GOOGL drift:** working as planned (+1.43%); first leg of post-earnings drift confirmed
+- **Sleeve balance:** Alpha $2,724 / $9,929 = 27.4% (vs 70-75% target) | Niche $0 (vs 20-25%) | Cash ~73%. Under-deployed by design — event-week posture pre-AAPL/CVX AMC + pre-NFP Fri; not drift, not flagged
+- **Action:** none. No Discord notification triggered
