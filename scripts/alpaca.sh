@@ -34,6 +34,16 @@ quote)
 sym="${1:?usage: quote SYM}"
 curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/quotes/latest"
 ;;
+snapshot)
+sym="${1:?usage: snapshot SYM}"
+curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/snapshot"
+;;
+bars)
+sym="${1:?usage: bars SYM [TIMEFRAME] [LIMIT]}"
+tf="${2:-1Min}"
+limit="${3:-30}"
+curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/bars?timeframe=$tf&limit=$limit"
+;;
 orders)
 status="${1:-open}"
 curl -fsS -H "$H_KEY" -H "$H_SEC" "$API/orders?status=$status"
