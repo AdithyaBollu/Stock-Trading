@@ -416,3 +416,105 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 - **GOOGL drift:** working as planned (+1.43%); first leg of post-earnings drift confirmed
 - **Sleeve balance:** Alpha $2,724 / $9,929 = 27.4% (vs 70-75% target) | Niche $0 (vs 20-25%) | Cash ~73%. Under-deployed by design — event-week posture pre-AAPL/CVX AMC + pre-NFP Fri; not drift, not flagged
 - **Action:** none. No Discord notification triggered
+
+## 2026-05-01 — Pre-market Research (Friday — post AAPL/AMZN AMC, ISM Mfg PMI day, last day Week 2)
+### Account
+- Equity: $9,966.88 (last_equity 9,946.38, premkt +$20.50 / +0.21%)
+- Cash: $7,205.16 (72.3%)
+- Buying power: $17,172.04 (regt) / $7,205.16 non-marginable
+- Daytrade count: 2 / 5 rolling (META round-trip Thu, MSFT round-trip Mon — adequate room for 1 more day trade)
+- Sleeve status: Alpha $2,761.72 (27.7%), Niche $0 (0%), Cash 72.3%
+- Trades this week: 5 / 15 used (NVDA buy, PLTR buy, MSFT round-trip Mon, GOOGL buy, META round-trip Thu) → 10 slots remaining
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last (premkt) | P&L | Trail Stop GTC | HWM | Buffer |
+|--------|--------|--------|-------|---------------|-----|----------------|-----|--------|
+| GOOGL | alpha | 2 | $369.67 | $383.27 | +$27.20 (+3.68%) | $347.256 (10%) | $385.84 | ~9.4% |
+| NVDA | alpha | 5 | $209.79 | $200.88 | -$44.55 (-4.25%) | $195.1425 (10%) | $216.825 | ~2.9% (tight) |
+| PLTR | alpha | 7 | $143.73 | $141.54 | -$15.35 (-1.53%) | $130.563 (10%) | $145.07 | ~7.7% |
+
+### Market Context
+- **AAPL Q2 BLOWOUT (4/30 AMC):** Rev $111.2B (+17% YoY, beat $109.5B), EPS $2.01 (+22% YoY, beat $1.93), **iPhone $56.99B (March-qtr RECORD)**, Services $30.98B (all-time high), op cash flow >$28B (March-qtr record), **$100B share repurchase auth**. Crushed the print on every line.
+- **AMZN AWS +28% (4/29 AMC):** AWS rev $37.6B = **fastest AWS growth in 15 quarters** (best since 2022). Total rev $181.5B (+17%), EPS $2.78 (vs $1.60 cons — note: $16.8B Anthropic gain inflated EPS, op income $23.9B is the cleaner read). MS sees AWS 29-31% range trending ~30% rest of 2026. Detail confirms hyperscaler tape.
+- **CVX Q1 (4/30 AMC):** result not yet broadly reported in feeds; pre-print 8-K flagged $2.7-3.7B negative timing + $2-4B working-capital outflow. Skip drift consideration until result confirmed.
+- **Today (Fri 5/1) data:** S&P Global Mfg PMI Final 6:45 AM PST + **ISM Manufacturing PMI 7:00 AM PST**. **NFP IS NEXT WEEK 5/8** (correction vs prior log) — much lighter event tape than expected.
+- **WTI ~$105 / Brent ~$110-111** — UAE OPEC+ withdrawal + Hormuz tensions persisting; oil clearly elevated regime. Energy sector +22% YTD leader.
+- **ES futures: 7,255-7,259, +0.10-0.21% premkt** — risk-on bias going into Mag-7 finale.
+- **VIX: ~18.68 open Thu, May futures 20.25** — sub-19 calm regime persists; no fear into weekend.
+- **Sector momentum:** Energy leads YTD (+22%); Tech "lagging/cooling" headlines but mega-cap AI-capex tape (MSFT Azure +40%, GOOGL Cloud +63%, META capex $125-145B, AMZN AWS +28%) is the bullish counter — Mag-7 carrying the index. Industrials/Materials breadth-leading per rotation maps. SOX bounced +2% Thu after -3% Wed.
+- **INTC 4/30 close ~$94-100 zone** (+12% Thu on AI-capex narrative) — extreme rip continues; chase risk extreme.
+- Currently-held news:
+  - **NVDA $200.88 close** — held into general SOX rotation; thesis unchanged but stock at -4.25% from entry, only ~2.9% buffer above $195.14 trail. Watch close. Cons 12-mo target $222-275 implies meaningful upside; near 52-wk high $212.
+  - **GOOGL $383.27 close** — drift working (+3.68%); BofA raised PT to $430. Hold runner.
+  - **PLTR $141.54 close** — Q1 reports Mon 5/4 AMC. Implied move ±13.3%, historical PEAD drift -18.9%. Watch for pre-print run-up.
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Result / Stance |
+|-----|--------|---------|-----------------|
+| Wed 4/29 | MSFT | AMC | BEAT — Azure +40%. Same-name PDT cost still elevates entry; skip |
+| Wed 4/29 | GOOGL | AMC | BIG BEAT — Cloud +63%. **HELD, +3.68%** drift working |
+| Wed 4/29 | META | AMC | BEAT but gap-down -9.5% Thu open (capex spook). Round-trip cut Thu. Skip |
+| Wed 4/29 | AMZN | AMC | BEAT — **AWS +28% confirmed**. POST-DRIFT CANDIDATE today |
+| Wed 4/29 | FOMC | — | Held 3.50-3.75%, easing bias |
+| Thu 4/30 | **AAPL** | AMC | **BLOWOUT — iPhone record, $100B buyback**. **PRIMARY DRIFT CANDIDATE** today |
+| Thu 4/30 | **CVX** | AMC | Result thin in feeds; SKIP until confirmed |
+| Fri 5/1 | ISM Mfg PMI | data | 7 AM PST — whipsaw risk first 30 min |
+| Mon 5/4 | **PLTR** (held) | AMC | HELD into print. Plan: ride drift Fri, decide trim Mon close |
+| Mon 5/4 | BRK.B, NCLH | mixed | Not on watchlist |
+
+### Tech/Semi Watchlist (4/30 close + premkt where fresh)
+| Ticker | Last/Bid | Setup | Note |
+|--------|----------|-------|------|
+| INTC | bid $94.4 / ask $100.02 (wide) | CHASE — extreme | +12% another leg Thu on AI-capex narrative; +50% in 7 sessions. Saturday $76-78 retest plan dead. NO ENTRY |
+| NVDA | $200.88 (held @ $209.79) | NEUTRAL/HOLD | -4.25% from entry, ~2.9% above trail; thesis intact via hyperscaler capex confirmations. NO ADD (sized 10.49% > 10% cap) |
+| AMD | bid $331 / ask $366 (wide) | EXTENDED | SOX overbought; no edge |
+| AVGO | bid $395 / ask $437 (wide) | EXTENDED | 184% premium; AVOID |
+| MRVL | $155.32 bid | NEUTRAL | No catalyst |
+| TSM | $334-446 (wide, unreliable) | SKIP | Quote noise |
+| MU | $102.89 bid | NEUTRAL | No edge |
+| QCOM | $170.63 bid | NEUTRAL | Reported Wed; no follow-up |
+| ARM | bid $179 / ask $241 (wide) | NEUTRAL | Skip — wide |
+| SMCI | $26.11 bid | WEAK | Below threshold |
+| ASML | bid $1,250 / ask $1,550 (wide) | NEUTRAL | No catalyst |
+| GOOGL | $383.27 (held @ $369.67) | DRIFT WORKING | Hold, no add |
+| META | bid $588 / ask $651 (wide) | DRIFT INVALIDATED | -9.5% gap-down post-print Thu; thesis reset, skip |
+| MSFT | bid $382 / ask $416 (wide) | DRIFT CANDIDATE — pass | Same-name PDT cost; pass for cleaner names |
+| AMZN | $248.79 bid | **POST-DRIFT — TIER 2 CANDIDATE** | AWS +28% (best in 15 qtrs); $16.8B Anthropic gain optically inflates EPS. Pullback entry only |
+| AAPL | $271 bid | **POST-DRIFT — PRIMARY CANDIDATE** | iPhone record + $100B buyback + Services ATH. Pullback-on-reclaim entry per playbook |
+| CVX | bid $181 / ask $201 (wide) | EVENT — SKIP | Result thin; no drift edge today |
+
+### Trade Ideas
+1. **AAPL — Alpha sleeve, post-earnings drift (PRIMARY)**
+   - Catalyst: blowout Q2 — rev $111.2B (+17%), EPS $2.01 (+22%), iPhone $56.99B (March-qtr record), Services $30.98B (ATH), $100B buyback. Cleanest mega-cap beat-and-raise this week.
+   - Entry plan A (preferred — pullback): morning gap-up, first-15-min pullback that holds opening low → enter on reclaim with volume. **Verify lastday_price < current premkt before assuming gap-up** (META lesson).
+   - Entry plan B (continuation): break above premkt high after first 15 min if holds with volume.
+   - Position size: 10% equity = ~$1,000 (AAPL ~$280 → 3-4 shares). Friday/weekend overnight risk → keep at 10% cap.
+   - Stop: -10% trail GTC; manual cut at -7%.
+   - Target: +12.5% (R:R 1.25:1) — clears alpha 1.2:1 bar.
+   - Risk: AAPL prints often "sell-the-news" despite beats; ISM PMI whipsaw 7 AM PST; weekend gap risk.
+2. **AMZN — Alpha sleeve, post-earnings drift (TIER 2)**
+   - Catalyst: AWS +28% (best in 15 qtrs), op income $23.9B beat, MS expects 30% AWS run-rate continuing.
+   - Caveat: $16.8B Anthropic gain inflates headline EPS — market may discount once parsed. Wait for clean pullback, no chase.
+   - Entry: pullback-on-reclaim only after first 15 min; size 10% (~$1,000 = 4 shares at ~$249).
+   - Stop -10% trail GTC, target +12.5% R:R 1.25:1.
+   - Risk: AWS comp tough through 2026; valuation already extended; CVX/oil risk-off pivot Friday.
+3. **GOOGL — Hold, no add.** +3.68% drift working; never add into a runner. Trail does the work.
+4. **NVDA — Hold, watch closely.** Buffer to trail only ~2.9%. If breaks $200 with volume + no hyperscaler counter-bid, manual cut at $195.10 (-7%) approaches. No add.
+5. **PLTR — Hold into Mon AMC.** -1.53%, drift window 5/1; cut threshold $133.67 (-7%) sits ~5.6% below current. No add — pre-earnings entry already on the books.
+6. **META — Skip.** Capex-spook gap-down Thu invalidated drift thesis; one-day round-trip already burned a slot.
+7. **INTC — Skip.** +50% in 7 sessions; chase trap. Document missed setup, move on.
+8. **CVX / energy** — Skip until result clarified; oil-sensitive, weekend gap risk Friday.
+9. **No niche idea clears 2.5:1 R:R** — drift plays sit in alpha sleeve.
+
+### Risk Factors
+- **ISM Mfg PMI 7 AM PST** — sub-50 print or hot prices-paid could whipsaw tape first 30 min; defer entries until 7:30 AM PST if surprise.
+- **Friday weekend overnight risk** — Hormuz/oil escalation possible; size at 10% cap is the right respect.
+- **Mag-7 finale tape** — entire AI-capex story now priced; risk that "everyone bought the news" and Friday becomes a profit-take session despite blowouts.
+- **NVDA buffer ~2.9% above trail** — single bad print or downgrade triggers stop. Consider manual cut at $195.10 if breaks $200 with no bid.
+- **AMZN $16.8B Anthropic gain** — once analysts strip out, headline EPS narrative can fade.
+- **AAPL PEAD history mixed** — large beats sometimes muted; don't chase, demand the pullback-confirmation signal.
+- **Daytrade count 2/5** — adequate slot for one defensive day-cut; do not waste on a third round-trip.
+- **Sleeve under-deployment** — Alpha at 27.7% vs 70-75% target; today is the right risk session to push deployment IF the setup confirms (post-earnings drift is highest-quality entry on the calendar). Don't force.
+
+### Decision
+**TRADE-biased** — Two clean post-earnings-drift candidates remain: AAPL (primary — iPhone record + $100B buyback + Services ATH) and AMZN (tier-2 — AWS +28% best in 15 quarters). Mega-cap AI-capex tape is fully confirmed across MSFT/GOOGL/META/AMZN/AAPL after this week's prints; sector tailwind real. **Plan for market-open agent**: (1) wait for ISM Mfg PMI 7 AM PST to clear; (2) AAPL — alpha 10% entry on premkt-gap-up + first-15-min pullback that holds opening low with volume reclaim — stop -10% trail GTC, target +12.5%; **explicitly compare current to lastday_price before assuming gap-up** (META lesson); (3) AMZN — same playbook, only on pullback (no chase) — wait for headline-EPS Anthropic-gain to fade in tape; (4) HOLD GOOGL/NVDA/PLTR — no adds; (5) NVDA close-watch trigger: if $200 breaks with no bid, manual cut at $195.10; (6) AVOID META/INTC/CVX. Niche sleeve stays empty — no 2.5:1 R:R idea clears today. Friday-weekend overnight risk respected at 10% sizing cap.
