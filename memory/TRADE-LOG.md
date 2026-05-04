@@ -129,3 +129,16 @@ Alpha sleeve: $3,610.82 (36.2%). Niche sleeve: $0 (0%). Trades today: AAPL buy 3
 - Sleeve under-deployed (alpha 26.3% vs 70-75% target) — intentional ahead of PLTR AMC binary tonight; plan unchanged from pre-market HOLD bias.
 
 **Notes:** NVDA exit lands at -7.04% — within rule (10% trail GTC), Friday close already flagged this as the de facto exit if Monday opened weak. Realized -$73.81 brings phase P&L from premkt -$10.46 to -$65.79. AMZN watchlist entry from premkt didn't trigger (no first-15-min pullback-on-reclaim setup confirmed); skip for today, revisit Tue. PLTR AMC print tonight remains the dominant event — no adds/trims pre-print, position sized 10.3% of equity is within tolerance for the binary. Daytrade count drops to 1/5 (NVDA was a multi-day hold, not a day trade). Plan into close: HOLD AAPL/GOOGL/PLTR, monitor PLTR tape into 1 PM PST close, EOD agent will log full snapshot + PLTR earnings reaction handling plan.
+
+### May 04 — EOD Snapshot (Day 9, Monday)
+**Portfolio:** $9,951.37 | **Cash:** $7,326.08 (73.6%) | **Day P&L:** -$10.39 (-0.10%) | **Phase P&L:** -$48.63 (-0.49%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $276.65 | -1.25% | -$24.27 (-2.84%) | $258.498 trail GTC (HWM $287.22) |
+| GOOGL | alpha | 2 | $369.67 | $382.65 | -0.79% | +$25.96 (+3.51%) | $348.642 trail GTC (HWM $387.38) |
+| PLTR  | alpha | 7 | $143.73 | $147.28 | +2.23% | +$24.83 (+2.47%) | $134.658 trail GTC (HWM $149.62) |
+
+Alpha sleeve: $2,625.29 (26.4%). Niche sleeve: $0 (0%). Trades today: NVDA stop-out (sell 5 @ $195.028, realized -$73.81). Trades this week: 1/15 (NVDA exit).
+
+**Notes:** Week 3 opens close to flat on the day (-$10.39 / -0.10%) despite the NVDA trail firing at the open for a -$73.81 realized loss — PLTR's +2.23% pre-earnings ramp and GOOGL holding above $382 absorbed most of the drag, AAPL leaked another -1.25% on no fresh news. Phase P&L narrows slightly to -$48.63 vs the $10,000 baseline. Stops untouched: GOOGL ~9.6% buffer above $348.642, PLTR ~8.6% above $134.658, AAPL ~6.6% above $258.498. The dominant overnight event is **PLTR Q1 earnings AMC tonight** — position is 10.4% of equity (slight overage vs 10% niche/event cap, but PLTR is in the alpha sleeve where the cap is 15%, so within rule). Binary outcomes plan: (a) gap-up + drift → HOLD, let GOOGL-style PEAD play out, no adds same session; (b) gap-down -7%+ → manual cut at open per rule (do NOT wait for trail at $134.658 which is -8.5% from current); (c) modest move ±3% → HOLD and reassess midday. Daytrade count 1/5 rolling. AMZN remains on watchlist for Tue if pullback-on-reclaim setup forms; sleeve under-deployed at 26.4% but no rush to chase. Tomorrow: handle PLTR earnings reaction first thing, monitor AAPL for thesis-break (PEAD failing → consider trim), let GOOGL drift continue.
