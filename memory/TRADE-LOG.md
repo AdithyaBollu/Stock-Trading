@@ -103,3 +103,29 @@ Alpha sleeve: $2,751.54 (27.6%). Niche sleeve: $0 (0%). Trades today: GOOGL buy 
 Alpha sleeve: $3,610.82 (36.2%). Niche sleeve: $0 (0%). Trades today: AAPL buy 3 @ $284.74. Trades this week: 6/15 (NVDA buy, PLTR buy, MSFT round-trip Mon, GOOGL buy, META round-trip Thu, AAPL buy).
 
 **Notes:** Week 2 closes green on the day (+$5.05 / +0.05%) but still red on the phase (-$38.24 / -0.38% vs $10,000 baseline). New AAPL drift entry pulled back from gap-up open and finished -1.63% from cost ($280.11 close vs $284.74 fill, HWM $287.22 already booked → trail at $258.50). PLTR rallied +3.48% on the day (+$33.88 intraday) to flip green at +0.15% from entry, GOOGL drift continued (+0.14% day, +4.23% from entry), NVDA leaked another -0.57% to -5.41% with only ~1.7% buffer above the $195.14 stop — the trail is the de facto exit if Monday opens weak. Daytrade count 3/5 rolling (drops to 2 Mon, 0 Tue), cash $6,350.94 (63.8%), alpha sleeve 36.2%, niche still empty. 6/15 weekly trades used. Mon: weekly review will close out Week 2 grading; no new entries planned over the weekend, watch NVDA pre-market for stop-trigger and let GOOGL/AAPL drift run their course.
+
+## 2026-05-04 — Midday Scan (Week 3 Day 1, Monday)
+
+**Stop-outs (closed since Friday EOD):**
+| Date | Ticker | Sleeve | Side | Shares | Entry | Exit | Realized P&L | Reason |
+|------|--------|--------|------|--------|-------|------|--------------|--------|
+| 2026-05-04 | NVDA | alpha | sell (trail GTC fill) | 5 | $209.79 | $195.028 | -$73.81 (-7.04%) | 10% trailing stop GTC triggered 8:21 AM PST as HWM $216.825 stop $195.1425 was hit on Monday open weakness — system exit per rule |
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $275.75 | -1.57% | -$26.97 (-3.16%) | $258.498 trail GTC (HWM $287.22) |
+| GOOGL | alpha | 2 | $369.67 | $381.50 | -1.09% | +$23.66 (+3.20%) | $348.642 trail GTC (HWM $387.38) |
+| PLTR  | alpha | 7 | $143.73 | $145.70 | +1.13% | +$13.77 (+1.37%) | $134.658 trail GTC (HWM $149.62) |
+
+**Equity:** $9,934.21 | **Cash:** $7,326.08 (73.7%) | **Day P&L:** -$29.27 (-0.29%) | **Phase P&L:** -$65.79 (-0.66%)
+**Alpha sleeve:** $2,608.13 (26.3%). **Niche sleeve:** $0 (0%). **Trades this week:** 1 / 15 (NVDA exit). **Open positions:** 3 / 10. **Daytrade count:** 1 / 5 rolling.
+
+**Midday actions taken:**
+- NVDA stop-out logged (trail fired at open per Friday plan). No manual intervention required — system exit clean.
+- No -7% manual cuts: AAPL -3.16% (above threshold), GOOGL +3.20% (winner), PLTR +1.37% (winner).
+- No stop tightening: no winner ≥ +15% (GOOGL +3.20% strongest).
+- No thesis breaks: GOOGL drift intact, AAPL PEAD intact (60-day window), PLTR pre-print ramp intact (AMC tonight).
+- Sleeve under-deployed (alpha 26.3% vs 70-75% target) — intentional ahead of PLTR AMC binary tonight; plan unchanged from pre-market HOLD bias.
+
+**Notes:** NVDA exit lands at -7.04% — within rule (10% trail GTC), Friday close already flagged this as the de facto exit if Monday opened weak. Realized -$73.81 brings phase P&L from premkt -$10.46 to -$65.79. AMZN watchlist entry from premkt didn't trigger (no first-15-min pullback-on-reclaim setup confirmed); skip for today, revisit Tue. PLTR AMC print tonight remains the dominant event — no adds/trims pre-print, position sized 10.3% of equity is within tolerance for the binary. Daytrade count drops to 1/5 (NVDA was a multi-day hold, not a day trade). Plan into close: HOLD AAPL/GOOGL/PLTR, monitor PLTR tape into 1 PM PST close, EOD agent will log full snapshot + PLTR earnings reaction handling plan.
