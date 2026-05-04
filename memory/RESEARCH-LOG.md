@@ -518,3 +518,98 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 
 ### Decision
 **TRADE-biased** — Two clean post-earnings-drift candidates remain: AAPL (primary — iPhone record + $100B buyback + Services ATH) and AMZN (tier-2 — AWS +28% best in 15 quarters). Mega-cap AI-capex tape is fully confirmed across MSFT/GOOGL/META/AMZN/AAPL after this week's prints; sector tailwind real. **Plan for market-open agent**: (1) wait for ISM Mfg PMI 7 AM PST to clear; (2) AAPL — alpha 10% entry on premkt-gap-up + first-15-min pullback that holds opening low with volume reclaim — stop -10% trail GTC, target +12.5%; **explicitly compare current to lastday_price before assuming gap-up** (META lesson); (3) AMZN — same playbook, only on pullback (no chase) — wait for headline-EPS Anthropic-gain to fade in tape; (4) HOLD GOOGL/NVDA/PLTR — no adds; (5) NVDA close-watch trigger: if $200 breaks with no bid, manual cut at $195.10; (6) AVOID META/INTC/CVX. Niche sleeve stays empty — no 2.5:1 R:R idea clears today. Friday-weekend overnight risk respected at 10% sizing cap.
+
+## 2026-05-04 — Pre-market Research (Monday — Week 3 Day 1, PLTR earnings AMC tonight)
+### Account
+- Equity: $9,989.54 (last_equity 9,963.48, premkt +$26.06 / +0.26%)
+- Cash: $6,350.94 (63.6%)
+- Buying power: $16,340.48 (regt) / $6,350.94 non-marginable
+- Daytrade count: 1 / 5 rolling (drops further later this week — 2 round-trips age out)
+- Sleeve status: Alpha $3,638.60 (36.4%), Niche $0 (0%), Cash 63.6%
+- Trades this week (Week 3): 0 / 15 used (full reset Mon)
+- Phase P&L: -$10.46 (-0.10%) vs $10,000 baseline (recovered from -$38.24 Friday close on premkt mark-up)
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last (premkt) | P&L | Trail Stop GTC | HWM | Buffer |
+|--------|--------|--------|-------|---------------|-----|----------------|-----|--------|
+| AAPL  | alpha | 3 | $284.74 | $279.00  | -$17.22 (-2.02%) | $258.498 (10%) | $287.22  | ~7.4% |
+| GOOGL | alpha | 2 | $369.67 | $386.16  | +$32.98 (+4.46%) | $348.0615 (10%) | $386.735 | ~9.9% |
+| NVDA  | alpha | 5 | $209.79 | $199.17  | -$53.08 (-5.06%) | $195.1425 (10%) | $216.825 | ~2.0% (TIGHT) |
+| PLTR  | alpha | 7 | $143.73 | $147.63  | +$27.28 (+2.71%) | $131.796 (10%) | $146.44  | ~10.7% |
+
+### Market Context
+- **PLTR Q1 (held) reports tonight AMC** — consensus rev $1.541B (+75% YoY), EPS jump ~115% YoY; Wall Street moderately bullish, expecting guide raise toward 80%+ growth. Implied move ±13.3%, historical PEAD drift ~-18.9% on prior prints (mixed). Stock at $147.63 premkt = +2.47% from Friday close $144.07 (pre-earnings ramp working). Plan: HOLD into print, don't add, decide trim/hold based on guide.
+- **AAPL post-print drift:** Q2 blowout ($111.2B rev +17%, EPS $2.01 +22%, iPhone record, Services ATH, $100B buyback). Friday +3% then pulled back to $280.11 close; premkt $279. 12-quarter AAPL average drift +5.3%. Resistance $288.51 / support $275.93. We hold 3 sh @ $284.74 → currently -2.02%, ~7.4% above trail. PEAD setup intact but underwater.
+- **GOOGL post-print drift:** Q1 blowout (rev $109.9B +22%, Cloud +63%, backlog $462B), gapped +9.96% to $384.80 last Thu. Held +4.46% from entry; BofA PT raised to $430. Stock at $386.16 premkt — drift continuing.
+- **WTI ~$104, Brent unconfirmed** — May contract +2.08% on day; oil regime stays elevated. Energy XLE +22% YTD = clear sector leader.
+- **ES futures:** ESM26 ~7,265, +0.10-0.23% premkt — mild risk-on.
+- **VIX:** ~16.89 last reported (April), no spike data; sub-19 calm regime continues.
+- **Today's data:** Manufacturing/Shipments/Inventories/Orders 7:00 AM PST (10 AM ET). Light data day. **NFP this Friday 5/8.** CPI Tue 5/12, PPI Wed 5/13.
+- **Sector momentum YTD 2026 (S&P sector dashboard):**
+  - LEADERS: Energy +22.34%, Staples +15.97%, Materials +15.67%, Industrials +11.92%
+  - LAGGARDS: Tech XLK -3.83%, Financials -5.7%, Discretionary -4.62%, Comm Services -0.89%
+  - Implication: our book is overweight Tech/Comm names (laggard YTD) on the post-earnings-drift bull case. Mega-cap AI-capex names (GOOGL, AAPL) are carrying the index DESPITE XLK weakness — drift thesis remains intact, but be aware sector tape is not a tailwind.
+- **Held-ticker news:**
+  - NVDA: BofA flagging dividend-raise potential (0.5–1.0% yield) as next catalyst; no specific intraday news. -5.06% from entry, only ~2.0% buffer to trail. **Stop is the de facto exit if Monday opens weak.**
+  - GOOGL: drift continuation post-Q1 blowout, ATH set; analyst PTs lifted (BofA $430).
+  - AAPL: drift slightly stalled ($280 close vs $287.22 HWM), structural floor from $100B buyback + iPhone strength; analysts still constructive.
+  - PLTR: pre-earnings ramp into AMC print tonight.
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| **Mon 5/4** | **PLTR** (held) | AMC | **HELD** — pre-earnings drift +2.71%; let print run, no trim before close |
+| Mon 5/4 | NCLH, BRK.B | mixed | Not on watchlist |
+| Tue 5/5 | (JOLTS data 7 AM PST, ISM Non-Mfg) | data | First-30-min whipsaw risk |
+| Tue 5/5 | F, RIVN, AMD?, SMCI? | mixed | AMD/SMCI not yet confirmed for this week — verify pre-bell |
+| Wed 5/6 | **ARM** | AMC | Q4 FY26; cons EPS $0.54, rev $1.47B; Armv9 royalty story. PRE-EARNINGS SETUP candidate IF clean tech base + bullish guide trend |
+| Wed 5/6 | DIS | AMC | Not on watchlist |
+| Wed 5/6 | (Initial Claims 5:30 AM PST, Productivity prelim) | data | |
+| Thu 5/7 | (no top tier on watchlist) | — | |
+| **Fri 5/8** | **NFP April 5:30 AM PST** | data | **Major event** — sizing must respect overnight tape |
+
+### Tech/Semi Watchlist (Friday close + premkt approximate from quotes)
+| Ticker | Last (~mid/close) | Setup | Note |
+|--------|------------------|-------|------|
+| INTC  | ~$92 (bid 84.71 / ask 99.50) | CHASE / EXTENDED | Saturday $76-78 retest plan dead; +50% multi-week rip; NO ENTRY |
+| NVDA  | $199.17 (held @ $209.79) | NEUTRAL/HOLD | -5.06% from entry, only ~2.0% above trail; BofA dividend catalyst not actionable. NO ADD |
+| AMD   | ~$357 (bid only) | NEUTRAL | No fresh catalyst; SOX overbought concern; skip |
+| AVGO  | ~$415 (wide spread) | EXTENDED | Premium very high; AVOID |
+| MRVL  | ~$157 | NEUTRAL | No catalyst |
+| TSM   | $346–458 (very wide) | SKIP | Quote noise unreliable |
+| MU    | $102.89 | NEUTRAL | No edge |
+| QCOM  | $170.24 | NEUTRAL | Reported last week; no follow-up |
+| ARM   | $182.72 | **PRE-EARNINGS WATCH** | Reports Wed 5/6 AMC. Royalty story strong (Armv9 +27% Q3). Decide entry only if base holds + sector tape flat — pre-earnings size 10% cap. Default = WAIT, evaluate Wed pre-bell |
+| SMCI  | $27.06 | WEAK | Below threshold, skip |
+| ASML  | ~$1,420 (1360/1480) | NEUTRAL | No specific catalyst |
+| AAPL  | $279.00 (held @ $284.74) | DRIFT — UNDERWATER | -2.02% from entry; PEAD avg +5.3% history. Hold the trail — the drift can still play out 60-day window |
+| GOOGL | $386.16 (held @ $369.67) | DRIFT WORKING | +4.46%; BofA PT $430. Hold runner, no add |
+| PLTR  | $147.63 (held @ $143.73) | DRIFT INTO PRINT | Reports tonight AMC. HOLD; do not trim pre-print |
+| AMZN  | ~$271 (257.65/284.37) | POST-DRIFT — TIER 2 watchlist | AWS +28% confirmed; pullback-on-reclaim only. Friday plan unfilled (HOD chase); revisit Mon |
+| META  | ~$614 (583.41/645.01) | DRIFT INVALIDATED | Capex spook gap-down; skip |
+| MSFT  | ~$403 (392.01/414.50) | NEUTRAL | Same-name PDT cost prior; pass |
+
+### Trade Ideas
+1. **HOLD POSTURE — no Monday open entries.** PLTR earnings tonight AMC dominates the session; no rationale to add to PLTR or open a new alpha pre-print. NVDA buffer ~2.0% means the trail is the de facto exit if it leaks; do not double down. AAPL drift still has 60-day runway — let trail do the work.
+2. **AMZN — Alpha sleeve, post-earnings drift (tier-2, watchlist).**
+   - Catalyst: AWS +28% best in 15 quarters (Q1 print 4/29 AMC). Headline EPS optically inflated by $16.8B Anthropic gain — clean read is op income $23.9B beat.
+   - Entry: only on first-15-min pullback that holds opening low with volume reclaim. NO chase. Verify lastday_price < current premkt before assuming gap-up.
+   - Size: 10% equity (~$1,000 = ~3-4 sh at ~$271). Stop -10% trail GTC. Target +12.5% R:R 1.25:1.
+   - Risk: Anthropic-gain fade, AWS comp tougher rest of 2026, sector laggard tape (Comm/Tech XLK -3.83%/-0.89% YTD).
+3. **AAPL — Alpha sleeve, ADD candidate (declined).** Already 3 sh @ $284.74; adding into a -2% underwater position with no fresh catalyst = bad R:R. NO ADD.
+4. **ARM — Pre-earnings watch (Wed 5/6 AMC).** Royalty momentum strong (Armv9 +27%); $250 PT scenario floated. Default = WAIT through pre-market Wed; only enter if (a) clean technical base, (b) sector tape flat-to-up, (c) we have <8 positions, (d) pre-earnings size 10% cap respected, (e) no close-to-print full-position entries (binary risk). Most likely outcome: drift entry post-print Thu morning if clean beat+raise.
+5. **NVDA add?** NO — already 10.49% sized (over 10% Friday rule but pre-existing position), -5.06% from entry; thesis intact via hyperscaler capex confirmations but adding into weakness with thin trail buffer = bad sizing math.
+6. **INTC** — chase trap; NO entry.
+7. **No niche idea clears 2.5:1 R:R bar today** — drift plays don't generate +25% targets; PLTR earnings binary tonight makes any niche entry today inappropriate.
+
+### Risk Factors
+- **PLTR earnings AMC tonight (held position):** implied move ±13.3%; possible -10% to -15% gap-down on a guide miss puts position from +2.71% to -10% to -13% overnight. Hard cut threshold $133.67 (-7%) sits ~9.5% below current; trail $131.796 (-10%) ~10.7% below. Position sized 10.34% equity = within rule. If gaps below trail at the open, sell on reopen.
+- **NVDA tight buffer (~2.0% above trail):** Monday open weak + any sector mean-reversion = stop trigger. Acceptable per rule (10% trail GTC = the system; let it work).
+- **Sector divergence:** Tech XLK YTD -3.83% vs Energy +22.34% — our book is overweight the laggard sector via mega-cap drift. Drift thesis still works name-by-name (GOOGL, AAPL) but no broader sector tailwind to lean on.
+- **Friday 5/8 NFP:** size any new entry today/Tue with overnight risk in mind; prefer post-data Friday entries if setups available.
+- **ARM Wed AMC binary:** if entered pre-print, full event-risk size cap (10%); if entered post-print drift, normal alpha sizing.
+- **Daytrade count 1/5 rolling** — adequate room, but conserve the slot in case a defensive cut is needed (NVDA at trail).
+- **Sleeve under-deployment** — Alpha at 36.4% vs 70-75% target. Patience is fine here: PLTR print tonight is the dominant event; no reason to push deployment before it clears.
+
+### Decision
+**HOLD-biased with one watchlist entry conditional** — Mondays before a held-position earnings print (PLTR AMC tonight) are not the right day to push net-new capital deployment unless a clean post-drift setup confirms with volume in the first 30 min. **Plan for market-open agent**: (1) wait through 7 AM PST Mfg/Orders data; (2) HOLD all 4 positions — no adds, no trims; (3) AMZN — TIER-2 watchlist only; enter ONLY on first-15-min pullback that holds opening low with volume reclaim, gap-up confirmed via lastday_price compare (META lesson), 10% size, -10% trail, +12.5% target; SKIP if it opens flat-to-down or chases the HOD; (4) NVDA close-watch — if $195.14 trail triggers, accept the stop; if $200 breaks with weak bid pre-stop, manual cut at $195.10 per rule; (5) AAPL/GOOGL/PLTR — let the drifts run, no action; (6) AVOID INTC, META, AMD, AVGO, ASML, ARM (Wed binary), SMCI; (7) Niche sleeve stays empty — no 2.5:1 R:R idea today. Save trade slots for: (a) AMZN if it confirms Mon, (b) ARM post-print Thu if clean beat, (c) PLTR add only on a clean beat-and-raise gap-up Tue. Patience over forced deployment.
