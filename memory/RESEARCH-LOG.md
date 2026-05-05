@@ -613,3 +613,101 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 
 ### Decision
 **HOLD-biased with one watchlist entry conditional** — Mondays before a held-position earnings print (PLTR AMC tonight) are not the right day to push net-new capital deployment unless a clean post-drift setup confirms with volume in the first 30 min. **Plan for market-open agent**: (1) wait through 7 AM PST Mfg/Orders data; (2) HOLD all 4 positions — no adds, no trims; (3) AMZN — TIER-2 watchlist only; enter ONLY on first-15-min pullback that holds opening low with volume reclaim, gap-up confirmed via lastday_price compare (META lesson), 10% size, -10% trail, +12.5% target; SKIP if it opens flat-to-down or chases the HOD; (4) NVDA close-watch — if $195.14 trail triggers, accept the stop; if $200 breaks with weak bid pre-stop, manual cut at $195.10 per rule; (5) AAPL/GOOGL/PLTR — let the drifts run, no action; (6) AVOID INTC, META, AMD, AVGO, ASML, ARM (Wed binary), SMCI; (7) Niche sleeve stays empty — no 2.5:1 R:R idea today. Save trade slots for: (a) AMZN if it confirms Mon, (b) ARM post-print Thu if clean beat, (c) PLTR add only on a clean beat-and-raise gap-up Tue. Patience over forced deployment.
+
+## 2026-05-05 — Pre-market Research (Tuesday — Week 3 Day 2, post-PLTR print, AMD AMC tonight, ISM Services PMI 7 AM PST)
+### Account
+- Equity: $9,930.89 (last_equity 9,963.48, premkt -$32.59 / -0.33%)
+- Cash: $7,326.08 (73.8%)
+- Buying power: $17,256.97 (regt) / $6,350.94 non-marginable
+- Daytrade count: 1 / 5 rolling
+- Sleeve status: Alpha $2,604.81 (26.2%), Niche $0 (0%), Cash 73.8%
+- Trades this week (Week 3): 1 / 15 used (NVDA stop-out Mon)
+- Phase P&L: -$69.11 (-0.69%) vs $10,000 baseline (down from Mon close -$48.63 on premkt mark-to-market)
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last (premkt) | P&L | Trail Stop GTC | HWM | Buffer |
+|--------|--------|--------|-------|---------------|-----|----------------|-----|--------|
+| AAPL  | alpha | 3 | $284.74 | $275.70 | -$27.12 (-3.18%) | $258.498 (10%) | $287.22 | ~6.6% |
+| GOOGL | alpha | 2 | $369.67 | $384.68 | +$30.02 (+4.06%) | $348.642 (10%) | $387.38 | ~9.4% |
+| PLTR  | alpha | 7 | $143.73 | $144.05 | +$2.22 (+0.22%) | $134.658 (10%) | $149.62 | ~6.5% |
+
+### Market Context
+- **PLTR Q1 BLOWOUT (Mon AMC, held position):** Rev **$1.63B (+85% YoY)** vs $1.54B est ($90M beat); Adj EPS **$0.33** vs $0.28 ($0.05 beat); GAAP EPS $0.34 vs $0.08 yr ago; **US rev +104% YoY**; GAAP NI $871M (53% margin); op margin 60%; FCF $925M (57% margin); **Rule of 40 = 145%** (+18 sequential). Guide raised aggressively: **FY26 rev $7.65–7.66B (+71% YoY)** vs Street $7.27B; **US Comm guide $3.224B+ (+120%)**; Q2 rev guide $1.8B vs $1.68B Street ($120M beat). Only blemish: US Comm rev $595M missed $605M cons by $10M. Reaction: **premkt FLAT to slightly red ($144.05 = -1.36% from Mon close $146.03)** — classic sell-the-news after the +2.71% pre-print ramp into HWM $149.62. Position remains +0.22% from entry; trail buffer ~6.5% above $134.658.
+- **AMD reports TONIGHT AMC (5/5)** — cons Q1 EPS $1.30 (+35% YoY), rev $9.84B (+32% YoY), Data Center $5.57B (+51.5% YoY); Q2 guide expectation ~$10.5B (some bulls ~$10.6-10.7B). AMD beat Q4 by +23%. Major event for SOX/AI-capex tape — implications ripple to NVDA/AVGO/MRVL. Stock has rallied into print ("best run since 2005"), elevated bar.
+- **ARM reports Wed AMC (5/6)** — reaffirmed Q4 adj EPS $0.58 (in line); FY26 +29% growth $0.90→$1.16. Susquehanna PT $210, Goldman Sell PT $125, MS Hold; cons PT $146. Royalty/data-center/AGI CPU pivot watched. Guide-driven binary.
+- **AAPL post-print drift (4/30 AMC, held):** Q2 blowout (rev $111.2B +17%, EPS $2.01 +22%, iPhone March-qtr record, Services ATH, $100B buyback). BofA reiterated Buy PT $325. Stock leaked from $287.22 HWM to $275.70 premkt = -3.18% from our entry. PEAD avg drift +5.3% over 60d still possible; trail buffer ~6.6% above $258.498.
+- **GOOGL post-print drift (held):** Q1 blowout (rev +22%, Cloud +63%, $462B backlog). +4.06% from entry; HWM $387.38; BofA PT $430. Trail buffer ~9.4%. Drift continuing.
+- **WTI ~$105 / Brent ~$116:** Oil regime stays elevated; Brent-WTI spread widened in March-April peaking $25/b on geopolitical/supply tape. Energy sector +22% YTD = clear sector leader.
+- **ES futures (ESM26):** ~7,243, +0.18% premkt — mild risk-on after Mon -0.32% (cash 7,227 vs 7,261 Fri).
+- **VIX:** 18.51 (Mon close, +8.95% on day from 16.99) — tape compressed but lifted from sub-19 calm. Mid-teens regime intact, no panic.
+- **Today's data (5/5):** **ISM Services PMI 7:00 AM PST** — Mar 54.0 (expansion 21st month), forecast similar; sub-50 surprise = whipsaw risk first 30 min. JOLTS data possible same morning. **NFP Fri 5/8** still the dominant macro event.
+- **Sector momentum YTD 2026 (S&P sector dashboard, latest):**
+  - LEADERS: Energy ~+22% (geopolitical/supply), Staples +15%, Materials +15-17%, Industrials +10-12%
+  - LAGGARDS: Tech XLK -3 to -4%, Discretionary -5%, Financials -5-6%, Comm Services ~flat
+  - Implication unchanged: book is overweight Tech/Comm laggards. Mega-cap drift names (GOOGL, AAPL, PLTR) still carry on idiosyncratic catalysts despite XLK headwind.
+- **Held-ticker news:**
+  - PLTR: Q1 blowout + raise but flat reaction — sell-the-news set up; first 60 min today defines whether the print catalyzes a fresh leg or a fade. HOLD plan documented (no add, no trim, trail does the work).
+  - GOOGL: Drift continuation post-Q1 blowout; ATH zone; analyst PTs lifted. No fresh news.
+  - AAPL: Drift slightly stalled, structural floor from $100B buyback intact; analyst sentiment positive.
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| Mon 5/4 | **PLTR** (held) | AMC | **DONE — Q1 BLOWOUT** + guide raise. HELD. Premkt sell-the-news -1.36%, position still +0.22% |
+| **Tue 5/5** | **AMD** | AMC | **TODAY** — cons EPS $1.30, rev $9.84B; DC +51% YoY; $10.5B+ Q2 guide expected. Stock at HOD into print = elevated bar. Drift candidate Wed only on clean beat+raise+volume; AVOID pre-print entry |
+| Tue 5/5 | F, RIVN | mixed | Not on watchlist |
+| **Wed 5/6** | **ARM** | AMC | Cons EPS $0.58 (in line); guide-driven binary. Post-print drift candidate Thu only if beat+raise; SKIP pre-print |
+| Wed 5/6 | DIS | AMC | Not on watchlist |
+| Wed 5/6 | (Initial Claims, Productivity prelim) | data | |
+| Thu 5/7 | (no top tier on watchlist) | — | |
+| **Fri 5/8** | **NFP April** | data 5:30 AM PST | **Major event** — sizing must respect overnight tape |
+
+### Tech/Semi Watchlist (Mon 5/4 close + premkt where available; many quotes wide/stale at 5 AM PST)
+| Ticker | Last (~close/bid) | Setup | Note |
+|--------|-------------------|-------|------|
+| INTC  | bid $92.10 (ask 0) | CHASE / EXTENDED | +50% multi-week rip; chase trap. NO ENTRY |
+| NVDA  | bid $197.73 / ask $214.85 (closed pos Mon @ $195.028) | EXITED | 10% trail GTC fired Mon open; -$73.81 realized. Re-entry only on fresh setup with cleaner buffer |
+| AMD   | bid $328.53 (close $328.53?) | **EARNINGS TONIGHT — AVOID PRE-PRINT** | Reports AMC. Drift candidate Wed only on clean beat+raise + sector tape positive |
+| AVGO  | bid $396.45 (wide ask) | EXTENDED | AI premium; AVOID without specific catalyst |
+| MRVL  | bid $154.33 / ask $171.10 | NEUTRAL | No fresh catalyst |
+| TSM   | bid $347.35 / ask $453.03 (very wide) | SKIP | Quote noise; no edge |
+| MU    | bid $544.09 | NEUTRAL/SKIP | Quote looks stale/post-split anomaly; verify pre-bell if interested |
+| QCOM  | bid $161.92 / ask $176.56 | NEUTRAL | Reported last week; no follow-up |
+| ARM   | bid $173.94 / ask $230.44 (wide) | **PRE-EARNINGS — WAIT** | Reports Wed AMC. Susquehanna $210 / Goldman Sell $125 = mixed; SKIP pre-print |
+| SMCI  | bid $26.63 | WEAK | Below threshold |
+| ASML  | bid $1,370 / ask $1,390 | NEUTRAL | No catalyst |
+| AAPL  | $275.70 (held @ $284.74) | DRIFT — UNDERWATER | -3.18%; PEAD 60-day window still open. Hold trail |
+| GOOGL | $384.68 (held @ $369.67) | DRIFT WORKING | +4.06%; BofA PT $430. Hold runner, no add |
+| PLTR  | $144.05 (held @ $143.73) | POST-PRINT FLAT | Q1 blowout met sell-the-news premkt. HOLD; no add into reaction; trail does the work |
+| AMZN  | bid $260.68 / ask $287.84 (wide) | TIER 2 watchlist | AWS +28% confirmed; pullback-on-reclaim entry remains the bar |
+| META  | (wide) | DRIFT INVALIDATED | Skip |
+| MSFT  | (wide) | NEUTRAL | Pass |
+
+### Trade Ideas
+1. **HOLD POSTURE primary** — three positions running: GOOGL drift +4.06% working, AAPL drift -3.18% underwater but PEAD window still open, PLTR post-blowout flat (sell-the-news in real time). Today's first 60 min will tell whether PLTR fade extends or buyers absorb the print; either way, no add (never add into a non-confirming print) and no pre-emptive trim (trail at $134.658 is the system).
+2. **AMZN — Alpha sleeve, post-earnings drift (TIER 2 watchlist).**
+   - Catalyst: AWS +28% best in 15 quarters (Q1 print 4/29 AMC); op income $23.9B beat; MS sees 30% AWS run-rate continuing. Headline EPS optically inflated by $16.8B Anthropic gain.
+   - Entry: ONLY on first-15-min pullback that holds opening low with volume reclaim. NO chase. Verify lastday_price < current premkt before assuming gap-up (META lesson).
+   - Size: 10% equity (~$993 = ~3-4 sh at ~$270). Stop -10% trail GTC. Target +12.5% R:R 1.25:1 → clears alpha 1.2:1 bar.
+   - Risk: Anthropic-gain fade, AWS comp pressure, sector laggard tape (Tech/Comm), today's ISM Services whipsaw.
+   - Decision logic: enter only if ISM Services prints in-line/above AND AMZN sets up cleanly post-7:00 PST data. Otherwise skip again, revisit Wed/Thu.
+3. **AMD — pre-print: AVOID; post-print Wed drift candidate.** Reports tonight AMC. Stock at HOD into print, cons rev $9.84B (+32%), Data Center $5.57B (+51%), bar elevated. Pre-print entry = full binary risk = NO. If clean beat+raise + Q2 guide ≥$10.6B + sector tape positive Wed, evaluate post-drift entry Wed morning per the gap-up-pullback-on-reclaim playbook (10% size, -10% trail, +12.5% target).
+4. **ARM — pre-print Wed: WAIT.** Mixed analyst tape (Susquehanna $210 / Goldman $125), reaffirmed in-line guide, AGI CPU pivot story. Default = SKIP pre-print; evaluate Thu post-print only if beat+raise.
+5. **AAPL add?** NO — already 3 sh @ $284.74 underwater -3.18%; no fresh catalyst; chasing into weakness = bad math.
+6. **PLTR add?** NO — sell-the-news on a blowout signals buyers exhausted near-term; never add into a non-confirming print. Hold the original sizing; trail does the work.
+7. **GOOGL add?** NO — runner; never add to a winner mid-drift.
+8. **INTC, META, SMCI, MSFT** — skip.
+9. **Niche sleeve** — no 2.5:1 R:R idea clears today; AMD/ARM binaries aren't niche-sleeve material.
+
+### Risk Factors
+- **PLTR sell-the-news risk:** blowout + raise met flat reaction = the print may not catalyze the next leg. If reaction extends below $140 (-2.6%) with sector pressure, position can drift to -7% manual-cut zone $133.67 quickly. Trail $134.658 is the guardrail; do not trim pre-emptively without breaking that level or the -7% rule.
+- **AMD AMC tonight:** Print reaction will set tape for SOX names Wed. Possible scenarios: (a) clean beat+raise → AVGO/MRVL/NVDA/TSM tailwind, AMZN/AAPL drift may also lift; (b) miss/flat guide → SOX retraces, can pressure GOOGL/AAPL via AI-capex spillover narrative. We have no AMD position and that's the right posture.
+- **ARM Wed AMC binary:** if the broader semi tape is fragile post-AMD, ARM could be a second sentiment shock. No exposure planned pre-print.
+- **ISM Services PMI 7 AM PST:** sub-52 print or weak prices-paid → growth scare; defer entries until 7:30 AM PST if surprise.
+- **NFP Friday 5/8:** size any new entry today/Wed with overnight risk in mind; prefer post-data Friday/Mon entries if setups don't confirm cleanly.
+- **AAPL underwater drift:** -3.18% with ~6.6% trail buffer; if leak extends to -7% ($264.81), manual cut per rule rather than waiting for trail.
+- **Sleeve under-deployment** — Alpha at 26.2% vs 70-75% target; cash 73.8%. Patience is the right posture: AMD AMC tonight + ARM AMC Wed + NFP Fri = three event-shaped catalysts; deploy only on confirmed setups.
+- **Daytrade count 1/5 rolling** — adequate room for a defensive cut if needed. Conserve.
+
+### Decision
+**HOLD-biased with one conditional watchlist entry** — Tuesday with AMD AMC tonight + ISM Services PMI 7 AM PST + a fresh PLTR sell-the-news reaction on the open is not a session to force net-new capital deployment. **Plan for market-open agent**: (1) wait through 7:00 AM PST ISM Services PMI to clear; (2) HOLD all 3 positions — no adds, no trims; (3) AMZN — TIER-2 watchlist; enter ONLY on first-15-min pullback-on-reclaim with gap-up confirmed (lastday_price compare), 10% size (~$993, 3-4 sh @ $270), -10% trail, +12.5% target; SKIP if AMZN opens flat-to-down or chases the HOD; (4) PLTR reaction handling — let the trail at $134.658 do the work; manual cut at $133.67 (-7%) if breached; **no pre-emptive trim** unless thesis breaks intraday (which a met-but-not-blown-out blowout does NOT constitute); (5) AAPL/GOOGL — drifts intact, no action; (6) **AVOID AMD pre-print, ARM pre-print, INTC, META, AVGO, MRVL, TSM, ASML, SMCI**; (7) Niche sleeve stays empty — no 2.5:1 R:R idea today. Save trade slots for: (a) AMZN if it confirms today, (b) AMD post-print drift Wed if beat+raise+volume, (c) ARM post-print drift Thu if beat+raise. Patience over forced deployment — the calendar gives us catalysts, not the other way around.
