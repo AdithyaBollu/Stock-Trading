@@ -155,3 +155,29 @@ Alpha sleeve: $2,625.29 (26.4%). Niche sleeve: $0 (0%). Trades today: NVDA stop-
 Alpha sleeve: $2,581.63 (26.1%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 1/15 (NVDA exit Mon).
 
 **Notes:** PLTR Q1 earnings reaction came in bearish — gapped -7.04% from $146.03 to $135.75 with no intraday recovery, dragging unrealized P&L to -$55.88 (-5.55% from entry). Crucially the close sits only ~0.81% above the $134.658 trail GTC stop (HWM $149.62), so any further weakness tomorrow likely fires the trail; manual -7% cut not triggered (entry-based threshold $133.67, still ~1.5% below current). AAPL ripped +2.77% intraday on no fresh catalyst (PEAD continuation) to close essentially flat from entry ($284.50 vs $284.74, -0.08%) — trail unchanged. GOOGL drift extended again (+1.49%, now +5.21% from entry) with HWM up to $392.82 / stop trailed up to $353.538. Equity $9,907.71 = -$43.66 / -0.44% on the day, phase deepens to -$92.29 / -0.92% vs the $10,000 baseline. Cash $7,326.08 (74.0%), alpha sleeve 26.1% (still well under the 70-75% target — intentional, no rush to chase), niche 0%. Daytrade count 1/5 rolling. Plan tomorrow: PLTR is the priority — if it opens green or holds $135+, HOLD and let the trail manage it; if it gaps below $134.66 the trail takes us out, no manual override; thesis-break (Q1 print materially worse than gap implies) would justify a manual cut even before the trail. AAPL and GOOGL hold; AMZN watchlist re-armed for pullback-on-reclaim continuation if the tape allows. No new entries planned pre-PLTR resolution.
+
+## 2026-05-06 — Market Open (Week 3 Day 3, Wednesday)
+
+**Stop-outs (closed at open):**
+| Date | Ticker | Sleeve | Side | Shares | Entry | Exit | Realized P&L | Reason |
+|------|--------|--------|------|--------|-------|------|--------------|--------|
+| 2026-05-06 | PLTR | alpha | sell (trail GTC fill) | 7 | $143.73 | $132.82 | -$76.40 (-7.59%) | 10% trailing stop GTC triggered 6:31 AM PST at the open as HWM $149.62 stop $134.658 was breached; PLTR opened sub-trail and the GTC filled $132.82. System exit per rule, no manual override needed |
+
+**Open positions (post-fill):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $281.67 | -0.89% | -$9.23 (-1.08%) | $258.498 trail GTC (HWM $287.22) |
+| GOOGL | alpha | 2 | $369.67 | $395.23 | +1.75% | +$51.12 (+6.91%) | $356.202 trail GTC (HWM $395.78) |
+
+**Equity:** $9,891.15 | **Cash:** $8,255.81 (83.5%) | **Day P&L:** -$15.69 (-0.16%) | **Phase P&L:** -$108.85 (-1.09%)
+**Alpha sleeve:** $1,635.34 (16.5%). **Niche sleeve:** $0 (0%). **Trades this week:** 2 / 15 (NVDA exit Mon, PLTR exit Wed). **Open positions:** 2 / 10. **Daytrade count:** 1 / 5 rolling.
+
+**No new entries — decision rationale:**
+- **AMD (primary candidate per pre-market plan):** SKIP. Gap-up confirmed (prev close $355.16 → open $408.43, +15%) but at 6:37 AM PST the tape is chasing — open-low pullback was only -0.6% to $405.94 before reclaiming and ripping to HOD $428.44; current ~$425 is buying within $3 of HOD = chase territory. Plan B explicitly says "SKIP if AMD chases the HOD without pullback." Additionally, the playbook gate requires waiting through ADP 7:15 AM PST before any entry; this routine fires at 6:35 AM PST so the ADP defer alone blocks entry. Re-evaluate at midday if AMD sets up a clean pullback-on-reclaim post-ADP.
+- **AMZN (tier-2 candidate):** SKIP. No fresh catalyst today, AMZN flat at $274 with no setup confirmation. Plan said "only if AMD setup fails AND AMZN confirms independently" — neither path active.
+- **All other watchlist names (AVGO/MRVL/NVDA/INTC/META/MSFT/TSM/MU/QCOM/ASML/SMCI/ARM/DIS):** SKIP per pre-market — sympathy chase or out of theme or pre-print binary (ARM AMC tonight).
+- **AAPL HOLD:** -1.08% intraday, PEAD 60-day window open, trail $258.498 ~9% buffer. No add, no cut.
+- **GOOGL HOLD:** +6.91% from entry, drift working with HWM stamping $395.78, trail at $356.202 ~9.9% buffer. No add, no trim.
+- **Niche sleeve stays empty** — no 2.5:1 R:R idea.
+
+**Notes:** PLTR trail did exactly what it was designed to do — Tuesday's EOD note flagged "any further weakness tomorrow likely fires the trail," and PLTR opened sub-trail Wednesday and the GTC executed $132.82. Realized -$76.40 brings the position phase P&L to -$108.85 vs $10,000 baseline. Two consecutive Mondays-into-week of stop-outs (NVDA Mon, PLTR Wed) is a sleeve-discipline win even though it stings P&L; both exits respected the system, neither breached the -7% manual rule (PLTR fill was -7.59%, just past the manual threshold but trail caught it first). AMD blowout was the obvious entry candidate but the tape opened straight-up vertical with no pullback structure — the playbook's no-chase rule is doing its job. Cash now 83.5%, alpha sleeve down to 16.5% (well under 70–75% target), but forced deployment into a chase is exactly the failure mode strategy was built to prevent. Plan into midday: monitor AMD for a clean pullback-on-reclaim post-ADP (7:15 AM PST), let AAPL/GOOGL drifts run, hold trails. ARM AMC tonight is binary — NO pre-print exposure. NFP Friday remains the dominant overnight risk this week.
