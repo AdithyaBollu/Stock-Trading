@@ -181,3 +181,26 @@ Alpha sleeve: $2,581.63 (26.1%). Niche sleeve: $0 (0%). Trades today: none. Trad
 - **Niche sleeve stays empty** — no 2.5:1 R:R idea.
 
 **Notes:** PLTR trail did exactly what it was designed to do — Tuesday's EOD note flagged "any further weakness tomorrow likely fires the trail," and PLTR opened sub-trail Wednesday and the GTC executed $132.82. Realized -$76.40 brings the position phase P&L to -$108.85 vs $10,000 baseline. Two consecutive Mondays-into-week of stop-outs (NVDA Mon, PLTR Wed) is a sleeve-discipline win even though it stings P&L; both exits respected the system, neither breached the -7% manual rule (PLTR fill was -7.59%, just past the manual threshold but trail caught it first). AMD blowout was the obvious entry candidate but the tape opened straight-up vertical with no pullback structure — the playbook's no-chase rule is doing its job. Cash now 83.5%, alpha sleeve down to 16.5% (well under 70–75% target), but forced deployment into a chase is exactly the failure mode strategy was built to prevent. Plan into midday: monitor AMD for a clean pullback-on-reclaim post-ADP (7:15 AM PST), let AAPL/GOOGL drifts run, hold trails. ARM AMC tonight is binary — NO pre-print exposure. NFP Friday remains the dominant overnight risk this week.
+
+## 2026-05-06 — Midday Scan (Week 3 Day 3, Wednesday)
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $285.42 | +0.44% | +$2.04 (+0.24%) | $258.498 trail GTC (HWM $287.22) |
+| GOOGL | alpha | 2 | $369.67 | $397.14 | +2.24% | +$54.94 (+7.43%) | $358.632 trail GTC (HWM $398.48) |
+
+**Equity:** $9,906.35 | **Cash:** $8,255.81 (83.3%) | **Day P&L:** -$0.49 (-0.00%) | **Phase P&L:** -$93.65 (-0.94%)
+**Alpha sleeve:** $1,650.54 (16.7%). **Niche sleeve:** $0 (0%). **Trades this week:** 2 / 15 (NVDA exit Mon, PLTR exit Wed). **Open positions:** 2 / 10. **Daytrade count:** 1 / 5 rolling.
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +0.24% (winner), GOOGL +7.43% (winner).
+- No stop tightening: no winner ≥ +15% (GOOGL +7.43% strongest, well below threshold).
+- GOOGL trail auto-advanced as HWM stamped up to $398.48 intraday → stop now $358.632 (was $356.202 at open).
+- No thesis breaks: GOOGL drift extending (Anthropic $200B cloud deal tailwind, +7.43% from entry), AAPL PEAD 60-day window open.
+- AMD re-eval per pre-market plan: SKIP. Open $408.43, intraday range $402.25–$430.32 (~7% swing) = chaotic per playbook "STAND DOWN if >±3% first-15-min swings". Current $414 below VWAP $417, below HOD by ~$16. No clean pullback-on-reclaim structure formed; chase risk dominates. Pre-market gate held.
+- AMZN tier-2 not active — AMD setup didn't fail cleanly, it never set up; AMZN no independent catalyst today.
+- ARM pre-print AMC tonight — no exposure planned, binary.
+- Sleeve under-deployed at 16.7% vs 70-75% target — intentional; today's tape has no clean entry, forced deployment is the failure mode the strategy prevents.
+
+**Notes:** Quiet midday — both held positions in the green (GOOGL +7.43% drift extending, AAPL flat-to-slightly-positive). No actions required: no cuts, no tightens, no thesis breaks, no entries. AMD was the only premarket candidate and the tape disqualified it with chaotic ±7% intraday swings — the no-chase rule continues to do its job (NVDA stop-out Mon, PLTR stop-out Wed AM, AMD non-entry Wed midday all align with system discipline). Cash 83.3% / alpha sleeve 16.7% feels heavy but the calendar still gives us catalysts (ARM post-print Thu, NFP Fri) — no rush. Plan into close: HOLD AAPL/GOOGL; let GOOGL HWM keep trailing the stop higher; do not pre-emptively trim into +7% drift; ARM AMC tonight = no exposure; EOD agent will log the close and re-evaluate AMD's late-session structure for any Thu setup.
