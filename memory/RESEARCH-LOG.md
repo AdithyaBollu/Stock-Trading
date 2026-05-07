@@ -825,3 +825,102 @@ A separate market-open agent ran on a fresh local clone that did NOT include the
 8. **Save trade slots for:** (a) AMD if it confirms today, (b) AMZN if AMD fails, (c) ARM post-print drift Thu if beat+raise.
 
 Bias toward TRADE — AMD is the cleanest post-earnings drift catalyst we've seen since GOOGL on 4/30, and the alpha sleeve is materially under-deployed. But execute the playbook (verify gap-up, demand pullback-on-reclaim, no chase), or stand down. Patience over forced deployment, conviction over chase.
+
+## 2026-05-07 — Pre-market Research (Thursday — Week 3 Day 4, post-AMD +19% drift Day 1, post-ARM AMC sell-the-news, Initial Claims 5:30 AM PST, NFP tomorrow)
+
+### Account Snapshot (5:00 AM PST pull)
+- **Equity:** $9,925.43 | **Cash:** $8,255.80 (83.2%) | **Buying power:** $18,181.23 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $1,669.63 (alpha sleeve 16.8% — well under 70-75% target). **Niche sleeve:** $0.
+- **Phase P&L:** -$74.57 (-0.75%) vs $10,000 baseline.
+- **Open positions (2 / 10):**
+  | Ticker | Shares | Entry | Last (premkt) | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM |
+  |--------|--------|-------|---------------|---------|----------------|-----------------------|-----|
+  | AAPL  | 3 | $284.74 | $288.35 | +0.29% | +$10.83 (+1.27%) | $259.20 | $288.00 |
+  | GOOGL | 2 | $369.67 | $402.29 | +1.07% | +$65.24 (+8.82%) | $359.865 | $399.85 |
+- **This week's trades:** 2 / 15 (NVDA stop-out Mon, PLTR stop-out Wed).
+
+### Market Context
+- **AMD post-earnings Day 1 (5/6):** Best post-earnings session in 7 years — closed +18.8% on the day, intraday HOD ~$432 (Q1 BLOWOUT confirmed: $10.3B rev, DC +57%, Q2 guide $11.2B). PT raises across Goldman ($450), Wedbush ($450), Stifel ($450); Seaport upgrade to Buy. Stock now +90%+ YTD. Drift candidate Day 2 today but **the playbook entry on Day 1 didn't trigger** (tape opened vertical, no pullback structure), entering on Day 2 after a +19% session = chase risk per playbook.
+- **ARM post-AMC reaction (reported 5/6 AMC):** **BEAT** — Q4 rev $1.49B vs $1.47B cons (+1.4%), EPS $0.60 vs $0.58 (+3.4%); FY2026 record $4.92B (+23% YoY), licensing +25%, royalty +21%. Closed regular session +13.63% to $237.30 on the print … then **gave back -8.09% in extended trading to $218.11**. Sell-the-news on a beat = caution flag for AI/semi sentiment — beat wasn't enough vs Susquehanna $210 / Wells Fargo $220 high bar already priced. **Yellow flag for AMD continuation drift today.**
+- **AAPL (held) drift recovers:** Premkt $288.35 (+0.29% intraday) = above entry $284.74 (+1.27% unrealized, first sustained green from entry since Day 1). Apple-Google Gemini collab (iOS 27 model choice) optionality intact; PEAD 60-day window still open. HWM $288.00 = today's premkt is a marginal new HWM, trail will auto-bump to ~$259.515 if $288.35 holds at open.
+- **GOOGL (held) drift extends to new HWM:** Premkt $402.29 (+1.07%) = above prior HWM $399.85, trail will auto-bump to ~$362.061. Now +8.82% from entry. No fresh GOOGL-specific catalyst today; Citi Catalyst Watch live, Google I/O 5/19-20 ahead. Drift to +15% trail-tighten trigger requires close ≥$425.12 (~+5.7% more).
+- **WTI ~$102.56 / Brent (no fresh quote):** WTI -1.6% day-over-day, range $99.57-$104.36; pulled back from $125 May high on Iran de-escalation. Energy still YTD leader (+30.7%) per S&P sector dashboards.
+- **ES futures (ESM6):** ~7,382 (-0.10% from prior close). **Mild risk-off premkt** as ARM sell-the-news weighs vs AMD's continued tailwind. Mixed signal.
+- **VIX:** 17.39 (5/6 close, +0.06% day-over-day). Mid-teens regime, no panic; pre-NFP compression typical.
+- **Today's data (5/7):**
+  - **Initial Jobless Claims 5:30 AM PST** — prior week 189K (lowest since 1969, well below 215K cons), 4-week avg 207.5K. Forecast for current week clusters around 200-210K (Kalshi/ForecastEx). Sub-200K = labor still tight (NFP-positive); >220K = softening (NFP-cautious).
+  - **Q1 nonfarm productivity prelim 5:30 AM PST** — minor mover, watch for unit-labor-cost surprise.
+- **NFP Friday 5/8 5:30 AM PST** = dominant overnight macro event of the week.
+- **No major BMO earnings today** per Earnings Whispers / Nasdaq calendar.
+- **Sector momentum YTD 2026 (latest):**
+  - LEADERS: **Energy +30.7%**, Materials +9.1%, Industrials +9.6%
+  - LAGGARDS: **Tech slightly negative YTD** (recovering on AMD/semi tailwind), Discretionary, Financials
+  - Implication: AMD's blowout is partly re-rating the AI-semi sleeve but tape rotation toward Energy/Industrials is the dominant 2026 theme. Our held names (GOOGL/AAPL) are mega-cap-tech, not pure semi.
+
+### This Week's Earnings Calendar (refreshed)
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| Mon 5/4 | **PLTR** (was held) | AMC | DONE — Q1 BLOWOUT + raise. Sell-the-news; trail fired Wed open at $132.82, realized -$76.40 |
+| Tue 5/5 | **AMD** | AMC | DONE — Q1 BLOWOUT, +19% Wed session. Day 2 drift today but Day 1 entry missed (no pullback) |
+| Wed 5/6 | **DIS** | BMO | DONE — Q2 BEAT ($1.57 EPS / $25.17B rev / streaming +88%). Not on watchlist |
+| Wed 5/6 | **ARM** | AMC | DONE — Q4 BEAT but **sell-the-news** (-8% AH after +13.6% close). Drift candidate? See below |
+| Thu 5/7 | (Initial Claims, Productivity prelim 5:30 AM PST) | data | |
+| Thu 5/7 | (no major BMO names) | — | |
+| **Fri 5/8** | **NFP April** | data 5:30 AM PST | **Major event** — sizing must respect overnight tape |
+
+### Tech/Semi Watchlist (5/6 close + AH where available; bid/ask wide premkt)
+| Ticker | Last (close/quote) | Setup | Note |
+|--------|--------------------|-------|------|
+| AMD   | bid $398 / ask $440, mid ~$418 (closed +19% Day 1) | **DRIFT DAY 2 — CAUTION** | Day 1 entry missed (vertical tape, no pullback). PT raises to $450 across Goldman/Wedbush/Stifel. ARM sell-the-news = sentiment yellow flag for SOX. Day 2 entry on a +19% Day 1 = chase. Wait for explicit pullback-on-reclaim with volume; otherwise SKIP |
+| ARM   | bid $204.70 (last close $237.30, AH ~$218) | **POST-PRINT — SELL-THE-NEWS** | Beat the print but tape gave back gains AH. Drift thesis = no — sell-the-news on a beat needs a confirmed reversal before any entry. SKIP today |
+| NVDA  | bid $207.32 / ask $207.70 (tight $207.5 mid) | NEUTRAL | AMD-blowout sympathy modest; no fresh catalyst. SKIP unless gaps up >+2% on volume |
+| AVGO  | bid $422.80 / ask $426.58, mid ~$424.69 | NEUTRAL | Tightened from yesterday's wide quote. AMD read-across positive but ARM sell-the-news offsets. SKIP — no own catalyst |
+| MRVL  | bid $160.33 / ask $178.17 (wide ~$169 mid) | SKIP | No own catalyst; quote still wide |
+| TSM   | bid $353.58 / ask 0 (one-sided) | SKIP | No edge |
+| MU    | bid $628.27 / ask $694.76 | SKIP | Quote wide / split anomaly noise |
+| QCOM  | bid $185.19 / ask $205.02 | NEUTRAL | No fresh catalyst |
+| INTC  | bid $105.46 / ask $116.76 | EXTENDED FADE | Off the highs; chase trap |
+| SMCI  | bid $32.65 / ask $36.03 | WEAK | Below threshold |
+| ASML  | bid $1,400 / ask $1,700 (very wide) | SKIP | No edge in the quote |
+| AAPL  | $288.35 (held @ $284.74) | DRIFT — RECOVERING | +1.27% from entry; PEAD 60d window open; iOS 27/Gemini optionality. HOLD trail (auto-bump to ~$259.52 if $288.35 holds) |
+| GOOGL | $402.29 (held @ $369.67) | DRIFT WORKING — NEW HWM | +8.82% from entry; HWM bumps to $402.29 today, trail to ~$362.06. HOLD runner, no add. +15% trigger requires $425.12 |
+| AMZN  | bid $274.88 / ask 0 (one-sided) | TIER 2 watchlist | AWS +28% Q1 confirmed. Pullback-on-reclaim entry remains the bar — no chase |
+| META  | bid $612.05 / ask 0 (one-sided) | DRIFT INVALIDATED | Skip |
+| MSFT  | bid $395.95 / ask 0 (one-sided) | NEUTRAL | Pass |
+
+### Trade Ideas
+1. **HOLD POSTURE primary** — two positions in the green (GOOGL +8.82% drift extending to new HWM, AAPL +1.27% drift recovering with PEAD window open). No adds, no trims. Trails do the work; both auto-bump on today's open if premkt holds.
+2. **AMD — Day 2 drift: SKIP unless explicit pullback-on-reclaim.**
+   - Catalyst: Q1 BLOWOUT confirmed Day 1 with +19% session. Drift thesis intact but Day 1 entry was disqualified by no-chase rule (vertical open, no pullback structure).
+   - Day 2 problem: ARM sell-the-news on a beat AH = sentiment yellow flag for SOX continuation; entering Day 2 of an already +19% drift = chase risk. Per playbook the cleaner setup is a Day 2 pullback that holds Day 1's low ($402.25 area per the Wednesday open-low cited Wed midday log) with volume reclaim back above VWAP.
+   - Decision: STAND DOWN unless that explicit setup forms post-Initial-Claims (5:45 AM PST). If AMD opens flat/red and forms pullback-on-reclaim at ~$405-410 with ARM sympathy resolved, evaluate 10% size (~$992 = 2 sh @ ~$415) with -10% trail and +12.5% target = R:R 1.25:1. **SKIP if** AMD chases the HOD or holds above $425 without pullback.
+3. **ARM — post-print drift: SKIP today.** Beat-but-faded AH = sell-the-news on a beat. Drift entry only if ARM closes today >$240 on volume (confirms the AH gap is being absorbed, not extended). Otherwise SKIP, revisit if a multi-day base forms.
+4. **AMZN — Tier 2 backup, unchanged.** Same Plan B mechanics: only on first-15-min pullback that holds opening low + volume reclaim with verified gap-up. Skip otherwise.
+5. **AVGO / MRVL / NVDA / TSM / MU / QCOM / ARM / SMCI / INTC / META / MSFT / DIS / ASML** — SKIP. No clean catalyst, sympathy-only or out-of-theme.
+6. **AAPL add?** NO — already 3 sh; no fresh catalyst beyond optionality narrative; not adding mid-drift.
+7. **GOOGL add?** NO — runner; never add to a winner mid-drift.
+8. **Niche sleeve** — no 2.5:1 R:R idea clears today.
+
+### Risk Factors
+- **NFP Friday 5/8 5:30 AM PST** = dominant overnight macro risk. Any new entry today must be sized assuming overnight gap risk; prefer post-NFP entries Friday/Mon if setups don't confirm cleanly.
+- **ARM sell-the-news = yellow flag for SOX continuation.** AMD's Day 2 drift may run into the same headwind ARM hit AH (high bar, beat-not-blowout-enough). Re-rate the AMD entry threshold higher.
+- **AMD chase risk on Day 2.** Stock +90% YTD already, +19% Day 1 = vertical move; mean reversion / sell-the-news risk if Day 2 opens at HOD. Demand explicit pullback structure or stand down.
+- **GOOGL trail-tighten approaching.** At +15% (close ≥$425.12) cancel the 10% trail and place a 7% trail. Today's drift to $402.29 keeps that ~$23 / +5.7% away. Monitor intraday.
+- **AAPL drift fragility.** Just turned green from entry; iOS 27 optionality is narrative-only, not a hard catalyst. If AAPL fails $284 again with broad market weakness, consider trim — but no action today, trail buffer is ~10% above $259.20.
+- **Initial Claims 5:30 AM PST.** Sub-180K = labor very tight, NFP-positive, risk-on tape continues. >220K = softening, NFP-cautious, defer entries until 6:00 AM PST.
+- **Energy/Industrials YTD outperformance** continues to drag tech/comm relative; our drift names need own-catalyst lifts (which GOOGL has via Cloud / Anthropic deal, AAPL has via iOS 27 / Gemini optionality).
+- **Sleeve under-deployment** at 16.8% vs 70-75% target. Two consecutive forced exits (NVDA Mon, PLTR Wed) hollowed the alpha sleeve. Patience > forced re-deployment into a +19% Day 1 chase.
+- **Daytrade count 0/5 rolling** — full slate available for defensive cuts.
+
+### Decision
+**HOLD-biased, conditional on AMD pullback-on-reclaim** — Thursday with no major BMO catalysts + Initial Claims 5:30 AM PST + ARM sell-the-news AH + NFP overhang tomorrow is not a session to force net-new capital. **Plan for market-open agent**:
+1. **Wait through Initial Claims 5:30 AM PST**; if claims surprise (sub-180K or above 220K), defer entries 30 min.
+2. **HOLD AAPL and GOOGL** — no adds, no trims. Both drifts intact; trails auto-bump on today's open if premkt levels hold.
+3. **AMD — CONDITIONAL ENTRY ONLY.** Require Day 2 pullback that holds Day 1's low (~$402-405 area) with volume reclaim above VWAP; SKIP if AMD opens at HOD or chases >$430 without pullback. Size 10% (~$992 = 2 sh @ ~$415), -10% trail GTC immediately, +12.5% target. ARM sell-the-news raises the bar — demand explicit confirmation, not extrapolation.
+4. **ARM — SKIP** post-print today. Drift thesis invalidated by AH fade.
+5. **AMZN — TIER 2 backup.** Only if AMD setup fails AND AMZN confirms independently; otherwise revisit Mon post-NFP.
+6. **AVOID** AVGO, MRVL, NVDA, TSM, MU, QCOM, SMCI, INTC, META, MSFT, ASML, DIS — no clean setup or out of theme.
+7. **Niche sleeve stays empty** — no 2.5:1 R:R idea today.
+8. **GOOGL +15% trail-tighten watch** — if intraday close ≥$425.12, cancel 10% trail and place 7% trail per rule. Today not yet in range.
+
+Bias: HOLD with conditional AMD entry. Patience over forced deployment ahead of NFP. Two solid drift positions in the green; preserving them through NFP > forcing a Day 2 chase trade.
