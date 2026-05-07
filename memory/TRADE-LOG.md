@@ -216,3 +216,26 @@ Alpha sleeve: $2,581.63 (26.1%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: PLTR exit (sell 7 @ $132.82, realized -$76.40). Trades this week: 2/15 (NVDA exit Mon, PLTR exit Wed).
 
 **Notes:** Day finishes modestly green (+$6.99 / +0.07%) despite the AM PLTR trail fill realizing -$76.40 — AAPL ground out a +1.05% PEAD-continuation day to flip back to +$7.23 unrealized (first green close from entry since the runup), and GOOGL extended drift another +2.65% to a new HWM of $399.85 (now +7.86% from $369.67 entry, trail auto-advanced to $359.865). Phase P&L narrows to -$85.30 / -0.85% vs the $10k baseline — still in a shallow drawdown but the system-driven exits (NVDA Mon, PLTR Wed) both respected the rulebook and the live book is now concentrated in two thesis-intact winners. Cash 83.3% / alpha sleeve 16.7% (well below 70-75% target) — under-deployment is intentional given today's tape (AMD chase blow-off, no clean pullback structure) and Friday's NFP overhang; forced deployment into a chase is exactly the failure mode the strategy prevents. Stops untouched and well-buffered: AAPL ~9.7% above $259.20 trail, GOOGL ~9.7% above $359.865 trail. No tightening triggered (GOOGL +7.86% is the leader, well below the +15% threshold). Daytrade count 1/5 rolling (PLTR was multi-day, doesn't count). ARM Q1 print AMC tonight — zero exposure, watching reaction for Thu sympathy/setup signals. NFP Friday remains the dominant overnight macro risk into week-end. Tomorrow: HOLD AAPL/GOOGL, monitor GOOGL drift for +15% trail-tighten trigger (would require ~$425.12 close), re-scan AMD for a clean post-blow-off structure, evaluate ARM print reaction for any Thu watchlist additions, no pre-NFP fresh entries unless the setup is A+ and risk-defined.
+
+## 2026-05-07 — Market Open (Week 3 Day 4, Thursday)
+
+**No new entries — no trades placed.**
+
+**Open positions (current intraday, ~6:36 AM PST):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $289.33 | +0.63% | +$13.77 (+1.61%) | $259.20 trail GTC (HWM $288.00 → auto-bump as session HWM stamps) |
+| GOOGL | alpha | 2 | $369.67 | $397.145 | -0.22% | +$54.95 (+7.43%) | $359.865 trail GTC (HWM $399.85) |
+
+**Equity:** $9,917.81 | **Cash:** $8,255.80 (83.2%) | **Day P&L:** +$3.40 (+0.03%) | **Phase P&L:** -$82.19 (-0.82%)
+**Alpha sleeve:** $1,662.01 (16.8%). **Niche sleeve:** $0 (0%). **Trades this week:** 2 / 15 (NVDA exit Mon, PLTR exit Wed). **Open positions:** 2 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Decision rationale (no entries):**
+- **AMD (primary candidate per pre-market):** SKIP. At 6:36 AM PST AMD bid $413 / ask $419.50 (wide ~$6.50 / 1.6% spread, mid ~$416). Pre-market plan required Day 2 pullback that holds Day 1 low ($402-405 area) with volume reclaim above VWAP — no pullback structure formed in the first 6 min, price sitting mid-range without confirmation. Wide bid/ask spread itself is a chase-execution flag. Pre-market explicit gate ("SKIP if AMD chases the HOD or holds above $425 without pullback") binding pending pullback-on-reclaim. Stand down; revisit at midday for a clean post-Initial-Claims structure.
+- **AMZN (tier-2 backup):** SKIP. Plan required AMD setup to fail AND AMZN confirms independently. AMD didn't fail — it never set up — and AMZN bid $273.64 / ask $278 is also wide with no fresh own-catalyst. Re-arm post-NFP Mon.
+- **AAPL HOLD:** +1.61% from entry, drift recovering, premkt printed new HWM $289.33 → 10% trail GTC will auto-bump to ~$260.40 on session HWM stamp. No add, no trim.
+- **GOOGL HOLD:** +7.43% from entry, drift intact but premkt slightly red on the day (-0.22%); HWM $399.85 unchanged so trail stays at $359.865 (~9.5% buffer). +15% trail-tighten trigger requires close ≥$425.12 (~+7% more from current). No action today.
+- **All other watchlist names** (ARM/AVGO/MRVL/NVDA/INTC/META/MSFT/TSM/MU/QCOM/SMCI/ASML/DIS): SKIP per pre-market — sympathy chase, out of theme, or post-print sell-the-news (ARM).
+- **Niche sleeve stays empty** — no 2.5:1 R:R idea cleared today.
+
+**Notes:** Hold-biased open exactly as pre-market planned. The playbook's pullback-on-reclaim gate makes the AMD entry contingent on price structure not headline data alone — and structure didn't form in the first 6 min. Sleeve still under-deployed at 16.8% vs 70-75% target; this is the third consecutive session where the no-chase rule has prevented a forced entry (AMD non-entry Wed midday, ARM non-entry post-print Wed AMC, AMD non-entry Thu open). Cash 83.2% preserves dry powder for a clean post-NFP setup Fri afternoon / Mon. Daytrade count 0/5 rolling = full slate available for defensive cuts. Phase P&L -$82.19 / -0.82% vs $10k baseline. Plan into midday: monitor AMD for pullback-on-reclaim post-Initial-Claims (5:45 AM PST onward) — entry only on $402-405 retest with volume reclaim above VWAP; HOLD AAPL/GOOGL drifts; let trails do the work; no pre-NFP fresh entries unless setup is A+ and risk-defined.
