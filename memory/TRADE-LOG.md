@@ -274,3 +274,28 @@ Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: PLTR exit 
 Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 2/15 (NVDA exit Mon, PLTR exit Wed).
 
 **Notes:** Day finishes essentially dead-flat at -$0.01 / -0.00% on the day, equity $9,914.69 vs yesterday's $9,914.70 — a textbook "trail did the work, no entries forced" Thursday. AAPL tacked on a fractional +0.06% to close at $287.68 (+1.03% / +$8.83 from entry); GOOGL dipped a hair -0.03% to $397.92 but holds +7.64% / +$56.50 from entry with HWM still $400.10 / trail $360.09 (~9.5% buffer). Phase P&L unchanged at -$85.31 / -0.85% vs the $10k baseline. The full-day no-chase discipline streak now extends to six consecutive non-entries (AMD Wed AM/midday, ARM post-print Wed AMC, AMD Thu open/midday, plus today's HOLD-only close) — playbook gates working as designed; sleeve is intentionally light at 16.7% vs 70-75% target ahead of tomorrow's NFP. Stops untouched, both well-buffered, no tightening triggered (GOOGL +7.64% is the leader, well below the +15% threshold of $425.12 close). Daytrade count 0/5 rolling = full slate available for any defensive cut. Tomorrow (Friday) is **NFP day** — dominant overnight macro risk and the week's binary tape event. Plan: pre-market run handles NFP positioning rules; HOLD AAPL/GOOGL through the print; no pre-NFP fresh entries; let trails manage downside; weekly review fires after the close to grade Week 3 (1 win-runner GOOGL drift, 2 stop-outs NVDA/PLTR, no entries Wed-Thu, sleeve under-deployed but disciplined).
+
+## 2026-05-08 — Market Open (Week 3 Day 5, Friday — NFP day, no pre-market log run)
+
+**No new entries — no trades placed.**
+
+**Open positions (current intraday, ~6:37 AM PST):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $293.23 | +2.01% | +$25.47 (+2.98%) | $264.033 trail GTC (HWM $293.37) |
+| GOOGL | alpha | 2 | $369.67 | $397.03 | -0.24% | +$54.72 (+7.40%) | $360.09 trail GTC (HWM $400.10) |
+
+**Equity:** $9,929.49 | **Cash:** $8,255.80 (83.1%) | **Day P&L:** +$15.39 (+0.16%) | **Phase P&L:** -$70.51 (-0.71%)
+**Alpha sleeve:** $1,673.69 (16.9%). **Niche sleeve:** $0 (0%). **Trades this week:** 2 / 15 (NVDA exit Mon, PLTR exit Wed). **Open positions:** 2 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Decision rationale (no entries):**
+- **Pre-market log absent for today** — ran pre-market STEPS 1-3 inline. NFP April released 5:30 AM PST; futures pulled back early on inflation-expectations-rising tape (per CME E-mini commentary), no clean directional resolution by 6:35 AM PST. Mixed/cautious open-bias.
+- **AMD (primary watchlist candidate per past 3 sessions):** SKIP. Quote bid $406.10 / ask $430.00 (wide ~$23.90 / 5.9% spread) at 6:37 AM PST = chase-execution flag and no clean structure formed. Pre-NFP / first-15-min vertical tape disqualifies entry per playbook no-chase gate. This is the seventh consecutive session AMD has not cleared the pullback-on-reclaim bar — the no-chase rule continues to do its job.
+- **AMZN (tier-2 backup):** SKIP. Bid $269.49 / ask $270.78 tight but no fresh own-catalyst, AMD didn't fail it just never set up. Re-arm post-NFP digestion Mon.
+- **NVDA / AVGO / MRVL / TSM / MU / QCOM / ARM / SMCI / INTC / META / MSFT / DIS / ASML:** SKIP per yesterday's pre-market — sympathy chase, out of theme, or post-print sell-the-news (ARM).
+- **AAPL HOLD:** +2.98% from entry — premkt printed new HWM $293.37, trail auto-bumped to $264.033 (~9.9% buffer). PEAD 60-day window open, Apple-Google Gemini collab optionality intact. No add, no trim.
+- **GOOGL HOLD:** +7.40% from entry, premkt slightly red intraday (-0.24%) but HWM $400.10 unchanged so trail stays at $360.09 (~9.3% buffer). +15% trail-tighten trigger requires close ≥$425.12 (~+7% more from current). No action today.
+- **Niche sleeve stays empty** — no 2.5:1 R:R idea cleared today.
+- **NFP-day rule from yesterday's EOD note:** "HOLD AAPL/GOOGL through the print; no pre-NFP fresh entries; let trails manage downside" — confirmed and applied.
+
+**Notes:** Friday NFP open exactly as Thu EOD planned. The seventh consecutive no-chase non-entry (AMD Wed AM/midday, ARM post-print Wed AMC, AMD Thu open/midday, AMD Thu close-out, AMD Fri open) keeps sleeve under-deployed at 16.9% vs 70-75% target — intentional ahead of NFP digest. Both held drifts in the green at the open: AAPL printed a fresh premkt HWM $293.37 (+2.98% from entry, trail auto-bumped to $264.033), GOOGL holds +7.40% from entry near the prior $400.10 HWM (trail $360.09 unchanged today). Day P&L +$15.39 / +0.16% so far, phase narrows to -$70.51 / -0.71% vs $10k baseline (best level since Day 5). Cash 83.1% preserves dry powder for a clean post-NFP setup Mon. Daytrade count 0/5 rolling = full defensive slate. Plan into midday: monitor AMD for a clean post-NFP pullback-on-reclaim with volume; HOLD AAPL/GOOGL drifts; let trails do the work; no fresh entries unless setup is A+ and risk-defined; weekly-review agent fires after the close to grade Week 3 (1 win-runner GOOGL drift, 2 stop-outs NVDA/PLTR, no entries Wed-Fri, sleeve under-deployed but disciplined).
