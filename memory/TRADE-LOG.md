@@ -274,3 +274,24 @@ Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: PLTR exit 
 Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 2/15 (NVDA exit Mon, PLTR exit Wed).
 
 **Notes:** Day finishes essentially dead-flat at -$0.01 / -0.00% on the day, equity $9,914.69 vs yesterday's $9,914.70 — a textbook "trail did the work, no entries forced" Thursday. AAPL tacked on a fractional +0.06% to close at $287.68 (+1.03% / +$8.83 from entry); GOOGL dipped a hair -0.03% to $397.92 but holds +7.64% / +$56.50 from entry with HWM still $400.10 / trail $360.09 (~9.5% buffer). Phase P&L unchanged at -$85.31 / -0.85% vs the $10k baseline. The full-day no-chase discipline streak now extends to six consecutive non-entries (AMD Wed AM/midday, ARM post-print Wed AMC, AMD Thu open/midday, plus today's HOLD-only close) — playbook gates working as designed; sleeve is intentionally light at 16.7% vs 70-75% target ahead of tomorrow's NFP. Stops untouched, both well-buffered, no tightening triggered (GOOGL +7.64% is the leader, well below the +15% threshold of $425.12 close). Daytrade count 0/5 rolling = full slate available for any defensive cut. Tomorrow (Friday) is **NFP day** — dominant overnight macro risk and the week's binary tape event. Plan: pre-market run handles NFP positioning rules; HOLD AAPL/GOOGL through the print; no pre-NFP fresh entries; let trails manage downside; weekly review fires after the close to grade Week 3 (1 win-runner GOOGL drift, 2 stop-outs NVDA/PLTR, no entries Wed-Thu, sleeve under-deployed but disciplined).
+
+## 2026-05-08 — Midday Scan (Week 3 Day 5, Friday — NFP day)
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $292.49 | +1.76% | +$23.25 (+2.72%) | $265.284 trail GTC (HWM $294.76) |
+| GOOGL | alpha | 2 | $369.67 | $398.51 | +0.13% | +$57.68 (+7.80%) | $361.206 trail GTC (HWM $401.34) |
+
+**Equity:** $9,930.29 | **Cash:** $8,255.80 (83.1%) | **Day P&L:** +$16.19 (+0.16%) | **Phase P&L:** -$69.71 (-0.70%)
+**Alpha sleeve:** $1,674.49 (16.9%). **Niche sleeve:** $0 (0%). **Trades this week:** 2 / 15 (NVDA exit Mon, PLTR exit Wed). **Open positions:** 2 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +2.72% (winner), GOOGL +7.80% (winner).
+- No stop tightening: no winner ≥ +15% (GOOGL +7.80% strongest, well below threshold of $425.12 close).
+- Trails auto-advanced post-NFP as HWMs stamped higher: AAPL HWM $292.13 → $294.76 lifted stop $262.917 → $265.284; GOOGL HWM $400.10 → $401.34 lifted stop $360.09 → $361.206.
+- No thesis breaks: GOOGL drift intact (Anthropic $200B cloud deal tailwind, +7.80% from entry); AAPL PEAD 60-day window open, new HWM $294.76 today on post-NFP risk-on relief.
+- Niche sleeve stays empty — no 2.5:1 R:R idea cleared today.
+- Sleeve under-deployed at 16.9% vs 70-75% target — intentional through NFP; weekly review fires at the close to grade Week 3 and consider re-deployment plan for Week 4.
+
+**Notes:** Quiet post-NFP midday — both held positions absorbed the print well, AAPL +1.76% intraday on risk-on tape (new session HWM $294.76 → trail auto-bumped to $265.284), GOOGL +0.13% holding the +7%+ drift (new HWM $401.34 → trail auto-bumped to $361.206). Equity nudges up to $9,930.29 (+$16.19 / +0.16% on the day), phase P&L narrows to -$69.71 / -0.70% vs the $10k baseline (best phase mark since the PLTR stop-out Wed). No actions required: no cuts, no manual tightens, no thesis breaks, no entries. The trail GTCs continue to do all the heavy lifting — both auto-advanced today on new HWMs. Cash 83.1% / alpha sleeve 16.9% remains intentional; the no-chase discipline streak now extends through NFP (no entries since Mon's NVDA exit). Plan into close: HOLD AAPL/GOOGL into the weekend; let GOOGL drift continue (a +15% trail-tighten still requires close ≥$425.12, ~+6.7% away); EOD agent will log the close and weekly review fires after the close to grade Week 3 (1 winner-runner GOOGL drift, 2 stop-outs NVDA/PLTR, no entries Wed-Fri, sleeve disciplined but under-deployed — Week 4 plan should consider whether the 70-75% target needs re-baselining or whether catalyst calendar continues to drive selective deployment).
