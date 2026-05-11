@@ -286,3 +286,26 @@ Alpha sleeve: $1,658.89 (16.7%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $1,679.18 (16.9%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 2/15 (NVDA exit Mon, PLTR exit Wed).
 
 **Notes:** Week 3 closes green on the day (+$20.29 / +0.20%) and Week 3 closes -$65.02 / -0.65% on the phase vs $10k baseline — best day of the week despite NFP being the binary risk event, with both held names ripping post-print. AAPL led the day +1.92% to $292.96 (new HWM $294.76, trail auto-advanced to $265.284 — ~9.4% buffer) and GOOGL added +0.54% to $400.14 (new HWM $401.977, trail $361.7793 — ~9.6% buffer). Both unrealized P&Ls expanded: AAPL +$24.67 / +2.89% from entry, GOOGL +$60.95 / +8.24% from entry. No actions required — no entries, no manual cuts, no tightens (GOOGL +8.24% remains below the +15% trigger of $425.12 close). The full-week no-chase discipline streak holds: zero forced entries Wed-Fri despite four candidate setups (AMD Wed AM/midday, ARM post-print Wed AMC, AMD Thu open/midday, AMD Fri eval) — playbook gates working as designed. Sleeve still intentionally light at 16.9% vs 70-75% target; cash 83.1% preserves dry powder for next-week setups. Daytrade count 0/5 rolling = full slate available. Week 3 grade goes to weekly review: 2 stop-outs (NVDA Mon -7.04%, PLTR Wed -7.59%), 1 winning runner (GOOGL drift +8.24%), 1 quiet hold (AAPL PEAD +2.89%), zero forced entries on chase tape — system discipline win even if P&L is shallow red. Monday plan: re-arm watchlist (AMD post-blow-off-and-reset, AMZN tier-2, sector rotation post-NFP), evaluate sleeve under-deployment with fresh setups, HOLD AAPL/GOOGL drifts; weekly review fires now to formally grade Week 3 and update strategy.
+
+## 2026-05-11 — Midday Scan (Week 4 Day 1, Monday)
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $292.16 | -0.40% | +$22.26 (+2.61%) | $265.284 trail GTC (HWM $294.76) |
+| GOOGL | alpha | 2 | $369.67 | $394.18 | -1.65% | +$49.02 (+6.63%) | $361.7793 trail GTC (HWM $401.977) |
+
+**Equity:** $9,920.55 | **Cash:** $8,255.80 (83.2%) | **Day P&L:** -$16.81 (-0.17%) | **Phase P&L:** -$79.45 (-0.79%)
+**Alpha sleeve:** $1,664.84 (16.8%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 2 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +2.61% (winner), GOOGL +6.63% (winner).
+- No stop tightening: no winner ≥ +15% (GOOGL +6.63% strongest, well below the $425.12 trigger close).
+- Trails unchanged — no new HWM stamps today (AAPL HWM $294.76 vs last $292.16; GOOGL HWM $401.977 vs last $394.18). Both stops well-buffered: AAPL ~9.2% above $265.284, GOOGL ~8.2% above $361.7793.
+- No thesis breaks: AAPL PEAD 60-day window still open (Q1 print 5/1), no fresh negative catalyst; GOOGL drift intact (Google I/O 5/19-20 ahead, Rosenblatt PT raise tailwind), mild pre-CPI digestion explains -1.65% day.
+- No new entries — per pre-market plan: no pre-CPI entries Monday, defer fresh capital until post-CPI Tue mid-session.
+- No intraday sharp movers requiring Perplexity addendum; both positions drifting within normal range.
+- Niche sleeve stays empty — no 2.5:1 R:R idea today.
+- Sleeve under-deployed at 16.8% vs 70-75% target — intentional ahead of CPI Tue 5/12 5:30 AM PST.
+
+**Notes:** Quiet midday — both held positions remain in the green despite a soft tape (AAPL -0.40%, GOOGL -1.65% on the day) ahead of tomorrow's CPI binary. No cuts, no tightens, no thesis breaks, no entries. Pre-market HOLD bias playing out as planned. Trails GTC managing downside (AAPL ~9.2% buffer, GOOGL ~8.2% buffer). Cash 83.2% / alpha sleeve 16.8% preserves full dry powder for post-CPI deployment Tue mid-session and AMAT/CSCO post-print drift setups Thu-Fri. Daytrade count 0/5 rolling = full slate for any defensive cut. Plan into close: HOLD AAPL/GOOGL; let trails do the work; no fresh entries pre-CPI; EOD agent will log close and sketch CPI Tue 5:30 AM PST gameplan.
