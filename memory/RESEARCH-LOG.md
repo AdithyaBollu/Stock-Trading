@@ -924,3 +924,112 @@ Bias toward TRADE — AMD is the cleanest post-earnings drift catalyst we've see
 8. **GOOGL +15% trail-tighten watch** — if intraday close ≥$425.12, cancel 10% trail and place 7% trail per rule. Today not yet in range.
 
 Bias: HOLD with conditional AMD entry. Patience over forced deployment ahead of NFP. Two solid drift positions in the green; preserving them through NFP > forcing a Day 2 chase trade.
+
+## 2026-05-11 — Pre-market Research (Monday — Week 4 Day 1, post-NFP +115K, CPI Tue 5:30 AM PST, CSCO/BABA Wed, AMAT Thu)
+
+### Account Snapshot (5:00 AM PST pull)
+- **Equity:** $9,926.89 | **Cash:** $8,255.80 (83.2%) | **Buying power:** $18,182.69 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $1,671.09 (alpha sleeve 16.8% — well under 70-75% target). **Niche sleeve:** $0.
+- **Phase P&L:** -$73.11 (-0.73%) vs $10,000 baseline.
+- **Open positions (2 / 10):**
+  | Ticker | Shares | Entry | Last (premkt/Alpaca) | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM |
+  |--------|--------|-------|----------------------|---------|----------------|-----------------------|-----|
+  | AAPL  | 3 | $284.74 | $293.01 | -0.11% | +$24.81 (+2.90%) | $265.284 | $294.76 |
+  | GOOGL | 2 | $369.67 | $396.03 | -1.19% | +$52.72 (+7.13%) | $361.7793 | $401.977 |
+- **This week's trades:** 0 / 15 (fresh week — counter resets).
+
+### Market Context
+- **NFP April (released Fri 5/8):** **+115K** vs +62K consensus (~+85% beat), prior March revised up +185K from +178K, unemployment steady **4.3%**, avg hourly earnings **+0.2% MoM / +3.6% YoY** (cooled vs +0.3% / +3.8% est). Reaction = mild risk-on, dollar slight gain, equities edged higher (S&P closed +0.84% week to ~7,399). Soft-landing narrative reinforced. NFP-driven rate-cut hopes trimmed.
+- **CPI Tuesday 5/12 5:30 AM PST = SINGLE BIGGEST CATALYST this week.** Forecast headline **~3.7% YoY** (vs 3.3% March), core +0.4% MoM. **Dominant binary** — hot print = bond yields up + tech compress; cool print = risk-on extension. Defer fresh entries until post-print Tue mid-session.
+- **PPI Wed 5/13 5:30 AM PST + Retail Sales Thu 5/14 5:30 AM PST** = secondary data weight.
+- **Earnings binaries this week:**
+  - **Wed 5/13 BMO — BABA Q4 FY26** (cons rev $35.8B, EPS $0.89). Not on watchlist (foreign/EM). No exposure.
+  - **Wed 5/13 AMC — CSCO Q3 FY26** (cons rev $15.54-15.58B / +10% YoY, EPS $1.04 / +8% YoY, FY guide $4.13-$4.17). Strong setup: Q2 was a beat-and-raise, 15/26 Strong Buy, AI orders ≥$2B/qtr watch metric. Not on focus watchlist but networking/AI-adjacent — note post-print reaction.
+  - **Thu 5/14 AMC — AMAT Q2 FY26** (cons rev $7.68B, EPS $2.66-2.68, guide $7.15-8.15B). **ON OUR SEMI WATCHLIST.** Strong Buy rating, $409-453 PT range. Pre-earnings setup candidate IF base + sector tailwind clear pre-print.
+- **FTNT just ripped last week** (cybersecurity peer halo).
+- **NVDA at new highs**, MU +15% last week on AI orders, TSM central to supply chain — semi rotation back into favor post-AMD blowout +19% session 5/6.
+- **WTI:** sources noisy (Robinhood prediction implies ~$96-100, Lines.com cites ~$58). Net: oil pulled back further off May highs on Iran de-escalation continuing. Energy still YTD leader by sector but momentum cooling.
+- **ES futures (ESM6):** mid-7,400s area premkt, +0.10% — mild risk-on, post-NFP digestion.
+- **VIX:** **17.19** (Fri 5/8 close, +0.64% on the day). Mid-teens regime persists; CPI Tue is the binary that could spike it.
+- **Sector momentum YTD 2026 (latest):**
+  - LEADERS: **Energy +22-26%**, Materials, Industrials, **Staples +10.7%**
+  - LAGGARDS: **Tech (recovering)**, Communications, Discretionary, Financials
+  - Implication: Held names (GOOGL drift, AAPL drift) sit on idiosyncratic catalysts. Tech recovery is intact post-AMD/NVDA/MU rotation but YTD leadership remains Energy/Materials/Industrials.
+- **Held-ticker news:**
+  - **AAPL (held @ $284.74, last $293.01):** Drift extending. Polymarket implies 70-91% odds of ≥$292 week of 5/11. iOS 27 / Gemini optionality narrative + $100B buyback floor. PEAD 60-day window still open (Q1 print was 5/1). No fresh negative catalyst. HWM $294.76 / trail $265.284.
+  - **GOOGL (held @ $369.67, last $396.03):** Drift extending. Rosenblatt raised PT $357→$393; consensus Moderate Buy avg PT $407.86 (high $407+, 47 Buy / 5 Hold). Google Cloud GenAI try-on with OTB Group + AI agent expansion = tailwinds. Minor: B.Metzler cut stake 19.7% Q4 (filing only), UK display-ads antitrust suit (low risk-weight). Google I/O 5/19-20 ahead = upcoming catalyst window. HWM $401.977 / trail $361.7793. +15% trail-tighten trigger requires close ≥$425.12 (~$29 / +7.3% away).
+
+### This Week's Earnings Calendar
+| Day | Ticker | BMO/AMC | Stance |
+|-----|--------|---------|--------|
+| Mon 5/11 | (none of focus) | mixed | SPG, STE, OVV, PLUG, MARA — not on watchlist |
+| **Tue 5/12** | (CPI 5:30 AM PST data) | data | **DOMINANT BINARY** — forecast 3.7% YoY |
+| **Wed 5/13** | **BABA** | BMO | Not on watchlist (foreign/EM). No exposure |
+| **Wed 5/13** | **CSCO** | AMC | Networking/AI-adjacent. Not focus but post-print sentiment read. AVOID pre-print exposure |
+| Wed 5/13 | PPI (data) | data | Secondary |
+| **Thu 5/14** | **AMAT** | AMC | **ON WATCHLIST.** Q2 cons rev $7.68B / EPS $2.66-2.68. Strong Buy. Pre-earnings setup candidate if base clear |
+| Thu 5/14 | Retail Sales | data 5:30 AM PST | Secondary |
+| Thu 5/14 | DE, JD | mixed | Not focus |
+| Fri 5/15 | (none of focus) | — | Quiet end |
+
+### Tech/Semi Watchlist (5/8 close quotes — pre-bell stale, bids tight where liquid)
+| Ticker | Last (close/quote) | Setup | Note |
+|--------|--------------------|-------|------|
+| AMD   | bid $432.99 / no ask (closed ~$435) | EXTENDED / FADE | Up 90%+ YTD post-blowout; Day 1 entry missed, Day 6+ = chase. No setup |
+| NVDA  | bid $206.65 / ask $228.03 (mid ~$217) | EXTENDED / NEW HIGHS | At new highs per market context; no clean pullback structure. SKIP unless deep pullback-on-reclaim |
+| AVGO  | bid $406.90 / ask $435 (mid ~$421) | NEUTRAL — wide quote | No own catalyst pre-CSCO; sympathy from CSCO/AMAT post-print possible. SKIP |
+| MRVL  | bid $159.40 / no ask | SKIP | No own catalyst |
+| TSM   | bid $349.76 / ask $467.36 (very wide) | SKIP | Quote spread too wide |
+| MU    | bid $700.42 / ask $782.94 (split noise) | EXTENDED | +15% last week on AI orders. Chase territory. SKIP |
+| QCOM  | bid $206.71 / ask $228.75 (mid ~$218) | NEUTRAL | No fresh catalyst |
+| INTC  | bid $118.14 / ask $129.54 (mid ~$124) | EXTENDED FADE | Off highs, no edge |
+| ARM   | bid $186.53 / no ask (close ~$190 area) | POST-PRINT SELL-THE-NEWS | Beat the print but tape faded. Drift invalidated unless multi-day base reforms. SKIP |
+| SMCI  | bid $33.03 / ask $36.51 | WEAK | Below threshold |
+| ASML  | bid $1,355.22 / ask $1,787.30 (very wide) | SKIP | No edge in quote |
+| **CSCO** | **bid $90.38 / no ask (close ~$96 area cited)** | **PRE-EARNINGS — AVOID** | Reports Wed AMC. Binary. SKIP pre-print, evaluate Thu drift only on clean beat+raise+volume |
+| **AMAT** | **bid $408.87 / no ask** | **PRE-EARNINGS WATCHLIST** | Reports Thu AMC. Cons setup strong (Strong Buy, beats 4 qtrs, +8.1% post-Q1). Pre-earnings entry only if base clears + Q1 momentum confirmed pre-print. Otherwise wait for post-print drift entry Fri |
+| AAPL  | $293.01 (held @ $284.74) | DRIFT EXTENDING | +2.90% from entry, PEAD 60d window open, HWM $294.76. HOLD trail |
+| GOOGL | $396.03 (held @ $369.67) | DRIFT WORKING | +7.13% from entry, HWM $401.977, Google I/O 5/19-20 ahead. HOLD runner. +15% tighten at $425.12 |
+| AMZN  | bid $272.70 / no ask | NEUTRAL | No fresh catalyst; pullback-on-reclaim entry remains the bar |
+| META  | bid $584.44 / no ask | DRIFT INVALIDATED | Skip |
+| MSFT  | bid $396.44 / no ask | NEUTRAL | Pass — no own catalyst |
+| BABA  | bid $140.02 / no ask | PRE-EARNINGS — AVOID | Reports Wed BMO. Not on focus watchlist anyway |
+
+### Trade Ideas
+1. **HOLD POSTURE primary** — two positions in the green (GOOGL +7.13% drift extending, AAPL +2.90% drift extending with PEAD window open). No adds, no trims. Trails do the work. CPI Tue 5/12 is the dominant binary this week — preserve drifts through the print.
+2. **AMAT — Alpha sleeve, pre-earnings setup candidate (Thu 5/14 AMC).**
+   - Catalyst: Q2 cons rev $7.68B / EPS $2.66-2.68; guide $7.15-8.15B; Strong Buy 25/37; FY26 EPS est $11.10 (+17.8% YoY); +8.1% post-Q1 reaction. AI capex + semi rotation tailwind.
+   - Entry: ONLY on a clean base above $400 with volume reclaim above prior week high pre-print Wed/Thu AM; pre-earnings setup. Size 10% (~$992 = 2 sh @ ~$410-415) under event-week cap. Stop -10% trail GTC immediately. Target +12.5% R:R 1.25:1.
+   - Risk: pre-earnings binary = could gap -8% on miss/guide-down. Decision: **post-earnings drift entry Fri 5/15 preferred** unless pre-print setup is A+ (volume base + sector tailwind confirmed).
+3. **CSCO post-earnings drift (potential entry Thu 5/14 if Wed AMC delivers clean beat+raise).**
+   - Catalyst: Wed AMC Q3 print. Cons rev $15.54-15.58B / EPS $1.04. Strong Buy 15/26. AI orders metric (≥$2B/qtr watch).
+   - Entry: ONLY on Thu open if CSCO gaps up >+3% on volume with verified beat+raise+forward guide hold. Plan B pullback-on-reclaim structure required. Size 10% (~$992 = ~10 sh @ ~$100). Stop -10% trail. Target +12.5% R:R 1.25:1.
+   - Risk: ARM lesson — beat-but-fade on a high bar. Verify volume + tape absorption before entry.
+4. **AVOID pre-print exposure on CSCO, AMAT, BABA** — binaries.
+5. **AVOID AMD, NVDA, MU (extended/chase), AVGO, MRVL, TSM, QCOM, INTC, ARM (post-print invalidated), SMCI, ASML, META, MSFT** — no clean setup, chase risk, or out of theme.
+6. **AAPL add?** NO — already 3 sh; PEAD drift mid-cycle; not adding mid-drift.
+7. **GOOGL add?** NO — runner; never add to a winner mid-drift.
+8. **Niche sleeve** — no 2.5:1 R:R idea clears today.
+
+### Risk Factors
+- **CPI Tue 5/12 5:30 AM PST = dominant binary.** Forecast 3.7% YoY headline / +0.4% MoM core. Hot print (≥3.9% / ≥0.5% core) = bond yields up → tech compress; cool print (≤3.5% / ≤0.3% core) = rate-cut hopes revive → risk-on extension. Defer all entries until post-print Tue mid-session.
+- **GOOGL trail-tighten approaching.** At +15% (close ≥$425.12) cancel 10% trail and place 7% trail per rule. Currently $396 = +7.13% from entry, ~$29 / +7.3% away from trigger. Monitor intraday.
+- **AAPL drift fragility.** Polymarket assigns 70% odds of ≥$292 this week = high prob in our zone. PEAD 60-day window still open. iOS 27 / Gemini optionality intact. Trail $265.284 = ~9.5% buffer; no add, no trim.
+- **CSCO Wed AMC binary** — sentiment proxy for AI/networking but not our position. Watch reaction for AVGO/CSCO/MRVL signaling.
+- **AMAT Thu AMC binary** — on watchlist. Pre-print exposure NOT planned unless A+ setup clears pre-Thu.
+- **Sector rotation continues to favor Energy/Industrials/Staples YTD.** Our drift names need own-catalyst lifts (GOOGL has Google I/O 5/19-20 ahead, AAPL has PEAD continuation). Tech rotation back-in-favor post-AMD/NVDA new highs is encouraging but not yet broad-based.
+- **Sleeve under-deployment** at 16.8% vs 70-75% target. Two consecutive Wed stop-outs in Week 3 (NVDA, PLTR) hollowed the alpha sleeve. Patience > forced re-deployment into a chase tape ahead of CPI.
+- **Daytrade count 0/5 rolling** — full slate available for defensive cuts.
+
+### Decision
+**HOLD-biased, conditional on AMAT/CSCO post-print setups later this week** — Monday with no fresh catalysts + CPI overhang Tuesday + earnings binaries Wed/Thu is NOT a session to force new capital. **Plan for market-open agent:**
+1. **No pre-CPI entries Monday.** Wait through Tue CPI 5:30 AM PST before deploying fresh capital.
+2. **HOLD AAPL and GOOGL** — no adds, no trims. Trails auto-bump on any new HWM stamp; AAPL HWM $294.76 → premkt at $293.01 means a new HWM at $295+ would auto-lift trail to ~$265.50; GOOGL HWM $401.977 → trail bumps if $402+ stamped.
+3. **GOOGL +15% trail-tighten watch** — if intraday close ≥$425.12, cancel 10% trail and place 7% trail per rule. Today not yet in range.
+4. **CSCO — POST-PRINT DRIFT candidate Thu 5/14** if Wed AMC delivers clean beat+raise+forward-guide hold AND Thu opens gap-up with pullback-on-reclaim structure. AVOID pre-print.
+5. **AMAT — POST-PRINT DRIFT candidate Fri 5/15** if Thu AMC delivers clean beat+raise AND Fri opens gap-up with pullback-on-reclaim structure. Pre-print entry only on A+ base setup which has NOT yet formed. AVOID pre-print otherwise.
+6. **AVOID** AMD, NVDA, MU (chase/extended), AVGO, MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML, META, MSFT, AMZN, BABA — no clean catalyst-driven setup or out of theme today.
+7. **Niche sleeve stays empty** — no 2.5:1 R:R idea today.
+8. **Save trade slots for:** (a) CSCO post-print drift Thu, (b) AMAT post-print drift Fri, (c) any A+ post-CPI setup that emerges Tue-Wed.
+
+Bias: HOLD. Two thesis-intact drifts in the green into a binary CPI week; preserving the drifts through Tue print > forcing a Monday entry on no fresh catalyst. Patience over forced deployment, conviction over chase. Sleeve under-deployment is intentional; AMAT/CSCO post-print drifts later this week are the cleanest catalyst-driven setups on the calendar.
