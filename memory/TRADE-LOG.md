@@ -298,3 +298,25 @@ Alpha sleeve: $1,679.18 (16.9%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $1,656.26 (16.7%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/15 (Week 4 starts fresh).
 
 **Notes:** Week 4 opens shallow red (-$25.30 / -0.25%) with GOOGL giving back -2.89% on the day from Friday's $400.14 NFP-relief print down to $389.23 — single biggest drag, unrealized still healthy at +$39.12 / +5.29% from $369.67 entry, trail $361.7793 holds (~7.0% buffer from $389.23 last). AAPL drifted fractionally -0.25% to $292.60 (still +$23.58 / +2.76% from entry, trail $265.284 ~9.3% buffer, HWM $294.76 unchanged). Phase P&L widens to -$87.94 / -0.88% vs $10k baseline — back near Week 3 EOW Wed lows but well above the prior NVDA/PLTR stop-out drawdown. No actions required: no manual cuts (both green from entry), no tightens (GOOGL +5.29% below +15% trigger, AAPL +2.76% below), no thesis breaks (GOOGL drift intact post-NFP relief reset, AAPL PEAD 60-day window open). The full-streak no-chase discipline carries into Week 4 — zero forced entries today, sleeve intentionally light at 16.7% vs 70-75% target, cash 83.3% preserving dry powder. Daytrade count 0/5 rolling. GOOGL trail buffer narrowing from ~9.6% to ~7.0% intraday warrants attention: if GOOGL prints another -3% session tomorrow it would test ~$377 (still above trail $361.78), but a -7% manual cut threshold from entry ($369.67) wouldn't trigger unless price dips below $343.80 — far from current. Trail GTC is the primary defense and well-placed. Tomorrow: re-scan watchlist (AMD post-blow-off-and-reset, AMZN tier-2, semis/MSFT sector check), evaluate any fresh post-NFP rotation setups for tier-1 alpha re-entry, HOLD AAPL/GOOGL drifts, let trails do the work, no forced deployment.
+
+## 2026-05-13 — Midday Scan (Week 4 Day 3, Wednesday)
+
+**Open positions (current intraday, ~9:00 AM PST):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $296.825 | +0.69% | +$36.26 (+4.24%) | $268.209 trail GTC (HWM $298.01) |
+| GOOGL | alpha | 2 | $369.67 | $398.60 | +2.90% | +$57.86 (+7.83%) | $361.7793 trail GTC (HWM $401.977) |
+
+**Equity:** $9,943.66 | **Cash:** $8,255.80 (83.0%) | **Day P&L:** +$28.76 (+0.29%) | **Phase P&L:** -$56.34 (-0.56%)
+**Alpha sleeve:** $1,687.86 (17.0%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 2 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Midday actions taken:** NONE.
+- No -7% manual cuts: AAPL +4.24% (winner), GOOGL +7.83% (winner). No losers anywhere near threshold.
+- No stop tightening: no winner ≥ +15% (GOOGL +7.83% strongest, well below threshold; +15% trigger requires GOOGL close ≥$425.12, AAPL ≥$327.45).
+- AAPL trail auto-advanced intraday: HWM $294.76 → $298.01 (new 52-wk high stamp), stop lifted $265.284 → $268.209 (~9.6% buffer from $296.825 last).
+- GOOGL trail unchanged: HWM $401.977 holds (no new HWM today), stop $361.7793 (~9.2% buffer from $398.60 last).
+- No thesis breaks: GOOGL drift extending post-CPI (Anthropic $200B cloud deal + Google I/O 5/19-20 catalyst window ahead), AAPL PEAD 60-day window open + WWDC 6/8 forward catalyst + fresh 52-wk high.
+- Sleeve under-deployed at 17.0% vs 70-75% target — intentional; post-CPI cool-print tape (equity +$28.76 intraday) is risk-on but no fresh A+ setup cleared the bar at this hour. CSCO Q3 AMC tonight = binary; AMAT Q2 AMC Thu = binary; both pre-print AVOID per playbook.
+- No intraday research call needed — both holds tracking thesis, no anomalous moves to investigate.
+
+**Notes:** Quiet midday — risk-on tape post-CPI (April print presumably landed cool given equity +$28.76 / +0.29% and GOOGL ripping +2.90%) with both held positions extending in the green. AAPL stamped a fresh 52-wk high $298.01 (up from prior anchor $294.76) — trail auto-advanced to $268.209, drift thesis intact and accelerating into WWDC. GOOGL recovered most of Mon's -2.89% drag with +2.90% today, drift back to +7.83% from entry; HWM $401.977 still the anchor and a Wed close above that print would auto-lift the trail. No -7% losers anywhere on the book, no tightens triggered (still need GOOGL ≥$425.12 or AAPL ≥$327.45 for the +15% step). Sleeve still intentionally light at 17.0% — Wed AMC has CSCO Q3 binary and Thu AMC has AMAT Q2 binary, both pre-print AVOID; post-print drift candidates remain Thu (CSCO) and Fri (AMAT) per pre-market plan. Cash 83.0% / daytrade count 0/5 rolling = full slate available. Plan into close: HOLD AAPL/GOOGL; monitor for fresh GOOGL HWM stamp above $401.977 (would auto-lift trail) and AAPL HWM continuation; CSCO post-print drift Thu remains the primary catalyst-driven setup on deck (clean beat+raise+gap-up>+3% with pullback-on-reclaim required); no pre-print exposure to CSCO/AMAT; EOD agent will log the close and the CSCO reaction.
