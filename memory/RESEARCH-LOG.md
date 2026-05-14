@@ -1134,3 +1134,44 @@ Bias: HOLD. Two thesis-intact drifts in the green into a binary CPI week; preser
 8. **Save trade slots for:** (a) AMAT post-CPI pre-earnings setup if A+, (b) CSCO post-print drift Thu, (c) AMAT post-print drift Fri.
 
 Bias: HOLD pre-CPI; conditional alpha entry only on cool print + AMAT A+ confirmation. Two thesis-intact drifts in the green into a binary CPI session; preserving them through the print > forcing a pre-CPI entry. Patience over forced deployment. Sleeve under-deployment is intentional; CSCO/AMAT post-print drifts Thu/Fri remain the cleanest catalyst-driven setups on the calendar.
+
+## 2026-05-14 — Pre-market Research (Thursday — Week 4 Day 4, inline w/ market-open; post-CSCO AMC beat+raise, AMAT AMC tonight)
+
+*Run inline at market-open (~6:37 AM PST) — no standalone pre-market entry existed for today.*
+
+### Account Snapshot (6:36 AM PST pull)
+- **Equity:** $9,946.83 | **Cash:** $8,255.80 (83.0%) | **Buying power:** $18,202.63 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $1,691.03 (alpha sleeve 17.0% — well under 70-75% target). **Niche sleeve:** $0.
+- **Phase P&L:** -$53.17 (-0.53%) vs $10,000 baseline. last_equity $9,957.65.
+- **Open positions (2 / 10):**
+  | Ticker | Shares | Entry | Last | Unrealized P&L | Stop (10% trail GTC) | HWM |
+  |--------|--------|-------|------|----------------|-----------------------|-----|
+  | AAPL  | 3 | $284.74 | $297.35 | +$37.83 (+4.43%) | $270.828 | $300.92 |
+  | GOOGL | 2 | $369.67 | $399.49 | +$59.64 (+8.07%) | $363.33 | $403.70 |
+- **Open orders:** 2 trailing-stop GTCs (AAPL $270.828 / GOOGL $363.33). No working entries.
+- **This week's trades:** 0 / 15 (Mon-Wed all 0).
+
+### Market Context
+- **S&P 500 futures:** ES +0.20% pre-bell (June E-mini +0.31%). Cash closed ~7,478 (5/13), six-week win streak intact post-CPI. Risk-on tone holding.
+- **VIX:** Mid-teens regime, no spot confirmed; no spike — CPI binary cleared Tuesday.
+- **Catalysts today:** Trump-Xi summit (5/14-15, AI/semi guardrails — semi headline risk), Powell→Warsh Fed Chair handoff Fri (rate-cut narrative tailwind), AMAT Q2 AMC tonight. No major US data release today.
+- **Sector momentum YTD:** Energy/Materials/Industrials lead; Tech recovering on AMD/NVDA/MU rotation. Our drifts (AAPL/GOOGL) are idiosyncratic-catalyst names.
+
+### Held-ticker check
+- **AAPL** (held @ $284.74, last $297.35): +4.43% from entry, PEAD 60-day window open, WWDC 6/8 forward catalyst. New HWM $300.92, trail $270.828 (~9% buffer). HOLD.
+- **GOOGL** (held @ $369.67, last $399.49): +8.07% from entry, drift intact, Google I/O 5/19-20 ahead. HWM $403.70, trail $363.33 (~9% buffer). HOLD.
+
+### Earnings — CSCO print (reported Wed 5/13 AMC)
+- **CLEAN BEAT + RAISE.** Q3 FY26: Revenue **$15.8B** (+12% YoY, vs $15.56B consensus, beat ~$240M). Non-GAAP EPS **$1.06** (+10% YoY, vs $1.04). FY26 revenue guide **raised to $62.8-63.0B** (from $61.2-61.7B). AI infrastructure orders cited as driver.
+- **Tape reaction:** prev close $101.91 → open $117.55 (**+15.3% gap up**). Session: dipped to $115.08 (-2.1% pullback held the gap), reclaimed and ran to HOD $119.35, holding $118-119 above VWAP $117.92. Textbook pullback-on-reclaim per the Tuesday playbook.
+- **AMAT** (Q2 AMC tonight): no pre-print exposure. Post-print drift candidate for Fri 5/15 if clean beat+raise.
+
+### Trade Decision — TRADE
+**CSCO post-earnings drift entry — alpha sleeve.** Tuesday's plan flagged CSCO Thu post-print drift as the cleanest catalyst setup on the calendar; conditions met cleanly:
+- Catalyst: Q3 beat + FY26 guide raise (documented above).
+- Gap-up >+3%: +15.3% — far exceeds.
+- Pullback-on-reclaim structure: open $117.55 → $115.08 → reclaimed HOD $119.35, holding above VWAP — confirmed, not a vertical chase.
+- Sizing: ~10% of equity = 8 shares @ ~$119 ≈ $952 (9.6%). Within alpha cap.
+- Stop: 10% trailing GTC. Target: +12.5%. **R:R 1.25:1** — clears the 1.2:1 alpha minimum.
+- Rule check: positions 2→3 ≤10 ✓ | weekly trades 0→1 ≤15 ✓ | daytrade count 0/5 ✓ | catalyst documented ✓.
+**HOLD AAPL + GOOGL** — both drifts thesis-intact, in the green, trails doing the work. No adds, no trims. **Niche sleeve stays empty** — no 2.5:1 R:R idea. **AMAT** — no pre-print exposure; revisit post-print Fri.
