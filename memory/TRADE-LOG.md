@@ -310,3 +310,24 @@ Alpha sleeve: $1,656.26 (16.7%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $1,700.84 (17.08%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/15 (Mon 0, Tue 0, Wed 0). Note: May 12 (Tue) EOD snapshot was missed — Alpaca last_equity $9,914.90 used as the Day P&L baseline for today.
 
 **Notes:** Strongest single day of Week 4 (+$41.74 / +0.42%) with both held names ripping — GOOGL led +3.85% to $402.28 (new HWM $403.70, trail auto-advanced to $363.33 ~9.7% buffer; now +8.82% / +$65.22 from $369.67 entry, drift extending past the prior $401.977 NFP peak), AAPL added +1.34% to $298.76 (new HWM $300.92, trail auto-advanced to $270.828 ~9.4% buffer; +4.92% / +$42.06 from entry, PEAD-continuation thesis intact). Phase P&L narrows to -$43.36 / -0.43% vs $10k baseline — best phase-P&L print since the NVDA/PLTR stop-outs reset the equity curve, recovering ~$44 from yesterday's Tue baseline of $9,914.90. No actions required: no manual cuts (both winners), no tightens (GOOGL +8.82% still below the +15% trigger of $425.12 close, AAPL +4.92% well below), no thesis breaks. Trail GTCs continue to do the work — both auto-advanced today on fresh HWMs. Sleeve still intentionally light at 17.08% vs 70-75% target; cash 82.9% preserves dry powder for a clean fresh setup. Daytrade count 0/5 rolling = full slate available. CPI day (Tue) passed without forcing an entry — no-chase discipline streak extends. Tomorrow: HOLD AAPL/GOOGL, monitor GOOGL drift for +15% trail-tighten trigger (would require ~$425.12 close — ~+5.7% more), re-scan watchlist (AMD post-blow-off-and-reset, AMZN tier-2, semis/MSFT sector check, fresh CPI-reaction setups), no forced deployment, let trails do the work.
+
+## 2026-05-14 — Midday Scan (Week 4 Day 4, Thursday)
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $298.78 | -0.03% | +$42.12 (+4.93%) | $270.828 trail GTC (HWM $300.92) |
+| CSCO  | alpha | 8 | $118.3175 | $116.51 | -1.53% | -$14.46 (-1.53%) | $106.956 trail GTC (HWM $118.84) |
+| GOOGL | alpha | 2 | $369.67 | $401.65 | -0.24% | +$63.97 (+8.65%) | $363.33 trail GTC (HWM $403.70) |
+
+**Equity:** $9,939.62 | **Cash:** $7,309.26 (73.5%) | **Day P&L:** -$18.03 (-0.18%) | **Phase P&L:** -$60.38 (-0.60%)
+**Alpha sleeve:** $2,631.73 (26.5%). **Niche sleeve:** $0 (0%). **Trades this week:** 1 / 15 (CSCO buy). **Open positions:** 3 / 10. **Daytrade count:** 1 / 5 rolling.
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +4.93% (winner), CSCO -1.53% (above threshold), GOOGL +8.65% (winner).
+- No stop tightening: no winner ≥ +15% (GOOGL +8.65% strongest, well below threshold).
+- No thesis breaks: GOOGL drift intact, AAPL PEAD 60-day window open, CSCO post-earnings-beat thesis intact (entered today on the Q3 print gap-up).
+- New position CSCO (8 sh @ $118.3175, trail GTC $106.956) was opened at today's market-open routine and is not yet in an earlier TRADE-LOG entry — captured here. Alpha sleeve, ~9.4% of equity (within 15% cap).
+- Sleeve under-deployed at 26.5% vs 70-75% target — intentional; no forced deployment.
+
+**Notes:** Quiet midday — AAPL (+4.93%) and GOOGL (+8.65%) both green and drifting, trails untouched and well-buffered. CSCO is the only red name at -1.53% intraday/from entry — normal post-earnings-entry digestion, far from the -7% manual cut and ~8.2% above its $106.956 trail. No cuts, no tightens, no thesis breaks, no entries. Equity $9,939.62 = -$18.03 / -0.18% on the day, phase P&L -$60.38 / -0.60% vs the $10k baseline. Daytrade count 1/5 rolling. No Discord alert — no action taken. Plan into close: HOLD all three, let trails do the work, EOD agent logs the full snapshot.
