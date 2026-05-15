@@ -144,3 +144,66 @@ Flat vs +1.64% benchmark and no trades executed, but the loss is procedural (aut
 
 ### Overall Grade: C
 Phase down -0.65%, week down -0.27% vs S&P +0.70% (-0.97% relative), 0/2 win rate. But: every exit was rule-driven, every non-entry was rule-driven, no manual overrides, no panic, no rule violations this week. P&L is shallow red on a tape that punished concentrated AI/data-name longs while rewarding broad-index drift; the system caught the losers on the way down (trail), held the winners (PEAD GOOGL/AAPL still in the book), and refused six chase setups. Discipline A, P&L D, weighted = C. Two consecutive weeks of "system worked, sleeve under-deployed" — if Week 4 is also under-deployed despite clean post-NFP setups, that's a strategy-tuning signal.
+
+## Week ending 2026-05-15
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $9,934.98 (Fri 5/8 EOD = Mon 5/11 AM) |
+| Ending portfolio | $9,945.20 |
+| Week return | +$10.22 (+0.10%) |
+| S&P 500 week | ~+0.5% (5/8 close 7,398.93; 5/15 close uncertain in cited data — Yahoo Finance Fri headline noted index sank into close, Mon-Wed run = green through CPI; estimate from triangulated daily closes) |
+| Bot vs S&P | ~-0.40% |
+| Alpha sleeve deployed | $2,635.94 (26.5% of portfolio) vs 70–75% target |
+| Niche sleeve deployed | $0 (0% of portfolio) vs 20–25% target |
+| Trades | 1 (W:0 / L:0 / open:3 carryover→ now AAPL/CSCO/GOOGL) vs 15/week limit |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A closed; best unrealized GOOGL +7.18% |
+| Worst trade | N/A closed; worst unrealized CSCO -0.34% |
+| Profit factor | N/A (no closed trades) |
+| Phase P&L | -$54.80 (-0.55% vs $10k baseline) |
+
+### Closed Trades
+| Ticker | Sleeve | Entry | Exit | P&L | Notes |
+| — | — | — | — | — | None closed this week — first zero-realized-loss week since launch |
+
+### Open Positions at Week End
+| Ticker | Sleeve | Entry | Close | Unrealized | Stop |
+| AAPL | alpha | $284.74 (5/1) | $300.08 | +$46.02 (+5.39%) | $272.88 trail GTC (HWM $303.20) |
+| CSCO | alpha | $118.3175 (5/14) | $117.91 | -$3.26 (-0.34%) | $106.956 trail GTC (HWM $118.84) |
+| GOOGL | alpha | $369.67 (4/30) | $396.21 | +$53.08 (+7.18%) | $363.33 trail GTC (HWM $403.70) |
+
+### What Worked
+- Trail GTCs continued to do all the work: zero manual cuts, zero overrides, AAPL trail auto-advanced multiple times intraweek on fresh HWMs ($300.92→$303.20) and GOOGL trail bumped to $363.33 on Wed's $403.70 HWM print
+- First zero-realized-loss week since launch — both legacy winners (GOOGL +7.18%, AAPL +5.39%) carried into Friday close, phase P&L improved from -$87.94 (Mon EOD) to -$54.80 (Fri EOD)
+- No-chase discipline held on Mon-Wed: AMD post-blow-off, AMAT pre-print, AMZN tier-2 all rejected — playbook gates intact through CPI (Tue) and CSCO/BABA/AMAT prints
+- CPI Tuesday navigated without forcing an entry — sleeve light by design through the binary print, then capital partially redeployed on confirmed beat-and-raise (CSCO) Thursday
+- Daytrade count reset to 0/5 rolling for the weekend — full PDT slate available for any defensive cut Mon
+
+### What Didn't Work
+- **CSCO fill discipline broke the playbook**: pre-market plan said size at the ~$98-100 pullback target zone with explicit "SKIP if ARM-style sell-the-news fade" gate, but the market-open agent filled at $118.3175 (near the intraday HOD of a +13% gap) — chased the gap rather than waiting for the pullback-on-reclaim structure; closed -0.41% from entry, the only red position into the weekend
+- Sleeve under-deployed at 26.5% vs 70-75% target — **fourth consecutive week** below 30%, the pattern is now signal not noise: either no-chase rule is too restrictive on the available tape, OR idea-generation is too narrow
+- Niche sleeve still empty (0%) — **fourth consecutive week** without a single 2.5:1 R:R idea clearing the bar; the prior weekly review flagged this as a remediation item but the pre-market routine has not yet been updated with an explicit niche screen
+- Underperformed S&P by ~-0.40% on the week — concentration in 3 names with one being a fresh chase entry that's underwater
+- May 12 (Tue) EOD snapshot was missed — process gap in daily logging, recovered via Alpaca last_equity baseline on Wed
+- AMAT post-print drift Friday was skipped — defensible after the CSCO chase lesson, but raises the question whether playbook gates are now reflexively rejecting alpha-tier post-earnings setups
+
+### Key Lessons
+- **Post-earnings drift entries on alpha-tier names still require the pullback-on-reclaim gate** — CSCO is the lesson: a +13% gap with no pullback is the same chase pattern that AMD has presented for 3 weeks; the size-down-to-event-week cap is necessary but not sufficient — entry timing must wait for structure or the entry is forfeit
+- The 10% trailing stop and -7% manual cut continue to be the system's strongest component — zero manual cuts needed in 5 days across 3 positions while both legacy winners extended drift
+- **Sleeve under-deployment is now a 4-week structural pattern**, not transient: the no-chase rule is correct but the sleeve gap (~50pts below the 70-75% target every week) needs a deliberate counter-policy — either widen the eligible-setup definition OR accept that this strategy is fundamentally a "wait for A+" approach that will spend long stretches in cash
+- **Niche sleeve dormancy is now critical**: 4 weeks of zero niche, two prior review cycles flagged it as a remediation priority, and the pre-market routine still has no formal niche screen. This is a process gap, not a market-availability gap
+- Phase P&L recovered ~$33 this week without any closed wins — proves the legacy book (GOOGL Q1 PEAD + AAPL Q2 PEAD) is doing the work; protecting these drifts via trail is the highest-value action right now
+
+### Adjustments for Next Week
+- KEEP: 10% trail GTC, -7% manual cut, no-chase pullback-on-reclaim gate, lastday_price verification, position sizing caps, daily EOD snapshot discipline (close the Tue gap)
+- TIGHTEN: For post-earnings drift entries, market-open agent must verify (a) gap-up-then-pullback structure is present in the first 15 min, AND (b) fill price is within $1 of the research plan's pullback target zone, OR explicitly downgrade the entry to "watchlist only" — CSCO Thu was a chase that the gate should have caught
+- ADD (mandatory next week): pre-market routine must produce an explicit niche-sleeve candidate list each session — FDA calendar, small-cap breakout scan, mid-cap post-earnings drift screen — even if every candidate is "skip", the screen must run. Four weeks of empty niche without a documented screen is procedurally indefensible
+- HOLD AAPL/CSCO/GOOGL into Mon — GOOGL **Google I/O 5/19-20** is the dominant near-term catalyst; do NOT pre-emptively trim, do NOT add (already 8% from entry, +15% trail-tighten trigger requires close ≥$425.12)
+- CSCO close-watch: -7% manual cut line is $110.04; below that on volume = manual cut. Above $118 reclaim = thesis confirming
+- Re-arm AMD watchlist for Mon-Tue only on a clean Day 5+ pullback structure (not the chaotic chase tape that has dominated 3 weeks)
+- Re-evaluate sleeve deployment policy if Week 5 is again below 30% despite Google I/O catalyst — that would be 5 straight weeks of structural under-deployment and the strategy tuning case becomes urgent
+
+### Overall Grade: C+
+Week return +0.10% vs S&P ~+0.5% (-0.40% relative), 0 closed trades, 1 questionable entry (CSCO chase, now -0.34%). But: first zero-realized-loss week since launch, phase P&L recovered ~$33, both legacy PEAD winners extended their drift (GOOGL +7.18%, AAPL +5.39%), trail GTCs auto-managed every position, no manual overrides, no panic. Discipline B+ (CSCO fill is the demerit), P&L C, trend B. Slight upgrade from last week's C — the system is producing on the held book, but the entry-side discipline slipped on CSCO and the 4-week sleeve under-deployment + 4-week empty niche sleeve pattern is now urgent. If Week 5 (with Google I/O catalyst arriving) doesn't see either (a) sleeve deployment crossing 40% on a clean setup, or (b) a niche sleeve entry from an explicit screen, the strategy tuning conversation moves to mandatory.
