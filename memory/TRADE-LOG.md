@@ -324,6 +324,27 @@ Alpha sleeve: $2,617.83 (26.4%). Niche sleeve: $0 (0%). Trades today: CSCO buy 8
 
 **Notes:** Day finishes shallow red (-$29.55 / -0.30%) — equity $9,927.09 vs yesterday's $9,956.64 logged EOD baseline. The drag is the fresh CSCO entry: market-open agent executed the planned post-earnings drift play (RESEARCH-LOG idea #5) but CSCO gapped far harder than the ~$98-100 plan target — it printed +12.99% on the day (lastday $101.87) and the fill landed at $118.3175, near the intraday high. Position closed -2.72% / -$25.74 from entry, 10% trail GTC set at $106.956 (HWM $118.84). AAPL drifted -0.23% to $298.19 (+4.72% / +$40.35 from entry, trail $270.828 ~9.2% buffer, HWM $300.92 unchanged); GOOGL eased -0.34% to $401.23 (+8.54% / +$63.13 from entry, trail $363.33 ~9.4% buffer, HWM $403.70 unchanged). No actions required at EOD: no -7% manual cuts (CSCO -2.72% well above threshold, AAPL/GOOGL green), no tightens (GOOGL +8.54% below the +15% trigger of $425.12 close), no thesis breaks. Phase P&L widens to -$72.91 / -0.73% vs $10k baseline. Sleeve deployment steps up to 26.4% (was 17.1%) with the CSCO add — still well below the 70-75% target but the first net-new alpha position since the NVDA/PLTR stop-outs. Cash 73.6%. Daytrade count 1/5 rolling. Concern: CSCO fill discipline — the entry chased a +13% gap rather than waiting for the pullback-on-reclaim structure the research plan required ("SKIP if ARM-style sell-the-news fade" / size at ~$98-100); the -2.72% close validates the chase-risk flag. Trail GTC now manages it. Tomorrow (Friday): AMAT post-print drift Fri 5/15 is the next calendar setup (RESEARCH-LOG idea #6) — evaluate only on clean beat+raise + gap-up with structure, no chase repeat; HOLD AAPL/GOOGL drifts; monitor CSCO for thesis confirmation vs further fade (-7% manual cut line is $110.04); weekly review fires after the close to grade Week 4.
 
+## 2026-05-18 — Midday Scan (Week 5 Day 1, Monday — UAE Barakah risk-off, NVDA pre-print week, GOOGL I/O eve)
+
+**Open positions (current intraday):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $295.78 | -1.48% | +$33.12 (+3.88%) | $272.88 trail GTC (HWM $303.20) |
+| CSCO  | alpha | 8 | $118.3175 | $116.70 | -1.28% | -$12.94 (-1.37%) | $107.4312 trail GTC (HWM $119.368) |
+| GOOGL | alpha | 2 | $369.67 | $400.4301 | +0.92% | +$61.52 (+8.32%) | $367.749 trail GTC (HWM $408.61) |
+
+**Equity:** $9,930.99 | **Cash:** $7,309.26 (73.6%) | **Day P&L:** -$18.20 (-0.18%) | **Phase P&L:** -$69.01 (-0.69%)
+**Alpha sleeve:** $2,621.73 (26.4%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 3 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Midday actions taken:** NONE.
+- No -7% manual cuts: CSCO -1.37% (well above -7%/$110.04 manual-cut line), AAPL +3.88%, GOOGL +8.32% — all clear.
+- No stop tightens: AAPL +3.88% and GOOGL +8.32% both below the +15% tighten trigger.
+- Trails auto-advanced intraday on fresh HWMs: **GOOGL HWM $403.70 → $408.61** (trail $363.33 → $367.749, ~8.2% buffer); **CSCO HWM $118.84 → $119.368** (trail $106.956 → $107.4312, ~8.0% buffer). AAPL HWM $303.20 unchanged (trail $272.88, ~7.7% buffer).
+- No thesis breaks: AAPL PEAD intact (HWM unchanged at 52-wk high), CSCO beat+raise + $1B restructuring intact, **GOOGL I/O 5/19-20 catalyst opens tomorrow** — runner stamped a fresh HWM mid-session, drift extending into the event window.
+- Sleeve under-deployed at 26.4% vs 70-75% target — intentional per pre-market plan (NVDA pre-print + UAE risk-off = no fresh longs; saving slots for PANW Wed / NVDA Thu post-print drift candidates).
+
+**Notes:** Quiet midday — risk-off backdrop digested without damage. AAPL gave back -1.48% intraday from a likely AM print but holds +3.88% from entry and trail unchanged. CSCO recovered slightly from yesterday's chase fill (-1.37% now vs -2.72% entry baseline) and stamped a fresh HWM intraday $119.368 — buffer healing further. GOOGL is the standout: +0.92% on the day to $400.43, fresh HWM $408.61 mid-session (above pre-market $403.70), trail auto-lifted to $367.749, +8.32% from entry — drift extending right into the I/O catalyst opening tomorrow. No Discord notification — no action required. Plan into close: HOLD all three, let trails do the work; CSCO manual-cut line $110.04 stays armed (~5.7% below current $116.70 = comfortable); no new entries per pre-market plan. EOD agent will set up Tue I/O catalyst window posture.
+
 ## 2026-05-15 — Midday Scan (Week 4 Day 5, Friday — Powell→Warsh handoff, AMAT post-print)
 
 **Open positions (current intraday):**
