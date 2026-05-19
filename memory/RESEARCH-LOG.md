@@ -1452,3 +1452,27 @@ Bias: **HOLD — three intact drifts, healthy trail buffers, sleeve intentionall
 7. **Trades this week: 0 / 15.** Full slate of 15 slots — discipline says deploy on A+ post-print drifts only, not pre-event chases.
 
 Bias: **HOLD — three intact drifts, healthy trail buffers (7.8-8.4%), sleeve intentionally light heading into a double-catalyst week (Google I/O Day 1 today + PANW AMC tonight + NVDA AMC tomorrow + FOMC minutes tomorrow). GOOGL is the cleanest tech-catalyst expression on our book — the runner IS the trade. Iran/Hormuz oil premium intact = additional risk-off lean. Post-print drift candidates (PANW Wed, NVDA Thu) are the disciplined deployment paths.** Patience > activity. No-chase discipline applies explicitly to all candidates this week. **The runner is the strategy.**
+
+### May 19 — Midday (9:00 AM PST) Snapshot
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +4.31% (winner), GOOGL +4.82% (winner), CSCO -2.55% (well above -7% line).
+- No stop tightening: no winner ≥ +15% (GOOGL +4.82% strongest, well below +15% threshold).
+- No thesis breaks: GOOGL drift intact (-2.38% intraday = textbook sell-the-news fade on I/O Day 1 — keynote 10 AM PT pending/in-progress, two-day event runs through Wed). AAPL PEAD 60-day window open. CSCO beat+raise thesis intact.
+- No new entries: pre-NVDA + I/O sell-the-news + Hormuz overhang = stand-down. Confirmed.
+
+**Position state (12:00 PM ET pull):**
+| Ticker | Entry | Last | Day Chg | Total P&L | Trail | Buffer from current | HWM |
+|--------|-------|------|---------|-----------|-------|---------------------|-----|
+| AAPL | $284.74 | $297.02 | -0.28% | +$36.84 (+4.31%) | $272.88 | 8.13% | $303.20 |
+| CSCO | $118.3175 | $115.30 | -3.01% | -$24.14 (-2.55%) | $107.4312 | 6.83% | $119.368 |
+| GOOGL | $369.67 | $387.49 | -2.38% | +$35.64 (+4.82%) | $367.749 | 5.09% | $408.61 |
+
+**Watch items into close:**
+- **GOOGL trail buffer 5.09%** — narrowest of the three (down from 7.8% at open as price fades). Still >3% rule and well above stop. If keynote reception turns negative and price slides further, trail does its job. No pre-event trim.
+- **CSCO manual-cut line $110.04** — current $115.30 is 4.6% above. Day -3.01% noted but not catastrophic; broad pre-NVDA semi/networking de-risk likely contributor. No volume-driven breach yet. Stay armed: if CSCO < $110.04 on volume → SELL 8 @ market.
+- **AAPL** — quiet day -0.28%, trail healthy. No action.
+
+**Sleeve balance:** Equity ~$9,920 (rough mark, slight intraday drawdown). Long market value $2,588.44 = ~26.1% alpha sleeve / ~73.9% cash. Niche 0%. Under-deployed vs 70-75% alpha target — intentional posture into NVDA-week binary + I/O reaction + FOMC minutes Wed. Cash preserved for post-print drift slots (PANW Wed AM, NVDA Thu AM).
+
+**Notes:** Quiet midday with the expected dynamic playing out — GOOGL fading into its own catalyst (I/O Day 1 keynote 10 AM PT), CSCO pulling back with the broader pre-NVDA semi de-risk, AAPL stable. No actions required: no cuts, no tightens, no thesis breaks, no entries. The "runner IS the trade" thesis remains the cleanest expression of today's catalyst — pre-event trim would be a discipline violation. Trail GTCs are doing the work. Plan into close: HOLD all three; let trails manage downside; do not pre-emptively trim or add ahead of PANW AMC tonight; do not chase semi names into NVDA T-1. EOD agent will log close marks and frame Wed plan (PANW post-print drift + FOMC minutes + NVDA AMC).
