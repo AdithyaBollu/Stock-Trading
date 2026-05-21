@@ -418,3 +418,33 @@ Alpha sleeve: $2,595.47 (26.2%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $2,598.26 (26.2%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/15 (Mon 0, Tue 0, Wed 0).
 
 **Notes:** Week 5 Day 3 closes essentially flat green (+$2.79 / +0.03%) — equity $9,907.52 vs yesterday's logged $9,904.73, clawing back ~$3 of Tuesday's -$41.66 I/O-fade drag. Mixed tape: AAPL led (+0.99% to $301.92, drift extending to +6.03% / +$51.53 from entry, HWM $303.20 unchanged so trail $272.88 holds, ~9.6% buffer); GOOGL stabilized (+0.35% to $389.00, +5.23% / +$38.66 from entry, trail $367.749 ~5.5% buffer) — Google I/O Day 2 ran without another leg down, the post-keynote fade did not extend. CSCO was the lone drag again (-0.92% to $114.31, now -3.38% / -$32.03 from $118.3175 entry, trail $107.4312 ~6.0% buffer); still ~3.7% above the $110.04 manual-cut line — the round-trip back into red persists but structure holds and it's nowhere near the cut/stop. Phase P&L -$92.48 / -0.92% vs $10k baseline, slightly better than yesterday's -$95.27. No actions required at EOD: no -7% manual cuts (CSCO -3.38% clear of the -7% / $110.04 line, AAPL/GOOGL green), no tightens (AAPL +6.03% and GOOGL +5.23% both well below the +15% trigger), no thesis breaks (AAPL PEAD 60-day window intact, GOOGL drift survived I/O without breakdown, CSCO beat+raise + $1B restructuring thesis structurally intact — tape soft but not broken). Trail GTCs remain primary defense; GOOGL ~5.5% buffer is the narrowest. Sleeve deployment 26.2% vs 70-75% target — intentional posture into NVDA earnings Thu + PANW print AMC today; no fresh longs ahead of known catalysts. Cash 73.8%. Daytrade count 0/5 rolling = full slate available. Tomorrow (Thu 5/21): **NVDA earnings** is the dominant catalyst — monitor for any clean post-print drift/reaction setup (no chase; structured pullback-on-reclaim only); HOLD AAPL/CSCO/GOOGL and let trails work; watch CSCO tape — break of $114 on volume brings the $110.04 manual-cut line (~3.7% below) into focus; no forced entries pre-print.
+
+## 2026-05-21 — Market Open (Week 5 Day 4, Thursday — post-NVDA print)
+
+**No new entries — no trades placed.**
+
+**Open positions (current intraday, ~6:36 AM PST):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $301.62 | -0.21% | +$50.64 (+5.93%) | $272.88 trail GTC (HWM $303.20) |
+| CSCO  | alpha | 8 | $118.3175 | $114.28 | -0.06% | -$32.30 (-3.41%) | $107.4312 trail GTC (HWM $119.368) |
+| GOOGL | alpha | 2 | $369.67 | $384.875 | -1.04% | +$30.41 (+4.11%) | $367.749 trail GTC (HWM $408.61) |
+
+**Equity:** $9,898.11 | **Cash:** $7,309.26 (73.8%) | **Day P&L:** -$10.52 (-0.11%) | **Phase P&L:** -$101.89 (-1.02%)
+**Alpha sleeve:** $2,588.85 (26.2%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 3 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**NVDA post-print drift candidate — SKIP. Decision rationale:**
+- **Print was a clean beat+raise:** Q1 FY27 rev $81.62B (vs ~$79.2B est), EPS $1.87 (vs ~$1.78), Data Center $75.2B, Q2 guide $91.0B ±2% (well above Street), dividend $0.01→$0.25 + $80B buyback. Fundamentals cleared the gate.
+- **But market reaction is MUTED, not a drift setup:** AH reaction -0.6% to -1%; stock had already run ~$198→$223 into the print (beat priced in). Today opened FLAT/down ($222.31 vs $223.48 prev close, low $220.37) then recovered to ~$226 near HOD $227.35. This is a sell-the-news-that-recovered tape, not a clean gap-up post-earnings drift.
+- **Entry would be a chase:** current $226 is ~13% above the pre-market plan's ~$200 entry zone and sitting near HOD only ~6 min into the session (first-15-min structure not even formed). Buying here = exactly the chase failure mode (CSCO/ARM/AMD lessons).
+- **No sector momentum tailwind:** AAPL -0.21%, GOOGL -1.04%, CSCO -0.06% — held names all soft/red on the day; the "sector positive reaction" gate is not met.
+- **R:R weak after the run-in:** at $226, 10% stop = $203.40 (risk $22.60/sh); +12% target = $253 is a stretch from a muted post-print reaction. Asymmetry gone.
+- Decision: preserve the slot. No chase.
+
+**HOLD AAPL / GOOGL / CSCO:**
+- No -7% manual cuts: CSCO -3.41% (above -7% / $110.04 line, ~3.7% buffer to cut line), AAPL +5.93%, GOOGL +4.11% — all clear.
+- No stop tightens: no winner ≥ +15% (AAPL +5.93% strongest, well below trigger).
+- No thesis breaks: AAPL PEAD 60-day window intact (HWM $303.20 = 52-wk high), GOOGL drift intact post-I/O (-1.04% day, no breakdown), CSCO beat+raise + $1B restructuring intact (tape soft but structurally fine).
+- All 3 trail GTCs verified working post-open (AAPL $272.88, CSCO $107.4312, GOOGL $367.749).
+
+**Notes:** No-entry market open. NVDA fundamentally beat+raised but the muted reaction + run-into-the-print + flat open + chase-territory price ($226 near HOD vs ~$200 plan zone) + soft held-name tape all argue SKIP — the no-chase discipline that prevented forced AMD/CSCO entries applies cleanly. Sleeve stays light at 26.2% vs 70-75% target — intentional; cash 73.8% preserves dry powder. Daytrade count 0/5. Plan into midday/close: HOLD all three, let trails do the work; re-eval NVDA only on a genuine post-blow-off pullback structure (not a HOD chase); CSCO manual-cut $110.04 stays armed if it breaks $114 on volume.
