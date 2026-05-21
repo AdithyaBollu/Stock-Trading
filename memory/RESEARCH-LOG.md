@@ -1476,3 +1476,82 @@ Bias: **HOLD — three intact drifts, healthy trail buffers (7.8-8.4%), sleeve i
 **Sleeve balance:** Equity ~$9,920 (rough mark, slight intraday drawdown). Long market value $2,588.44 = ~26.1% alpha sleeve / ~73.9% cash. Niche 0%. Under-deployed vs 70-75% alpha target — intentional posture into NVDA-week binary + I/O reaction + FOMC minutes Wed. Cash preserved for post-print drift slots (PANW Wed AM, NVDA Thu AM).
 
 **Notes:** Quiet midday with the expected dynamic playing out — GOOGL fading into its own catalyst (I/O Day 1 keynote 10 AM PT), CSCO pulling back with the broader pre-NVDA semi de-risk, AAPL stable. No actions required: no cuts, no tightens, no thesis breaks, no entries. The "runner IS the trade" thesis remains the cleanest expression of today's catalyst — pre-event trim would be a discipline violation. Trail GTCs are doing the work. Plan into close: HOLD all three; let trails manage downside; do not pre-emptively trim or add ahead of PANW AMC tonight; do not chase semi names into NVDA T-1. EOD agent will log close marks and frame Wed plan (PANW post-print drift + FOMC minutes + NVDA AMC).
+
+## 2026-05-21 — Pre-market Research (Thursday — Week 5 Day 4, **post-NVDA AMC beat+raise but sell-the-news AH**, Initial Claims 5:30 AM PST, Philly Fed)
+
+### Account Snapshot (5:50 AM PST pull)
+- **Equity:** $9,899.20 | **Cash:** $7,309.26 (73.8%) | **Buying power:** $17,208.46 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $2,589.94 (alpha sleeve 26.2%). **Niche sleeve:** $0.
+- **Phase P&L:** -$100.80 (-1.01%) vs $10,000 baseline. **Overnight mark (vs last_equity $9,908.63):** -$9.43 (-0.10%).
+- **Open positions (3 / 10):**
+  | Ticker | Shares | Entry | Last (Alpaca current) | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM | Buffer |
+  |--------|--------|-------|------------------------|---------|----------------|-----------------------|-----|--------|
+  | AAPL  | 3 | $284.74 | $301.00 | -0.41% | +$48.78 (+5.71%) | $272.88 | $303.20 | ~9.3% |
+  | CSCO  | 8 | $118.3175 | $113.93 | -0.37% | -$35.10 (-3.71%) | $107.4312 | $119.368 | ~5.7% |
+  | GOOGL | 2 | $369.67 | $387.75 | -0.30% | +$36.16 (+4.89%) | $367.749 | $408.61 | ~5.2% |
+- **Open orders:** 3 trailing-stop GTCs (AAPL $272.88 / CSCO $107.4312 / GOOGL $367.749). No working entries.
+- **This week's trades:** 0 / 15. 15 slots available.
+
+### Market Context
+- **DOMINANT THEME — NVDA reported Q1 FY27 AMC Wed 5/20: clean beat+raise, but the tape SOLD it.** Adj EPS **$1.87** vs $1.78 est (beat); revenue **$81.62B** vs ~$79.0B est (beat); gross margin **75.0%**; Q2 guide **$91B ±2%** (above Street). BUT management said it **expects $0 data-center revenue from China** (overhang), and the stock — up +1.3% in the regular session ($225.32 close) — slid **~-0.6% to -3% after-hours** on the call. Alpaca AH quote bid $214.85 / ask $222.54 (wide) = midpoint ~$218.7, **~-3% vs Wed close**. **This is a sell-the-news reaction, NOT a clean gap-up drift setup.**
+- **Indices rallied Wed regular session ahead of the print:** ES +0.96%, NQ +1.57% (recovering). Post-print AH softness in NVDA caps the follow-through read; semi complex will breathe with NVDA's cash open.
+- **Oil PULLED BACK ~-3.5%:** WTI ~$98.9-100.5, Brent ~$105.6-107.0 (Brent +1.38% on TradingEconomics but barchart/oilprice show -3.5% session). Still ELEVATED on the Hormuz premium but easing = mild risk-on tailwind vs prior sessions.
+- **VIX ~17.4-18.1** (17.43 Cboe/TradingView, 18.06 FRED 5/19 close). Moderate, sub-20, not stretched.
+- **US macro today:** **Initial Jobless Claims 8:30 AM ET (5:30 AM PST)** — prior 211K, consensus rising toward ~230K (soft-labor watch). **Philly Fed Index** + **Leading Economic Index 10:00 AM ET**. Treasury yields a live profit-taking catalyst per Schwab. No FOMC/CPI/PPI today (CPI 5/13, PPI 5/15, FOMC 5/7 all passed).
+- **Sector momentum YTD 2026:** LEADERS **Energy (+26% YTD thru 3/6, Hormuz-fed)**, **Consumer Staples (+10.7%)**, **Industrials (+9.6%)**, Materials. **Tech rebounded hard in April** (S&P Global: Tech led April) but is not the YTD leader; AI/semi remains our strategy focus.
+- **Held-ticker news:**
+  - **AAPL** (held @ $284.74, last $301.00, +5.71%): No fresh own catalyst. PEAD 60-day window from 4/30 print still open; stamped ATH $302.25 Wed (HWM $303.20 trail anchor). WWDC 6/8 forward. Trail $272.88 = ~9.3% buffer. Drift INTACT.
+  - **GOOGL** (held @ $369.67, last $387.75, +4.89%): Google I/O (5/19-20) behind us — drift SURVIVED the two-day event without breakdown (no extended sell-the-news leg). Trail $367.749 = ~5.2% buffer (narrowest). HWM $408.61 unchanged. Drift INTACT.
+  - **CSCO** (held @ $118.3175, last $113.93, -3.71%): No fresh news. Beat+raise + $1B restructuring thesis structurally intact; tape soft (round-trip back into red persists). Trail $107.4312 = ~5.7% buffer. **-7% manual cut at $110.04 = ~3.4% below current** (AH bid printed $109.51 on a thin/wide quote — NOT a real trade; watch the cash open). WATCH.
+
+### This Week's Earnings Calendar (Week 5 — refreshed)
+| Day | Ticker | BMO/AMC | Result / Notes | Our Stance |
+|-----|--------|---------|----------------|-----------|
+| Tue 5/19 | PANW | AMC | Reported — no qualifying drift entry taken (no A+ reclaim structure) | PASSED, no exposure |
+| **Wed 5/20** | **NVDA** | **AMC** | **Beat+raise (EPS $1.87 / rev $81.62B / Q2 guide $91B) BUT AH ~-3% sell-the-news + China DC $0 overhang** | **Drift gate FAILS on AH reaction — NO chase. Conditional reclaim-only (see ideas).** |
+| Wed 5/20 | TGT, LOW, TJX, MRNA | mixed | Reported | No exposure |
+| Thu 5/21 | WMT | BMO | Consumer health read | No exposure |
+| Thu 5/21 | AMAT, DE, NTES, INTU | mixed | AMAT passed last week — not chasing | No exposure |
+| Fri 5/22 | (lighter slate) | | | |
+
+**Held-ticker reporters this week: NONE.** AAPL/GOOGL/CSCO all reported in prior windows. No event-week sizing trigger on existing positions.
+
+### Tech/Semi Watchlist (5/20 close / AH quotes — wide pre-bell spreads)
+| Ticker | Last bid / ask | Setup | Note |
+|--------|----------------|-------|------|
+| **NVDA** | $214.85 / $222.54 (wide AH) | **POST-PRINT SELL-THE-NEWS — NO ENTRY** | Beat+raise but AH ~-3% vs $225.32 close + China DC $0. Gap-DOWN ≠ drift. Reclaim-only conditional. |
+| AMD | $423.89 / $467.14 (wide) | EXTENDED — NO SETUP | +100%+ YTD; chase territory. SKIP |
+| AVGO | $400.32 / $442.26 (wide) | NEUTRAL — AI sympathy | No own catalyst; NVDA sell-the-news overhang. SKIP |
+| MRVL | $174.35 / $193.38 (wide) | SKIP | No own catalyst |
+| TSM | $340.73 / no ask | SKIP | One-sided quote; no catalyst |
+| MU | $65.25 / no ask | ANOMALOUS QUOTE (apparent split-adjusted) | No catalyst. SKIP |
+| QCOM | $191.12 / $212.52 (wide) | NEUTRAL | No own catalyst |
+| ARM | $218.48 / no ask | SKIP | No clean setup |
+
+### Trade Ideas
+1. **HOLD POSTURE on AAPL / GOOGL / CSCO** — AAPL drift intact (+5.71%, ATH HWM $303.20, ~9.3% buffer); GOOGL drift survived I/O (+4.89%, ~5.2% buffer, narrowest); CSCO thesis structurally intact (-3.71%, ~5.7% buffer, -7% cut $110.04 ~3.4% below — the watch item). **No adds, no trims, no stop overrides. Trails are the defense.**
+2. **NVDA post-print drift — GATE FAILS, NO pre-emptive entry.** Beat+raise cleared the fundamental gates (EPS/rev/guide all beat), BUT the conditional required **gap-up + positive sector reaction + pullback-on-reclaim** — and the AH reaction is **negative (~-3%) + China DC $0 overhang**. Buying a gap-DOWN on a beat = catching a falling knife = explicit no-chase violation (CSCO/ARM lessons). **Conditional reclaim-only:** consider a small starter (10% event-cap, ~$990 = ~4-5 sh) ONLY if NVDA reclaims the **$225.32 Wed close on volume** intraday with clean pullback-on-reclaim structure above VWAP and spread <1%. Otherwise STAND DOWN.
+3. **No other watchlist name clears the bar** — AMD/MU extended/anomalous, AVGO/MRVL/TSM/QCOM/ARM no own catalyst + NVDA-fade overhang.
+4. **Niche sleeve stays empty** — no 2.5:1 R:R idea clears today.
+
+### Risk Factors
+- **NVDA sell-the-news contagion.** A beat+raise that the AI bellwether SELLS (~-3% AH, China DC $0) can drag the whole semi/AI complex at the cash open — and our GOOGL/CSCO (tech-adjacent) carry the thinnest buffers (5.2% / 5.7%). Trail GTCs absorb a normal -3 to -5% session; a sharp AI flush could test GOOGL trail $367.749. No pre-emptive action — let trails work.
+- **CSCO -7% manual-cut line $110.04 = ~3.4% below current $113.93** — the live watch. AH bid $109.51 was a thin/wide quote, not a trade. **If CSCO trades < $110.04 on volume at/after the cash open → SELL 8 @ market (manual rule).** Otherwise HOLD; trail $107.4312 is the backstop.
+- **Initial Claims 5:30 AM PST** — soft-labor surprise (toward ~230K) could spike rate-cut bets (risk-on) OR stoke growth-scare profit-taking. Either way trail GTCs sufficient for normal vol.
+- **Hormuz oil premium easing (-3.5% today) but intact** — geopolitical tail risk persists; any re-escalation re-spikes oil + risk-off.
+- **GOOGL trail buffer ~5.2% (narrowest)** — survived I/O without breakdown but a sympathetic AI-complex flush on NVDA fade is the scenario to watch.
+- **Sleeve under-deployment 26.2% vs 70-75% target** — intentional. The one A+ deployment path this week (NVDA post-print drift) failed its gate on the AH reaction. Forced deployment NOT warranted; cash preserves capacity for a clean reclaim setup or next week's catalysts.
+- **Daytrade count 0/5 rolling** — full slate available.
+
+### Decision
+**HOLD — no fresh entries; manage three intact positions and stay armed on the CSCO manual-cut line.** Every candidate failed the bar with documented reasons: **NVDA** (beat+raise but negative AH reaction = sell-the-news, gap-down ≠ drift, no-chase rule); **AMD/MU** (extended/anomalous); **AVGO/MRVL/TSM/QCOM/ARM** (no own catalyst + NVDA-fade overhang); **niche** (no 2.5:1 R:R idea). This is a genuine HOLD, not a reflex.
+
+**Plan for market-open agent (6:30 AM PST):**
+1. **HOLD AAPL / GOOGL / CSCO** — verify 3 trail GTCs still working post-open (AAPL $272.88 / CSCO $107.4312 / GOOGL $367.749). Any new HWM stamps auto-lift trails. No adds, no trims, no overrides.
+2. **CSCO manual-cut watch — PRIMARY ACTION ITEM.** If CSCO trades **below $110.04 on volume → SELL 8 @ market** (manual -7% rule). Otherwise HOLD; trail is backstop. AH bid $109.51 was thin — confirm on the real cash-open tape before acting.
+3. **NVDA reclaim-only conditional.** NO pre-emptive entry on the gap-down. ONLY consider a small starter (10% event-cap ~4-5 sh) if NVDA **reclaims $225.32 on volume** with pullback-on-reclaim structure above VWAP + spread <1%. Default = stand down.
+4. **NO other new entries.** Sell-the-news AI tape + no clean own-catalyst candidates = stand-down. Save slots.
+5. **Watch the open for NVDA-fade contagion** into GOOGL/CSCO (thinnest buffers); let trails manage — no pre-emptive trims.
+6. **Trades this week: 0 / 15.** Discipline says deploy on a clean reclaim only, not a beat-but-sold chase.
+
+Bias: **HOLD — three positions intact, NVDA's beat+raise was sold (drift gate failed), CSCO manual-cut line $110.04 is the live watch (~3.4% below). Oil easing + VIX moderate = mild risk-on, but the AI bellwether's sell-the-news caps conviction. Patience > activity. No-chase discipline applies explicitly to NVDA today — a gap-down on a beat is not a drift.**
