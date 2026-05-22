@@ -1476,3 +1476,33 @@ Bias: **HOLD — three intact drifts, healthy trail buffers (7.8-8.4%), sleeve i
 **Sleeve balance:** Equity ~$9,920 (rough mark, slight intraday drawdown). Long market value $2,588.44 = ~26.1% alpha sleeve / ~73.9% cash. Niche 0%. Under-deployed vs 70-75% alpha target — intentional posture into NVDA-week binary + I/O reaction + FOMC minutes Wed. Cash preserved for post-print drift slots (PANW Wed AM, NVDA Thu AM).
 
 **Notes:** Quiet midday with the expected dynamic playing out — GOOGL fading into its own catalyst (I/O Day 1 keynote 10 AM PT), CSCO pulling back with the broader pre-NVDA semi de-risk, AAPL stable. No actions required: no cuts, no tightens, no thesis breaks, no entries. The "runner IS the trade" thesis remains the cleanest expression of today's catalyst — pre-event trim would be a discipline violation. Trail GTCs are doing the work. Plan into close: HOLD all three; let trails manage downside; do not pre-emptively trim or add ahead of PANW AMC tonight; do not chase semi names into NVDA T-1. EOD agent will log close marks and frame Wed plan (PANW post-print drift + FOMC minutes + NVDA AMC).
+
+## 2026-05-22 — Pre-market Research (Friday — Week 5 Day 5, post-NVDA print, weekly-review day) [generated inline at market-open; no separate pre-market run today]
+### Account
+- Equity: $9,958.04
+- Cash: $7,309.26 (73.4%)
+- Buying power: $17,267.30
+- Daytrade count: 0/5 rolling
+- Sleeve status: Alpha $2,648.78 (26.6%), Niche $0 (0%), Cash 73.4%
+### Market Context
+- S&P 500: ~7,461 cash (+0.20%); ES futures ~7,482.75 (+0.22%) — modestly green at/near ATH
+- VIX: 17.44 (May 20 close, FRED) — calm, sub-18
+- WTI: no fresh sourced print; oil noted "fairly stable"
+- Today's catalysts: no major US data confirmed in sources; light Friday tape into weekly close
+- Earnings this week: NVDA (Wed AMC) Q1 FY27 beat — rev $81.62B vs $79.15B est, adj EPS $1.87 vs $1.78, DC rev $75.2B, Q2 guide $91.0B vs $87.2B est (big raise) — but stock SOLD THE NEWS, -1.8% Thu 5/21. No clean upside breakout.
+- Sector momentum: 8/11 S&P sectors green prior session, led by utilities, consumer discretionary, materials
+### Open Positions (live)
+| Ticker | Sleeve | Sh | Entry | Last | Unreal P&L | Stop (GTC trail 10%) | HWM |
+|--------|--------|----|-------|------|-----------|----------------------|-----|
+| AAPL | alpha | 3 | $284.74 | $307.97 | +$69.69 (+8.16%) | $277.605 | $308.45 |
+| CSCO | alpha | 8 | $118.3175 | $118.84 | +$4.18 (+0.44%) | $107.487 | $119.43 |
+| GOOGL | alpha | 2 | $369.67 | $387.03 | +$34.72 (+4.70%) | $367.749 | $408.61 |
+### Trade Ideas
+1. No A+ setup clears the checklist. NVDA beat-and-raise sold the news (-1.8%) → no post-earnings drift play. No other clean post-earnings breakout this week.
+2. Existing book: AAPL PEAD drift intact (fresh 52-wk highs, +8.16%), CSCO beat+raise reclaiming entry (+0.44%), GOOGL post-I/O drift holding (+4.70%). All trails healthy.
+### Risk Factors
+- Sleeve under-deployed (26.6% vs 70-75% alpha target) — intentional; no documented catalyst clears the bar today
+- Friday weekly close + NVDA sell-the-news = no momentum tailwind to chase
+- Index at ATH with VIX sub-18 — complacency / chase risk for fresh longs
+### Decision
+HOLD — No setup clears the entry checklist (no documented catalyst + R:R). NVDA's beat-and-raise sold the news, killing the only obvious drift candidate; no other clean post-earnings breakout. HOLD AAPL/CSCO/GOOGL — all green/flat, trails healthy, no -7% cuts (CSCO +0.44% nearest, well clear), no tightens (AAPL +8.16% best, below +15% trigger), no thesis breaks. Sleeve stays light by design — no forced deployment on a Friday into a sell-the-news tape. Weekly-review agent grades Week 5 this afternoon. Trades this week: 0/15.
