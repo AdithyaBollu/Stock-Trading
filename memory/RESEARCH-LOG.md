@@ -1476,3 +1476,69 @@ Bias: **HOLD — three intact drifts, healthy trail buffers (7.8-8.4%), sleeve i
 **Sleeve balance:** Equity ~$9,920 (rough mark, slight intraday drawdown). Long market value $2,588.44 = ~26.1% alpha sleeve / ~73.9% cash. Niche 0%. Under-deployed vs 70-75% alpha target — intentional posture into NVDA-week binary + I/O reaction + FOMC minutes Wed. Cash preserved for post-print drift slots (PANW Wed AM, NVDA Thu AM).
 
 **Notes:** Quiet midday with the expected dynamic playing out — GOOGL fading into its own catalyst (I/O Day 1 keynote 10 AM PT), CSCO pulling back with the broader pre-NVDA semi de-risk, AAPL stable. No actions required: no cuts, no tightens, no thesis breaks, no entries. The "runner IS the trade" thesis remains the cleanest expression of today's catalyst — pre-event trim would be a discipline violation. Trail GTCs are doing the work. Plan into close: HOLD all three; let trails manage downside; do not pre-emptively trim or add ahead of PANW AMC tonight; do not chase semi names into NVDA T-1. EOD agent will log close marks and frame Wed plan (PANW post-print drift + FOMC minutes + NVDA AMC).
+
+## 2026-05-22 — Pre-market Research (Friday — Week 5 Day 5, weekly-review day, Memorial Day long weekend ahead [Mon 5/25 CLOSED], post-NVDA-print week)
+
+**Account snapshot (pre-open):** Equity **$9,959.67** | Cash **$7,309.26 (73.4%)** | Buying power $17,268.93 | Long MV $2,650.41 | Daytrade count **0/5** rolling. Phase P&L vs $10k baseline: **-$40.33 / -0.40%** — fresh phase-best print (prior best -$43.36 May 13). Last equity $9,945.15 → +$14.52 overnight mark.
+
+**Sleeve status:** Alpha **$2,650.41 = 26.6%** (vs 70-75% target — intentionally light). Niche **$0 = 0%**. Cash 73.4%. Open positions **3/10**. Trades this week **0/15**.
+
+**Open positions (pre-open marks):**
+| Ticker | Sleeve | Sh | Entry | Last | P&L | Trail GTC | HWM | Buffer |
+|--------|--------|----|-------|------|-----|-----------|-----|--------|
+| AAPL  | alpha | 3 | $284.74 | $306.07 | +$63.99 (+7.49%) | $274.986 | $305.54 | ~10.2% |
+| CSCO  | alpha | 8 | $118.3175 | $119.35 | +$8.26 (+0.87%) | $107.4312 | $119.368 | ~10.0% |
+| GOOGL | alpha | 2 | $369.67 | $388.70 | +$38.06 (+5.15%) | $367.749 | $408.61 | ~5.4% |
+
+All 3 trail GTCs verified live (status:new). **CSCO finally positive** — reclaimed the $118.3175 chase-fill entry for the first time, drag fully healed. AAPL printing a fresh 52-wk high ($306.07 > HWM $305.54 → trail auto-lifts on first RTH trade). GOOGL drift intact post-I/O.
+
+**Market context:**
+- **Oil:** WTI ~$97 (back under $100), Brent ~$104-105 (Brent +2.37% on day). Off the highs — Hormuz/Iran premium easing but not gone.
+- **Indices/VIX:** S&P futures ~flat-to-slightly-green (low-quality sonar reads). **VIX 16.76** (down from 17.44) — calm tape.
+- **Catalysts:** Rising Treasury yields = mild profit-taking headwind (Schwab). AI/tech momentum intact; 2026 rotation/broadening theme (Energy/Industrials/Materials/Staples lead YTD; Tech/Comm/Discretionary/Financials in the *relative* lagging quadrant though absolute tech still up). Software bid on Figma beat+raise + MSFT-stake news.
+- **Earnings today BMO:** MDT (Medtronic) — not in our wheelhouse.
+- **Macro:** No FOMC/CPI/PPI today. State Employment 10am ET (minor). Quiet Friday into **Memorial Day long weekend — market CLOSED Mon 5/25**.
+
+**This week's earnings calendar:** NVDA printed Wed 5/20 AMC — digested without book damage (per trade log). No held-name reporters remain this week. (Note: one low-confidence sonar source floated NVDA 5/27 BMO next week — conflicts with our logged 5/20 print; treat as stale/ignore.) Next week is holiday-shortened.
+
+**Tech/semi watchlist (prior-close / after-hours quotes — all one-sided or stale, z:"C"):**
+| Ticker | Quote (bid/ask) | Setup | Note |
+|--------|-----------------|-------|------|
+| NVDA | $214.85 / — | NO ENTRY | One-sided AH; print already cleared 5/20. No clean structure pre-open. |
+| AMD  | $428.36 / $473.16 | EXTENDED | +100%+ YTD, wide spread. SKIP |
+| AVGO | $392.58 / — | NO CATALYST | One-sided AH. SKIP |
+| MRVL | $178.99 / $199.06 | NO CATALYST | Wide. SKIP |
+| TSM  | $351.06 / $463.97 | SKIP | Very wide AH spread. |
+| MU   | $65.25 / $764.80 | BAD QUOTE | Garbage AH spread. SKIP |
+| QCOM | $203 / $213 | NO CATALYST | Wide. SKIP |
+| ARM  | $252.53 / — | NO CATALYST | One-sided AH. SKIP |
+| SMCI | $33.44 / — | BELOW THRESHOLD | SKIP |
+| ASML | $1,361.45 / $1,826.28 | SKIP | Very wide AH. |
+
+No watchlist name offers a documented fresh catalyst + clean intraday structure pre-open; all quotes are stale/one-sided AH and cannot be evaluated for entry.
+
+**Trade ideas:**
+1. **HOLD AAPL / GOOGL / CSCO** — all three drifts thesis-intact, healthy trail buffers (AAPL ~10.2% + fresh 52-wk high, CSCO ~10.0% + just reclaimed entry, GOOGL ~5.4% post-I/O). Apple+Google Gemini-Siri partnership news = mild positive for both AAPL and GOOGL. No adds, no trims, no stop overrides.
+2. **NO NEW ENTRIES.** Friday into a holiday long weekend (Mon closed) + no A+ setup clearing the checklist + watchlist quotes all stale/one-sided AH = stand down. Not a forced-deployment tape.
+3. **CSCO add?** NO — thesis-confirmation phase, already ~9.6% of equity. Let it work.
+4. **Niche sleeve stays empty** — no 2.5:1 R:R idea clears today.
+
+**Risk factors:**
+- **GOOGL trail buffer ~5.4%** — narrowest of the three; well above the $367.749 stop and >3% rule. HWM $408.61 unchanged. Trail is primary defense.
+- **CSCO manual-cut line $110.04** — current $119.35 is ~7.8% above; just reclaimed entry. Stay armed: if CSCO < $110.04 on volume → SELL 8 @ market.
+- **Rising Treasury yields** — could pressure megacap multiples; normal-vol trails (VIX 16.76) sufficient.
+- **Oil/Hormuz tail** — easing (WTI < $100) but live. Buffers absorb a normal -3 to -5% session.
+- **Holiday-weekend gap risk** — Mon 5/25 closed; weekend headline risk into Tue 5/26 open. Trail GTCs persist through the close.
+- **Sleeve under-deployment 26.6%** — intentional; weekly-review this afternoon will reassess the chronic-light posture across the broader window. Not forcing a Friday entry.
+- **Daytrade count 0/5** — full slate.
+
+**Decision: HOLD — no fresh entries. Manage three intact drifts (CSCO reclaimed entry, AAPL fresh 52-wk high, GOOGL post-I/O) into a quiet Friday + Memorial Day long weekend.** Each watchlist name fails the entry bar (extended / no own catalyst / stale-wide AH quote / below threshold) — bias-to-trade rule respected, nothing clears.
+
+**Plan for market-open agent (6:30 AM PST):**
+1. **HOLD AAPL / GOOGL / CSCO** — verify 3 trail GTCs still working post-open (AAPL $274.986, CSCO $107.4312, GOOGL $367.749). AAPL HWM $305.54 (new high $306.07 should lift trail on first RTH trade), CSCO HWM $119.368, GOOGL HWM $408.61.
+2. **CSCO manual-cut watch** — if CSCO < $110.04 on volume → SELL 8 @ market. Else HOLD, no add.
+3. **NO NEW ENTRIES** — holiday-eve Friday, no A+ setup, watchlist quotes stale. Save the 15-trade slate.
+4. **Niche sleeve stays empty.**
+5. Weekly-review agent runs this afternoon — grade Week 5, reassess the persistent 26.6% under-deployment.
+
+Bias: **HOLD. Three intact drifts with healthy buffers, sleeve intentionally light into a holiday long weekend, no setup clears the bar. Patience > activity.**
