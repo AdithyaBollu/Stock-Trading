@@ -91,3 +91,22 @@ Every pre-market routine must surface companies reporting earnings this week and
 - Daily: track stops, thesis health, sector momentum, earnings calendar
 - Friday: full weekly review — grade the week, adjust strategy if 2+ weeks of evidence
 - Ongoing: tighten stops on winners per the schedule above
+
+## Deployment & Niche Activation Policy (added 2026-05-22, Week 5 review)
+Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target with an empty niche sleeve. The held book worked every week, but the cash drag was the primary driver of benchmark underperformance in up-weeks (-1.06% relative the week this was written). The no-chase gate is correct and stays; the fix is broadening *how* capital gets deployed, not lowering the quality bar.
+
+### Counter-policy 1 — Core-winner add path
+- A proven in-book alpha winner (currently green from entry, thesis intact, drift extending) OR a mega-cap sector leader in a confirmed uptrend may be added **without requiring a fresh earnings catalyst**.
+- Entry trigger: a normal 3–5% pullback to a **rising 20-DMA** with a **volume reclaim** off that level.
+- Sizing: ≤10% of equity per add; combined position must still respect the 15% per-alpha-position cap.
+- Still no-chase gated: never buy within 3% of the session HOD; never add into a vertical/extended move with no pullback structure.
+- Counts toward the 15-trade/week limit.
+- Purpose: lift sleeve deployment toward target on quality names already validated, rather than waiting only for the rare A+ post-earnings drift.
+
+### Counter-policy 2 — Mandatory niche screen
+- The pre-market routine MUST produce an explicit niche-candidate list **every session**: FDA calendar, small-cap breakout scan, mid-cap post-earnings drift.
+- At least one screened candidate must be logged with a take/skip reason — "no idea cleared" is only acceptable output AFTER the screen has demonstrably run.
+- Niche entries still require the 2.5:1 R:R thesis + -10% hard stop + ≤10% sizing.
+
+### Deployment floor (soft target, not a forced-trade mandate)
+- Target lifting alpha deployment toward 40%+ on the first qualifying core-add or A+ setup. This is a bias to act on quality, NOT a license to chase to hit a number — under-deployment is still preferable to a forced bad entry. The floor exists to counter the proven 5-week ceiling, not to override the no-chase gate.

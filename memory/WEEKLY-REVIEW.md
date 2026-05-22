@@ -207,3 +207,62 @@ Phase down -0.65%, week down -0.27% vs S&P +0.70% (-0.97% relative), 0/2 win rat
 
 ### Overall Grade: C+
 Week return +0.10% vs S&P ~+0.5% (-0.40% relative), 0 closed trades, 1 questionable entry (CSCO chase, now -0.34%). But: first zero-realized-loss week since launch, phase P&L recovered ~$33, both legacy PEAD winners extended their drift (GOOGL +7.18%, AAPL +5.39%), trail GTCs auto-managed every position, no manual overrides, no panic. Discipline B+ (CSCO fill is the demerit), P&L C, trend B. Slight upgrade from last week's C — the system is producing on the held book, but the entry-side discipline slipped on CSCO and the 4-week sleeve under-deployment + 4-week empty niche sleeve pattern is now urgent. If Week 5 (with Google I/O catalyst arriving) doesn't see either (a) sleeve deployment crossing 40% on a clean setup, or (b) a niche sleeve entry from an explicit screen, the strategy tuning conversation moves to mandatory.
+
+## Week ending 2026-05-22
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $9,943.71 (Fri 5/15 EOD = Mon 5/18 AM) |
+| Ending portfolio | $9,965.97 |
+| Week return | +$22.26 (+0.22%) |
+| S&P 500 week | +1.28% (5/15 close 7,408.50 → 5/22 close 7,503.26) |
+| Bot vs S&P | -1.06% |
+| Alpha sleeve deployed | $2,656.71 (26.7% of portfolio) vs 70–75% target |
+| Niche sleeve deployed | $0 (0% of portfolio) vs 20–25% target |
+| Trades | 0 (W:0 / L:0 / open:3 carryover) vs 15/week limit |
+| Win rate | N/A (no closed trades) |
+| Best trade | N/A closed; best unrealized AAPL +8.38% |
+| Worst trade | N/A closed; worst unrealized GOOGL +3.67% |
+| Profit factor | N/A (no closed trades) |
+| Phase P&L | -$34.03 (-0.34% vs $10k baseline) |
+
+### Closed Trades
+| Ticker | Sleeve | Entry | Exit | P&L | Notes |
+| — | — | — | — | — | None closed this week — second consecutive zero-realized-loss week |
+
+### Open Positions at Week End
+| Ticker | Sleeve | Entry | Close | Unrealized | Stop |
+| AAPL | alpha | $284.74 (5/1) | $308.61 | +$71.61 (+8.38%) | $280.251 trail GTC (HWM $311.39) |
+| CSCO | alpha | $118.3175 (5/14) | $120.55 | +$17.86 (+1.89%) | $108.711 trail GTC (HWM $120.79) |
+| GOOGL | alpha | $369.67 (4/30) | $383.24 | +$27.14 (+3.67%) | $367.749 trail GTC (HWM $408.61) |
+
+### What Worked
+- Trail GTCs auto-managed all three positions all week — AAPL trail stepped up four times on fresh 52-wk-high HWMs ($303.20→$311.39, stop $272.88→$280.251), CSCO trail lifted on its reclaim HWM ($119.368→$120.79). Zero manual cuts, zero overrides, zero panic — sixth straight week the stop system did its job
+- Held book carried the week to a fresh phase-best EOD print (-$34.03 phase P&L, prior best -$43.36 May 13): AAPL PEAD drift to a fresh 52-wk high (+8.38%), CSCO clawed all the way back above its chase-fill entry (-3.38% Wed → +1.89% Fri), GOOGL survived both Google I/O (5/19-20) and the NVDA print without a breakdown
+- No-chase / pullback-on-reclaim discipline held through a catalyst-dense week — PANW (Tue AMC) and NVDA (Wed AMC) post-print drift candidates were both pre-screened as conditional and neither produced the A+ structured pullback-on-reclaim entry, so neither was forced. The CSCO chase-fill lesson held: not a single repeat
+- CSCO recovery validated the "thesis intact, let the trail manage, don't panic-cut a structurally-fine name on a soft tape" call — round-tripped from -3.38% Wed back to +1.89% by Friday rather than being cut at the noise
+- Daytrade count ended 0/5 rolling — full PDT slate available for any defensive cut
+
+### What Didn't Work
+- **Underperformed S&P by -1.06%** (+0.22% vs +1.28%) — the single largest weekly relative miss of the phase, and the mechanism is unambiguous: 73% cash in a +1.28% index week. Cash drag, not stock-picking, drove the gap — the three held names were all green
+- **Sleeve under-deployed at 26.7% vs 70-75% target — FIFTH consecutive week below 30%.** The Week 4 review set an explicit Week-5 tripwire: cross 40% deployment OR add a niche position, else strategy tuning becomes mandatory. Neither happened. The tripwire is now triggered
+- **Niche sleeve empty (0%) — FIFTH consecutive week** without a single 2.5:1 R:R idea. The remediation item (a mandatory pre-market niche screen) has been flagged in THREE prior reviews and still has not been wired into the pre-market routine. This is now a hard process failure, not a market-availability excuse
+- Zero trades for the entire week — defensible given the catalyst-dense calendar (NVDA/PANW prints, I/O, UAE risk-off open), but five weeks of "system worked, sleeve light" is no longer transient; it is the strategy's defining behavior and it is costing measurable relative return in up-tapes
+- GOOGL trail buffer compressed to ~4.1-4.9% (narrowest in the book) post-I/O fade — not actionable (well above stop, thesis intact) but the runner has gone sideways-to-down for two weeks while AAPL does the heavy lifting
+
+### Key Lessons
+- The exit/stop system is the proven, durable edge — six weeks, zero manual overrides needed, every winner protected and extended via auto-trailing. This is not the thing to change
+- **The under-deployment is now demonstrably the primary source of benchmark underperformance.** Three of the five phase weeks the bot trailed the S&P, and in each the held names were fine — it was the cash that lost the race. A "wait for perfect A+" entry bar that keeps the book at ~27% for five straight weeks is not "patience > activity," it is a structural ceiling on returns that guarantees underperformance in any sustained up-market
+- The no-chase gate is correct in spirit but is being applied as a near-total entry veto. The fix is NOT to lower the quality bar to chase — it is to (a) broaden eligible-setup definitions to include adds to proven in-book winners on normal pullbacks, and (b) actually run the niche screen that has been promised for three weeks
+- Niche dormancy is a process gap, full stop — five weeks, zero documented systematic screens. "No idea cleared" is not credible when no formal screen was ever run
+
+### Adjustments for Next Week
+- KEEP: 10% trail GTC, -7% manual cut, no-chase/pullback-on-reclaim gate for fresh momentum entries, daily EOD snapshots, position sizing caps, lastday_price gap-up verification
+- **STRATEGY CHANGE (logged in TRADING-STRATEGY.md): added a Deployment & Niche Activation Policy.** Five weeks of evidence triggers the tuning the prior reviews committed to. Two concrete counter-policies: (1) a **core-winner add path** — proven in-book alpha winners (or mega-cap leaders in a confirmed uptrend) may be added on a normal 3-5% pullback to a rising 20-DMA with a volume reclaim, without requiring a fresh earnings catalyst, sized ≤10% per add and still no-chase gated; (2) a **mandatory niche screen** every pre-market session with at least one documented candidate + skip/take reason
+- HOLD AAPL/CSCO/GOOGL into next week — all three drifts intact, trails primary defense; watch GOOGL's ~4.1% trail buffer (narrowest) and whether its two-week sideways action is drift-exhaustion vs consolidation
+- Next-week deployment target: lift sleeve toward 40%+ via the new core-add path on the first clean pullback-to-MA in AAPL/GOOGL/CSCO or a confirmed mega-cap uptrend leader — NOT by chasing a gap
+- Run the niche screen Monday and every day after — FDA calendar, small-cap breakout scan, mid-cap post-earnings drift — and log it even if every candidate is a skip
+
+### Overall Grade: C
+Week return +0.22% vs S&P +1.28% (-1.06% relative — the worst weekly relative result of the phase), 0 trades, niche still empty for a fifth week. But: fresh phase-best EOD print, second straight zero-realized-loss week, all three held names green, CSCO fully recovered, trail system flawless again, no rule violations. Discipline A, execution-on-held-book A-, deployment/idea-generation D. The held book is genuinely working — the problem is there isn't enough of it. Five consecutive weeks of ~27% deployment is no longer a market-timing virtue; it is the structural reason the bot is losing to the index in up-weeks. Grade held at C (not lower, because nothing was done wrong tactically; not higher, because the strategic under-deployment the last two reviews flagged as urgent has now cost a full -1.06% relative week and the promised remediation finally had to be written into the rulebook rather than deferred a sixth time).
