@@ -451,3 +451,24 @@ Alpha sleeve: $2,598.26 (26.2%). Niche sleeve: $0 (0%). Trades today: none. Trad
 Alpha sleeve: $2,635.15 (26.5%). Niche sleeve: $0 (0%). Trades today: none. Trades this week: 0/15 (Mon 0, Tue 0, Wed 0, Thu 0).
 
 **Notes:** Week 5 Day 4 closes green (+$36.89 / +0.37%) — equity $9,944.41 vs yesterday's logged $9,907.52, the best up-day of the week and the strongest print since Monday. CSCO led the tape (+3.33% to $118.157), finally clawing back the chase-fill drag almost entirely — now just -0.14% / -$1.28 from the $118.3175 entry (trail $107.4312 ~9.1% buffer, comfortably above the $110.04 manual-cut line which sits ~6.5% below). AAPL extended its drift to a fresh 52-wk high (+0.76% to $304.56, +6.96% / +$59.46 from entry) — HWM stamped $305.54 intraday so the trail auto-advanced to $274.986 (~9.7% buffer). GOOGL eased fractionally (-0.21% to $388.1045) but holds +4.99% / +$36.87 from entry post-I/O (trail $367.749 ~5.2% buffer — narrowest of the three but well above stop, HWM $408.61 unchanged). Phase P&L narrows to -$55.59 / -0.56% vs $10k baseline, recovering most of Tuesday's I/O-fade drag. No actions required at EOD: no -7% manual cuts (CSCO -0.14%, AAPL/GOOGL green), no tightens (AAPL +6.96% is the strongest and well below the +15% trigger), no thesis breaks (AAPL PEAD intact on a fresh 52-wk high, CSCO beat+raise + $1B restructuring thesis intact and reclaiming hard, GOOGL drift survived both I/O and the post-NVDA tape). Trail GTCs remain primary defense. Sleeve deployment 26.5% vs 70-75% target — intentional posture; NVDA print (Wed AMC) cleared without book damage and no clean A+ post-print drift setup forced an entry. Cash 73.5%. Daytrade count 0/5 rolling = full slate available. Tomorrow (Fri 5/22): weekly-review agent grades Week 5 — HOLD AAPL/CSCO/GOOGL into the close of the week, let trails work; watch CSCO follow-through above $118 (entry reclaim in sight) vs any fade back toward $114; re-scan for fresh post-NVDA rotation setups, no forced deployment.
+
+## 2026-05-22 — Midday Scan (Week 5 Day 5, Friday)
+
+**Open positions (current intraday, 12:00 PM ET):**
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|------|---------|----------------|------|
+| AAPL  | alpha | 3 | $284.74 | $309.91 | +1.61% | +$75.51 (+8.84%) | $280.251 trail GTC (HWM $311.39) |
+| CSCO  | alpha | 8 | $118.3175 | $120.2301 | +1.72% | +$15.30 (+1.62%) | $108.486 trail GTC (HWM $120.54) |
+| GOOGL | alpha | 2 | $369.67 | $386.69 | -0.25% | +$34.04 (+4.60%) | $367.749 trail GTC (HWM $408.61) |
+
+**Equity:** $9,974.29 | **Cash:** $7,309.26 (73.3%) | **Day P&L:** +$29.14 (+0.29%) | **Phase P&L:** -$25.71 (-0.26%)
+**Alpha sleeve:** $2,665.03 (26.7%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 3 / 10. **Daytrade count:** 0 / 5 rolling.
+
+**Midday actions taken:** NONE.
+- No -7% manual cuts: AAPL +8.84%, CSCO +1.62% (well above the -7% / $110.04 cut line), GOOGL +4.60% — all clear.
+- No stop tightens: AAPL +8.84% is the strongest and well below the +15% trigger.
+- Trails auto-advanced on fresh HWMs: **AAPL HWM $305.54 → $311.39** (stop $274.986 → $280.251, ~9.6% buffer); **CSCO HWM $119.368 → $120.54** (stop $107.4312 → $108.486, ~9.8% buffer). GOOGL HWM $408.61 unchanged (stop $367.749, ~4.9% buffer).
+- No thesis breaks: AAPL PEAD intact on a fresh 52-wk high (HWM $311.39), CSCO beat+raise + $1B restructuring intact and now back above entry (+1.62%), GOOGL drift intact post-I/O / post-NVDA (-0.25% day, +4.60% from entry).
+- Sleeve under-deployed at 26.7% vs 70-75% target — intentional; no clean A+ post-NVDA drift setup, no forced deployment into Friday.
+
+**Notes:** Constructive midday — best phase-P&L print of the phase at -$25.71 / -0.26% vs $10k baseline (prior best -$43.36 May 13). AAPL is the standout, ripping +1.61% to a fresh 52-wk high $309.91 (+8.84% from entry, HWM $311.39 lifting the trail to $280.251); CSCO continues its reclaim (+1.72% to $120.2301, now +1.62% above the chase-fill entry for the first time meaningfully, fresh HWM $120.54); GOOGL eased -0.25% but holds +4.60% post-I/O, trail $367.749 (~4.9% buffer, narrowest of the three but well above stop, HWM $408.61 unchanged). All three trail GTCs confirmed working post-open. No Discord notification — no action required. Plan into close: HOLD all three, let trails do the work; CSCO manual-cut line $110.04 stays armed (~9.8% below current = comfortable); no new entries (routine scope is position management). Weekly-review agent fires after the close to grade Week 5.
