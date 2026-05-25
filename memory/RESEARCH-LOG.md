@@ -1476,3 +1476,123 @@ Bias: **HOLD — three intact drifts, healthy trail buffers (7.8-8.4%), sleeve i
 **Sleeve balance:** Equity ~$9,920 (rough mark, slight intraday drawdown). Long market value $2,588.44 = ~26.1% alpha sleeve / ~73.9% cash. Niche 0%. Under-deployed vs 70-75% alpha target — intentional posture into NVDA-week binary + I/O reaction + FOMC minutes Wed. Cash preserved for post-print drift slots (PANW Wed AM, NVDA Thu AM).
 
 **Notes:** Quiet midday with the expected dynamic playing out — GOOGL fading into its own catalyst (I/O Day 1 keynote 10 AM PT), CSCO pulling back with the broader pre-NVDA semi de-risk, AAPL stable. No actions required: no cuts, no tightens, no thesis breaks, no entries. The "runner IS the trade" thesis remains the cleanest expression of today's catalyst — pre-event trim would be a discipline violation. Trail GTCs are doing the work. Plan into close: HOLD all three; let trails manage downside; do not pre-emptively trim or add ahead of PANW AMC tonight; do not chase semi names into NVDA T-1. EOD agent will log close marks and frame Wed plan (PANW post-print drift + FOMC minutes + NVDA AMC).
+
+## 2026-05-25 — Pre-market Research (Monday — **MEMORIAL DAY, US MARKETS CLOSED**, Week 6 prep for Tue 5/26 open)
+
+### Account Snapshot (5:45 AM PST pull)
+- **Equity:** $9,964.94 | **Cash:** $7,309.26 (73.4%) | **Buying power:** $17,274.20 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $2,655.68 (alpha sleeve 26.6%). **Niche sleeve:** $0.
+- **Phase P&L:** -$35.06 (-0.35%) vs $10,000 baseline. **Overnight mark:** flat (market closed since Fri 5/22).
+- **Open positions (3 / 10):**
+  | Ticker | Shares | Entry | Last (Fri close) | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM |
+  |--------|--------|-------|------------------|---------|----------------|-----------------------|-----|
+  | AAPL  | 3 | $284.74 | $308.82 | flat (closed) | +$72.24 (+8.46%) | $280.251 | $311.39 |
+  | CSCO  | 8 | $118.3175 | $120.41 | flat (closed) | +$16.74 (+1.77%) | $108.711 | $120.79 |
+  | GOOGL | 2 | $369.67 | $382.97 | flat (closed) | +$26.60 (+3.60%) | $367.749 | $408.61 |
+- **Open orders:** 3 trailing-stop GTCs (AAPL $280.251 / CSCO $108.711 / GOOGL $367.749). No working entries.
+- **This week's trades:** 0 / 15 (Week 6 starts fresh — first session Tue 5/26).
+
+### Market Context — **HOLIDAY DAY, NO ACTION POSSIBLE TODAY**
+- **DOMINANT FACT — US MARKETS CLOSED TODAY for Memorial Day.** NYSE/Nasdaq closed Mon 5/25. Next session: **Tuesday 5/26 6:30 AM PST open.** No trades, no orders, no actions executable today. This entry frames the Tuesday open + the holiday-shortened week.
+- **Iran/Hormuz crisis EASING into the holiday.** Schwab market update (Fri 5/22): "Stocks Up Early on Iran Talks" — US-Iran peace-deal hopes the dominant risk-on driver into the long weekend. **WTI ~$91.65 Fri close** — DOWN sharply from last week's ~$103-107 range, premium unwinding as Strait of Hormuz reopens and military escalation rhetoric cools. Brent forecast ~$106 (EIA model) but spot dropping. **Net: oil premium unwinding = constructive for equity multiples, especially AI/tech lagging-sector beneficiaries.**
+- **Friday closed strong; S&P 500 in longest weekly rally since 2023** (per Bloomberg Open Interest 5/22). ES futures +0.35% Fri close. NQ also positive. Tape going into Tue 5/26 is risk-on / pro-rally.
+- **VIX 16.70 Fri close** — DOWN sharply from 18.43 two weeks ago and 17.82 last Mon. Mid-teens, fear draining out. **Tape complacent → tightens stops mentality for new entries, but no signal for forced action.**
+- **Sector momentum YTD 2026 (Schwab + First Trust + FinSyn refresh):**
+  - **LEADERS:** Energy (+22-26% YTD, top sector — but unwinding now on Iran calm), Consumer Staples (+10.7%), Industrials (+9.6%), Materials, Utilities (improving).
+  - **LAGGARDS:** Information Tech (rotation away from AI-only leadership), Comm Services, Consumer Discretionary, Financials.
+  - **Read-through:** Tech/Comm-Services laggard status applies to the sector AGGREGATE; our held drift names (AAPL/GOOGL) carry own catalysts (PEAD, post-I/O drift) that defy the aggregate. The "leadership broadening" trend (Utilities, Industrials, Materials) is the bigger watch — confirms cash-deployment-bias should look BEYOND pure AI/semi for fresh setups.
+
+### This Week's Earnings Calendar (Week 6 — holiday-shortened, **NO held-ticker reporters**)
+| Day | Ticker | BMO/AMC | Cons / Notes | Our Stance |
+|-----|--------|---------|--------------|-----------|
+| Mon 5/25 | — | — | **MARKET CLOSED** | NO ACTION |
+| **Tue 5/26** | **AZO** | **BMO** | AutoZone — auto retail | NO EXPOSURE (out of theme) |
+| Tue 5/26 | ZS | AMC | Zscaler — cybersecurity (tier-2 alpha sympathy) | **MONITOR for sector read; no pre-print entry, post-print drift candidate Wed if A+ beat+raise (PANW comp)** |
+| Wed 5/27 | CRM | AMC (likely) | Salesforce — enterprise SaaS | **NO position; MONITOR for AI-monetization read-through to GOOGL Cloud / mega-cap SaaS sentiment** |
+| Thu 5/28 | DLTR | BMO | Dollar Tree — discount retail | NO EXPOSURE |
+| Fri 5/29 | (lighter slate) | | | |
+
+**Held-ticker reporters this week: NONE.** AAPL/CSCO/GOOGL all reported in prior windows.
+**Tech/semi names reporting this week: NONE major** (no NVDA/AMD/AVGO/MRVL/MU/TSM/QCOM/ARM/INTC/SMCI/ASML this week — semi tape post-NVDA print = digestion mode).
+
+### Economic Calendar This Week (key data Thu)
+- **Tue 5/26:** Consumer confidence (May) AM ET — tier-2 macro. No FOMC.
+- **Wed 5/27:** Quiet.
+- **Thu 5/28:** **PCE inflation (April) 8:30 AM ET** — KEY EVENT OF WEEK. Personal Income + PCE Deflator. Also: Initial jobless claims 8:30 AM ET. Fed's preferred inflation gauge → can shift rate-cut expectations sharply.
+- **Fri 5/29:** Multivariate core trend inflation, NY Fed nowcast — tier-3.
+- **No FOMC decision, no CPI, no PPI, no NFP this week.** PCE Thu is the headline macro.
+
+### Tech/Semi Watchlist (Fri 5/22 close quotes — market closed, spreads wide post-close)
+| Ticker | Bid / Ask (one-sided post-close) | Setup | Note |
+|--------|-----------------------------------|-------|------|
+| **NVDA** | $205.63 / $227.80 (wide) | **POST-PRINT DRIFT — MUTED REACTION (-1.8% vs ±5.9% implied)** | Q1 FY27 $82B rev (+85% YoY), EPS $1.87 vs $1.77, raised guidance. Beat-and-raise but stock already priced it. **No clean A+ drift setup** — muted reaction = "cooling off" tape. SKIP unless Tue open offers structured pullback-on-reclaim above VWAP with volume; otherwise no chase. |
+| AMD | $446.78 / $493.73 (wide) | EXTENDED — NO SETUP | +100%+ YTD; chase territory. SKIP |
+| AVGO | $396.33 bid only | NEUTRAL | No own catalyst until next print. SKIP |
+| MRVL | $184.87 / $204.63 (wide) | NEUTRAL | No own catalyst. SKIP |
+| TSM | $350.87 / $465.93 (very wide) | SKIP | Quote spread too wide; no catalyst. |
+| MU | $65.25 bid only | RESET LOWER | Down sharply from prior $642 quote — possible large split or data artifact; verify Tue open. SKIP until quote stabilizes. |
+| QCOM | $226.64 / $249.75 (wide) | NEUTRAL | No own catalyst. SKIP |
+| ARM | $260.85 / $350.67 (very wide) | POST-PRINT INVALIDATED | SKIP |
+| SMCI | $33.45 / $37.69 | WEAK | Below threshold. SKIP |
+| ASML | $1,393.71 bid only | NEUTRAL — one-sided | SKIP. |
+| INTC | $114.19 / $126.30 (wide) | NEUTRAL | No own catalyst. SKIP |
+| **AAPL** | $290.70 / $321.37 — held @ $284.74, last $308.82 | **DRIFT — INTACT, 52-WK HIGH HWM $311.39** | +8.46%, PEAD 60-day window open (Q2 print 4/30), WWDC 6/8 forward. Trail $280.251 = ~9.3% buffer. HOLD |
+| **CSCO** | $112.41 bid only — held @ $118.3175, last $120.41 | **DRIFT — RECLAIMED ENTRY, HWM $120.79** | +1.77%, beat+raise + $1B restructuring + AI hyperscaler $9B order guide intact. Trail $108.711 = ~9.7% buffer; $110.04 manual-cut line ~8.6% below. HOLD |
+| **GOOGL** | $367.84 / $406.80 — held @ $369.67, last $382.97 | **DRIFT — POST-I/O FADE, INTACT** | +3.60%, post-I/O fade from HWM $408.61 stamped 5/19. Trail $367.749 = ~4.0% buffer (NARROWEST). I/O 2026 announcements (Gemini Omni multimodal, Android XR smart glasses, AI agents) intact. HOLD. **Trail buffer warrants attention if Tue open extends fade.** |
+| Mega-caps | META $577 / $672 (wide), MSFT $398 / $440, AMZN $254 / $282 | NEUTRAL — no own catalyst | SKIP until next earnings window |
+| PLTR | $130.49 / $144.32 | NEUTRAL — no own catalyst | SKIP |
+
+### Trade Ideas — **NO TRADES TODAY (market closed); framing for Tue 5/26 open**
+
+1. **HOLD POSTURE on AAPL / GOOGL / CSCO** through Tue 5/26 open. All three drifts thesis-intact with healthy trail buffers (AAPL 9.3%, CSCO 9.7%, GOOGL 4.0%). AAPL HWM $311.39 = fresh 52-wk high. CSCO reclaim above entry confirmed. GOOGL trail buffer narrowest at 4.0% — primary watch item. **No adds, no trims, no stop overrides into the Tue open.**
+
+2. **NO NEW ENTRIES Tue 5/26 absent A+ structure.** The setup for the week:
+   - **(a) Iran/Hormuz easing = constructive macro tailwind** for equity multiples (oil premium unwind).
+   - **(b) PCE Thu 5/28 is THE event** — pre-event positioning bias = no chase pre-data, post-event reaction trade if clean.
+   - **(c) NVDA post-print drift = MUTED (-1.8% actual vs ±5.9% implied)** = no clean A+ drift candidate from the May 20 print; whole semi complex digesting in cooling-off mode.
+   - **(d) Sleeve under-deployed at 26.6% vs 70-75% target** — counter-policy 1 (core-winner add path) eligible IF a 3-5% pullback to rising 20-DMA + volume reclaim materializes on AAPL/GOOGL/CSCO. None present at Friday's close.
+
+3. **POTENTIAL TUE 5/26 ENTRIES — conditional only, none A+ pre-bell:**
+   - **NVDA post-print drift (Tier-3 candidate, ALPHA sleeve eligible 10% size = ~$988 = ~4 sh at ~$222):** ONLY enter if (a) Tue open prints structured pullback-on-reclaim above VWAP with volume, (b) bid/ask spread <0.5% post-open (currently wide), (c) tape risk-on without inflation worry. **Default: SKIP given muted post-print reaction = no momentum.**
+   - **ZS post-print drift Wed 5/27 (NICHE sleeve eligible, 10% size = ~$988):** ONLY if (a) ZS prints clean EPS+rev beat + ARR re-accel + cyber tape positive, (b) gap-up >+3%, (c) first-15-min pullback-on-reclaim structure above VWAP with volume, (d) 2.5:1 R:R verifies on entry. **PANW chase-discipline lesson applies.**
+   - **Core-winner add (AAPL/GOOGL/CSCO):** ONLY on 3-5% pullback to rising 20-DMA + volume reclaim. None present — AAPL at HWM, CSCO at fresh HWM, GOOGL in post-I/O fade structure (not a clean pullback yet). Wait.
+
+4. **AVOID Tue 5/26:** AMD, MU, AVGO, MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML (all wide-spread, no own catalyst, semi-complex digesting post-NVDA). META, MSFT, AMZN, PLTR (no own catalyst). Defense names (LMT, RTX, NOC) — Iran easing reduces sector tailwind. Energy (XLE, individual oil names) — premium unwinding = no entry.
+
+5. **GOOGL trail buffer 4.0% — primary defense watch.** If GOOGL opens Tue with another -2 to -3% leg down, trail $367.749 comes into range. No pre-emptive trim — the trail does its job if breached. If post-I/O fade extends and stamps new lows on volume, accept the stop-out cleanly.
+
+6. **CSCO -7% manual-cut line $110.04 remains armed.** Current buffer ~9.7% on the trail, ~8.6% to the manual-cut line. Comfortable. No add (already 9.7% of equity, sub-15% alpha cap).
+
+7. **AAPL add?** NO — mid-drift at fresh 52-wk high, already 3 sh, WWDC 6/8 forward. Never add to a winner mid-drift at HWM.
+
+8. **Niche sleeve — mandatory screen (per Counter-policy 2):**
+   - **Cyber tier (ZS Tue AMC):** post-print drift Wed 5/27 conditional candidate (see #3). Take/skip = STAGED for Wed.
+   - **Enterprise SaaS (CRM Wed AMC):** post-print drift Thu 5/28 morning conditional candidate. Take/skip = STAGED for Thu.
+   - **Small-cap breakout scan:** Iran-calm/risk-on tape lifts small-cap risk appetite. No specific name surfaces from this Fri-close pull; will refresh Tue. SKIP today.
+   - **FDA calendar (biotech catalysts):** none surfaced from research; SKIP today.
+   - **Net niche output:** zero ready-to-fire ideas pre-bell Tue. Both candidates (ZS, CRM) are POST-print drift, not pre-print. **Niche sleeve stays empty into Tue open** — staged for Wed/Thu drift trades if A+ structure verifies.
+
+### Risk Factors
+- **GOOGL trail buffer 4.0% (narrowest).** Post-I/O fade structure from HWM $408.61 → $382.97 = -6.3%. If Tue extends down to ~$370, trail $367.749 is in range. Defense: trail does its job; no pre-emptive trim. **Watch this position above all others Tue.**
+- **PCE Thu 5/28 — binary inflation event.** Headline PCE could surprise hot (April energy spike from oil = +4.0% YoY CPI forecast per UMich RSQE) or cool (post-Iran-easing oil unwind = softer-than-feared print). Hot print = rate-cut expectations get pushed out → tech multiples compress. Cool print = risk-on extension. Pre-event posture = no chase, no fresh longs into Wed close.
+- **Iran/Hormuz tail-risk re-escalation.** Peace-talks narrative could reverse on any single headline. Oil premium snapback would hit equity multiples. Trail GTCs are primary defense; buffers 4.0-9.7% absorb a normal -3 to -5% session.
+- **Tech-sector laggard rotation persisting.** YTD Tech is LAGGING (per Investing.com sector rotation analysis). Our drift names defy this on own catalysts, but the sector aggregate gives no tailwind for fresh tech longs. Look BEYOND tech for fresh setups (Industrials, Materials, Utilities) if niche candidates surface.
+- **NVDA muted post-print = AI-tape cooling signal.** Whole AI/semi complex digesting; no A+ drift setup from the print. Implies sector consolidation, not crash — but no setup for fresh semi exposure.
+- **Holiday-shortened week = thin liquidity Tue + Fri.** Wide spreads at the open Tue (post-3-day weekend), low volume Fri pre-Memorial-Day-post weekend. Implication: chase risk amplified — pullback-on-reclaim discipline mandatory for any new entry.
+- **Sleeve under-deployment 26.6% vs 70-75% target — 6th consecutive week.** Weekly-review framework (added 2026-05-22) identifies this as the primary drag on benchmark performance in up-weeks. Counter-policy 1 (core-winner add path) and Counter-policy 2 (mandatory niche screen) both active. Still no A+ deployment trigger today, but the bias is to act on quality when the next pullback-to-rising-20-DMA setup forms on a held name OR a clean post-print drift forms on ZS/CRM.
+- **Daytrade count 0/5 rolling** — full slate available for any defensive cut Tue.
+
+### Decision
+**HOLD — MEMORIAL DAY, MARKET CLOSED. No trades executable today. Framing for Tue 5/26 open: continue HOLD on AAPL/GOOGL/CSCO; default to no fresh entry absent A+ structure (pullback-on-reclaim with volume, 1.2:1 R:R alpha or 2.5:1 R:R niche).**
+
+**Plan for market-open agent (Tue 5/26 6:30 AM PST):**
+1. **HOLD AAPL / GOOGL / CSCO** — no adds, no trims, no stop overrides. Verify trail GTCs still working post-open (3 GTCs: AAPL $280.251, CSCO $108.711, GOOGL $367.749). AAPL HWM $311.39, CSCO HWM $120.79, GOOGL HWM $408.61 — any new HWM stamps auto-lift trails.
+2. **GOOGL trail buffer 4.0% — primary watch.** If GOOGL opens with another -2 to -3% leg and tape breaks $370 on volume, trail $367.749 comes into range — let the GTC do its job, no pre-emptive trim. If GOOGL reclaims $385-390 on volume = post-I/O fade contained, drift thesis intact.
+3. **CSCO — manual-cut watch.** If CSCO trades below $110.04 on volume → SELL 8 @ market (manual -7% rule). Buffer ~8.6% below current; comfortable. No add at any price.
+4. **NO NEW ENTRIES Tue 5/26 absent A+ structure.** Iran-easing tape is constructive but PCE Thu remains the binary event of the week. Save trade slots for: (a) NVDA post-print drift IF Tue open prints clean pullback-on-reclaim above VWAP with volume (default SKIP given muted reaction), (b) ZS post-print drift Wed 5/27 IF A+ beat+raise, (c) CRM post-print drift Thu 5/28 morning IF clean print and PCE absorbed without damage.
+5. **AVOID** AMD, MU, AVGO, MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML (semi digesting post-NVDA), META, MSFT, AMZN, PLTR (no catalyst), Energy (premium unwinding), Defense (Iran easing reduces tailwind).
+6. **Niche sleeve stays empty into Tue open** — both eligible candidates (ZS Wed, CRM Thu) are POST-print drifts, not pre-print. Mandatory screen run today (per Counter-policy 2) — output: no pre-bell-ready niche idea; staged for mid-week post-print conditional candidates.
+7. **Counter-policy 1 (core-winner add):** Eligible IF AAPL/GOOGL/CSCO pulls back 3-5% to rising 20-DMA on volume reclaim Tue or later. None present at Fri close. Monitor.
+8. **Trades this week: 0 / 15 (Week 6 starts fresh Tue).** Full slate of 15 slots.
+
+Bias: **HOLD — three intact drifts (AAPL fresh 52-wk high, CSCO reclaimed entry, GOOGL post-I/O fade with narrowest 4.0% trail buffer), sleeve intentionally light heading into a holiday-shortened week with PCE Thu as the binary macro event. Iran/Hormuz easing = constructive equity backdrop but post-NVDA semi-complex digestion and tech-sector laggard rotation = no broad fresh-long tailwind. Default Tue posture = HOLD, manage trails, run niche screen daily, deploy ONLY on A+ post-print drift Wed/Thu if structure verifies.** Patience > activity. **No-chase discipline applies to ALL post-print candidates this week (NVDA, ZS, CRM).** The runner discipline (let trails work, let drifts run) remains the strategy core.
