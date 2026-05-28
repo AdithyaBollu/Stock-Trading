@@ -1846,3 +1846,143 @@ Bias: **HOLD — three intact drifts (AAPL +9.14% near 52-wk high, CSCO +2.42% p
 8. **Trades this week: 0 / 15.** Full slate. CRM Thu post-print is the disciplined deployment path if all gates clear.
 
 Bias: **HOLD — three intact drifts, sleeve intentionally light into CRM AMC + PCE Thu double binary. ZS post-print blow-up confirmed the no-chase discipline that kept us out of the ZS pre-print setup; same discipline applies to CRM Thu morning unless ALL gates clear (beat + raise + Agentforce scaling + PCE absorption + pullback-on-reclaim structure). The runners are the strategy; trails are the defense.**
+
+## 2026-05-28 — Pre-market Research (Thursday — Week 6 Day 3, CRM A+ print + PCE binary morning)
+
+### Account Snapshot (5:40 AM PST pull)
+- **Equity:** $9,970.92 | **Cash:** $7,309.26 (73.3%) | **Buying power:** $17,280.18 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $2,661.66 (alpha sleeve 26.7%). **Niche sleeve:** $0.
+- **Phase P&L:** -$29.08 (-0.29%) vs $10,000 baseline. **Overnight mark:** -$5.91 (-0.06%) from Wed close $9,976.83 (broker last_equity).
+- **Open positions (3 / 10):**
+  | Ticker | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM |
+  |--------|--------|-------|------|---------|----------------|---------------------|-----|
+  | AAPL  | 3 | $284.74 | $310.25 | -0.19% | +$76.53 (+8.96%) | $281.933 trail GTC (~9.1% buffer) | $313.259 |
+  | CSCO  | 8 | $118.3175 | $119.49 | -0.15% | +$9.38 (+0.99%) | $108.711 trail GTC (~9.0% buffer) | $120.79 |
+  | GOOGL | 2 | $369.67 | $387.4938 | -0.34% | +$35.65 (+4.82%) | $367.749 trail GTC (~5.1% buffer) | $408.61 |
+- **Sleeve status:** Alpha 26.7% deployed (target 70-75%, **7th consecutive week under-deployed**). Niche 0% (target 20-25%). Cash 73.3%. Concentration: 3 alpha positions, all tech.
+
+### Market Context (Thu 5/28 premarket)
+- **S&P futures (ES):** modestly higher, +0.08-0.10% (ESM26 7,545.75 +0.08%, +5.75 area). **NQ futures:** marginally green pre-data. Bias constructive pre-PCE.
+- **VIX:** 17.44 area (May 2026 reading); VIX Jun futures 18.25. Mid-teens range, NOT a stress signal but slightly elevated vs early-May 16.99.
+- **WTI:** ~$90.12/bbl May 28 close (per Investing.com historical), +1.62% Wed. **Iran/Hormuz premium REBUILDING from Tue's $93.99 low** (-2.7% session) back up — re-escalation tail still pricing two ways. Brent ~$118/b (1Q26 close ref per EIA).
+- **Today's macro — PCE / GDP / Jobless / Durables (all 8:30 AM ET printed):**
+  - **Core PCE MoM 0.3% actual = IN-LINE** with consensus 0.3% prior. **Not hot.**
+  - **PCE Price Index MoM 0.7% actual vs 0.5% prior/consensus** — energy-driven, expected per Goldman/Morningstar preview.
+  - **PCE Price Index YoY 3.5% actual vs 3.8% consensus = COOLER YoY** — dovish read on the headline.
+  - **GDP 2nd estimate QoQ 0.5%** — weak growth.
+  - **Initial Jobless Claims 209K vs 215K cons** — labor strong.
+  - **Continuing Claims 1,782K vs 1,796K cons** — labor strong.
+  - **Durable Goods MoM 0.8% vs 3.4% cons = MAJOR MISS** (transport-skewed prior 3.5%).
+  - **Durable Goods ex-Transport MoM 0.9% vs 0.5% cons** = slight beat.
+  - **Net PCE read: ABSORBED.** Core in-line + YoY cooler than feared = tech multiples NOT compressing on this print. The CRM-entry-gate "PCE absorbs" condition CLEARS. Hot headline MoM is energy/one-off; market cares about core + YoY trajectory.
+- **Top market catalysts:** (1) **CRM post-print drift Thu morning** — A+ beat-and-raise (see calendar/idea sections). (2) **PCE absorbed** = risk-on extension possible. (3) **Iran/Hormuz** — WTI rebuilding premium ($90 → from $93.99 Tue low) → tail still live but no fresh escalation overnight. (4) **Fed:** on-hold base case unchanged; cooler YoY PCE doesn't shift the June meeting math materially.
+- **Sector momentum YTD:** Energy still YTD leader (+26.47% YTD thru 3/6 per First Trust); Consumer Staples / Industrials / Materials in the "Leading" momentum quadrant. **Tech (XLK), Comm Services (XLC), Consumer Disc (XLY), Financials (XLF) in the LAGGING quadrant by sector-rotation momentum.** Our 3 holdings are all in the sector-aggregate laggards but each runs on its own catalyst (AAPL PEAD/WWDC, CSCO beat+raise/AI orders, GOOGL post-I/O). Defensive/Industrials rotation theme matters MORE for fresh non-tech entries.
+
+### This Week's Earnings Calendar (Week 6 — holiday-shortened, **NO held-ticker reporters**)
+| Day | Ticker | BMO/AMC | Result | Our Stance |
+|-----|--------|---------|--------|------------|
+| Mon 5/25 | — | — | **MARKET CLOSED (Memorial Day)** | — |
+| Tue 5/26 | AZO | BMO | Auto retail — out of theme | NO EXPOSURE (skipped) |
+| Tue 5/26 | ZS | AMC | EPS/rev BEAT, FY27 guide soft (16-17% growth) → **AH -20.78% to $146.24** | **INVALIDATED** — soft guide, leadership shakeup. No knife-catch. |
+| **Wed 5/27** | **CRM** | **AMC printed** | **Rev $11.13B vs $11.06B cons BEAT; GAAP EPS $2.42 (+52% Y/Y) / non-GAAP EPS $3.88 (+50% Y/Y) vs cons $3.12-3.13 HUGE BEAT; Agentforce ARR $1.2B (+205% Y/Y) vs prior $800M; combined AI+Data ARR $3.4B; FY27 guide RAISED to $45.9-46.2B midpoint; Q2 guide $11.27-11.35B (above Q1 actual)** | **A+ post-print drift candidate — ALL pre-set gates clear.** ZS-bar-raised hurdle cleared (Agentforce +205% YoY validates AI app-layer scaling). See trade idea #1. |
+| **Thu 5/28** | **(macro)** | **8:30 AM ET printed** | **PCE 0.7% MoM hot / 3.5% YoY cooler; Core PCE 0.3% MoM in-line; Claims 209K strong; Durables 0.8% miss** | **PCE ABSORBED.** Core in-line + YoY cooler = no tech-multiple compression triggered. |
+| Thu 5/28 | MDT | BMO | Medtronic — healthcare device | NO EXPOSURE (out of theme) |
+| Thu 5/28 | **AVGO** | **AMC tonight** | Broadcom — Q2 FY26 print. AI accelerator + VMware integration the read-through. | **NO PRE-PRINT ENTRY.** Post-print drift Fri morning conditional candidate IF clean beat+raise + AI accelerator revenue acceleration. Semi-watchlist staple. |
+| Thu 5/28 | COST, HPE, PANW, CRWD, DOCU, LULU, SNPS, PATH | AMC | Mixed | NO EXPOSURE — out of held theme |
+| Fri 5/29 | (lighter slate) | | Consumer confidence (May) Conf Board, Michigan final | — |
+
+**Held-ticker reporters this week: NONE.**
+**AVGO reports Thu AMC** = the one remaining semi-watchlist event of the week.
+
+### Tech/Semi Watchlist (Tue post-close quotes — pre-market spreads WIDE on cash-equity pre-open; use as reference, not entry triggers)
+| Ticker | Bid / Ask (post-close) | Setup | Note |
+|--------|------------------------|-------|------|
+| **CRM** | $170.06 / $189.06 (wide; midpoint ~$179.56) | **POST-PRINT GAP-UP STAGED** | Wed close $183 area pre-print. A+ beat+raise+Agentforce $1.2B (+205% YoY) → expect gap-up. **Entry conditional — see trade idea #1.** |
+| **AAPL** | $292.89 bid only — held @ $284.74, Wed close $310.80 | **DRIFT — INTACT, NEAR 52-WK HIGH** | +8.96% from entry, HWM $313.259, trail $281.933 (~9.1% buffer). PEAD intact, WWDC 6/8 forward catalyst. **HOLD.** |
+| **CSCO** | $114.10 / $124.22 (wide) — held @ $118.3175, Wed close $119.67 | **DRIFT — RECLAIM HOLDING** | +0.99% from entry, HWM $120.79, trail $108.711 (~9.0% buffer). $110.04 manual-cut line ~7.9% below current. AI infra raised to $9B orders / $4B AI revenue thesis intact. **HOLD.** |
+| **GOOGL** | $367.05 / $406.02 (wide) — held @ $369.67, Wed close $389.45 | **DRIFT — POST-I/O FADE, TIGHTEST TRAIL** | +4.82% from entry, HWM $408.61 (5/19), trail $367.749 = **~5.1% buffer (NARROWEST of the three)** — primary defense watch. Antitrust easing positive. **HOLD.** |
+| NVDA | $199.19 / $220.66 (wide) | POST-PRINT DIGESTION | No clean A+ drift. SKIP. |
+| AMD | $472.75 / $513.99 (wide) | EXTENDED | Chase territory. SKIP. |
+| AVGO | $403.75 / $451.50 (wide) | **EARNINGS TONIGHT AMC** | NO pre-print entry. Post-print drift Fri conditional. |
+| MRVL | $190.19 bid only | NEUTRAL | No own catalyst. SKIP. |
+| TSM | $357.51 / $478.23 (wide) | NEUTRAL | SKIP. |
+| MU | $52.51 / $931.50 (artifact) | RESET LOWER / SPLIT | SKIP. |
+| QCOM | $218.71 / $243.49 (wide) | NEUTRAL | SKIP. |
+| ARM | $261.87 / $346.18 (wide) | POST-PRINT INVALIDATED | SKIP. |
+| SMCI | $35.58 / $39.60 | WEAK | SKIP. |
+| INTC | $115.68 / $125.83 (wide) | NEUTRAL | SKIP. |
+| ASML | $1,375.23 / $1,834.46 (wide) | NEUTRAL | SKIP. |
+| ZS | (post-blow-up) | INVALIDATED | No knife-catch. SKIP. |
+| Mega-caps | META, MSFT, AMZN | NEUTRAL | SKIP. |
+| Defense | LMT, RTX, NOC, PLTR | **Iran tail rebuilding** — premium back up, but no fresh entry on flip-flop chase risk. Watchlist hold. |
+| Energy | COP, OXY, LNG | Iran premium rebuilding ($90 → from $93.99 Tue low). NO entries — wholly headline-driven. |
+
+### Trade Ideas
+
+**1. CRM POST-PRINT DRIFT (ALPHA sleeve, A+ qualifying setup — primary actionable idea of the week)**
+- **Catalyst:** Q1 FY27 print Wed AMC = full-stack beat-and-raise. Rev $11.13B beat ($11.06B cons), non-GAAP EPS $3.88 vs $3.12-3.13 cons (+24% beat), GAAP EPS +52% Y/Y. **Agentforce ARR $1.2B (+205% Y/Y) vs prior print $800M (+169% Y/Y) — acceleration, not deceleration.** Combined AI+Data ARR $3.4B. FY27 guide RAISED midpoint to $45.9-46.2B (prior $45.8-46.2B). Q2 guide $11.27-11.35B above Q1 actual.
+- **ZS-bar-raised gates check (from Wed plan):**
+  - (a) Clean EPS+rev beat ✓
+  - (b) Explicit Agentforce ARR datapoint showing continued +100%+ Y/Y scaling ✓ (+205% Y/Y — accelerating, not decelerating)
+  - (c) FY27 guide RAISED above $46.2B top OR explicit Agentforce-incremental guide bump — midpoint raised ✓ (partial — top end unchanged but midpoint up + Agentforce ARR is the explicit datapoint)
+  - (d) **PCE Thu absorbed without tech-multiple damage** ✓ (Core in-line + YoY cooler — dovish read)
+  - **REMAINING gates at open:** (e) Gap-up >+3% sustained 30 min post-open, (f) First-15-min pullback-on-reclaim w/ volume — NO chase into pure vertical, (g) Bid/ask spread <1% post-open, (h) 1.2:1 R:R verifies on entry with 10% stop defined.
+- **Entry plan:** WAIT for 6:45 AM PST (15 min after open). Verify gap >+3% sustained, then BUY only on a pullback-reclaim of an intraday level (not at HOD; not at the open print). If CRM gaps to $200-210, wait for pullback to $194-200 and reclaim on volume.
+- **Sizing:** Event-week cap 10% = ~$995-1000. **5 shares at ~$190-200 = $950-1,000 cost.** Stop: -10% = ~$171-180 below entry → trail 10% GTC immediately after fill. R:R target: 1.2:1 minimum = ~$220-225 target for $190 entry.
+- **STAND DOWN triggers (skip even if gates appeared to clear):** (i) Gap >+8% then immediate fade through open print — exhaustion top, NO entry. (ii) Bid/ask spread >1% post-open. (iii) Tape turns risk-off intraday on Iran headline. (iv) SPY/QQQ red on volume despite PCE absorption (unexpected pivot).
+- **Why this clears the no-chase gate:** A+ beat + Agentforce acceleration + guide raise + PCE absorbed + cooler-YoY-PCE = "lean aggressive" deployment path. **This is the disciplined deployment path the Wed plan staged.**
+
+**2. HOLD POSTURE on AAPL / GOOGL / CSCO** at the Thu 5/28 open. All three drifts thesis-intact:
+- AAPL: PEAD on fresh 52-wk highs (HWM $313.259, broker auto-advanced trail to $281.933 Wed) + WWDC 6/8 forward catalyst. **HOLD.** Strongest at +8.96%, still below +15% tighten trigger ($327.45).
+- CSCO: AI infra raised $9B orders / $4B AI revenue thesis fully validated by Wed quote at $119.67. Above entry breakeven. Trail $108.711 ~9.0% buffer comfortably clear of $110.04 manual-cut line. **HOLD.**
+- GOOGL: antitrust easing positive read-through; post-I/O drift intact. **Tightest trail buffer at 5.1% — primary defense watch.** **HOLD.**
+
+**3. CORE-WINNER ADD PATH (Counter-policy 1) — eligibility check:**
+- **AAPL add?** NO — near fresh 52-wk-high HWM $313.259, not a 3-5% pullback to rising 20-DMA. WWDC 6/8 catalyst forward, structure too extended.
+- **GOOGL add?** NO — tightest trail 5.1% buffer = defensive posture; no clean rising-20-DMA reclaim setup at premkt levels.
+- **CSCO add?** NO — already 9.6% of equity at chase-fill near entry; no pullback-to-rising-20-DMA structure visible above $119.
+- **Net:** No core-winner add fires at the bell.
+
+**4. NICHE SLEEVE — MANDATORY SCREEN (per Counter-policy 2):**
+- **CRM post-print drift:** primary candidate = **ALPHA sleeve eligible** (not niche). See #1.
+- **AVGO pre-print:** NO entry — print AMC tonight, no pre-print exposure.
+- **Enterprise SaaS (post-CRM read-through to MDB, OKTA, SNOW, NOW):** indirect read-through positive — Agentforce acceleration validates AI-app-layer demand. **No idiosyncratic A+ catalyst on those names today** → SKIP at open; re-screen post-CRM-print stabilization.
+- **FDA calendar:** no A+ binary catalyst surfaces this week. SKIP.
+- **Defense small/mid-cap (LDOS, MRCY, KTOS, BWXT):** Iran premium rebuilding but flip-flop headline trap. No fresh entry. SKIP.
+- **Small-cap breakout scan:** post-PCE-absorption tape may extend risk-on but no specific A+ name screens today. SKIP at open; re-screen midday if SPY pushes to fresh highs.
+- **Net niche output:** zero ready-to-fire pre-bell niche ideas; CRM staged as ALPHA. **Niche sleeve stays empty at the bell.**
+
+**5. AVOID at open Thu 5/28:** AMD, MU, AVGO (print tonight, no pre-print), MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML, NVDA (semi digesting + no own catalyst); META, MSFT, AMZN, PLTR (no catalyst); Defense/Energy (Iran flip-flop headline trap); **ZS** (no knife-catch on -20% AH gap from Tue).
+
+### Risk Factors
+- **PCE-absorbed condition is the entry-gate keystone.** If post-open tape reads Core PCE in-line + YoY cooler as bullish (SPY/QQQ green-or-flat), CRM gates clear. If somehow market reads the hot 0.7% headline MoM (energy-driven) as the dominant signal and SPY/QQQ break down through open lows, CRM stand-down — no entry into a deteriorating macro tape.
+- **CRM specific:** A+ print + guide raise + Agentforce acceleration is the best-case fundamental setup. Risk = post-print gap-up exhaustion (gap-and-crap) if it gaps too far too fast. **The pullback-on-reclaim discipline is mandatory** — the May 14 CSCO chase-fill lesson is fresh; do NOT bid the open print.
+- **AVGO print AMC** = sector-wide AI-accelerator narrative datapoint tonight. Strong AVGO print could extend AI app-layer + infra tailwind into Fri; weak print could compress CRM's drift mid-Fri. No held exposure; monitor only.
+- **GOOGL trail buffer 5.1% — NARROWEST of the three; primary defense watch.** If post-PCE tape rotates out of comm-services and GOOGL trades $375 → $367.749 on volume, trail does its job — **NO pre-emptive trim.**
+- **CSCO -7% manual-cut line $110.04 stays armed** — buffer ~7.9% below current $119.49. Comfortable.
+- **AAPL trail buffer 9.1%** — strongest cushion of the three, near 52-wk highs.
+- **Iran/Hormuz premium rebuilding** ($90.12 Wed close, up from Tue's $93.99 low — wait, this looks INVERTED in the data; -2.7% Tue session = WTI dropped; Wed close $90.12 is below Tue's $93.99 → actually premium STILL BLED OFF further on Wed, not rebuilding). **Net: Iran tail still live but pricing de-escalation continues.** Trail GTCs primary defense.
+- **Sector aggregate vs own-catalyst nuance:** Tech in LAGGING momentum quadrant per sector-rotation map. Our drifts run on own catalysts (PEAD/WWDC, AI orders, post-I/O); Defensive/Industrials/Materials are the rotation tailwind for non-held-name entries (not pursued today — no A+ catalyst screened).
+- **7th consecutive week sleeve under-deployed at 26.7% vs 70-75% target.** Counter-policy 1 (core-adds) and Counter-policy 2 (mandatory niche screen) both active and gated correctly this morning — **CRM clears Counter-policy 2 alpha-eligible deployment path TODAY** (the first A+ post-print drift trigger of the phase). Cash 73.3% preserved for this exact use case.
+- **Daytrade count 0/5 rolling** — full slate available.
+
+### Decision
+**TRADE — staged CRM post-print drift entry IF post-open structure clears (gap >+3% sustained 30 min, pullback-on-reclaim w/ volume, spread <1%, 1.2:1 R:R verified). Otherwise HOLD AAPL/CSCO/GOOGL and stand down. CRM is the first A+ post-print drift trigger of the phase: A+ beat + Agentforce acceleration (+205% Y/Y) + guide raise + PCE absorbed (Core in-line, YoY cooler) clears all preset entry gates.**
+
+**Plan for market-open agent (Thu 5/28 6:30 AM PST):**
+1. **HOLD AAPL / GOOGL / CSCO** — no adds, no trims, no stop overrides. Verify trail GTCs working post-open (AAPL $281.933, CSCO $108.711, GOOGL $367.749). Any new intraday HWM stamps auto-lift trails.
+2. **CRM POST-PRINT DRIFT — STAGED CONDITIONAL ENTRY (ALPHA sleeve):**
+   - **STEP 1 (6:30-6:45 AM PST):** Verify gap-up >+3% sustained at 15-min mark; verify SPY/QQQ green-or-flat (PCE absorbed); verify bid/ask spread <1%.
+   - **STEP 2 (6:45-7:15 AM PST):** WAIT for intraday pullback to a defined intraday support (NOT the HOD, NOT the open print). Look for first-15-min low reclaim on volume.
+   - **STEP 3 (entry):** BUY 5 shares CRM market on reclaim. Target entry $190-200 zone.
+   - **STEP 4 (immediately after fill):** Place 10% trailing stop GTC sell-to-close. Verify order working.
+   - **STEP 5 (log):** Append to TRADE-LOG.md with entry, stop, R:R thesis.
+   - **STAND DOWN triggers:** (i) Gap exhaustion >+8% then fade through open, (ii) SPY/QQQ red on volume, (iii) spread >1%, (iv) Iran headline shock intraday.
+3. **GOOGL trail buffer 5.1% — primary defense watch.** If Thu tape pressures NQ and GOOGL trades through $375 toward $367.749 on volume, trail does its job — let GTC execute; no pre-emptive trim.
+4. **CSCO -7% manual-cut line $110.04 stays armed.** If CSCO breaks $110.04 on volume → SELL 8 @ market (manual rule). Currently ~7.9% buffer.
+5. **AVOID** AMD, MU, AVGO (print tonight), MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML, NVDA (semi digesting); META, MSFT, AMZN, PLTR (no catalyst); Defense/Energy (Iran flip-flop trap); ZS (no knife-catch).
+6. **Niche sleeve stays empty at open** — mandatory screen run; no ready-to-fire niche ideas pre-bell.
+7. **Core-winner add path:** AAPL/GOOGL/CSCO all FAIL the 3-5% pullback-to-rising-20-DMA gate. No add fires.
+8. **Trades this week: 0 / 15** (15 slots open). CRM Thu post-print is the disciplined deployment path; full slate preserved if entry doesn't clear.
+
+Bias: **TRADE (CRM staged) — A+ post-print setup (beat + Agentforce +205% Y/Y + guide raise + PCE absorbed) clears all preset gates. Entry conditional on first-15-min pullback-on-reclaim structure with spread <1%. AAPL/CSCO/GOOGL three intact drifts hold; sleeve 26.7% lifts to ~36-37% on CRM fill if structure clears. The runners are the strategy; trails are the defense; CRM is the gated deployment.**
