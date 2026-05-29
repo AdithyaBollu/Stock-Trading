@@ -1986,3 +1986,60 @@ Bias: **HOLD — three intact drifts, sleeve intentionally light into CRM AMC + 
 8. **Trades this week: 0 / 15** (15 slots open). CRM Thu post-print is the disciplined deployment path; full slate preserved if entry doesn't clear.
 
 Bias: **TRADE (CRM staged) — A+ post-print setup (beat + Agentforce +205% Y/Y + guide raise + PCE absorbed) clears all preset gates. Entry conditional on first-15-min pullback-on-reclaim structure with spread <1%. AAPL/CSCO/GOOGL three intact drifts hold; sleeve 26.7% lifts to ~36-37% on CRM fill if structure clears. The runners are the strategy; trails are the defense; CRM is the gated deployment.**
+
+## 2026-05-29 — Pre-market Research (Friday — Week 6 Day 4, **AVGO catalyst INVALIDATED — date error**, weekly review day)
+**[Inline pre-market STEPS 1-3 run by market-open agent — no separate pre-market session today]**
+
+### Account Snapshot (6:36 AM PST pull)
+- **Equity:** $9,963.04 | **Cash:** $7,309.26 (73.4%) | **Buying power:** $17,272.30 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $2,653.78 (alpha sleeve 26.6%). **Niche sleeve:** $0.
+- **Phase P&L:** -$36.96 (-0.37%) vs $10,000 baseline. **Overnight mark:** -$13.13 (-0.13%) from Thu close $9,976.17 (broker last_equity).
+- **Open positions (3 / 10):**
+  | Ticker | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM | Trail Buffer |
+  |--------|--------|-------|------|---------|----------------|---------------------|-----|--------------|
+  | AAPL  | 3 | $284.74 | $313.81 | +0.42% | +$87.21 (+10.21%) | $283.50 trail GTC | $315.00 (fresh stamp) | ~9.66% |
+  | CSCO  | 8 | $118.3175 | $118.535 | -0.09% | +$1.74 (+0.18%) | $108.711 trail GTC | $120.79 | ~8.29% |
+  | GOOGL | 2 | $369.67 | $381.86 | -2.12% | +$24.38 (+3.30%) | $367.749 trail GTC | $408.61 | **~3.70% (TIGHTEST — primary defense watch)** |
+- **Sleeve status:** Alpha 26.6% deployed (target 70-75%, **8th consecutive week under-deployed**). Niche 0% (target 20-25%). Cash 73.4%. Concentration: 3 alpha positions, all tech.
+
+### Market Context (Fri 5/29 open)
+- **S&P futures (ES):** modestly green premarket, +0.10% area (~6,657.50 quote per BI premarket — likely artifact, but futures constructive).
+- **WTI:** ~$90/bbl area, Iran tail still live, no fresh escalation.
+- **VIX:** mid-teens range, no stress signal.
+- **Today's macro:** Advance International Trade in Goods, Advance Retail/Wholesale Inventories all 8:30 AM ET (5:30 AM PST printed); Chicago PMI 9:45 AM ET (6:45 AM PST). Lighter slate than yesterday's PCE/GDP/Claims/Durables.
+- **Earnings today:** BMO BKE / CHA / GCO — all retail/consumer, out of theme; no held-ticker reporters.
+
+### **CRITICAL DATA CORRECTION — AVGO catalyst invalidated**
+- **Yesterday's research log assumed AVGO prints AMC Thu 5/28** = WRONG. Per Broadcom IR + multiple sources, **AVGO Q2 FY26 prints Wed June 3, 2026 AMC** (not 5/28).
+- The "AVGO post-print drift Fri 5/29" staged conditional candidate is **VOID** — no print to drift off of.
+- **Implication:** zero A+ earnings catalysts in today's tape. CRM Thu drift never fired (structure rejected per Thu market-open log). The week's deployment slate is empty.
+
+### Trade Ideas
+**1. HOLD POSTURE on AAPL / GOOGL / CSCO** at the Fri 5/29 open:
+- **AAPL:** PEAD on fresh 52-wk highs (HWM advanced $313.259 → $315.00 overnight, trail $283.50, ~9.66% buffer). +10.21% from entry, still below the +15% tighten trigger ($327.45). WWDC 6/8 forward catalyst intact. **HOLD.**
+- **CSCO:** Beat+raise + $9B AI orders thesis intact. +0.18% from entry (essentially breakeven). Trail $108.711 ~8.29% buffer, comfortably clear of $110.04 manual-cut line (~7.2% below current). **HOLD.**
+- **GOOGL:** Down -2.12% intraday on open (no specific company-headline driver per Perplexity); broader pre-Chicago-PMI tape. Post-I/O drift intact, but **trail buffer collapsed to ~3.70% (narrowest of phase)**. Primary defense watch — if $381.86 → $367.749 on volume, trail does its job; **no pre-emptive trim**. **HOLD.**
+
+**2. NO FRESH ENTRIES at open Fri 5/29:**
+- **AVGO:** print is Wed 6/3, not today. **No pre-print entry.** Reset on watch for 6/3 post-print drift evaluation Thu 6/4.
+- **CRM:** spread wide pre-open ($173.77/$192.38 = 9.7% spread, **fails the spread <1% gate**). Thu staged entry never fired; drift evaluation reset to next clean structure window — **SKIP at today's open.**
+- **Core-winner add path:** AAPL near 52-wk-highs (no 3-5% pullback structure); CSCO no rising-20-DMA reclaim setup; GOOGL trail buffer 3.70% = defensive posture only, **NOT** an add candidate. **No add fires.**
+- **Niche sleeve screen:** FDA calendar quiet; small-cap breakout scan no specific A+ name; mid-cap post-earnings drift — CRM only candidate (rejected on spread gate); Defense small/mid (Iran flip-flop trap). **Niche stays empty.**
+
+**3. AVOID at open Fri 5/29:** AVGO (no print yet), MU, MRVL, TSM, QCOM, ARM, INTC, SMCI, ASML, NVDA, AMD (semi watchlist no own catalyst); META, MSFT, AMZN, PLTR (no catalyst); Defense/Energy (Iran flip-flop trap); ZS (no knife-catch); CRM (spread fails gate today).
+
+### Risk Factors
+- **GOOGL trail buffer 3.70% is the narrowest of the phase** — primary defense watch. Trail GTC at $367.749 does the work; no manual intervention unless tape break is clean and on volume.
+- **CSCO manual-cut line $110.04** stays armed — buffer ~7.2% below current.
+- **AAPL approaching +15% tighten trigger** ($327.45 from $284.74 entry) — HWM $315 / +10.62% still below trigger. If HWM crosses $327.45 intraday, tighten trail from 10% → 7%.
+- **Chicago PMI 6:45 AM PST** = small intraday macro datapoint; can move tape if it diverges materially from recent stronger manufacturing tone. Not a binary event.
+- **Iran/Hormuz** premium still live but de-escalation continues — trail GTCs primary defense.
+- **8th consecutive week sleeve under-deployed at 26.6% vs 70-75% target.** The phase has produced ZERO A+ post-print drift entries (ZS invalidated, CRM Thu structure rejected, AVGO date error). Counter-policies 1 & 2 active; cash 73.4% preserved correctly — no forced deployment absent A+ structure.
+- **Friday is weekly review day** — capture Week 6 stats after the close (separate weekly-review agent).
+- **Daytrade count 0/5 rolling** — full slate available.
+
+### Decision
+**HOLD — no setup clears the bar at today's open.** AVGO catalyst was a date error (prints 6/3, not 5/28); CRM spread fails the <1% gate; AAPL/CSCO/GOOGL all FAIL the core-winner-add 3-5%-pullback-to-rising-20-DMA gate; niche screen returns zero A+ ideas. Trail GTCs are the defense. The disciplined stand-down preserves Week 6 with 0/15 trades used and full cash optionality for next week's setups.
+
+**Plan for market-open agent (Fri 5/29 6:30 AM PST):** No buys. No stop adjustments (AAPL HWM $315 < $327.45 tighten trigger). Verify trail GTCs working post-open (AAPL $283.50, CSCO $108.711, GOOGL $367.749). Skip Discord (no action). Skip TRADE-LOG commit (no trades).
+
