@@ -2166,3 +2166,129 @@ Bias: **TRADE (CRM staged) — A+ post-print setup (beat + Agentforce +205% Y/Y 
 9. **Trades this week: 0 / 15** (15 slots open). AVGO Thu post-print = disciplined deployment path; full slate preserved.
 
 Bias: **HOLD Mon. The week's deployment thesis lives at AVGO Wed AMC print → Thu 6/4 post-print drift gate.** AAPL/CSCO/GOOGL three intact drifts hold; trails are the defense; AVGO is the gated deployment for Thu.
+
+
+## 2026-06-02 — Pre-market Research (Tuesday — Week 7 Day 2, GOOGL trail likely fires at open on $80B AI capex shock)
+
+### Account Snapshot (pre-open pull, 8:00 AM ET)
+- **Equity:** $9,924.95 | **Cash:** $7,309.26 (73.6%) | **Buying power:** $17,234.21 | **Daytrade count:** 0 / 5 rolling
+- **Long market value:** $2,615.69 (alpha sleeve 26.4%). **Niche sleeve:** $0.
+- **Phase P&L:** -$75.05 (-0.75%) vs $10,000 baseline. **Overnight mark:** -$26.62 (-0.27%) from Mon close $9,951.57 (broker last_equity). Mostly GOOGL pre-market drag.
+- **Open positions (3 / 10):**
+  | Ticker | Shares | Entry | Pre-mkt Last | Day Chg | Unrealized P&L | Stop (10% trail GTC) | HWM | Trail Buffer |
+  |--------|--------|-------|--------------|---------|----------------|---------------------|-----|--------------|
+  | AAPL  | 3 | $284.74 | $305.8448 | -0.15% | +$63.31 (+7.41%) | $283.50 trail GTC | $315.00 | ~7.30% |
+  | CSCO  | 8 | $118.3175 | $120.77 | -0.46% | +$19.62 (+2.07%) | $109.755 trail GTC | $121.95 | ~9.12% |
+  | GOOGL | 2 | $369.67 | **$366.08** | **-2.73%** | **-$7.18 (-0.97%)** | **$367.749 trail GTC** | $408.61 | **~-0.46% (BREACHED PRE-MKT)** |
+- **Sleeve status:** Alpha 26.4% deployed (target 70-75%, **9th consecutive week under-deployed**). Niche 0% (target 20-25%). Cash 73.6%. **GOOGL trail GTC likely fires at open print if Mon's after-hours level holds → effective 2-position book post-execution.**
+
+### Market Context (Tue 6/2 open)
+- **WTI:** ~$91-96/bbl; **Brent:** ~$103-106/bbl. Iran/Hormuz premium still live but easing.
+- **S&P futures (ES):** Modestly red premarket, ~7,595, -0.24% from Mon close. Quiet drift; GOOGL the day's mega-cap drag.
+- **VIX:** ~17.95 (Jun futures proxy), modest uptick from prior 15-16 range — calm but slightly elevated.
+- **Today's macro:** **JOLTS Job Openings 7:00 AM PT** (April data, consensus 6.87M vs prior 6.87M). 30 min after open. ADP Wed; NFP Fri.
+- **GOOGL pre-market driver (NEW):** Alphabet guided **2026 capex $175-185B vs Street $119.5B** (+~50% above consensus) PLUS reports of **$80B stock sale** to fund AI infra. **Post-I/O / antitrust-easing drift thesis materially impaired** by capex shock + dilution overhang. This is a fundamental thesis hit, not broader-tape noise.
+
+### This Week's Earnings Calendar — Our Stance
+| Date | Ticker | Timing | Stance |
+|------|--------|--------|--------|
+| Mon 6/1 | HPE, CRDO | BMO | Reported; AVOID (off-theme) — passed |
+| **Tue 6/2** | **HPE** | **AMC** | **Watch only** — enterprise IT spend read-through; no held exposure |
+| Tue 6/2 | PANW | AMC | Watch — cyber comp for CRWD Wed |
+| Tue 6/2 | DG, ULTA | BMO/AMC | AVOID (retail off-theme) |
+| **Wed 6/3** | **AVGO** | **AMC** | **PRIMARY STAGED CATALYST** — Q2 FY26: cons EPS $2.40, rev $22.0B (+47% YoY), AI rev $10.7B (+140% YoY), semi rev $14.8B. **Post-print drift Thu 6/4 = staged conditional entry IF ZS-bar-raised gates clear** |
+| **Wed 6/3** | **CRWD** | **AMC** | **SECONDARY STAGED (niche-eligible)** — Q1 FY27: cons EPS $0.88 (street raised from $1.07), rev $1.36B. Outperform rating into print |
+| Wed 6/3 | CYTK | FDA AdCom | Niche-eligible IF >2.5:1 R:R verifies (binary risk, small-cap) — likely SKIP on sizing |
+| Wed 6/3 | VEEV | AMC | AVOID — life-sciences SaaS off-theme |
+| Thu 6/4 | LULU, DOCU | AMC | AVOID — retail/SaaS off-theme |
+| Fri 6/5 | ARVN | PDUFA | AVOID — small-cap biotech, not size-appropriate |
+| Fri 6/5 | — | NFP | Macro binary at week end |
+
+### Tech/Semi Watchlist (pre-open quotes, mostly bid-only / wide pre-mkt)
+| Ticker | Bid / Ask | Spread | Setup | Note |
+|--------|-----------|--------|-------|------|
+| **AAPL** | $294.02 bid only | wide pre-mkt | **DRIFT — INTACT** | Mon close $306.45, current_price $305.84, day -0.15%. PEAD intact, WWDC 6/8 forward catalyst. Trail $283.50 ~7.30% buffer. **HOLD.** |
+| **CSCO** | $113.61 bid only | wide pre-mkt | **DRIFT — INTACT** | Mon close $121.55, current_price $120.77, day -0.46%. AI orders thesis intact (Q2 FY26: $2.1B AI orders hyperscalers, >$3B FY guide). Trail $109.755 ~9.12% buffer, $110.04 manual-cut clear. **HOLD.** |
+| **GOOGL** | $376.37 bid only | wide pre-mkt | **DRIFT — THESIS IMPAIRED** | Mon close $376.63, current_price $366.08, day -2.73%. **AI capex $175-185B vs $119.5B Street + $80B stock sale = thesis hit.** Trail $367.749 → **LIKELY FIRES at open**. Let trail work; no pre-emptive trim. |
+| **AVGO** | $462.34 / $464.73 | **~0.52%** | **EARNINGS WED AMC** | **CLEAN SPREAD** = good entry environment IF post-print gates clear. NO pre-print entry. Post-print drift Thu = staged conditional. |
+| **CRWD** | $744.43 / $819.53 | wide ~10% | **EARNINGS WED AMC** | NO pre-print entry. Wed AMC print + Thu drift = niche conditional. Sizing constraint at $700+ = ~1 share, likely SKIP on share count. |
+| NVDA | $209.32 / $224.39 | wide | NEUTRAL | No own catalyst. SKIP. |
+| AMD | $485.26 / $535.60 | wide | EXTENDED | Chase territory. SKIP. |
+| MRVL | $209.70 / $230.42 | wide | NEUTRAL | No own catalyst. SKIP. |
+| TSM | $374.35 / $502.60 | very wide | NEUTRAL | SKIP. |
+| MU | $52.51 bid only | n/a | RESET / SPLIT | SKIP. |
+| QCOM | $216.84 / $240.54 | wide | NEUTRAL | SKIP. |
+| ARM | $351.52 / $469.10 | wide | NEUTRAL | SKIP. |
+| SMCI | $46.80 bid only | n/a | WEAK | SKIP. |
+| INTC | $103.76 bid only | n/a | NEUTRAL | SKIP. |
+| ASML | $1,403.24 / $1,849.77 | very wide | NEUTRAL | SKIP. |
+| PANW | $282.34 / $314.46 | wide | EARNINGS TUE AMC | Watch for CRWD read-through. SKIP — no held exposure. |
+
+### Sector Momentum (YTD 2026)
+- **Energy** the YTD leader (+26%+); **Semis/IT** strong AI/AVGO-led; **Industrials/Defense** firm; **Staples** holds.
+- **Tech AI infra leadership intact** — but **GOOGL's $80B capex/dilution overhang** signals megacap-tech valuation friction. AVGO Wed AMC = Tech tier-1 catalyst; bullish/bearish binary for the AI semi narrative.
+
+### Trade Ideas
+
+**1. GOOGL TRAIL GTC = PRIMARY POSITION-MGMT EVENT TODAY:**
+- Pre-market $366.08 vs trail $367.749 → **GTC will execute at open print if Mon AH level holds.**
+- **NO pre-emptive trim, NO stop modification.** The trail is exactly the defense for the AI-capex/dilution shock. Let it work.
+- Expected fill: ~$367.749 or near open print. 2 shares × ~$367 = ~$734 realized → ~-$5 vs cost basis $739.34 = ~-0.7% loss = clean exit on thesis-impaired drift.
+- Post-fill outcome: Alpha sleeve drops to ~$1,883 (2 positions, ~19%). Cash → ~$8,043 (~81%). 1 trade used (1/15 weekly).
+
+**2. HOLD AAPL / CSCO — drifts intact:**
+- **AAPL:** PEAD + WWDC 6/8 keynote forward catalyst. +7.41% from entry, HWM $315 / trail $283.50 ~7.30% buffer. +15% tighten trigger $327.45 ($306 → +6.9% to reach). **HOLD.**
+- **CSCO:** Beat+raise + $9B AI orders + Cisco Live week (6/2-6/6) potential incremental announcements. +2.07% from entry, trail $109.755 ~9.12% buffer, manual-cut $110.04 clear. **HOLD.**
+
+**3. NO FRESH ENTRIES at Tue 6/2 open:**
+- **HPE AMC tonight** — no setup, no held exposure. Watch read-through only.
+- **PANW AMC tonight** — cyber comp for CRWD; watch only.
+- **AVGO Wed AMC** — no pre-print entry. Spread is clean (~0.52%) = good entry environment IF gates clear Thu.
+- **CRWD Wed AMC** — no pre-print entry. Sizing constraint likely SKIP on share count even if gates clear.
+- **Core-winner add path (Counter-policy 1):** AAPL no rising-20-DMA pullback structure; CSCO no clean reclaim setup; GOOGL = exit not add. **No core-winner add fires.**
+- **JOLTS 7:00 AM PT** = 30 min after open. Strong miss could compress multiples; in-line/strong = neutral. Tape pivot risk.
+
+**4. AVGO POST-PRINT DRIFT (ALPHA sleeve, STAGED for Thu 6/4) — primary deployment path of the week (unchanged from Mon plan)**
+- **Catalyst:** Q2 FY26 print Wed 6/3 AMC. Cons EPS $2.40, rev $22.0B, AI rev $10.7B (+140% YoY), semi rev $14.8B.
+- **ZS-bar-raised gates Thu 6/4 open:** (a) clean EPS+rev beat ≥guide, (b) AI rev ≥$10.7B actual, (c) FY26 guide raised, (d) sector tape green-or-flat, (e) gap-up >+3% sustained 30 min, (f) first-15-min pullback-on-reclaim w/ volume — NO chase vertical, (g) spread <1% post-open (Tue pre-mkt shows clean 0.52% — good baseline), (h) 1.2:1 R:R verifies w/ 10% trail GTC.
+- **Sizing:** Event-week cap 10% = ~$995 (post-GOOGL exit: bigger cash, but stay disciplined at 10% cap). **2 shares at ~$465-475 = ~$930-950 cost.**
+- **STAND DOWN triggers:** (i) gap >+8% then fade through open, (ii) spread >1%, (iii) macro risk-off (Iran/NFP), (iv) FY guide not raised, (v) AI rev miss.
+
+**5. NICHE SLEEVE — MANDATORY SCREEN (per Counter-policy 2):**
+- **CRWD Wed AMC → Thu 6/4 drift:** Staged conditional; sizing constraint likely fails at $700+.
+- **CYTK FDA AdCom Wed 6/3:** Binary biotech catalyst; small-cap; SKIP on size-fit.
+- **ARVN PDUFA Fri 6/5:** Small-cap biotech; SKIP on size-fit.
+- **Small-cap breakout scan:** No A+ name surfaces with own catalyst; SKIP.
+- **Mid-cap post-earnings drift:** HPE/CRDO Mon prints not A+ tier; no fresh A+ Mon print to drift off; SKIP.
+- **Defense small/mid (LDOS, MRCY, KTOS, BWXT):** Iran flip-flop headline trap; SKIP.
+- **Net niche output:** zero ready-to-fire at the bell; CRWD Thu 6/4 staged conditional (sizing-impaired). Niche sleeve stays empty Tue.
+
+**6. AVOID at Tue 6/2 open:** DG/ULTA (off-theme), NVDA/AMD/MU/MRVL/TSM/QCOM/ARM/INTC/SMCI/ASML (no own catalyst), META/MSFT/AMZN (no catalyst), PLTR (no catalyst), Defense/Energy (flip-flop), ZS/CRM (post-print invalidated), HPE/PANW (no held exposure, watch only), GOOGL (exit not entry — trail does the work).
+
+### Risk Factors
+- **GOOGL trail GTC firing at open = primary event of the day.** Position management = LET TRAIL WORK; no override. Post-fill cash returns to ~$8,043 (~81%) for AVGO Thu deployment.
+- **CSCO -7% manual-cut line $110.04** stays armed — buffer ~9.4% below current.
+- **AAPL +15% tighten trigger $327.45** — needs +$21.61 / +7.1% to reach.
+- **JOLTS 7:00 AM PT** — tape pivot risk; could amplify or fade GOOGL/megacap-tech weakness.
+- **AVGO Wed AMC = single biggest catalyst of week.** Held no exposure; staged for post-print Thu drift only. AI semi binary.
+- **NFP Fri 6/5** = macro binary; could compress AVGO drift if hot inflation.
+- **Iran/Hormuz** premium still live but easing — trail GTCs primary defense.
+- **9th consecutive week sleeve under-deployed at 26.4% vs 70-75% target.** Post-GOOGL exit → ~19% deployment. Counter-policies 1 & 2 active; cash builds further into the AVGO Thu 6/4 deployment path.
+- **Daytrade count 0/5 rolling** — full slate available.
+
+### Decision
+**HOLD AAPL/CSCO at open + LET GOOGL TRAIL GTC EXECUTE.** No fresh entries today. AAPL/CSCO drifts intact (PEAD + WWDC 6/8 forward; CSCO AI-orders thesis); GOOGL thesis impaired by $80B capex/dilution shock — trail GTC at $367.749 likely fires at open print = clean disciplined exit. No A+ catalyst today; niche screen returns CYTK/ARVN/CRWD as binary/sizing-fail/staged. AVGO Wed AMC → Thu 6/4 post-print drift = primary deployment path of week.
+
+**Plan for market-open agent (Tue 6/2 6:30 AM PST):**
+1. **VERIFY GOOGL trail GTC executes at open** — expected fill near $367.749 or open print. 2 shares sold at market. Log realized P&L. Update TRADE-LOG.
+2. **IF GOOGL opens ABOVE $367.749:** trail GTC stays armed; HOLD position; treat any subsequent break as the disciplined exit. NO pre-emptive trim or stop tightening.
+3. **HOLD AAPL / CSCO** — no adds, no trims, no stop overrides. Verify trail GTCs working post-open (AAPL $283.50, CSCO $109.755).
+4. **NO FRESH ENTRIES** — no A+ catalyst today; AVGO/CRWD staged for Thu 6/4 post-print only.
+5. **CSCO -7% manual-cut line $110.04** stays armed.
+6. **AAPL HWM $315 / trail $283.50 / +15% trigger $327.45** — broker auto-advances trail on fresh HWM stamps.
+7. **JOLTS 7:00 AM PT** — monitor for tape pivot post-print.
+8. **AVOID** HPE/PANW (AMC, no setup), DG/ULTA (off-theme), semis/megacaps (no catalyst), Defense/Energy (flip-flop), ZS/CRM (post-print invalidated), GOOGL (exit not entry).
+9. **Niche sleeve stays empty Tue** — mandatory screen run; CYTK/ARVN/CRWD = binary/size-fail/staged.
+10. **Trades this week: 0 / 15 entering** (likely 1 / 15 exit if GOOGL trail fires). AVGO Thu post-print = primary deployment path; 14+ slots preserved.
+
+Bias: **Trail GTC does the work on GOOGL. HOLD AAPL/CSCO drifts. AVGO Wed AMC → Thu 6/4 = the week's deployment thesis.** The disciplined sequence preserves alpha-sleeve quality while honoring the broken-thesis exit on GOOGL.
