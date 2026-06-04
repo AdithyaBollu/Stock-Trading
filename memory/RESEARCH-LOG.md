@@ -2418,3 +2418,97 @@ Both trail GTCs verified OPEN/NEW on broker with correct HWMs.
 10. **Trades this week: 1 / 15 used** (GOOGL exit Tue). AVGO Thu post-print = primary deployment path; 14 slots preserved through Wed.
 
 Bias: **HOLD AAPL/CSCO drifts on company-specific catalysts. NO pre-print entries into AVGO/CRWD AMC binary. AVGO Thu 6/4 post-print drift = the week's deployment thesis.** Trail GTCs stay primary defense; macro morning pivot risk monitored but does not block AVGO post-print play.
+
+## 2026-06-04 — Pre-market Research (Thursday — Week 7 Day 4, AVGO post-print gate evaluation = the week's staged deployment moment)
+
+*Inline pre-market research run by market-open agent at 06:37 AM PST since standalone pre-market routine did not fire today.*
+
+### Account Snapshot (live pre-bell pull)
+- **Equity:** $9,959.56 | **Cash:** $8,031.46 (80.6%) | **Buying power:** $35,982.04
+- **Daytrade count:** 0 / 5 rolling = full slate available
+- **Open positions:** 2 / 10 (AAPL, CSCO)
+- **Trades this week:** 1 / 15 (GOOGL exit Tue 6/2)
+- **Last_equity:** $9,974.24 (Wed 6/3 close)
+
+### Sleeve Status
+- **Alpha sleeve:** $1,928.10 (19.36%) vs 70-75% target — **10th consecutive week under-deployed**
+- **Niche sleeve:** $0 (0%) vs 20-25% target
+- **Cash:** 80.6% — preserved into AVGO Thu 6/4 staged conditional = the week's primary deployment path
+
+### Open Positions (live pre-bell + opening-minutes marks ~06:37 AM PST)
+| Ticker | Sleeve | Shares | Entry | Last | Day Chg | Unrealized P&L | Stop | HWM |
+|--------|--------|--------|-------|------|---------|----------------|------|-----|
+| AAPL | alpha | 3 | $284.74 | $310.77 | +0.16% | +$78.09 (+9.14%) | $285.237 trail GTC | $316.93 |
+| CSCO | alpha | 8 | $118.3175 | $124.52 | -1.57% | +$49.62 (+5.24%) | $116.47395 trail GTC | $129.4155 (fresh advance from $128.82) |
+
+Both trail GTCs verified OPEN/NEW on broker. CSCO HWM advanced overnight $128.82 → $129.4155 → broker auto-advanced trail $115.938 → $116.47395 (~6.46% buffer at current mid, manual-cut $110.04 sits ~11.6% below).
+
+### AVGO Post-Print Read (the gate evaluation)
+AVGO printed Wed 6/3 AMC. Perplexity sourcing on the actual print numbers came back noisy/conflicted (one source citing $1.91 EPS / $22.19B rev / AI rev $10.8B / Q3 AI guide $16B vs ~$18-20B Street modeling — but mixed with stale pre-print preview numbers). **The decisive read for the gate-eval is the TAPE itself at open**, not the headline number — drift entries are validated by market reaction structure, not by reading the press release.
+
+**AVGO live tape (06:37 AM PST = 7 min after open):**
+- Bid/ask: **$410.80 / $429.09** = spread **~4.4%** (gate (g) <1% post-open spread = **FAIL**)
+- Bid -11.1% from Tue close $462.34; ask -7.2% from Tue close (gate (e) gap-up >+3% sustained 30 min = **FAIL** — gap is DOWN, not up)
+- Sector tape: CSCO -1.57%, AAPL +0.16% — mixed-to-red semi/megacap tape (gate (d) green-or-flat = **FAIL on semi-leader CSCO red**)
+
+**Stand-down triggers actively firing per Wed pre-market plan:**
+- (ii) spread >1% — **YES** (~4.4%)
+- (vi) sector tape red — **YES** (CSCO -1.57%, AVGO own -7 to -11%)
+- (i) gap >+8% then fade — N/A but gap-down version of the same fade behavior
+
+**AVGO post-print drift: STAND DOWN.** Multiple ZS-bar-raised gates fail at open; even if the actual print contained beat+raise components (Perplexity sourcing too muddled to confirm cleanly), the market's reaction is decisively non-confirmatory at 7 min in. No entry today. No re-stage attempt later in the session — the post-print drift window is the first 30-min reaction tape; if it's gap-down with wide spread there, the thesis is invalidated, not deferred.
+
+### CRWD Post-Print Read (the niche-secondary staged)
+- Bid/ask: **$675.88 / $695.00** = spread **~2.8%** = also >1% gate FAIL
+- Sizing: at $695 ask, 1 share = 7.0% of equity (below 10% niche cap = sizable) BUT spread alone disqualifies
+- CRWD post-print drift: **STAND DOWN** on spread, sizing-fit borderline, and PANW Tue mixed-AH cyber-comp cautionary read = no entry.
+
+### Market Context (live pre-bell read)
+- **AVGO down 7-11% post-print** = the AI-infra binary printed bearish OR market not buying the guide-raise interpretation (Perplexity noted Q3 AI guide $16B vs $18-20B Street model = if Street modeled $18-20B and AVGO guided $16B, that's a guide-DOWN vs buy-side bar despite Q2 AI rev beat — exactly the kind of "headline beat / forward miss" pattern that fades drift setups).
+- **Macro stack today:** Initial Jobless Claims 8:30 AM ET / 5:30 AM PT (printed), Productivity Final 8:30 ET, Trade Balance — no major pivot expected.
+- **NFP Fri 6/5** = tomorrow's macro binary at week end.
+- **Iran/Hormuz** premium easing.
+
+### Trade Ideas
+**1. HOLD AAPL / CSCO — drifts intact, both on company-specific catalysts:**
+- **AAPL:** +9.14% from entry, trail $285.237 / HWM $316.93, +15% tighten trigger $327.45 = +$16.68 / +5.4% from current $310.77 — needs WWDC 6/8 pop. PEAD + WWDC keynote Mon 6/8 (Siri 2.0 rebuild) = forward catalyst. **HOLD.**
+- **CSCO:** +5.24% from entry, **fresh HWM $129.4155 overnight** advanced trail to $116.47395 (~6.46% buffer at current $124.52 mid). Today's -1.57% intraday red is post-Cisco-Live digestion + AVGO-sympathy semi drag, no CSCO-specific headline. Manual-cut $110.04 ~11.6% below. **HOLD.**
+
+**2. NO FRESH ENTRIES at Thu 6/4 open:**
+- **AVGO Thu post-print drift:** STAND DOWN per ZS-bar-raised gates (spread + gap direction + sector tape all FAIL). The staged conditional resolves to NO ENTRY.
+- **CRWD Thu post-print drift:** STAND DOWN per spread gate FAIL and PANW cyber-comp cautionary read.
+- **No other A+ catalyst today** — LULU/DOCU AMC tonight (off-theme), ARVN PDUFA Fri (small-cap binary, size-fail), no clean alpha or niche setup.
+- **Core-winner add path (Counter-policy 1):** AAPL +0.16% no pullback structure; CSCO -1.57% touch is broader-tape sympathy not a 20-DMA pullback-reclaim setup. **No core-winner add fires today.**
+
+**3. NICHE SLEEVE — MANDATORY SCREEN (per Counter-policy 2):**
+- **CRWD Thu drift:** STAND DOWN (spread FAIL, PANW comp cautionary).
+- **ARVN Fri 6/5 PDUFA:** Small-cap biotech binary, size-fail, SKIP.
+- **Small-cap breakout scan:** No A+ name surfaces with own catalyst; SKIP.
+- **Mid-cap post-earnings drift:** No clean tier-1 drift candidate.
+- **Net niche output:** zero ready-to-fire at the bell. **Niche sleeve stays empty Thu.**
+
+**4. AVOID at Thu 6/4 open:** AVGO/CRWD post-print (gate-FAIL at open), LULU/DOCU (off-theme), ARVN (size-fail), NVDA/AMD/MRVL/TSM/QCOM/ARM/INTC/SMCI/ASML/MU (no own catalyst), META/MSFT/AMZN/GOOGL (no catalyst; GOOGL exited Tue), PLTR (no catalyst), Defense/Energy (flip-flop), HPE/PANW (post-print not A+ tier).
+
+### Risk Factors
+- **AVGO gap-down -7 to -11% at open** = AI-infra binary printed bearish OR market reading Q3 AI guide ($16B) as a miss vs Street modeling ($18-20B). Semi-sympathy drag possible across CSCO/NVDA/AMD/MRVL through the day.
+- **CSCO -1.57% intraday open** = AVGO-sympathy semi drag — monitor for thesis-vs-tape: Cisco Live week thesis intact, today's red is sector beta not company-specific. Manual-cut $110.04 stays armed.
+- **AAPL +0.16% flat** = constructive given semi tape red; PEAD + WWDC 6/8 holds.
+- **NFP Fri 6/5** = tomorrow's macro binary.
+- **10th consecutive week sleeve under-deployed at 19.36% vs 70-75% target** — the AVGO staged conditional RESOLVES to no-entry today; the under-deployment hypothesis (cash drag = primary alpha gap) gets another week without correction. This is structurally important to revisit in Friday weekly review: the no-chase gate is correct and stays, but the *bar for what clears it* may need re-examination if no setup has cleared in 10 weeks.
+- **Daytrade count 0/5 rolling** — full slate available.
+
+### Decision
+**HOLD AAPL/CSCO at open. NO FRESH ENTRIES TODAY.** AVGO Thu post-print drift = STAND DOWN per ZS-bar-raised gates (spread ~4.4% FAIL, gap-down direction FAIL, sector tape red FAIL). CRWD secondary = STAND DOWN per spread FAIL. Drifts intact (AAPL PEAD + WWDC 6/8 forward; CSCO beat+raise + $9B AI orders + post-Cisco-Live digest). Niche screen runs: CYTK already passed, ARVN size-fail, CRWD stand-down — **niche sleeve stays empty Thu.** The week's primary deployment path resolves to no-entry; cash 80.6% preserved into NFP Fri + AAPL WWDC 6/8 + the next staged catalyst on the calendar.
+
+**Plan for market-open agent (Thu 6/4 6:30 AM PST):**
+1. **HOLD AAPL / CSCO** — no adds, no trims, no stop overrides. Verify both trail GTCs working post-open (AAPL stop $285.237 HWM $316.93; CSCO stop $116.47395 HWM $129.4155 fresh advance).
+2. **NO FRESH ENTRIES** — AVGO/CRWD gates FAIL at open.
+3. **CSCO -7% manual-cut line $110.04** stays armed (~11.6% below current).
+4. **AAPL HWM $316.93 / trail $285.237 / +15% trigger $327.45** — broker auto-advances trail on fresh HWM stamps. WWDC 6/8 keynote 10 AM PT Mon = forward catalyst.
+5. **CSCO HWM $129.4155 / trail $116.47395** — fresh overnight advance, broker auto-advances on further HWM stamps.
+6. **AVOID** AVGO/CRWD post-print (gate-FAIL), LULU/DOCU (off-theme), ARVN (size-fail), semis/megacaps (no catalyst), Defense/Energy (flip-flop).
+7. **Niche sleeve stays empty Thu** — mandatory screen run; ARVN/CRWD = size-fail/spread-fail/comp-cautionary.
+8. **Trades this week: 1 / 15 used** (GOOGL exit Tue). AVGO Thu staged conditional resolves to NO ENTRY = 14 slots remain into Fri.
+9. **Forward catalysts:** NFP Fri 6/5 macro binary; AAPL WWDC keynote Mon 6/8; next earnings cluster late June.
+
+Bias: **HOLD AAPL/CSCO drifts. AVGO Thu post-print gate evaluation resolves to STAND DOWN — the week's primary staged deployment path is invalidated by the open tape, not the print numbers. Trail GTCs stay primary defense; under-deployment posture continues into NFP/WWDC catalysts.**
