@@ -2543,3 +2543,145 @@ Both trail GTCs verified OPEN/NEW on broker with correct HWMs (AAPL stop $285.23
 12. **Weekly review fires post-close Fri** — Week 7 grading + strategy adjustment if 2+ weeks of evidence on under-deployment ceiling.
 
 Bias: **HOLD AAPL/CSCO drifts on company-specific catalysts that survived AVGO -12.59% Thu test. NO chase into NFP macro binary. AVGO/CRWD T+2 = no edge. Cash 80.31% preserved through Wed AMC binary = stand-down protocol validated by Thu fade. Weekly review post-close = primary deliverable of the day.** Trail GTCs stay primary defense; macro morning pivot risk monitored but does not flip any entry posture.
+
+## 2026-06-08 — Pre-market Research (Monday — Week 8 Day 1, **AAPL WWDC keynote 10 AM PT = T-0 primary catalyst**, CPI Wed + ORCL Wed AMC + ADBE Thu AMC = the week's catalyst stack)
+
+### Account Snapshot (Fri 6/5 close → Mon 6/8 pre-mkt)
+- **Equity:** $9,939.12 | **Cash:** $8,031.46 (80.81%) | **Buying power:** $37,467.28
+- **Day P&L:** +$12.52 (+0.13%) vs Fri last_equity $9,926.60 = mild green premarket lift
+- **Phase P&L:** -$60.88 (-0.61%) vs $10k baseline = improves from Fri EOD -$72.45, still ~$27 above the prior phase low -$87.94 May 11
+- **Daytrade count:** 0 / 5 rolling = full slate available
+- **Open positions:** 2 / 10 (AAPL, CSCO)
+- **Trades this week:** 0 / 15 (Week 8 fresh slate — Week 7 closed 1/15 on GOOGL exit Tue)
+
+### Sleeve Status
+- **Alpha sleeve:** $1,907.66 (19.19%) vs 70-75% target — **12th consecutive week under-deployed**
+- **Niche sleeve:** $0 (0%) vs 20-25% target
+- **Cash:** 80.81% — protected by the Week 7 AVGO stand-down protocol; reserved for the Wed ORCL AMC drift + Thu ADBE AMC drift staged catalyst paths
+
+### Open Positions (Fri 6/5 close → Mon 6/8 pre-mkt last from Alpaca positions endpoint)
+| Ticker | Sleeve | Shares | Entry | Last (pre-mkt) | Mkt Value | Unrealized P&L | Stop | Buffer |
+|--------|--------|--------|-------|----------------|-----------|----------------|------|--------|
+| AAPL | alpha | 3 | $284.74 | $308.34 | $925.02 | +$70.80 (+8.29%) | $285.237 trail GTC (HWM $316.93) | ~7.49% |
+| CSCO | alpha | 8 | $118.3175 | $122.83 | $982.64 | +$36.10 (+3.81%) | $117.32904 trail GTC (HWM $130.3656) | ~4.48% |
+
+Both trail GTCs verified OPEN/NEW on broker with correct HWMs (AAPL stop $285.237 HWM $316.93; CSCO stop $117.32904 HWM $130.3656). Manual-cut lines: AAPL $264.81 (~14.10% below current), CSCO $110.04 (~10.41% below current). Trail percent 10% on both. **CSCO buffer 4.48% is the narrowest of the entire hold** = primary defense watch.
+
+### Market Context (Mon 6/8 pre-market)
+- **Oil:** WTI ~$92-94/bbl, Brent ~$106/bbl — Iran/Hormuz premium easing.
+- **VIX:** ~16.06 (low / risk-on baseline).
+- **S&P 500 futures:** ES ~7,416 +0.21% pre-bell = mild risk-on into AAPL WWDC.
+- **Macro releases this week:**
+  - **Mon 6/8:** NY Fed Survey of Consumer Expectations 11:00 AM ET = qualitative, secondary
+  - **Tue 6/9:** quiet macro day
+  - **Wed 6/10:** **CPI May** 8:30 AM ET / **5:30 AM PT** — primary inflation print of the week
+  - **Thu 6/11:** **PPI May** 8:30 AM ET / **5:30 AM PT** + initial claims
+  - **Fri 6/12:** UMich sentiment preliminary
+  - **No FOMC this week** (next decision later month)
+
+### This Week's Earnings Calendar (Week 8)
+| Date | Ticker | Timing | Our Stance |
+|------|--------|--------|-----------|
+| Mon 6/8 | GHM, CPB, AVO, MTN | mixed | Off-theme — SKIP |
+| Tue 6/9 | (light slate) | — | No tier-1 surface |
+| **Wed 6/10** | **ORCL** | **AMC** | **PRIMARY: post-print drift candidate Thu 6/11** if guide raise + cloud beat clears bar |
+| **Thu 6/11** | **ADBE** | **AMC** | **SECONDARY: post-print drift candidate Fri 6/12** — cautious; CEO transition + AI competition concerns; options imply ~8.7% move |
+| Thu 6/11 | (light) | — | — |
+| Fri 6/12 | (light) | — | — |
+
+**ORCL preview detail:** Cons EPS $1.78 / rev $19.1B vs ORCL own Q4 guide EPS $1.96-$2.00 / rev $18.9-$19.2B → **own guide ABOVE consensus = setup leaves room for beat**. Last Q OCI cloud +44% YoY, FY guide implies cloud growth 46-50% in USD. FY26 capex $50B = AI infrastructure narrative intact. Constructive analyst tone. **Classify: PRIMARY post-print drift candidate gated by ZS-bar-raised (cloud rev high-end of guide, FY27 capex/revenue raise, sector tape green).**
+
+**ADBE preview detail:** Cons EPS $5.83 / rev $6.45B vs ADBE Q2 guide EPS $5.80-$5.85 / rev $6.43-$6.48B → **in-line consensus = no upside cushion**. Stock -30% YTD; sentiment cautious-to-mixed on CEO transition + AI competition concerns (rivals encroaching on Creative Cloud). Options imply 8.7% move = high binary risk. **Classify: AVOID pre-print; possible post-print drift Fri 6/12 ONLY if clean beat + AI ARR growth surprise + guide raise.**
+
+### Tech/Semi Watchlist (Fri 6/5 close marks / Mon pre-mkt indicative)
+| Ticker | Pre-mkt | Setup | Note |
+|--------|---------|-------|------|
+| **AAPL** | $308.34 | **HELD — WWDC keynote T-0 today 10 AM PT** | HWM $316.93 unchanged, trail $285.237 ~7.49% buffer. **WWDC keynote = primary forward catalyst** (Siri 2.0 / Apple Intelligence rebuild, Gemini-tie-in rumored, iOS 27 / macOS 27). +15% tighten trigger $327.45 = +$19.11 / +6.20% from current = **within striking distance on WWDC pop**. **HOLD into keynote**, do NOT add (no clean pullback structure, event-week sizing). |
+| **CSCO** | $122.83 | **HELD — Cisco Live ended Thu 6/4** (conference tail expired) | HWM $130.3656 unchanged, trail $117.32904 **~4.48% buffer = narrowest of hold**, manual-cut $110.04 ~10.41% below. +15% trigger $136.07 = +$13.24 / +10.78% from current = no longer within striking distance after Fri -6.31% pullback. **HOLD on trail GTC defense** — if Mon opens sub-$117.33, GTC fires automatically (realized ~+$8.91/share / +4.92%); no manual override. |
+| **ORCL** | ~$200 mid (stale) | **PRIMARY pre-earnings setup** — Q4 print Wed AMC, FY guide ABOVE consensus = beat setup | NO pre-print entry (event risk). **STAGED Thu 6/11 post-print drift = primary deployment path of the week** |
+| **ADBE** | $240-262 wide | **AVOID** — cons in-line, CEO/AI/competition overhang, -30% YTD, 8.7% implied move | SKIP pre-print; conditional Fri post-print only on clean beat + AI ARR upside |
+| **AVGO** | $386 bid (stale) | **POST-CRASH** — Thu 6/4 -12.59% post-print fade extended into Fri | Drift thesis dead T+3. AVOID. |
+| **CRWD** | wide | sizing-impaired + post-print soft | SKIP |
+| **NVDA** | $195-217 wide | NEUTRAL + AVGO read-through risk | No own catalyst. SKIP. |
+| **AMD** | $466 bid | NEUTRAL + AVGO read-through | SKIP. |
+| **MRVL** | $251-276 wide | NEUTRAL + AVGO read-through | SKIP. |
+| **TSM** | $413 bid | NEUTRAL | Wide spread. SKIP. |
+| **MU** | $52.51 bid only | POST-SPLIT | SKIP. |
+| **QCOM** | $216 bid | NEUTRAL | SKIP. |
+| **ARM** | $296-393 (very wide) | NEUTRAL | SKIP. |
+| **INTC** | $98 bid | NEUTRAL | SKIP. |
+| **ASML** | $1,415-1,888 (very wide) | NEUTRAL | SKIP. |
+| **SMCI** | $41.5 | WEAK | SKIP. |
+| **MSFT** | $398 bid | NEUTRAL — no catalyst | SKIP. |
+| **GOOGL** | $367-367.5 | NEUTRAL — exited Tue on $80B capex shock | No re-entry catalyst. SKIP. |
+| **META** | $556 bid | NEUTRAL | SKIP. |
+
+Mon pre-mkt quote pull notes: most names show wide stale Fri-close spreads (Alpaca consolidated tape pre-open); only GOOGL shows a live Mon timestamp ($367.00/$367.50). Pre-mkt liquidity sparse — no spread-gate-able entries pre-open.
+
+### Sector Momentum (YTD 2026)
+- **Energy** the YTD leader (+22-26%); **Consumer Staples / Industrials** firm.
+- **Technology / Communication Services / Consumer Discretionary / Financials** in the lagging quadrant; AVGO -12.59% Thu 6/4 cracked the AI-semi narrative, AAPL/CSCO insulated by company-specific theses.
+- Healthcare weakening, Real Estate / Utilities improving (defensive bid as inflation-week looms).
+
+### Trade Ideas
+
+**1. HOLD AAPL into WWDC keynote 10 AM PT — primary forward catalyst T-0:**
+- **AAPL:** PEAD drift + WWDC Siri 2.0 / Apple Intelligence rebuild + iOS 27 + Gemini partnership rumors. +8.29% from entry, trail $285.237 ~7.49% buffer. +15% tighten trigger $327.45 = +6.20% from current = within striking distance on a credible Siri/AI rollout with timeline. Goldman maintains Buy $340 PT. **HOLD into keynote**, no add (event-week sizing, no pullback structure, no chase pre-announcement). **Risk:** if Apple delivers only feature refinement w/ no firm launch date, gap-down to test trail; the 7.49% buffer absorbs ~$23/share giveback before GTC fires.
+
+**2. HOLD CSCO on trail GTC defense — Cisco Live tail expired Thu 6/4:**
+- **CSCO:** Beat+raise + $9B AI hyperscaler orders intact, but conference catalyst tail expired with Cisco Live close Thu 6/4 + AVGO -12.59% Thu spillover finally landed Fri (-6.31%). +3.81% from entry, trail $117.32904 **~4.48% buffer = narrowest of hold**. Cleanly above the 3% no-touch line. **HOLD; let trail GTC defend.** If Mon opens sub-$117.33, GTC executes automatically — disciplined trail-defended exit (realized ~+4.92% / +$46.67 net), no manual override.
+
+**3. NO FRESH ENTRIES at Mon 6/8 open:**
+- **ORCL pre-print:** rejected (event risk Wed AMC). Setup is STAGED for Thu 6/11 open post-print drift conditional.
+- **ADBE pre-print:** rejected (event risk Thu AMC, in-line consensus, CEO/AI overhang, 8.7% implied move). Conditional Fri post-print only on clean beat + AI ARR upside.
+- **AVGO/CRWD T+3 stale:** rejected (Thu -12.59% killed the drift, Fri sympathy weakness extended).
+- **Core-winner add path (Counter-policy 1):** AAPL/CSCO no 3-5% pullback to rising 20-DMA structure with volume reclaim — AAPL drifting up into WWDC catalyst (no pullback), CSCO unwinding off HWM but no defined reclaim signal pre-open. **No core-winner add fires today.**
+- **No A+ catalyst surfaces today** — Mon earnings (GHM/CPB/AVO/MTN) all off-theme. Disciplined stand-down maintained.
+
+**4. ORCL POST-PRINT DRIFT (ALPHA sleeve, STAGED for Thu 6/11 — PRIMARY DEPLOYMENT PATH OF THE WEEK):**
+- **Catalyst:** Q4 FY26 print Wed 6/10 AMC. Cons EPS $1.78 / rev $19.1B vs own guide $1.96-$2.00 / $18.9-$19.2B = setup with built-in upside cushion. Cloud +44% YoY trajectory, FY guide implies 46-50% cloud growth, FY26 capex $50B AI infra.
+- **Thu 6/11 open ZS-bar-raised gates:** (a) clean EPS+rev beat ≥ own guide midpoint, (b) cloud rev at high end of guide or above, (c) FY27 revenue/capex guide RAISED above current pace, (d) sector tape green-or-flat (no AVGO-style fade), (e) gap-up >+3% sustained 30 min, (f) first-15-min pullback-on-reclaim with volume — NO chase vertical, (g) spread <1% post-open, (h) 1.2:1 R:R verifies with 10% trail GTC.
+- **Sizing:** Event-week cap 10% = ~$994. ORCL spot ~$200 → **4-5 shares at ~$200-210 = $800-1050 cost.** Sizing fits cleanly.
+- **STAND DOWN triggers:** (i) gap >+8% then fade through open, (ii) spread >1%, (iii) CPI Wed AM hot read = macro compression risk overlays ORCL post-print, (iv) cloud rev miss, (v) FY guide NOT raised, (vi) sector tape red.
+
+**5. NICHE SLEEVE — MANDATORY SCREEN (per Counter-policy 2):**
+- **FDA PDUFA calendar:** No tier-1 PDUFA today. Cendakimab AbbVie binary today is sub-asset, parent ABBV not stock-moving-of-size. SKIP.
+- **Small-cap breakout scan:** No A+ name with own catalyst surfaces; SKIP all.
+- **Mid-cap post-earnings drift:** AVGO/CRWD T+3 fade; HPE Mon 6/1 (+25% AH initial) now Day 6 stale; no tier-1 drift surfaces.
+- **Net niche output:** zero ready-to-fire. **Niche sleeve stays empty Mon.**
+
+**6. AVOID at Mon 6/8 open:**
+- ORCL/ADBE pre-print (event risk Wed/Thu), AVGO/CRWD (T+3 post-print fade), VEEV/CPB/AVO/MTN (off-theme Mon earnings), all other AI semis (NVDA/AMD/MRVL/TSM/QCOM/ARM/INTC/SMCI/ASML/MU — no own catalyst + AVGO read-through risk), META/MSFT/GOOGL (no catalyst), PLTR (no catalyst), Defense/Energy (flip-flop), HPE/PANW (post-print stale Day 6/Day 4), ZS/CRM (prior post-print invalidations).
+
+### Risk Factors
+- **AAPL WWDC keynote 10 AM PT = single biggest binary of the day.** Held 3 sh @ $284.74. Bull case: credible Siri 2.0 + Gemini-tie-in + firm launch date → +5-10% pop = +15% tighten trigger $327.45 hit, advance to 7% trail. Bear case: feature-refinement-only / no launch date → gap-down test of trail $285.237 (7.49% buffer = ~$23/share absorption). No manual override — let trail GTC work either way.
+- **CSCO trail buffer 4.48% = narrowest of hold.** If Mon opens or trades sub-$117.33, GTC executes automatically. Manual-cut $110.04 ~10.41% below = secondary defense. Conference tail expired = no catalyst replacement; thesis transitions from catalyst-driven to PEAD-default.
+- **CPI Wed 5:30 AM PT = macro pivot risk for ORCL post-print + AAPL/CSCO drifts.** Hot CPI = yields up, multiple compression on tech; cool CPI = bond rally + risk-on tailwind. Macro positioning matters for the entire week's setup.
+- **PPI Thu 5:30 AM PT** = secondary inflation read, can amplify CPI move.
+- **AVGO -12.59% Thu spillover** finally caught CSCO Fri -6.31%; risk that the AI-semi crack extends another week and contaminates broader tech sentiment. AAPL divergence Fri (-1.29% vs CSCO -6.31%) suggests company-specific WWDC drift intact, but a second leg lower in semis would impair AAPL too.
+- **AAPL +15% tighten trigger $327.45** = +6.20% from current; WWDC keynote 10 AM PT = T-0.
+- **AAPL manual-cut $264.81** (~14.10% below current).
+- **CSCO manual-cut $110.04** (~10.41% below current).
+- **Iran/Hormuz** premium easing but live.
+- **12th consecutive week sleeve under-deployed at 19.19%** vs 70-75% target. Cash 80.81% reserved for ORCL Thu post-print drift + ADBE Fri conditional + any A+ surface that clears the bar. **Stand-down protocol continues to vindicate itself** retrospectively as Week 7's AVGO Thu fade extended into Fri sympathy cascade — held cash protected the book.
+- **Daytrade count 0/5 rolling** — full slate available.
+- **Week 8 fresh: 0/15 trades used.** ORCL Wed AMC + ADBE Thu AMC = two catalyst gates for potential alpha deployment.
+
+### Decision
+**HOLD AAPL/CSCO at open. NO FRESH ENTRIES TODAY.** AAPL WWDC keynote 10 AM PT = T-0 primary forward catalyst — hold into keynote, no add (event-week sizing, no pullback structure). CSCO trail GTC ~4.48% buffer = primary defense; let GTC work if it fires sub-$117.33. **ORCL Wed 6/10 AMC = primary deployment path of the week** (Thu 6/11 open post-print drift conditional). ADBE Thu AMC = secondary conditional Fri (cautious on CEO/AI/competition + in-line consensus + 8.7% implied move). Niche screen returns zero qualifying names. Cash 80.81% preserved into the week's binary stack (WWDC + CPI + ORCL + PPI + ADBE).
+
+**Plan for market-open agent (Mon 6/8 6:30 AM PST):**
+1. **VERIFY AAPL pre-keynote tape** — note pre-mkt last vs Fri close $307.23; ES futures pivot. No pre-keynote action.
+2. **HOLD AAPL** — no adds, no trims, no stop overrides into WWDC. Verify trail GTC OPEN/NEW (stop $285.237 HWM $316.93). Keynote 10 AM PT = T+3.5 hours into session.
+3. **HOLD CSCO** — no adds, no trims, no stop overrides. Verify trail GTC OPEN/NEW (stop $117.32904 HWM $130.3656). **CSCO 4.48% buffer is the day's primary defense watch** — if opens sub-$117.33, GTC fires automatically, no override.
+4. **NO FRESH ENTRIES** — no A+ catalyst today; ORCL/ADBE staged for Thu/Fri post-print only.
+5. **WWDC keynote reaction monitor (10 AM PT):** if AAPL pops +3% on credible Siri 2.0 + launch date → broker auto-advances HWM/trail; manual +15% tighten trigger $327.45 monitor armed. If AAPL gaps down on feature-refinement disappointment → let trail GTC absorb; 7.49% buffer = ~$23/share.
+6. **CSCO -7% manual-cut line $110.04** stays armed (~10.41% below current).
+7. **AAPL HWM $316.93 / trail $285.237 / +15% trigger $327.45** — broker auto-advances on fresh HWM stamps post-WWDC.
+8. **CSCO HWM $130.3656 / trail $117.32904 / +15% trigger $136.07** — broker auto-advances on fresh HWM stamps.
+9. **AVOID** ORCL/ADBE pre-print (event risk), AVGO/CRWD (T+3 fade), all other AI semis (read-through risk), Mon earnings off-theme (GHM/CPB/AVO/MTN), niche sleeve stays empty.
+10. **Niche sleeve mandatory screen run** — zero qualifying names today (no PDUFA tier-1, no small-cap A+, no mid-cap drift).
+11. **Trades this week: 0 / 15 used.** ORCL Thu + ADBE Fri = primary/secondary deployment paths; 15 slots preserved through Wed.
+12. **Midday agent** reads WWDC keynote reaction (10-11 AM PT window) for AAPL drift behavior + CSCO trail-fire watch.
+
+Bias: **HOLD AAPL into WWDC keynote (T-0 primary catalyst); HOLD CSCO on trail GTC defense (4.48% buffer = narrowest of hold). NO fresh entries pre-ORCL Wed/ADBE Thu prints. Cash 80.81% preserved for the week's catalyst stack (WWDC + CPI Wed + ORCL Wed AMC + PPI Thu + ADBE Thu AMC). ORCL Thu post-print drift = primary deployment path of the week; ADBE Fri = secondary conditional.** Trail GTCs stay primary defense; macro week pivot risk (CPI/PPI) monitored but does not flip any entry posture pre-print.
