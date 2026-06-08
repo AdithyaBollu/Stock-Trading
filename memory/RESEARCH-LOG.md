@@ -2685,3 +2685,28 @@ Mon pre-mkt quote pull notes: most names show wide stale Fri-close spreads (Alpa
 12. **Midday agent** reads WWDC keynote reaction (10-11 AM PT window) for AAPL drift behavior + CSCO trail-fire watch.
 
 Bias: **HOLD AAPL into WWDC keynote (T-0 primary catalyst); HOLD CSCO on trail GTC defense (4.48% buffer = narrowest of hold). NO fresh entries pre-ORCL Wed/ADBE Thu prints. Cash 80.81% preserved for the week's catalyst stack (WWDC + CPI Wed + ORCL Wed AMC + PPI Thu + ADBE Thu AMC). ORCL Thu post-print drift = primary deployment path of the week; ADBE Fri = secondary conditional.** Trail GTCs stay primary defense; macro week pivot risk (CPI/PPI) monitored but does not flip any entry posture pre-print.
+
+### 2026-06-08 — Midday (9:00 AM PST) Snapshot — T-1hr WWDC Keynote
+
+**Midday actions taken:**
+- No -7% manual cuts: AAPL +10.15% (winner, intraday +2.05%), CSCO +6.51% (winner, intraday +3.60% — recovering off Fri's -6.31%).
+- No stop tightening: no winner ≥ +15% (AAPL +10.15% strongest, +15% trigger $327.45 still $13.81 / +4.40% away; CSCO +6.51%, +15% trigger $136.07 still $10.05 / +7.98% away).
+- No thesis breaks: AAPL WWDC keynote T-1hr (10 AM PT) = catalyst still pending, drift intact pre-event. CSCO PEAD-default + broad-tape rebound off Fri AVGO-spillover low; thesis intact.
+- No new entries: stand-down posture pre-WWDC/CPI/ORCL/PPI/ADBE catalyst stack holds.
+- No Perplexity pull: AAPL/CSCO moves explained by WWDC drift + broad-tape rebound; no anomalous prints.
+
+**Position state (12:00 PM ET pull):**
+| Ticker | Entry | Last | Day Chg | Total P&L | Trail | Buffer from current | HWM |
+|--------|-------|------|---------|-----------|-------|---------------------|-----|
+| AAPL | $284.74 | $313.64 | +2.05% | +$86.70 (+10.15%) | $285.237 | 9.06% | $316.93 |
+| CSCO | $118.3175 | $126.02 | +3.60% | +$61.62 (+6.51%) | $117.32904 | 6.90% | $130.3656 |
+
+**Watch items into close:**
+- **AAPL WWDC keynote T-1hr (10 AM PT).** Pre-keynote drift +2.05% suggests constructive positioning. +15% tighten trigger $327.45 = +$13.81 / +4.40% from current = within striking distance on a credible Siri 2.0 + launch date pop. If keynote delivers → broker auto-advances HWM, manual +15% tighten monitor armed. If keynote disappoints (feature-refinement only, no firm launch date) → trail $285.237 absorbs ~9.06% giveback before GTC fires. **No manual override either direction.**
+- **CSCO trail buffer expanded to 6.90%** from Fri-close-derived 4.48% pre-mkt assessment — intraday +3.60% rebound = primary defense relaxes. Cleanly above 3% no-touch line. Manual-cut $110.04 well below. Catalyst-free PEAD-default mode; no action.
+- **AAPL manual-cut $264.81** (~15.6% below current — extremely safe).
+- **No fresh entries** — ORCL pre-print event risk Wed AMC; ADBE pre-print event risk Thu AMC; AVGO/CRWD T+3 fade stale; no A+ surfaces. Niche screen output still zero.
+
+**Sleeve balance:** Equity $9,980.39 | Cash $8,031.46 (80.47%) | Long market value $1,948.93 = **alpha 19.53%** vs 70-75% target — **13th consecutive week under-deployed**. Niche 0%. Cash preserved into the week's catalyst stack (WWDC + CPI Wed + ORCL Wed AMC + PPI Thu + ADBE Thu AMC). Phase P&L -$19.61 (-0.20%) vs $10,000 baseline; day +$53.79 (+0.54%) off last_equity $9,926.60.
+
+**Notes:** Quiet constructive midday — both holds green, both winners, neither at trigger thresholds for stop adjustment. AAPL drifting +2.05% into WWDC keynote (T-1hr) = textbook pre-event positioning, no action warranted. CSCO +3.60% intraday rebound off Fri's AVGO-spillover -6.31% lifts trail buffer back into comfortable territory; PEAD-default thesis intact post-Cisco-Live tail expiry. Trail GTCs doing their job. Plan into close: HOLD both into WWDC keynote 10 AM PT; let trail GTCs absorb any post-keynote disappointment (AAPL 9.06% / CSCO 6.90% buffers); no pre-emptive trim or add; +15% tighten triggers armed for broker-auto-HWM-advance if AAPL pops on credible Siri 2.0 + launch date. EOD agent will log close marks, WWDC keynote reaction, and frame Tue plan (T+1 WWDC drift assessment + ORCL T-2 + CPI T-1).
