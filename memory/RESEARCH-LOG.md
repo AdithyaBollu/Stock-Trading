@@ -2850,3 +2850,28 @@ Tue pre-mkt: most names show one-sided / wide stale Mon-close spreads (Alpaca pr
 12. **EOD agent** logs Tue close, frames Wed plan (CPI 5:30 AM PT + ORCL AMC double-binary day).
 
 Bias: **HOLD AAPL (primary defense watch, 4.61% buffer) / HOLD CSCO (PEAD-default, 5.70% buffer). NO fresh entries pre-CPI Wed / ORCL Wed AMC / ADBE Thu AMC. Cash 80.92% preserved for the week's catalyst stack. ORCL Thu post-print drift = primary deployment path of the week; ADBE Fri = secondary conditional.** Trail GTCs stay primary defense; macro week pivot risk (CPI/PPI) monitored but does not flip any entry posture pre-print.
+
+### 2026-06-09 — Midday (9:00 AM PST) Snapshot — T-1 CPI Wed / T-1 ORCL Wed AMC
+
+**Midday actions taken:** NONE.
+- No -7% manual cuts: both barely green (AAPL +2.12%, CSCO +0.25%).
+- No stop tightens: neither at +15% (AAPL +2.12%, +15% trigger $327.45 = +$36.68 / +12.6% from current $290.77; CSCO +0.25%, +15% trigger $136.07 = +$17.46 / +14.7% from current $118.615).
+- No thesis breaks: AAPL T+1 WWDC sell-the-news fade extending into day-2 weakness (-3.57% intraday, but no new bearish headline); CSCO PEAD-default catalyst-free coast + broad AI-semi-spillover weakness (-4.46% intraday). Theses intact; trail GTCs defend.
+- No new entries: stand-down posture pre-CPI Wed / ORCL Wed AMC / ADBE Thu AMC holds. Tue earnings (ASO/SJM/SAIL/UNFI BMO; CASY/CBRL/SUJA AMC) all off-theme; ignored.
+- No Perplexity pull: today's drawdown explained by pre-CPI risk-off + AI-semi follow-on weakness (NVDA/AMD/AVGO read-through). No anomalous single-name prints.
+
+**Position state (12:00 PM ET pull):**
+| Ticker | Entry | Last | Day Chg | Total P&L | Trail | Buffer from current | HWM |
+|--------|-------|------|---------|-----------|-------|---------------------|-----|
+| AAPL | $284.74 | $290.77 | -3.57% | +$18.09 (+2.12%) | $285.66 | **1.76%** | $317.40 |
+| CSCO | $118.3175 | $118.615 | -4.46% | +$2.38 (+0.25%) | $117.329 | **1.08%** | $130.3656 |
+
+**Watch items into close:**
+- **CSCO trail buffer COMPRESSED to 1.08%** — within 3% no-touch line, narrowest of the entire hold. If CSCO trades sub-$117.329, GTC executes automatically (realized ~-0.83% / -$7.91 net = effective scratch-to-slight-loss exit). Manual-cut $110.04 ~7.23% below. **CSCO becomes primary defense watch by buffer.**
+- **AAPL trail buffer COMPRESSED to 1.76%** — also inside 3% no-touch line; second-narrowest. If AAPL trades sub-$285.66, GTC executes automatically (realized ~+0.32% / +$2.76 net = small green exit). Manual-cut $264.81 ~8.93% below. T+1 WWDC sell-the-news fade extending; no thesis break headline, just price action drift.
+- **Both trail GTCs verified OPEN/NEW** on broker (AAPL stop $285.66 HWM $317.40; CSCO stop $117.32904 HWM $130.3656). No manual override either direction.
+- **No fresh entries** — ORCL pre-print event risk Wed AMC + CPI Wed 5:30 AM PT = double binary T-1; ADBE pre-print event risk Thu AMC; AVGO/CRWD T+3-T+4 stale fade; no A+ surfaces. Niche screen output zero (PDUFA window empty 0-20 days, micro-cap momentum size-fails, no fresh mid-cap drift).
+
+**Sleeve balance:** Equity $9,851.80 | Cash $8,031.46 (81.52%) | Long market value $1,820.34 = **alpha 18.48%** vs 70-75% target — **13th consecutive week under-deployed**. Niche 0%. Cash preserved into CPI Wed AM + ORCL Wed AMC + PPI Thu AM + ADBE Thu AMC catalyst stack. Phase P&L -$148.20 (-1.48%) vs $10,000 baseline; day -$77.48 (-0.78%) off last_equity $9,929.28.
+
+**Notes:** Risk-off Tue tape pressuring both holds intraday — AAPL T+1 WWDC fade extending, CSCO catching AI-semi-spillover weakness on broad sector de-risking ahead of CPI Wed AM. Both trail buffers now COMPRESSED inside the 3% no-touch line (CSCO 1.08% / AAPL 1.76%) = trail GTCs are now the primary line of defense and a single bad-CPI gap-down Wed AM could automatically trigger either GTC. Strategy says "Never within 3% of current price" — that applies to MOVING stops, not the broker's existing trailing-stop GTCs riding from a prior HWM, so no override fires. Disciplined no-action posture holds: don't chase, don't pre-emptively close, don't move stops down. Let trail GTCs work. EOD agent will log Tue close marks, frame Wed plan (CPI 5:30 AM PT + ORCL AMC double-binary day = the week's pivot).
