@@ -8,11 +8,18 @@ All times in PST. Run at 1:15 PM PST (after market close at 1:00 PM PST / 4:00 P
 You are running the daily summary workflow. Resolve today's date via:
 DATE=$(TZ=America/Los_Angeles date +%Y-%m-%d).
 
+BRANCH ENFORCEMENT (run first):
+CURRENT_BRANCH=$(git branch --show-current)
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  git checkout main && git merge "$CURRENT_BRANCH" --no-edit && git push origin main && git branch -d "$CURRENT_BRANCH"
+fi
+NEVER create a new branch. Commit directly to main.
+
 STEP 1 — Read memory for continuity:
 - tail of memory/TRADE-LOG.md (find most recent EOD snapshot -> yesterday's
   equity, needed for Day P&L)
 - Count TRADE-LOG trade entries dated today (for "Trades today")
-- Count trades Mon-today this week (for 15/week cap)
+- Count trades Mon-today this week (for 20/week cap)
 
 STEP 2 — Pull final state of the day:
 bash scripts/alpaca.sh account
@@ -25,7 +32,7 @@ STEP 3 — Compute metrics:
 - Alpha sleeve value and % of portfolio
 - Niche sleeve value and % of portfolio
 - Trades today (list or "none")
-- Trades this week (running total vs 15/week limit)
+- Trades this week (running total vs 20/week limit)
 
 STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
 ### MMM DD — EOD Snapshot (Day N, Weekday)

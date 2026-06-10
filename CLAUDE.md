@@ -16,20 +16,25 @@ Defined in .claude/commands/ (local) and routines/ (cloud). Five scheduled
 runs per trading day plus two ad-hoc helpers.
 ## Strategy Hard Rules (quick reference)
 - NO OPTIONS, NO ETFs — ever. Individual stocks only.
-- Two sleeves: Alpha stocks (70–75%), Niche/speculative (20–25%).
-- Max 8 total positions.
+- Two sleeves: Alpha stocks (65–75%), Niche/speculative (25–30%).
+- Max 12 total positions.
 - Alpha: max 15% per position.
-- Niche: max 10% per position, 3:1 R:R required, hard -10% stop.
-- Max 15 new trades per week (alpha + niche combined).
+- Niche: max 12% per position, 2.5:1 R:R required, hard -10% stop.
+- Core niche watchlist: ASTS, RKLB, OKLO, AEHR, NBIS — research every session.
+- Max 20 new trades per week (alpha + niche combined).
 - 10% trailing stop GTC on every position.
 - Cut losers at -7% manually.
 - Tighten trail to 7% at +15%, to 5% at +20%.
 - Never within 3% of current price. Never move a stop down.
 - Follow sector momentum. Exit a sector after 2 failed trades.
-- Patience > activity.
+- Niche entry requires full 7-point research (earnings, analysts, institutions, news, sentiment, technical, thesis).
+- Aggressive bias — deploy capital on quality setups. Under-deployment is a failure mode.
 ## Git / Worktree Rules
 - **Never use worktree isolation.** Always work directly on the `main` branch
   in the repo root so all agents share the same `memory/` files in real time.
+- **Never create a new branch.** All commits go directly to `main`.
+- If you find yourself on a non-main branch for any reason, immediately merge
+  back: `BRANCH=$(git branch --show-current) && git checkout main && git merge $BRANCH --no-edit && git push origin main && git branch -d $BRANCH`
 - When creating a PR, merge it immediately with `gh pr merge --merge --auto`
   without waiting for user approval.
 ## API Wrappers

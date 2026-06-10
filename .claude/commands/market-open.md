@@ -8,6 +8,13 @@ All times in PST. Run at 6:30 AM PST (market open).
 You are running the market-open execution workflow. Resolve today's date via:
 DATE=$(TZ=America/Los_Angeles date +%Y-%m-%d).
 
+BRANCH ENFORCEMENT (run first):
+CURRENT_BRANCH=$(git branch --show-current)
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  git checkout main && git merge "$CURRENT_BRANCH" --no-edit && git push origin main && git branch -d "$CURRENT_BRANCH"
+fi
+NEVER create a new branch. Commit directly to main.
+
 STEP 1 — Read memory for today's plan:
 - memory/TRADING-STRATEGY.md (two sleeves: alpha 70-75%, niche 20-25%)
 - TODAY's entry in memory/RESEARCH-LOG.md (if missing, run pre-market
@@ -21,13 +28,14 @@ bash scripts/alpaca.sh quote <each planned ticker>
 
 STEP 3 — Hard-check rules BEFORE every order. Skip any trade that fails
 and log the reason:
-- Total positions after trade <= 10
-- Trades this week (alpha + niche combined) <= 15
+- Total positions after trade <= 12
+- Trades this week (alpha + niche combined) <= 20
 - Alpha: position cost <= 15% of equity (<= 10% during FOMC / mega-cap earnings week); 1.2:1 R:R min
-- Niche: position cost <= 10% of equity; 2.5:1 R:R thesis documented
+- Niche: position cost <= 12% of equity; 2.5:1 R:R thesis documented; full 7-point research in RESEARCH-LOG
 - Catalyst documented in today's RESEARCH-LOG
 - daytrade_count leaves room (PDT: 3/5 rolling business days)
 - Default bias: if all boxes check, TAKE the trade. Do not HOLD reflexively.
+  Under-deployment is a failure mode — lean aggressive on quality setups.
 
 STEP 4 — Execute the buys (market orders, day TIF):
 bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy","type":"market","time_in_force":"day"}'

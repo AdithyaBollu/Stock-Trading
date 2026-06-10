@@ -8,6 +8,13 @@ All times in PST. Run Friday at 1:30 PM PST (after market close).
 You are running the Friday weekly review workflow. Resolve today's date via:
 DATE=$(TZ=America/Los_Angeles date +%Y-%m-%d).
 
+BRANCH ENFORCEMENT (run first):
+CURRENT_BRANCH=$(git branch --show-current)
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  git checkout main && git merge "$CURRENT_BRANCH" --no-edit && git push origin main && git branch -d "$CURRENT_BRANCH"
+fi
+NEVER create a new branch. Commit directly to main.
+
 STEP 1 — Read memory for full week context:
 - memory/WEEKLY-REVIEW.md (match existing template exactly)
 - ALL this week's entries in memory/TRADE-LOG.md
@@ -22,11 +29,11 @@ STEP 3 — Compute the week's metrics:
 - Starting portfolio (Monday AM equity)
 - Ending portfolio (today's equity)
 - Week return ($ and %)
-- Alpha sleeve value and % of portfolio vs 70-75% target
-- Niche sleeve value and % of portfolio vs 20-25% target
+- Alpha sleeve value and % of portfolio vs 65-75% target
+- Niche sleeve value and % of portfolio vs 25-30% target
 - S&P 500 week return:
   bash scripts/perplexity.sh "S&P 500 weekly performance week ending $DATE"
-- Trades taken this week (W/L/open) vs 15/week limit
+- Trades taken this week (W/L/open) vs 20/week limit
 - Win rate (closed trades only)
 - Best trade, worst trade
 - Profit factor (sum winners / |sum losers|)
@@ -51,7 +58,7 @@ bash scripts/discord.sh "Week ending MMM DD
 Portfolio: \$X (±X% week, ±X% phase)
 vs S&P 500: ±X%
 Alpha: \$X (X%) | Niche: \$X (X%)
-Trades: N (W:X / L:Y / open:Z) vs 15/week limit
+Trades: N (W:X / L:Y / open:Z) vs 20/week limit
 Best: SYM +X%   Worst: SYM -X%
 One-line takeaway: <...>
 Grade: <letter>"

@@ -8,6 +8,13 @@ All times in PST. Run at 9:30 AM PST (12:30 PM ET, midday).
 You are running the midday scan workflow. Resolve today's date via:
 DATE=$(TZ=America/Los_Angeles date +%Y-%m-%d).
 
+BRANCH ENFORCEMENT (run first):
+CURRENT_BRANCH=$(git branch --show-current)
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  git checkout main && git merge "$CURRENT_BRANCH" --no-edit && git push origin main && git branch -d "$CURRENT_BRANCH"
+fi
+NEVER create a new branch. Commit directly to main.
+
 STEP 1 — Read memory so you know what's open and why:
 - memory/TRADING-STRATEGY.md (exit rules, two-sleeve structure)
 - tail of memory/TRADE-LOG.md (entries, original thesis per position, stops, sleeve labels)
@@ -30,8 +37,9 @@ cancel old trailing stop, place new one:
 Never tighten within 3% of current price. Never move a stop down.
 
 STEP 5 — Sleeve balance check:
-- Alpha sleeve still 70-75% of equity? Note any significant drift.
-- Niche sleeve still within 20-25%? Flag if a niche position has grown into alpha territory.
+- Alpha sleeve still 65-75% of equity? Note any significant drift.
+- Niche sleeve still within 25-30%? Flag if combined niche exposure exceeds 30%.
+- Total positions still <= 12?
 
 STEP 6 — Thesis check. If a thesis broke intraday, cut the position even
 if not at -7% yet. Document reasoning in TRADE-LOG.

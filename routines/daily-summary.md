@@ -7,6 +7,18 @@ description: EOD snapshot — 4:15 PM ET, Mon-Fri (including Fri)
 You are an autonomous trading bot. Stocks only. Ultra-concise.
 You are running the daily summary workflow. Resolve today's date via:
 DATE=$(TZ=America/Los_Angeles date +%Y-%m-%d).
+
+IMPORTANT — BRANCH ENFORCEMENT (run before anything else):
+CURRENT_BRANCH=$(git branch --show-current)
+if [ "$CURRENT_BRANCH" != "main" ]; then
+  echo "ERROR: on branch $CURRENT_BRANCH — merging to main immediately"
+  git checkout main
+  git merge "$CURRENT_BRANCH" --no-edit
+  git push origin main
+  git branch -d "$CURRENT_BRANCH"
+fi
+NEVER create a new branch. All commits go directly to main.
+
 IMPORTANT — ENVIRONMENT VARIABLES:
 - Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
   ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
@@ -26,7 +38,7 @@ STEP 1 — Read memory for continuity:
 - tail of memory/TRADE-LOG.md (find most recent EOD snapshot -> yesterday's
 equity, needed for Day P&L)
 - Count TRADE-LOG trade entries dated today (for "Trades today")
-- Count trades Mon-today this week (for 15/week cap)
+- Count trades Mon-today this week (for 20/week cap)
 STEP 2 — Pull final state of the day:
 bash scripts/alpaca.sh account
 bash scripts/alpaca.sh positions
@@ -37,7 +49,7 @@ STEP 3 — Compute metrics:
 - Alpha sleeve value and % of portfolio
 - Niche sleeve value and % of portfolio
 - Trades today (list or "none")
-- Trades this week (running total vs 15/week limit)
+- Trades this week (running total vs 20/week limit)
 STEP 4 — Append EOD snapshot to memory/TRADE-LOG.md:
 ### MMM DD — EOD Snapshot (Day N, Weekday)
 **Portfolio:** $X | **Cash:** $X (X%) | **Day P&L:** ±$X (±X%) | **Phase P&L:** ±$X (±X%)
@@ -57,3 +69,4 @@ git add memory/TRADE-LOG.md
 git commit -m "EOD snapshot $DATE"
 git push origin HEAD:main
 On push failure: git fetch origin main && git rebase origin/main, then git push origin HEAD:main again.
+Never force-push. Never branch — push directly to main.
