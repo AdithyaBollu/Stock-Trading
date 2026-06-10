@@ -2875,3 +2875,142 @@ Bias: **HOLD AAPL (primary defense watch, 4.61% buffer) / HOLD CSCO (PEAD-defaul
 **Sleeve balance:** Equity $9,851.80 | Cash $8,031.46 (81.52%) | Long market value $1,820.34 = **alpha 18.48%** vs 70-75% target — **13th consecutive week under-deployed**. Niche 0%. Cash preserved into CPI Wed AM + ORCL Wed AMC + PPI Thu AM + ADBE Thu AMC catalyst stack. Phase P&L -$148.20 (-1.48%) vs $10,000 baseline; day -$77.48 (-0.78%) off last_equity $9,929.28.
 
 **Notes:** Risk-off Tue tape pressuring both holds intraday — AAPL T+1 WWDC fade extending, CSCO catching AI-semi-spillover weakness on broad sector de-risking ahead of CPI Wed AM. Both trail buffers now COMPRESSED inside the 3% no-touch line (CSCO 1.08% / AAPL 1.76%) = trail GTCs are now the primary line of defense and a single bad-CPI gap-down Wed AM could automatically trigger either GTC. Strategy says "Never within 3% of current price" — that applies to MOVING stops, not the broker's existing trailing-stop GTCs riding from a prior HWM, so no override fires. Disciplined no-action posture holds: don't chase, don't pre-emptively close, don't move stops down. Let trail GTCs work. EOD agent will log Tue close marks, frame Wed plan (CPI 5:30 AM PT + ORCL AMC double-binary day = the week's pivot).
+
+---
+
+## 2026-06-10 — Wed Pre-Market (Week 8, Day 3) — CPI DAY / ORCL AMC DAY
+
+### Account Snapshot (pre-open pull)
+- **Equity:** $9,839.15 | **Cash:** $8,970.08 (91.17%) | **Long mkt value:** $869.07
+- **Buying power:** $38,313.72 | **Daytrade count:** 0/5 rolling | **Last equity:** $9,841.73 (Tue close)
+- **Phase P&L:** -$160.85 (-1.61%) vs $10,000 baseline; **day -$2.58 (-0.03%)** off last_equity
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last | Unrealized P&L | Trail | HWM | Buffer |
+|--------|--------|--------|-------|------|----------------|-------|-----|--------|
+| AAPL | alpha | 3 | $284.74 | $289.69 | +$14.85 (+1.74%) | $285.66 GTC OPEN/NEW | $317.40 | **1.39%** |
+
+### Sleeve Balance
+- **Alpha:** $869.07 = **8.83%** vs 70-75% target — **14th consecutive week under-deployed**
+- **Niche:** $0 (0%)
+- **Cash:** 91.17% — restored to pre-deploy levels after **CSCO trail GTC fired Tue afternoon** (compressed 1.08% buffer triggered into AI-semi spillover weakness)
+- **Trades this week:** 1 / 15 used (CSCO exit). 14 slots preserved.
+- **Open positions:** 1 / 12
+
+### CSCO EXIT — Recap
+- Trail GTC at $117.329 (HWM $130.3656) executed Tue session on AI-semi-spillover risk-off into CPI.
+- Tue midday flagged buffer 1.08% inside 3% no-touch = automatic trail-executes-on-touch warning. Realized small loss (~-0.83% / -$7.91 net), thesis-broken-cleanly by tape, no override fired = trail did exactly the work it was designed for.
+- CSCO 8 shares × ~$118 = ~$944 returned to cash. Confirmed by cash delta: $8,031 → $8,970 = +$939.
+
+### Market Context (Wed pre-open)
+- **CPI May 2026:** Release 8:30 AM ET = **5:30 AM PT, T-1 hour to open**. Cons core CPI 2.7-2.9% YoY (Investing/Kiplinger). Prior April 2.8% YoY core / 3.8% headline (BLS). **Hot CPI** (>3.0% core or >0.4% m/m) = yields-up, multiple-compression-bearish for AAPL + bearish for ORCL post-print drift. **Cool CPI** (<2.7% core or <0.2% m/m) = bond rally, risk-on tailwind, bullish for ORCL drift Thu open. **Single biggest binary of the week, prints PRE-OPEN**.
+- **S&P 500 futures** (Wed pre-open): ESM26 ~7,369.75, **-23.00 / -0.31%** (Markets Insider). Risk-off ahead of CPI/ORCL double binary.
+- **WTI:** ~$88 (Manifold/Polymarket/CME — July 26 futures $90.95). Iran-Hormuz premium easing further from prior $95+ levels. Energy YTD leader receding.
+- **10Y Treasury yield:** 4.56% (FRED 2026-06-08). 2Y/10Y spread normal-positive; no inversion signal.
+- **VIX:** Not surfaced in pre-open pull (no clean source); track at open.
+
+### This Week's Earnings Calendar (Week 8)
+| Ticker | Date | Time | Cons EPS | Our Stance |
+|--------|------|------|----------|------------|
+| **ORCL** | Wed 6/10 | AMC | $1.96 / $19.1B rev (own guide $1.96-$2.00 / 19-21% USD growth) | **PRIMARY DEPLOYMENT PATH** — Thu 6/11 open post-print drift STAGED conditional on (a) clean beat ≥ midpoint, (b) cloud rev ≥$9.0B implied high-end, (c) FY27 guide raised, (d) CPI not crashed AM tape, (e) gap >+3% sustained, (f) 1.2:1 R:R verifies. SECONDARY check: CPI hot → STAND DOWN. |
+| **ADBE** | Thu 6/11 | AMC | In-line cons, 8.7% implied move | Conditional Fri post-print only on clean beat + Digital Media ARR ≥$450M. CEO/AI overhang. |
+| **CHWY / LOVE** | Wed 6/10 | BMO | CHWY $0.24 / LOVE -$1.05 (Kiplinger) | Off-theme, no exposure, ignore. |
+
+### Macro & Geopolitical Scan
+| Risk | Status | Classification |
+|------|--------|----------------|
+| CPI May release 5:30 AM PT | Live today, single biggest binary | **HIGH IMPACT** — outcome reprices entire tech tape AM. Stand-down posture pre-print. |
+| Fed June 16-17 FOMC | Hold base case ~96.5% FedWatch (CME); cut probability 50.4% per softer prediction-mkt blend | **MEDIUM WATCH** — FOMC 7 days out, no pre-FOMC entries needed today. |
+| Fed funds rate | 3.50-3.75% (held second consecutive meeting per Instagram source) | LOW/PRICED IN. |
+| Iran/Hormuz | Tenuous ceasefire holding; oil premium easing $95 → $88 (Soufan Center, Fortune) | **MEDIUM WATCH** — second-leg-shock risk monitored, no immediate action. |
+| Russia/Ukraine | LNG substitution narrative ongoing; no fresh escalation surfaced | LOW/PRICED IN. |
+| US/China tariffs | No fresh tariff move surfaced June 10 | LOW/PRICED IN. |
+| PPI Thu 6/11 5:30 AM PT | Secondary inflation read; classify post-CPI | MEDIUM WATCH. |
+
+### Sector Momentum (Week 8 update)
+- **AI/Semi tape cracked further Tue** (AVGO/CRWD T+3-T+4 fade + read-through to NVDA/AMD/MRVL) — CSCO trail GTC executed on this exact spillover. Sector momentum bias = NEGATIVE pre-CPI.
+- **Energy easing** from May highs as Iran premium fades. WTI ~$88 vs prior $95+. Sector unwinding.
+- **Defensive bid** (utilities, staples) into CPI; Real Estate firming on yield expectations.
+
+### Tech/Semi Watchlist (quote staleness flag: Mon-close one-sided/wide spreads pre-open)
+| Ticker | Last Bid/Ask | Setup | Action |
+|--------|-------------|-------|--------|
+| AAPL | $279.06 / $303.44 (Mon close $289.69) | Post-WWDC T+2 fade, buffer 1.39% trail-on-touch risk | HOLD — no add, no trim, let trail GTC defend |
+| NVDA | $195.91 / $217.14 | AVGO-spillover read-through pressure | AVOID — no own catalyst, sector down |
+| AMD | bid $447.85 | AI-semi fade | AVOID |
+| AVGO | bid $372.86 | Post-print Thu 6/4 -12.59% extending | AVOID |
+| MRVL | bid $251.43 | Read-through fade | AVOID |
+| TSM | $361.29 / $482.91 (wide stale) | No catalyst | AVOID |
+| MU | bid $935.89 | No catalyst | AVOID |
+| QCOM | $191.83 / $214.98 | No catalyst | AVOID |
+| ARM | bid $277.02 | No catalyst | AVOID |
+| SMCI | bid $38.29 | Fundamentally broken | AVOID |
+| ASML | bid $1,528.15 | EU tape | AVOID |
+| **ORCL** | $195.08 / $213.03 | **Q4 FY26 print AMC tonight** | NO pre-print entry. Thu 6/11 open conditional STAGED. |
+
+### Niche Radar (mandatory deep-research scan)
+| Ticker | Bid/Ask | Classification | Key Catalyst | EPS Trend | Sentiment | Action |
+|--------|---------|----------------|--------------|-----------|-----------|--------|
+| **ASTS** | $84.78 / $92.92 | **WATCH** | **BlueBird 8/9/10 SpaceX launch June 17 (7 days out)** | Q1 rev $14.7M; FY26 guide $150-200M intact | Barclays cut PT $65→$60 (cautious); FCC commercial auth grant secured | **STAGE conditional** — pre-launch run-up + post-launch milestone risk = 2-way binary in 7 days. Need successful deploy + clean operational data. Not actionable today; track. |
+| **RKLB** | $101.05 / $113.37 | WATCH | Neutron first flight NLT Q4 2026; Multi-launch deal w/ confidential customer (5 Neutron flights 2026-29); $1.85B backlog; Q1 rev $200.3M +63.5% YoY | $200.3M Q1 rev; GAAP gross margin 38.2% | Capital raise dilution concern; Neutron interstage crack overhang | SKIP — no near-term catalyst, Neutron 1st flight 4+ months out |
+| **OKLO** | $48.40 / $63.71 | WATCH | Mid-2026 reactor startup deadline (July 4 target per Bloomberg) | Pre-revenue; ~$294.6M liquidity (1H24 last cited) | NRC denied Aurora COL prior; pilot program path live | **STAGE conditional** — first reactor startup = binary 3-6 weeks out, asymmetric. Need real startup data signal vs hype. Not actionable today; track. |
+| **AEHR** | bid $80.22 | WATCH | FY26 rev guide $45-50M high-side; bookings $60-80M high-side; record backlog $50.9M | Q3 FY26 EPS -$0.05 vs cons -$0.07 beat | SiC growth into FY27; AI/data-center demand | SKIP — fundamentally on track but no fresh 2.5:1 R:R catalyst this week |
+| **NBIS** | $189.17 / $249.73 | **AVOID** | Q1 rev +684% YoY to $399M; FY26 guide $3.0-3.4B; AI EBITDA margin 45% | Hyper-growth | +93% YTD, valuation stretched; 21% short interest squeeze potential | **AVOID near-term entry** — already extended +93%; pullback first, then re-evaluate |
+
+**Niche net output:** Two STAGE-conditional names (ASTS launch 6/17, OKLO mid-2026 reactor startup) — both binary, both not actionable today. Zero ready-to-fire today. **Niche sleeve stays empty Wed.**
+
+### Trade Ideas
+
+**1. HOLD AAPL — defense watch, buffer 1.39% inside 3% no-touch, trail GTC primary line:**
+- 3 shares, entry $284.74, last $289.69, trail $285.66 HWM $317.40. **Buffer narrowest of any session of the hold (1.39%).** If AAPL gaps sub-$285.66 on hot CPI, GTC fires automatically (realized ~+0.32% / +$2.76 net = small green exit). Manual-cut $264.81 (~8.59% below current) = unlikely without macro shock.
+- Strategy "Never within 3% of current price" applies to MOVING stops, not pre-existing trailing GTCs riding from a prior HWM — no override fires.
+- Thesis intact: post-WWDC AI/Siri 2.0 narrative still credible per MS bull case ($365-385 base / $440 bull). Day-2 fade tape-driven, not headline-driven.
+- **HOLD; let trail GTC work.** No add — no clean 3-5% pullback-on-reclaim signal; fade structure isn't there yet.
+
+**2. NO FRESH ENTRIES at Wed 6/10 open:**
+- **CPI Wed AM 5:30 AM PT = single biggest binary** — entering any new position pre-print = pure gamble. STAND DOWN until CPI clears at open and tape direction is known.
+- **ORCL pre-print rejected** — Wed AMC double-binary with CPI same day. Thu open drift STAGED conditional on CPI + print clearing bars.
+- **ADBE Thu AMC** — Fri open conditional only on clean beat + Digital Media ARR.
+- **Core-winner add path (Counter-policy 1):** AAPL post-WWDC fade is NOT a clean 3-5% pullback-on-reclaim signal (still drifting, no volume reclaim off rising 20-DMA). No core-winner add fires.
+- **Niche STAGE-conditional names** (ASTS launch 6/17, OKLO mid-2026) — neither actionable today.
+
+**3. ORCL POST-PRINT DRIFT (ALPHA sleeve, STAGED for Thu 6/11 — PRIMARY DEPLOYMENT PATH):**
+- **Catalyst:** Q4 FY26 print Wed AMC tonight. Cons EPS $1.96 / rev $19.1B vs own guide $1.96-$2.00 / 19-21% USD growth (Q3 cloud +44% YoY, FY26 cloud +46-50% USD, capex $50B AI infra, rev $67B reaffirmed).
+- **Thu 6/11 open gates (unchanged):** (a) EPS+rev beat ≥ midpoint, (b) cloud rev ≥$9.0B implied, (c) FY27 raised, (d) CPI not crashed AM tape Wed, (e) gap +3% sustained 30 min, (f) first-15-min pullback-on-reclaim w/ volume — no chase, (g) spread <1% post-open, (h) 1.2:1 R:R + 10% trail GTC verifies.
+- **Sizing:** Event-week 10% cap = ~$984. ORCL spot ~$195-213 → **4-5 shares = $780-1065 cost.** Fits cap cleanly.
+- **STAND DOWN triggers:** gap >+8% then fade, spread >1%, **HOT CPI Wed AM**, cloud rev miss, FY27 guide NOT raised, sector tape red.
+
+**4. POTENTIAL POST-CPI WED OPEN PIVOT (CONTINGENT):**
+- **Cool CPI scenario** (core <2.7% YoY or m/m <0.2%): risk-on tape, AI-semi relief bid, AAPL drift extends. **Action:** Consider core-winner add path on AAPL **only** if a clean 3-5% pullback-on-reclaim with volume sets up post-CPI (current fade doesn't have it yet). Otherwise HOLD.
+- **Hot CPI scenario** (core >3.0% YoY or m/m >0.4%): tape down, yields up, AAPL trail GTC likely fires automatically below $285.66. **No override** — let it execute; preserve cash for ORCL Thu post-print drift instead.
+- **In-line CPI** (core 2.7-2.9% YoY, m/m 0.2-0.3%): no clear pivot; continue stand-down.
+
+### Risk Factors
+- **AAPL buffer 1.39% = narrowest of any session** of the hold. T+2 WWDC fade extending; trail-on-touch automatic. No override fires per strategy: pre-existing GTCs ride from HWM, only MOVING stops are gated by 3% rule. Manual-cut $264.81 ~8.59% below.
+- **CPI Wed 5:30 AM PT = primary binary.** Hot read → AAPL likely auto-exit + bearish setup for ORCL Thu drift; cool read → tape relief + bullish setup for ORCL drift. Macro positioning gates the entire week.
+- **ORCL Wed AMC** = the binary the deployment plan was built around. CPI sequence first, then ORCL. Stand-down through both prints; Thu open is the only entry path that survives.
+- **PPI Thu 5:30 AM PT** = secondary inflation read, lower magnitude than CPI but matters for ORCL drift verification.
+- **ADBE Thu AMC** = secondary deployment path on Fri open (lower conviction than ORCL — CEO/AI/competition + in-line cons + 8.7% implied move).
+- **14th consecutive week sleeve under-deployed at 8.83%** vs 70-75% target. Cash 91.17%. CSCO exit reset the deployment baseline lower; ORCL Thu post-print drift = primary repair path of the week. Under-deployment failure mode REAL but pre-CPI/print entry would be reckless.
+- **AVGO -12.59% Thu 6/4 spillover continuing** — Tue extended through tape, took CSCO with it; AAPL hanging on but buffer compressed. Second leg of sector unwind is live risk.
+- **AAPL +15% tighten trigger $327.45** = +$37.76 / +13.0% from current $289.69 = out of striking distance.
+- **Daytrade count 0/5 rolling** — full slate, no PDT pressure.
+- **Iran/Hormuz** premium continues easing; oil sub-$90.
+- **Geopolitical tape light** — no major US/China or Russia/Ukraine catalyst surfacing today.
+
+### Decision
+**HOLD AAPL through CPI (5:30 AM PT) and ORCL print (1:00 PM PT close / AMC call). NO FRESH ENTRIES AT WED OPEN.** AAPL buffer compressed to 1.39% — trail GTC is the primary line; if CPI prints hot and AAPL gaps sub-$285.66, GTC executes automatically (small green exit ~+$2.76 net). Strategy explicitly allows pre-existing GTCs to ride inside 3% — no override. Cash 91.17% preserved into the ORCL Wed AMC binary; Thu 6/11 open = the planned deployment window if all gates clear (CPI not crashed + clean print + cloud rev ≥$9.0B + FY27 raised + sector green-or-flat). Niche radar produced two STAGE-conditional names (ASTS launch 6/17, OKLO mid-2026 reactor startup) — both binary, neither actionable today. Zero forced trades pre-binary stack. Disciplined stand-down posture vindicated by CSCO exit (sector spillover triggered exactly the kind of trail-defended exit the strategy is designed around).
+
+**Plan for market-open agent (Wed 6/10 6:30 AM PST):**
+1. **CHECK CPI PRINT (5:30 AM PT)** — note headline + core m/m + YoY readings vs cons. Classify HOT / IN-LINE / COOL. Confirm whether AAPL gap-down triggers trail GTC.
+2. **VERIFY AAPL trail GTC OPEN/NEW** (stop $285.66 HWM $317.40). If fired automatically pre-open on CPI gap-down, document fill price + realized P&L. No override either way.
+3. **HOLD AAPL** — no adds, no trims, no manual stop moves. Buffer 1.39% — trail-on-touch automatic risk.
+4. **NO FRESH ENTRIES WED OPEN** — pre-ORCL AMC + pre-PPI Thu AM. CPI clears 5:30 AM PT; even cool CPI does NOT unlock new buys today (need ORCL print first to confirm sector direction). Disciplined stand-down.
+5. **ORCL pre-print:** rejected (Wed AMC = double-binary day with CPI). Thu 6/11 open conditional STAGED — gates: (a) EPS+rev beat ≥midpoint, (b) cloud rev ≥$9.0B, (c) FY27 raised, (d) CPI didn't crash AM tape, (e) gap +3% sustained 30 min, (f) pullback-on-reclaim w/ volume, (g) spread <1%, (h) 1.2:1 R:R + 10% trail GTC.
+6. **Niche sleeve mandatory screen ran pre-bell:** two STAGE-conditional names (ASTS launch 6/17 7 days out, OKLO mid-2026 reactor startup 3-6 weeks out), neither actionable today. Zero ready-to-fire. Niche stays empty Wed.
+7. **Tech/semi watchlist:** all AVOID except AAPL HOLD + ORCL STAGE-Thu. AI-semi spillover live; sector momentum bias NEGATIVE pre-CPI.
+8. **Midday agent:** read AAPL post-CPI tape; verify trail GTC status if not fired pre-open; track ORCL pre-print drift into AMC call (no entries either direction).
+9. **EOD agent:** log Wed close + ORCL AMC initial reaction (AH gap direction sets Thu open gate verification); frame Thu plan as a function of CPI + ORCL outcome.
+
+Bias: **HOLD AAPL (defense, buffer 1.39%). NO fresh entries Wed open through CPI + ORCL AMC + PPI Thu binary stack. Cash 91.17% preserved.** ORCL Thu post-print drift = primary deployment path of the week, gated on all 8 entry checks. ADBE Fri = secondary conditional. Niche sleeve stays empty — STAGE-conditional candidates (ASTS, OKLO) tracked but not actionable today.
+
