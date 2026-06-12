@@ -3174,3 +3174,167 @@ Bias: **HOLD AAPL (defense, buffer 1.39%). NO fresh entries Wed open through CPI
 10. **EOD agent:** log Thu close + ADBE AMC initial reaction (AH gap direction sets Fri open gate verification); frame Fri plan as a function of PPI + ADBE outcome.
 
 Bias: **HOLD AAPL (defense, buffer ~2.55%). NO fresh entries Thu open through PPI + ORCL post-print spillover + ADBE AMC binary stack. Cash 91.07% preserved.** ADBE Fri post-print drift = next staged deployment path; niche STAGE-conditionals tracked but not actionable. ORCL stand-down vindicated by -10% AH outcome (third capex-shock leg in 3 weeks).
+
+
+---
+
+## 2026-06-12 — Fri Pre-Market (Week 8, Day 5) — ADBE GATE FAILED (CFO exit + 2H ARR cut) / HOT PPI / FOMC T-5
+
+### Account Snapshot (pre-open pull)
+- **Equity:** $9,860.45 | **Cash:** $8,970.08 (90.97%) | **Long mkt value:** $890.37
+- **Buying power:** $38,373.36 | **Daytrade count:** 0/5 rolling | **Last equity:** $9,856.97 (Thu close)
+- **Phase P&L:** -$139.55 (-1.40%) vs $10,000 baseline; **day +$3.48 (+0.04%)** off last_equity
+
+### Open Positions
+| Ticker | Sleeve | Shares | Entry | Last | Unrealized P&L | Trail | HWM | Buffer |
+|--------|--------|--------|-------|------|----------------|-------|-----|--------|
+| AAPL | alpha | 3 | $284.74 | $296.79 | +$36.15 (+4.23%) | $285.66 GTC OPEN/NEW | $317.40 | **~3.74%** |
+
+### Sleeve Balance
+- **Alpha:** $890.37 = **9.03%** vs 70–75% target — **15th consecutive week under-deployed**
+- **Niche:** $0 (0%)
+- **Cash:** 90.97%
+- **Trades this week:** 1 / 15 used (CSCO exit Tue). 14 slots preserved.
+- **Open positions:** 1 / 12
+
+### ADBE EARNINGS RECAP (Thu 6/11 AMC) — BEAT-AND-RAISE BUT CFO EXIT + 2H ARR CUT
+- **Q2 FY26 actuals:** EPS $5.96 vs cons $5.82 (+$0.14 BEAT); revenue $6.62B vs cons $6.45B (BEAT); FY26 guide RAISED to $26.5–26.6B rev / $24.35–24.45 EPS; Q3 guide $6.7B rev / $6.05–6.10 EPS.
+- **Firefly ARR:** approaching **~$300M** (up from prior $250M signal) — bullish AI monetization print.
+- **Critical bearish flags:**
+  - **CFO EXIT** announced same call — leadership-transition overhang.
+  - **2H Digital Media ARR growth explicitly LOWERED** — Adobe attributed to "shift toward higher-quality customers." Direct contradiction of gate (b) "Digital Media ARR uplift signal."
+- **AH reaction:** Stock DROPPED post-print (CFO exit + 2H ARR cut overshadowed the beat-and-raise). ADBE last quote $207.77 bid / $207.88 ask (Thu 4:55 PM ET).
+- **8-gate matrix for Fri open drift entry:**
+  - (a) clean beat ≥ guide midpoint ✓ (EPS +$0.14, rev +$170M)
+  - (b) Digital Media ARR uplift — **FAILED HARD** (Adobe explicitly cut 2H ARR growth expectations)
+  - (c) sector tape green-or-flat — futures +0.15% (marginal pass, HOT PPI risk active)
+  - (d) gap +3% sustained 30 min — **FAILS** (AH negative reaction)
+  - (e) pullback-on-reclaim w/ volume — N/A (no gap-up to reclaim)
+  - (f) spread <1% — N/A
+  - (g) 1.2:1 R:R + 10% trail GTC — N/A
+- **Decision: STAND DOWN ADBE.** Gate (b) failure is thesis-disqualifying; gate (d) failure is binary disqualifying. "CFO exit eclipses beat" pattern = thesis broken. Do NOT chase the fade.
+
+### Market Context (Fri 6/12 pre-open)
+- **PPI May (Thu print, recap):** Headline **+1.1% MoM / +6.5% YoY** (HOT — well above forecast 0.7% headline); Core **+0.8% MoM / +4.9% YoY** (HOT, sticky). Energy lit the fuse, core goods sticky. Tech-multiple compression risk live but tape did not crater on the print.
+- **CPI May (Wed print, recap):** Core 0.2% MoM in-line/cool, headline 4.2% hot. Net dovish on core; market took the dovish read.
+- **S&P 500 futures:** ESM26 ~7,397–7,407, **+0.02% to +0.15%** = mildly green premarket; HOT PPI absorbed.
+- **VIX:** **19.44** (Thu close); off the cycle highs, calming.
+- **WTI:** ~$86.71 (Jul futures); Brent ~$88.99 (Kalshi reference). Iran/Hormuz tension priced in.
+- **10Y Treasury yield:** ~4.56% (last FRED stamp 6/8); not freshly pulled today but PPI hot bias = upward yield pressure.
+- **Fed (FOMC June 16–17, T-5 days):** CME FedWatch ~**96.5% no-cut hold** at 3.50–3.75%. SEP dot-plot update Wednesday will be the swing factor. LOW/PRICED IN.
+- **Sector momentum:** Mixed. AI-infra capex-shock theme (GOOGL/AVGO/ORCL 3-leg sequence) compressing AI-semi multiples; AAPL relative-strength divergence holding. SpaceX IPO ($135/share, ~$75B raise) = capital-flow catalyst that could pull liquidity from AI-semi names; watch ASTS/RKLB for read-through.
+
+### This Week's Earnings Calendar (Week 8 — Day 5)
+| Ticker | Date | Time | Result / Stance |
+|--------|------|------|------------------|
+| ORCL | Wed 6/10 | AMC | PRINT DONE. Beat + raise, capex shock -10% AH. STAND DOWN, NO DRIFT ENTRY. |
+| ADBE | Thu 6/11 | AMC | **PRINT DONE.** Beat + raise BUT CFO exit + 2H ARR cut → STAND DOWN, gate (b) + (d) failed. |
+| LEN | Thu 6/11 | AMC | Off-theme homebuilder. Ignore. |
+| Next week (Week 9): FOMC Wed 6/17 + ASTS launch Wed 6/17 + Adobe MAX rumors | — | — | Single-name catalyst stack thin; macro pivot week. |
+
+### Macro & Geopolitical Scan
+| Risk | Status | Classification |
+|------|--------|----------------|
+| **PPI May (Thu print)** | Headline +1.1% MoM / +6.5% YoY, Core +0.8% MoM / +4.9% YoY (HOT) | **MEDIUM IMPACT** — multiple compression risk live but absorbed; futures +0.15% says tape priced in |
+| **CPI May (Wed print)** | Core 0.2% MoM in-line/cool — dovish | LOW/PRICED IN |
+| **FOMC June 16–17 (T-5 days)** | ~96.5% no-cut hold; SEP dot-plot is the swing | **MEDIUM WATCH** — pre-FOMC drift trades disqualified; Wed SEP could re-rate multiples |
+| Fed funds rate | 3.50–3.75% (held since March 2026) | LOW/PRICED IN |
+| **Iran / Strait of Hormuz** | Crisis ongoing; oil $86–89; Brookings/CSIS reports continuous tanker risk; 14+ mbd disrupted, IEA cushion eroding by late summer | **MEDIUM WATCH** — second-leg escalation = oil spike; status quo absorbed |
+| Russia / Ukraine | LNG substitution narrative; no fresh escalation | LOW/PRICED IN |
+| US / China tariffs | No fresh tariff move | LOW/PRICED IN |
+| US debt ceiling / fiscal | No fresh catalyst | LOW/PRICED IN |
+| **AI-infra capex compression theme** | ORCL +$70B capex raise = 3rd leg of GOOGL/AVGO/ORCL shock sequence | **HIGH IMPACT** — new entries in AI-infra DISQUALIFIED until pattern reverses |
+| **SpaceX IPO (today)** | First-trade ~$135/share, ~$75B raise target | **MEDIUM IMPACT** — liquidity sink for space-tech names (ASTS/RKLB read-through risk both directions) |
+
+### Tech/Semi Watchlist (Fri pre-open)
+| Ticker | Last quote | Setup | Action |
+|--------|------------|-------|--------|
+| **AAPL** | $296.79 (positions API mark); bid $278.96 (post-close 4 PM ET tape) | T+3 WWDC fade absorbed; analyst raises (TD Cowen $350, Maxim $350, MS $360 OW, JPM $325 OW, Bernstein $350 OP); drift intact; buffer ~3.74% restored | **HOLD** — let trail GTC ride; no add (no clean 3–5% pullback-and-reclaim signal off rising 20-DMA, counter-policy 1 gates NOT met) |
+| **ADBE** | bid $207.77 / ask $207.88 (Thu 4:55 PM ET) | **Post-print CFO-exit + 2H ARR cut shock** | **STAND DOWN.** Gate (b) + (d) failed binary. Re-evaluate only on T+2–T+3 reclaim above pre-print levels, not Fri. |
+| ORCL | bid $174.23 / ask $192.89 (wide post-print) | Capex-shock fade continuing | AVOID — knife |
+| NVDA | bid $191.33 stale | ORCL read-through + AI-semi pressure | AVOID |
+| AMD | bid $458.32 stale | AI-semi fade | AVOID |
+| AVGO | bid $361.80 stale | T+5 -12.59% capex fade | AVOID |
+| MRVL | (no fresh quote) | Read-through | AVOID |
+| TSM | (no fresh quote) | No catalyst | AVOID |
+| MU | (no fresh quote) | No catalyst | AVOID |
+| QCOM | (no fresh quote) | No catalyst | AVOID |
+| ARM | (no fresh quote) | No catalyst | AVOID |
+| SMCI | (no fresh quote) | Fundamentally broken | AVOID |
+| ASML | (no fresh quote) | EU tape | AVOID |
+| MSFT/GOOGL/META | bid $367.41/$338.10/$537.51 | No fresh catalyst | AVOID |
+
+### Niche Radar (mandatory deep-research scan)
+| Ticker | Quote | Classification | Key Catalyst | EPS Trend | Sentiment | Action |
+|--------|-------|----------------|--------------|-----------|-----------|--------|
+| **ASTS** | $92.47 bid (no ask, pre-mkt) | **WATCH (STAGE-conditional)** | **BlueBird 8/9/10 SpaceX launch Wed June 17, 2:39 AM EDT** — 5 days out | Q1 rev $14.7M; FY26 guide $150–200M intact | Pre-launch chase already extended (+$8 from Thu pre-mkt $84); Barclays Underweight PT $60 bearish overhang; SpaceX IPO same-day = potential liquidity sink | **STAGE/SKIP — 5-day pre-launch run-up creates 2-way binary; not actionable today.** Post-launch successful-deploy data = re-evaluate, not pre-launch chase. |
+| **RKLB** | $118.18 bid / $118.29 ask | WATCH | Neutron first flight Q4 2026 (late-2026 debut confirmed); $1.85B backlog; new 5-launch confidential customer deal | Q1 rev $200.3M +63.5% YoY; gross margin 38.2% | Capital raise dilution overhang; Neutron interstage crack overhang; SpaceX IPO competition framing | **SKIP** — Neutron 4+ months out; no near-term catalyst |
+| **OKLO** | $57.54 bid | WATCH (STAGE-conditional) | July 4, 2026 reactor criticality target at Idaho NL (3 weeks out); NRC PDC topical report approved 5/6/26 | Pre-revenue | Stock has run on NRC topical-report approval + criticality target; binary 3 weeks out | **STAGE — track for actual startup data, not actionable today.** |
+| **AEHR** | bid $87.60 / ask $116.75 (wide stale) | WATCH | FY26 rev $45–50M high-side | Q3 FY26 EPS -$0.05 vs cons -$0.07 beat; bookings $60–80M | SiC growth tailwind | SKIP — no fresh 2.5:1 R:R catalyst this week |
+| **NBIS** | bid $189.63 (no ask) | **AVOID** | Q1 rev +684% YoY $399M; FY26 guide $3.0–3.4B | Hyper-growth | Stretched valuation post run; 21% short interest | AVOID near-term — pullback first |
+
+**Niche net output:** Zero ready-to-fire today. ASTS pre-launch chase too late (extended +$8 in 24h on launch confirmation). OKLO criticality 3 weeks out. RKLB/AEHR no catalyst. NBIS valuation stretched. **Niche sleeve stays empty Fri.**
+
+### Trade Ideas
+
+**1. HOLD AAPL — primary defense watch, buffer ~3.74% (recovered above 3% no-touch line):**
+- 3 shares, entry $284.74, last $296.79, trail $285.66 HWM $317.40. Buffer recovered from Wed mid 1.39% on CPI cool-core relief + T+3 WWDC fade absorption.
+- Manual-cut $264.81 (~10.8% below current).
+- Thesis intact: PEAD drift + relative-strength divergence vs AI-semi pressure (CSCO shaken out 6/9; AAPL holding through ORCL spillover). Multiple analyst raises post-WWDC: TD Cowen $350, Maxim $350, MS $360 OW (reframing AAPL as AI winner), JPM $325 OW, Bernstein $350 OP; only UBS Neutral $296 / Jefferies $300 stay flat.
+- **HOLD; let trail GTC work.** No add — no clean 3–5% pullback-on-reclaim signal off rising 20-DMA; counter-policy 1 gates NOT met. Strategy says deploy on quality setups, but "vertical extension off WWDC" is not a clean add structure.
+- +15% tighten trigger $327.45 = +$30.66 / +10.3% from current = out of striking distance.
+
+**2. STAND DOWN ADBE — gate (b) + (d) failed:**
+- Beat-and-raise (EPS $5.96 vs $5.82, rev $6.62B vs $6.45B, FY26 guide $26.5–26.6B raised) BUT CFO exit + explicit 2H Digital Media ARR growth cut = thesis broken before entry.
+- AH reaction negative ($207.77 vs Thu close ~$210s area).
+- Don't chase the fade; T+2–T+3 reclaim above pre-print = earliest re-evaluation gate.
+
+**3. STAND DOWN ORCL — gate (e) failed Wed AMC:**
+- Capex shock -10% AH continues to fade; $174.23 bid / $192.89 ask wide spread = post-print disorder.
+- Don't catch the knife.
+
+**4. NICHE — Mandatory screen output:**
+- ASTS pre-launch chase too late (extended in 24h); pre-launch binary; SpaceX IPO same-week liquidity sink. **SKIP.**
+- OKLO criticality 3 weeks out; not actionable today. **SKIP.**
+- RKLB/AEHR no near-term catalyst. **SKIP.**
+- NBIS valuation stretched. **AVOID.**
+- FDA PDUFA calendar 0–20 days still empty (next tier-1: Truqap 6/30, mirdametinib 7/10, gedatolisib 7/17, Leqembi 7/25).
+- Small-cap breakout scan: noise pattern continues; no quality A+ surfacing.
+- **Net: zero ready-to-fire. Niche sleeve stays empty Fri.**
+
+**5. POTENTIAL POST-OPEN PIVOT (CONTINGENT):**
+- **AAPL clean 3–5% pullback to rising 20-DMA with volume reclaim:** Counter-policy 1 core-winner add path unlocks. Sizing ≤10% per add; combined position must respect 15% cap (currently 9.03% → add ~$590 / 2 sh at $295 = 10.95% combined OK). **Not currently set up; vertical extension off WWDC, no pullback structure.** Monitor for actual pullback signal, do not chase.
+- **HOT PPI sector unwind:** if AAPL trail GTC fires automatically on AI-semi spillover or multiple compression, no override; small green realized exit (~+0.32% / +$2.76).
+
+**6. AVOID at Fri 6/12 open:**
+- ADBE (gate failed), ORCL (knife), all AI-semis (ORCL spillover + PPI multiple compression risk), ASTS (pre-launch chase + SpaceX IPO same-day), all niche STAGE-conditionals (timing wrong), micro-cap momentum, mid-cap stale drift, pre-FOMC positioning (T-5 days).
+
+### Risk Factors
+- **AAPL buffer ~3.74%** — back outside the 3% no-touch line; trail GTC operational defense intact. Manual-cut $264.81 = 10.8% below.
+- **HOT PPI (+1.1% headline, +0.8% core MoM)** = multiple-compression risk for tech; futures absorbed mildly green but real test is intraday tape behavior post-open.
+- **ADBE CFO-exit shock** = third "single-name execution risk" event this week (after ORCL capex shock Wed). Sector signal weak.
+- **FOMC June 16–17 T-5 days** — SEP dot-plot Wed = primary swing factor; pre-FOMC drift positioning disqualified.
+- **AI-infra capex compression** (GOOGL 5/22 → AVGO 6/4 → ORCL 6/10) = 3-print pattern continues to pressure adjacent AI names; AAPL relative-strength has held.
+- **SpaceX IPO Fri** = ~$75B liquidity event; could pull capital from ASTS/RKLB; transient sentiment risk.
+- **Iran/Hormuz** crisis ongoing; oil $86–89 (well off March $103 highs). Status quo absorbed; second-leg escalation = oil spike risk.
+- **15th consecutive week sleeve under-deployed at 9.03%.** Cash 90.97%. ADBE stand-down validates the discipline — would have been a chase entry into broken thesis. ORCL stand-down (Wed) + ADBE stand-down (Thu) preserved cash from two consecutive single-name binary disasters. Discipline working as designed; under-deployment remains the structural cost.
+- **AAPL +15% tighten trigger $327.45** = +$30.66 / +10.3% above current = far out of striking distance.
+- **Daytrade count 0/5 rolling** — full slate.
+- **Week 8: 1 / 15 trades used** (CSCO exit Tue). ORCL + ADBE stand-downs preserved 14 slots; next deployment window = ASTS post-launch (Wed 6/17) or A+ macro reset post-FOMC.
+
+### Decision
+**HOLD AAPL. NO FRESH ENTRIES FRI OPEN.** ADBE Fri-open drift gate (b) FAILED HARD on CFO-exit + explicit 2H Digital Media ARR cut; gate (d) also FAILED on AH negative reaction. **Stand-down posture preserved cash from a second consecutive broken-thesis chase** (ORCL Wed + ADBE Thu — two single-name binaries in 48 hours both stand-down vindicated). AAPL drift intact, buffer recovered to ~3.74% above 3% no-touch line after multiple analyst raises post-WWDC (TD Cowen/Maxim $350, MS $360 OW, JPM $325 OW, Bernstein $350 OP). Niche screen produces zero ready-to-fire: ASTS pre-launch chase too late + SpaceX IPO liquidity sink, OKLO criticality 3 weeks out, RKLB/AEHR no near-term catalyst, NBIS valuation stretched. Cash 90.97% preserved into the FOMC June 17–18 pivot week + ASTS launch + Mon-onward fresh-catalyst stack. Under-deployment cost is real (15th consecutive week) but two broken-thesis stand-downs in one week vindicate the discipline against chase entries.
+
+**Plan for market-open agent (Fri 6/12 6:30 AM PST):**
+1. **VERIFY AAPL trail GTC OPEN/NEW** (stop $285.66 HWM $317.40). If fired automatically on PPI-driven multiple compression gap-down, document fill + realized P&L. No override either way.
+2. **HOLD AAPL** — no adds, no trims, no manual stop moves. Buffer ~3.74% above 3% line; counter-policy 1 add gates NOT met (no clean 3–5% pullback-and-reclaim off rising 20-DMA).
+3. **NO ADBE ENTRY** — gate (b) explicitly failed (2H ARR cut); gate (d) failed (AH negative). Do not chase the fade.
+4. **NO ORCL ENTRY** — knife continues; spread wide.
+5. **NO FRESH ENTRIES FRI OPEN** — all AI/semis = ORCL+capex spillover risk + HOT PPI multiple compression risk; ADBE post-print broken; ASTS pre-launch chase + SpaceX IPO same-day liquidity sink; pre-FOMC T-5 days.
+6. **Niche sleeve mandatory screen ran pre-bell:** ASTS / RKLB / OKLO / AEHR / NBIS — zero ready-to-fire today. Niche stays empty Fri.
+7. **Tech/semi watchlist:** all AVOID except AAPL HOLD. AI-semi capex-spillover + HOT PPI multiple compression live; sector momentum bias NEGATIVE.
+8. **Counter-policy 1 monitor (AAPL add path):** if intraday delivers a clean 3–5% pullback to rising 20-DMA WITH volume reclaim off the level, the add gate unlocks (sizing 2 sh ≈ $590 = combined 10.95% — within 15% cap). Do NOT chase a vertical extension; pullback structure required.
+9. **Midday agent:** read tape behavior post-PPI absorption; verify AAPL trail GTC; track ADBE/ORCL post-print fade (no entries); watch ASTS pre-launch drift behavior for any blow-off-top signal.
+10. **EOD agent:** log Fri close + Week 8 wrap (CSCO exit + 2 stand-down wins vs alpha drift retention); frame Mon plan as a function of FOMC T-3 + ASTS T-2 + macro carry.
+
+Bias: **HOLD AAPL (drift defense, buffer ~3.74%). NO fresh entries Fri open through HOT PPI + ADBE broken thesis + ORCL knife + pre-FOMC + SpaceX IPO liquidity event.** Cash 90.97% preserved. ASTS post-launch (Wed 6/17 successful-deploy data) + FOMC Wed-Thu macro reset = next deployment windows. ORCL+ADBE consecutive stand-downs vindicate the discipline; under-deployment is the cost paid against chase risk.
