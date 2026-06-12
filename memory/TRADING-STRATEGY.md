@@ -141,7 +141,8 @@ Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target wi
 
 ### Counter-policy 2 — Mandatory niche screen
 - The pre-market routine MUST produce an explicit niche-candidate list **every session**: core watchlist (ASTS, RKLB, OKLO, AEHR, NBIS), FDA calendar, small-cap breakout scan, mid-cap post-earnings drift.
-- At least one screened candidate must be logged with a take/skip reason — "no idea cleared" is only acceptable output AFTER the full screen has demonstrably run.
+- **Step 0 (sizing pre-filter, added 2026-06-12 Week 8 review):** skip any candidate whose share-price exceeds `equity × 0.10 / 6` (so that ≥6-share lots are feasible at the niche 10% sizing cap). At current equity ~$9,845 the cutoff is ~$164. Re-evaluate sized-out names (CRWD, MSTR, $300+ tickers) only when equity grows enough to make them feasible — do not re-burn screen budget on the same arithmetic each week.
+- At least one screened candidate (post-pre-filter) must be logged with a take/skip reason — "no idea cleared" is only acceptable output AFTER the full screen has demonstrably run.
 - Niche entries still require the 2.5:1 R:R thesis + -10% hard stop + ≤12% sizing.
 - Deep research (7-point checklist) required for any new niche name before first entry.
 
