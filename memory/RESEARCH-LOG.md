@@ -3671,3 +3671,176 @@ Bias: **HOLD AAPL (drift defense, buffer ~2.50%). CONDITIONAL RKLB niche entry M
 10. **EOD agent:** log Tue close + frame Wed FOMC SEP day + ASTS launch day plan.
 
 Bias: **HOLD AAPL (drift defense, buffer ~3.36%). CONDITIONAL RKLB niche entry Tue open pending 30-min gates (Nasdaq-100 inclusion 6/22 forced-bid setup).** Mon's high-volume close-up day absorbed Fri's siphon; KeyBanc fresh $135 PT 6/15 = analyst chase pre-inclusion. Cash 91.00% preserved entering Week 9 Day 2; pre-FOMC SEP T-1 = highest event-risk slot but RKLB catalyst is inclusion-specific, not FOMC-dependent — entry justified IF technical gates clear. 17th consecutive week under-deployed is the structural cost; aggressive deployment justified on inclusion-catalyst RKLB only.
+
+## 2026-06-17 — Pre-market Research (Wed, Week 9 Day 3, FOMC SEP day / ASTS launch T0 / Juneteenth eve-eve)
+### Account
+- Equity: $9,866.54 | Cash: $8,970.08 (90.92%) | Buying power: $38,390.41 | Daytrade count: 0/5 rolling
+- Last equity (Tue close): $9,867.80 → flat overnight (-$1.26 / -0.013% in early pre-mkt mark)
+- Sleeve status: Alpha $896.46 (9.08%) | Niche $0 (0%) | Cash 90.92% — **17th consecutive week under-deployed locked in**
+- Positions: AAPL 3 sh entry $284.74, mark $298.82, +$42.24 (+4.95%); trail $285.66 GTC HWM $317.40, status `new`, buffer ~4.40%
+- Tue RKLB conditional entry **did NOT fire** — gate (c) spread-fail repeated both sessions (Mon 1-10.8%, Tue 8.6% mid → close bid $99.80 single-side); no fill in orders book; correct discipline
+
+### Market Context (Wed 6/17 pre-open)
+- **WTI:** ~$78-79 (Jun 17 settle threshold $74.99 Kalshi; Jun 16 hist $78.36) — Iran-deal MoU absorbed; **signing Jun 19 in Geneva** (T+2 confirmed)
+- **S&P 500 futures (ESM26):** premarket roughly flat to slightly green (Markets Insider +0.06%, Barchart -0.01%) — markets compressing into FOMC SEP 2 PM ET
+- **VIX:** **18.32** (up ~2 pts from Mon 16.19 = mild pre-FOMC compression bid; still below the 19+ Fri pre-Iran-deal zone)
+- **10Y / 2Y:** stable in 4.40-4.50% / 4.05-4.15% zone (no fresh shock)
+- **FOMC SEP today 2:00 PM ET / 11:00 AM PST:** CME FedWatch 97% hold at 3.50-3.75%; **Kalshi 83% probability median 2026 dot >3.5% = hawkish-lean baseline** (March SEP was 3.4% median = at-most-1-cut); Warsh's first meeting as Chair; press-conf 11:30 AM PST = secondary binary
+- **Retail Sales Wed 8:30 AM ET / 5:30 AM PST:** consensus +0.3% MoM — pre-bell concurrent risk
+- **Iran-US deal:** **MoU signed Mon 6/15, formal Geneva signing slated Jun 19 (T+2)** — Vance + Witkoff + Kushner attending; Hormuz reopen confirmed; 60-day ceasefire / nuclear talks process; risk-on absorbed; headline reversal risk = secondary watch
+- **Sector momentum YTD 2026:** **Energy still leader +22-26% but rotating DOWN** on Iran-deal absorption; **Tech in lagging quadrant rebounding** (Mon NQ +3.06%); Staples/Industrials/Materials leading
+- **Juneteenth Fri 6/19 = market HOLIDAY** — Thu is week-final trading day, compressed event density
+
+### ASTS BlueBird 8-10 Launch — T0 result (overnight 2:39 AM EDT)
+- **Falcon 9 launched successfully; all 3 BlueBird 8-10 payloads separated and powered on** per Space.com / live webcast confirmation ("full payload successfully confirmed")
+- Constellation count now **9 operational satellites** (BB1-6 prior + BB8-10 today, minus BB7 which was de-orbited from the April New Glenn failure)
+- This is the **clean post-deploy data outcome** that pre-mkt plan flagged as the re-evaluation gate for ASTS
+- **Pre-market reaction unclear** — Tue close ASTS bid $78.28 single-side; one source described stock down 15.9% to $82.08 around the event window (broader space-stock selloff / "buy-rumor-sell-news" profit-taking)
+- **Setup vs entry rules:** clean launch = thesis catalyst delivers; BUT Q1 EPS miss + Reduce consensus + binary now PAST = need fresh 7-point research to upgrade ASTS to BUY SETUP — today's pre-FOMC entry remains disqualified (T0 macro binary still ahead at 2 PM ET); ASTS post-launch entry justified only Thu post-FOMC IF the stock holds $80+ with tight spread and shows institutional accumulation (high-volume reclaim of pre-launch levels)
+
+### This Week's Earnings Calendar
+| Ticker | Date | Time | Our Stance |
+|--------|------|------|------------|
+| **JBL (Jabil)** | Wed 6/17 | BMO | AI hardware read; non-watchlist; IGNORE entry, WATCH for AI-capex tape signal |
+| **ACN (Accenture)** | Thu 6/18 | BMO | Q3 FY26 cons EPS **$3.69** / rev **$18.7B**; FY26 guide $13.65-13.90; AI services read; WATCH for post-print drift Thu, NO chase pre-print |
+| **KR (Kroger)** | Thu 6/18 | BMO | Defensive staples; IGNORE |
+| KMX | Wed 6/17 | AMC | Non-S&P; IGNORE |
+| **Thin earnings — FOMC SEP dominates today; ACN Thu sole watchlist read.** | — | — | — |
+
+### Macro & Geopolitical Scan
+| Risk | Status | Classification |
+|------|--------|----------------|
+| **FOMC SEP Wed 6/17 2:00 PM ET (T0)** | 97% hold at 3.50-3.75%; **Kalshi 83% dot plot >3.5% = hawkish-lean** (March was 3.4% median, at-most-1-cut path); Warsh first meeting; press-conf 2:30 PM ET | **HIGH IMPACT TODAY** — multiple-compression risk if dot lifts >3.5%; dovish hold at 3.4% = A+ deployment unlock window; pre-FOMC drift positioning disqualified |
+| **Iran-US Geneva MoU formal signing Jun 19** | Hormuz reopen; 60-day ceasefire; nuclear talks; Vance/Witkoff/Kushner | **HIGH IMPACT, RISK-ON absorbed** Mon+Tue; T+2 signing event = potential follow-on rip on confirmation, headline reversal risk = secondary |
+| **WTI ~$78 (-20% from peak)** | Iran-deal absorbed; multi-week reset | **HIGH IMPACT** — multiple tailwind (lower oil → cooler inflation); Energy YTD-leader rotation continues |
+| **Retail Sales Wed 8:30 ET (5:30 PT)** | Consensus +0.3% MoM | **MEDIUM** — concurrent with FOMC day; deviation moves rates pre-2 PM ET |
+| **ASTS BlueBird 8-10 launch T0** | **CLEAN DEPLOY confirmed overnight** | **MEDIUM** — sister-name space event; RKLB read-through positive on space-sector execution validation |
+| **SpaceX SPCX Day-3** | Trading ~$200 (+48% from $135 IPO); Cursor $60B acquisition catalyst | **MEDIUM** — continued space-name siphon at peak distortion; RKLB pulled back to $99 Tue = siphon thesis confirmed |
+| **May CPI 4.2% / PPI 6.5%** (released last wk) | Energy drove 60% of CPI; core 2.9% benign | LOW/PRICED IN |
+| **Russia / Ukraine, US-China tariffs** | No fresh shock | LOW/PRICED IN |
+| **Juneteenth Fri 6/19 HOLIDAY** | 4-day week; Thu = week-final trading day | LOW operational |
+
+### Tech/Semi Watchlist (Tue close bid quotes; pre-market repricing expected)
+| Ticker | Tue Bid | Setup | Action |
+|--------|---------|-------|--------|
+| **AAPL** | $280.40 single-side stale (curr mark $298.82 from positions feed) | PEAD drift; +4.95%; analyst PT raises (Wedbush $400, MS $360, JPM $325, Bernstein $350) intact; post-WWDC sell-the-news absorbed | **HOLD** — trail GTC $285.66 buffer ~4.40% comfortably above 3% no-touch; counter-policy 1 add disqualified (vertical extension, no 3-5% pullback to rising 20-DMA) |
+| NVDA | $200.42 single-side | AI-semi rebound continues; pre-FOMC compression | WATCH — disqualified pre-FOMC |
+| AMD | $487.78 single-side | Same | WATCH — disqualified |
+| AVGO | $362.60 single-side | Risk-on reflation continues | WATCH — disqualified |
+| MRVL | $266.59 single-side | Read-through | AVOID |
+| INTC | $111.55 single-side | No fresh catalyst | AVOID |
+| TSM | $366.42 single-side (wide $123 ask gap = stale) | No catalyst | AVOID |
+| QCOM | $205.45 | No catalyst | AVOID |
+| MSFT | $392.89 single-side | No fresh single-name catalyst | WATCH only |
+| GOOGL | $350.91 single-side | No fresh single-name catalyst | WATCH only |
+| META | $563.84 single-side | No fresh single-name catalyst | WATCH only |
+| MU | $60.00/$1030 wide stale | Sized out; not the right read | SIZED OUT |
+| ARM | $344.68 single-side | Sized out | SIZED OUT |
+| ASML | $1572 single-side | Sized out | SIZED OUT |
+| SMCI | $27.97 single-side | Fundamentally broken | AVOID |
+
+### Niche Radar (7-point compliance)
+| Ticker | Price | Class | Catalyst | EPS | Analyst | Sentiment | Action |
+|--------|-------|-------|----------|-----|---------|-----------|--------|
+| **RKLB** | bid **$99.80** Tue close (-8.7% vs Mon $109.25) | **WATCH — post-FOMC re-evaluation** | Nasdaq-100 inclusion BMO Mon 6/22 (**T+3 trading days**) + Cantor $96 OW (new) + Stifel $132 Buy + KeyBanc $135 6/15 + MS OW + Anduril HASTE + SDA Tranche 3 + $2.2B backlog | Q1 rev $200.3M +63.5% YoY | Range $96-150 (Cantor $96 = lowest new add) | Tue closed at base of $100-110 corridor; SpaceX SPCX $200 Day-3 = continued siphon; pre-FOMC liquidity compression | **WAIT** — RKLB now sits at lower edge of original entry corridor ($98-110); pre-FOMC entry disqualified; **post-2 PM ET FOMC SEP re-evaluation**: if (a) dot stays ≤3.5% median (dovish), (b) RKLB spread normalizes <1%, (c) tape green, (d) price holds $100+ then **8 sh @ ≤$112 = ~$880 (8.93% niche, event-week 10% cap respected)**, hard stop -10% $89.82 (using $99.80 base), target $132 (Stifel) = 3.2:1 R:R cleared. Sizing pre-filter $99.80 < $164 ✓ |
+| **ASTS** | bid **$78.28** Tue close (pre-launch slump) | **WATCH — post-launch re-evaluation** | BlueBird 8-10 **CLEAN DEPLOY confirmed overnight**; constellation now 9 sats operational | Q1 EPS miss -$0.66 vs cons -$0.23 | Consensus PT $79.45; "Reduce" | Tue down 15.9% to ~$82 area on broader space selloff | **WAIT — Thu re-evaluation gate.** Post-launch successful deploy = thesis catalyst delivered, but Q1 miss + Reduce consensus + sized-out-of-pre-launch-chase still apply; need (a) Thu post-FOMC tape, (b) institutional accumulation (high-volume reclaim of $85+), (c) tight spread, (d) updated analyst upgrade-flow before re-classifying. NO action today |
+| **OKLO** | bid $50.06 / ask $66.40 (wide stale) | WATCH | DOE PDSA approval **confirmed 6/11**; criticality target **July 4** still ahead (NRC still in pre-application phase per 5/18 page); Iran-deal energy unwind = nuclear theme pressure risk | Pre-rev | Consensus PT $82.78 | DOE step priced; criticality binary T+11 days | **WATCH — no action.** Criticality binary ahead; entry corridor $50-55 if pullback continues; energy unwind macro pressure risk |
+| **AEHR** | bid $90.50 / ask $120.43 (wide stale) | SKIP | Bookings $37.2M Q3 + $50.9M post-quarter; SiC/AI hyperscale | Q3 BEAT -$0.05 vs -$0.07 | Craig-Hallum $21 / Lake Street $29 — stock far above PT range | Stock $90-120 above analyst PTs | **SKIP — wait for sane spread + pullback** below sane PT range |
+| **NBIS** | bid **$230.50** Tue close | **SIZED OUT** | Nasdaq-100 inclusion 6/22 (same window as RKLB); 1.2GW AI factory | Q1 rev $399M +684% YoY | GS PT $267 | $230 >> $164 sizing cutoff | **SIZED OUT — skip** |
+| **New scan** | — | — | No fresh actionable single-stock from broad scan; FDA PDUFA calendar next tier-1 Truqap 6/30 (T+13) | — | — | — | **No new niche candidate** |
+
+**Niche net output:** **NO IMMEDIATE NICHE ENTRY** pre-FOMC. **RKLB primary post-FOMC re-evaluation candidate** (now at lower edge of entry corridor; inclusion T+3 days; Cantor $96 OW added 6/16; SpaceX Day-3 siphon at peak). **ASTS post-launch re-evaluation Thu** (clean deploy delivered, but pre-FOMC entry disqualified + Q1 miss / Reduce consensus = need fresh confirmation flow). OKLO/AEHR/NBIS no action.
+
+### Trade Ideas
+
+**1. HOLD AAPL — primary alpha defense, buffer ~4.40%:**
+- 3 sh, entry $284.74, mark $298.82. Trail $285.66 HWM $317.40, status `new`.
+- Buffer ~$13.16 / **4.40%** = comfortably above 3% no-touch line (widened from Mon EOD 3.61% / Tue mid 4.23% / Tue close 4.46%).
+- Manual-cut $264.81 (~11.4% below current); structural cushion intact.
+- Thesis intact: PEAD drift + AI narrative + analyst PT raises (Wedbush $400 6/5, MS $360 6/9, JPM $325, Bernstein $350, TD Cowen/Maxim $350); risk-on continues with Iran-deal absorbed and signing T+2 ahead.
+- **HOLD; let trail GTC work.** +15% tighten trigger $327.45 = +$28.63 / +9.58% from current = out of striking distance. Counter-policy 1 add disqualified — vertical extension off Mon+Tue Iran-deal rip, no clean 3-5% pullback to rising 20-DMA + volume reclaim structure. On hawkish FOMC SEP gap-down toward $285.66 → automatic GTC execute (~+$2.76 net realized), NO manual override.
+
+**2. RKLB — PRIMARY POST-FOMC NICHE CANDIDATE (Nasdaq-100 inclusion T+3):**
+- **Catalyst stack:** Nasdaq-100 inclusion BMO Mon 6/22 (T+3 trading days) — index-fund forced-bid window opens; **Cantor Fitzgerald initiated/added $96 OW** (new 6/16); Stifel $132 Buy; KeyBanc $135 6/15; MS OW; Anduril $30M HASTE; SDA Tranche 3; $2.2B backlog; Neutron ongoing.
+- **Setup:** Tue closed at bid $99.80 = **lower edge of original $100-110 entry corridor** after Mon $109.25 → Tue $99 = -8.7% pullback over the session. Pullback is the structural buy-the-dip into the inclusion window IF post-FOMC tape confirms; if hawkish FOMC SEP drives further breakdown <$98.10 hard-stop reference, stand-down.
+- **7-point research compliance (updated Wed):**
+  - **Earnings:** Q1 rev $200.3M +63.5% YoY, GM 38.2% expanding; next earnings Aug 2026 post-inclusion
+  - **Analysts:** Stifel $132 Buy + KeyBanc $135 + MS OW + Cantor $96 OW (new lower bound from major firm); range $47-150
+  - **Institutional:** defense pipeline + inclusion forced bid T+3
+  - **News:** Anduril HASTE, Nasdaq-100 inclusion 6/12 announce, SDA Tranche 3
+  - **Sentiment:** post-Mon-rip retrace into inclusion = healthy structural pullback IF tape supports; pre-FOMC liquidity compression noise also at play
+  - **Technical:** Tue close at lower corridor edge $99.80; key reclaim level $103 (Mon midday), then $109 (Mon close), then $118 (Mon intraday high)
+  - **Thesis:** Index-fund forced bid (T+3) + analyst chasing + defense backlog + Neutron optionality + Tue pullback to corridor base = 3.2:1 R:R post-FOMC entry IF gates clear
+- **Sizing:** Niche 12% cap = ~$1,184; event-week 10% cap = ~$987; **8 sh @ ~$100-112 ≈ $800-896 = 8.1-9.1% niche** (under conservative event-week cap). Pre-filter $99.80 < $164 ✓
+- **Post-FOMC entry gates (must clear):**
+  - (a) FOMC SEP dovish/neutral — median 2026 dot ≤3.5% (matches March 3.4% or improves); hawkish >3.5% = stand-down
+  - (b) RKLB spread <1% on multi-venue tape post-2 PM ET (single-venue V display fog resolves once macro binary clears)
+  - (c) Broader tape green or absorbing — SPY/QQQ above pre-FOMC levels
+  - (d) RKLB price holds $98+ (above the -10% hard-stop reference $89.82) with at least one reclaim of $103
+  - (e) Spread <1% confirmed two-sided
+  - (f) 10% trail GTC placed immediately on fill ($89.82 stop = same as hard stop)
+  - (g) Trades-this-week ≤ 20 (currently 0/15)
+- **Decision:** **CONDITIONAL POST-FOMC BUY** Wed afternoon post-2:30 PM ET press-conf; pre-FOMC AM session = STAND DOWN.
+
+**3. ASTS — POST-LAUNCH WATCH (Thu re-evaluation gate):**
+- BlueBird 8-10 clean deploy delivered overnight = thesis catalyst hit.
+- BUT Q1 EPS miss / Reduce consensus / Tue -15.9% slump = no margin of safety today; need Thu post-FOMC + institutional accumulation + tight spread before any classification upgrade.
+- NO action Wed.
+
+**4. OKLO — WATCH:**
+- DOE PDSA approved 6/11 confirmed; criticality target July 4 (T+11 days); NRC still pre-application = pre-revenue binary T+11; Iran-deal energy unwind = nuclear theme macro pressure.
+- WATCH only; entry corridor $50-55 if pullback continues post-FOMC.
+
+**5. NICHE — Mandatory screen output:**
+- RKLB = primary post-FOMC candidate (inclusion T+3 + Tue pullback to corridor base + Cantor $96 OW new) — CONDITIONAL POST-2 PM ET ENTRY
+- ASTS = WATCH (clean post-launch deploy, but Q1 miss + Reduce consensus + post-FOMC Thu re-eval gate)
+- OKLO = WATCH (criticality T+11 days + macro nuclear pressure)
+- AEHR = SKIP (run past PT range)
+- NBIS = SIZED OUT ($230 > $164 cutoff)
+- FDA PDUFA tier-1 next Truqap 6/30 (T+13), mirdametinib 7/10, gedatolisib 7/17, Leqembi 7/25 — none actionable this week
+- **Net: 1 conditional post-FOMC niche candidate (RKLB); 1 watch (ASTS Thu re-eval); 1 watch (OKLO criticality T+11)**
+
+**6. AVOID at Wed 6/17 open:**
+- Pre-FOMC drift entries in any sleeve (T0 macro binary at 2 PM ET = highest event-risk slot of the week, per Strategy Rule 9 sizing capped + RKLB has inclusion-specific thesis but its execution gate post-FOMC is more disciplined than pre-FOMC chase)
+- ASTS pre-deploy news-flow chase (post-launch Thu re-evaluation gate, not Wed reactive entry)
+- All sized-out names (MU/ARM/ASML/NBIS); ETFs (always)
+- AI-semis without single-name catalyst (NVDA/AMD/AVGO speculative reflation)
+- SpaceX SPCX direct chase ($200 vs $135 IPO = blow-off-top zone)
+- OKLO pre-criticality chase
+
+### Risk Factors
+- **FOMC SEP Wed 6/17 2 PM ET (T0) = primary event-risk** — Kalshi 83% prob dot plot median >3.5% (above March 3.4%) = hawkish-lean baseline; multiple-compression risk if confirms; **dovish hold at 3.4% = A+ deployment unlock window** (RKLB + potential AAPL counter-policy 1 add on pullback structure). Press-conf 2:30 PM ET = secondary binary.
+- **AAPL buffer ~4.40%** — comfortable above 3% no-touch line; trail GTC operational. Hawkish FOMC gap-down toward $285.66 = automatic GTC execute, NO override.
+- **RKLB Tue pullback to $99.80** — at lower edge of original $100-110 corridor. Post-FOMC tape decides direction. Continued breakdown <$98 hard-stop reference = stand-down regardless of inclusion catalyst.
+- **ASTS post-launch reaction unclear pre-market** — clean deploy delivered but Q1 miss / Reduce consensus baseline + Tue -15.9% slump = need Thu post-FOMC re-evaluation, not Wed reactive entry.
+- **SpaceX SPCX Day-3 at $200** (+48% from IPO, post-Cursor-$60B spike to $225 then settle) — continued direct space-name siphon pressure on RKLB/ASTS; siphon remains primary structural overhang until SPCX stabilizes.
+- **Iran-deal formal signing Jun 19 (T+2)** — potential follow-on rip on confirmation OR headline reversal risk if signing delays / details unfavorable.
+- **Retail Sales Wed 8:30 ET (5:30 PT)** — pre-bell concurrent risk with FOMC; deviation moves rates pre-2 PM ET.
+- **JBL Wed BMO** — AI hardware tape read; non-watchlist for entry but commentary on AI-capex direction = sector signal.
+- **Juneteenth Fri HOLIDAY** — Thu = week-final trading day, compressed event density (FOMC echo + ACN/KR BMO + post-FOMC RKLB entry execution window).
+- **Daytrade count 0/5 rolling** — full slate.
+- **Week 9: 0/15 trades used.** RKLB post-FOMC conditional would be 1.
+- **17th consecutive week sleeve under-deployed at 9.08%.** Cash 90.92%. Post-FOMC RKLB = first realistic deployment opportunity if dovish SEP read.
+
+### Decision
+**HOLD AAPL pre-FOMC. CONDITIONAL POST-FOMC RKLB ENTRY (post-2 PM ET / 11 AM PST)** — branched by SEP outcome:
+- **DOVISH FOMC SEP (median 2026 dot ≤3.5%, matching or improving on March 3.4%) + RKLB spread normalizes <1% + price holds $98+ + reclaim of $103 ≥ 1× volume confirmation** → 8 sh RKLB @ ≤$112 = ~$800-896 (8.1-9.1% niche, event-week 10% cap respected); place 10% trail GTC $89.82 immediately; target $132 (Stifel) = 3.2:1 R:R cleared.
+- **HAWKISH FOMC SEP (median 2026 dot >3.5%)** → RKLB stand-down extends; cash preservation continues; AAPL trail-defense (gap-down toward $285.66 = automatic execute, NO override).
+- **AAPL counter-policy 1 add** — only if hawkish FOMC delivers clean 3-5% AAPL pullback to rising 20-DMA + volume reclaim (vertical extension off Mon-Tue Iran-deal rip currently NOT the structure required — gate stays closed unless FOMC pullback delivers it).
+- **ASTS post-launch Thu re-evaluation gate** — clean deploy delivered but Q1 miss / Reduce consensus + Tue -15.9% slump = need Thu institutional accumulation + tight spread before classification upgrade. NO Wed entry.
+
+**Bias TRADE on dovish post-FOMC RKLB entry; HOLD AAPL only on hawkish.** 17th consecutive week under-deployed is the structural cost; RKLB inclusion-setup remains the cleanest 2.5:1+ R:R catalyst-driven entry on the watchlist, and Tue's pullback into the entry corridor base improves the R:R (was 2.5:1 at $109, now 3.2:1 at $99). Cash 90.92% preserved entering Wed FOMC binary — full slate for dovish-surprise deployment window. Pre-FOMC AM session = STAND DOWN regardless.
+
+**Plan for market-open agent (Wed 6/17 6:30 AM PST):**
+1. **VERIFY AAPL trail GTC** ($285.66 HWM $317.40, status `new`). If fired automatically on hawkish-FOMC anticipation gap-down, document fill + realized P&L. NO override.
+2. **HOLD AAPL** — no adds, no trims, no manual stop moves at open. Counter-policy 1 add gate stays closed unless clean 3-5% pullback structure emerges.
+3. **NO PRE-FOMC ENTRIES IN ANY SLEEVE** — strict discipline; FOMC SEP T0 at 2 PM ET / 11 AM PST = highest event-risk slot.
+4. **MONITOR RKLB intraday tape pre-FOMC** — track spread, price, volume; flag any breakdown below $98 hard-stop reference (= stand-down) or any sharp reclaim above $103 with normalized spread (= post-FOMC entry gate fully primed). NO entry.
+5. **MONITOR ASTS post-launch tape** — track price action vs Tue close $78.28 / pre-launch $82 area; flag any clear institutional accumulation pattern (high-volume reclaim of $85+) for Thu re-evaluation. NO entry.
+6. **Retail Sales 5:30 AM PST pre-bell** — minor; only relevant if extreme deviation moves rates pre-FOMC.
+7. **JBL BMO AI hardware commentary** — sector signal only; not an entry tape.
+8. **Midday agent (10:00 AM PST):** read pre-FOMC tape; verify AAPL position health; verify RKLB spread/price evolution toward FOMC; verify ASTS post-launch tape; pre-position the post-FOMC entry gate framework (dovish vs hawkish branches).
+9. **Post-FOMC execution window (11:00 AM - 12:30 PM PST):** dovish branch = RKLB 8 sh @ ≤$112 + 10% trail GTC immediate; hawkish branch = sleeve preservation + AAPL trail-defense; AAPL counter-policy 1 add if hawkish pullback delivers 3-5% to rising 20-DMA + volume reclaim.
+10. **EOD agent:** log Wed close + frame Thu (ACN BMO + week-final pre-Juneteenth) + RKLB position (if filled) trail GTC verification + ASTS Thu re-evaluation gate.
+
+Bias: **HOLD AAPL pre-FOMC (drift defense, buffer ~4.40%). CONDITIONAL POST-FOMC RKLB niche entry on dovish SEP + spread normalization (Nasdaq-100 inclusion T+3 forced-bid setup; Tue pullback to $99 improves R:R to 3.2:1).** Cash 90.92% preserved entering Wed FOMC binary; pre-FOMC AM = STAND DOWN regardless. ASTS clean post-launch deploy delivered = Thu re-evaluation gate (not Wed reactive entry). 17th consecutive week under-deployed is the structural cost; the dovish-FOMC branch unlocks the cleanest deployment opportunity in 5+ weeks.
