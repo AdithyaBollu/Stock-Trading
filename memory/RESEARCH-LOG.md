@@ -4016,3 +4016,193 @@ Hawkish FOMC SEP outcome (2026 median dot 3.8% vs March 3.4%) was the pre-define
 10. **Friday 6/19: US MARKET HOLIDAY (Juneteenth)** — no market-open agent; weekly-review routine runs in EOD slot.
 
 Bias: **HOLD AAPL Thu (trail defense, buffer ~3.74% compressed but intact). NO new entries — pre-committed hawkish-branch discipline + 3-day weekend headline-gap-risk. Mon 6/22 = integrated re-evaluation window (RKLB inclusion event + ASTS 5-day post-launch + post-Geneva signing + post-Juneteenth gap setup).** Cash 90.97% preserved through hawkish FOMC absorption; 18th consecutive week under-deployed is the structural cost of the hawkish-branch outcome — accepted per pre-committed plan. The dovish-branch deployment unlock did not materialize; next realistic deployment gate = Mon 6/22 with maximum information density across three primary candidates.
+
+## 2026-06-19 — Pre-market Research (Juneteenth — US MARKET HOLIDAY; routine output frames Mon 6/22)
+
+### Account (Fri Juneteenth — no live data)
+- **Equity:** $9,864.11 | **Cash:** $8,970.08 (90.94%) | **Day P&L:** $0 (market closed) vs Thu close $9,864.11 | **Phase P&L:** -$135.89 (-1.36%) vs $10k baseline
+- **Alpha sleeve:** $894.03 AAPL (9.06%). **Niche sleeve:** $0 (0%). **Trades this week:** 0 / 15. **Open positions:** 1 / 12. **Daytrade count:** 0 / 5 rolling.
+
+### Operational Notes
+- **Friday 6/19 = US Juneteenth Holiday — NYSE/NASDAQ closed.** No live trading possible today. Routine output = Mon 6/22 pre-positioning + AAPL trail GTC verification.
+- **Iran-US Geneva signing TODAY (Fri 6/19) on US holiday** — cgtn live updates confirm "official signing on June 19"; format is MoU/framework (60-day ceasefire, sanctions relief tied to later compliance), NOT a full nuclear treaty. Headline-gap-risk Mon 6/22 open = high (cuts both ways: confirmation = follow-on rip, reversal/walk-back = gap-down).
+- **AAPL trail GTC verified OPEN/NEW** broker-side: stop $285.66, HWM $317.40. Buffer at Thu close: $298.01 - $285.66 = **$12.35 / 4.14%** = widened from Wed close 3.74% on Thu's continued PEAD drift; structural cushion intact, just above 3% no-touch line.
+
+### Mon 6/22 = MULTI-CATALYST EVENT WINDOW
+Three primary catalysts coincide:
+1. **RKLB Nasdaq-100 inclusion EFFECTIVE prior to market open Mon 6/22** (Nasdaq confirmation 6/11, RKLB release 6/12)
+2. **Iran-US Geneva signing T+1 trading day** (Fri 6/19 holiday signing → Mon 6/22 first live tape reaction)
+3. **ASTS post-launch institutional flow read** (5+ trading days post BB8-10 deploy; Thu close $85.43 +3.87% on 29.39M vol = first gate cleared)
+
+### Macro & Geopolitical Scan (Thu close data)
+| Risk | Status | Classification |
+|------|--------|----------------|
+| **Iran-US Geneva Signing Fri 6/19** | cgtn confirms official signing; framework MoU + 60-day ceasefire; sanctions relief tied to future compliance | **HIGH IMPACT — overnight gap-risk Mon 6/22 open** — confirmation = risk-on follow-through; reversal/walk-back = gap-down on entire energy/equities complex |
+| **FOMC SEP HAWKISH ABSORBED** | 2026 median dot 3.8% (vs Mar 3.4%); Schwab notes "markets moved to price a hike by October"; 2Y closed 4.21% (+15bps post-FOMC), 10Y 4.45-4.49%, 2s10s spread +27bp = flat-positive | **HIGH IMPACT, ABSORBED** — multiple-compression risk capped on rate-sensitive tech; ceiling on rate-cut speculation through Sep FOMC; favors energy/cyclicals over Tech multiple-expansion |
+| **VIX 16.86-17.04** | Compressed sharply post-FOMC + Iran-deal absorption (from 19-22 zone Wed); front-month VX25/M6 futures 18.49 (above spot = market still pricing forward vol premium) | **LOW spot, MEDIUM forward** — complacency at the front; Mon 6/22 gap-risk could rip vol higher fast |
+| **WTI ~$93-100 / Brent ~$95-105** | Range conflicting between June 5 ($93/$95.45) and broader May data; Strait of Hormuz reopening tied to deal; oil holding geopolitical premium pending signing confirmation | **HIGH IMPACT** — Iran-deal confirmation Mon = potential oil flush; reversal = energy spike + inflation re-pricing |
+| **Sector momentum YTD 2026** | Energy leading (+26%+ YTD per First Trust 3/6 data); Consumer Staples + Industrials strong; **Technology in LAGGING quadrant per Investing.com momentum map**; Defense/AI infra still bid | **MEDIUM** — sector rotation away from mega-cap tech intact; favors RKLB (defense/space) + ASTS (space/disruptive) over AAPL (mega-cap tech laggard) directionally; counter-balanced by AAPL PEAD-specific catalyst (China 618 + iPhone 17 cycle) |
+| **RKLB Nasdaq-100 inclusion Mon 6/22 OPEN** | CONFIRMED effective prior to market open Mon; QQQ + index-fund forced-buy at open | **HIGH IMPACT** — front-running Thu close $107.98 (+5.7%) suggests >50% of the inclusion bid already in price; mechanical buy + Iran-deal Sunday-futures setup = compounding gap-risk |
+| **ASTS post-launch + 5-day institutional flow** | Thu close $85.43 (+3.87%) on 29.39M vol; broke above $85 consensus PT zone with high volume = the FIRST GATE the pre-committed plan required | **HIGH IMPACT** — gate cleared; need Mon open to confirm with (a) hold above $85, (b) tight bid/ask spread, (c) no overnight gap-down from Iran-deal weekend disruption |
+| **ACN earnings result Thu (-5.6%)** | EPS BEAT $3.80 vs $3.69 cons; revenue BEAT $18.72B vs $18.78B cons (slight miss); **FY26 revenue guide $71.8-72.5B vs $74.0B cons = SOFT** | **POST-EARNINGS DRIFT NEGATIVE** — AVOID; rev-guide miss thesis dominates EPS beat; -5.6% close = broken drift setup, not eligible for entry |
+| **OKLO criticality target July 4 (T+15 days from Mon 6/22)** | DOE Reactor Pilot construction underway at INL; no confirmed criticality yet; hawkish-rate environment headwind for SMR-financed thesis | **MEDIUM WATCH** — binary catalyst window opens July 4 ±; entry corridor $50-55 if pullback continues |
+| **3-Day Weekend Headline Gap-Risk** | Geneva signing today + 60hr trading gap to Mon 6/22 open | **HIGH IMPACT** — ALL Thu-close positions carry 60hr+ news exposure; favors discipline (no fresh adds Fri-into-Mon-gap), favors size-down on any Mon 6/22 entry |
+| **Russia/Ukraine, US-China tariffs** | No fresh shock | LOW/PRICED IN |
+| **Jobs claims Thu 8:30 ET prior session** | (Thu data digested; no extreme deviation) | LOW absorbed |
+
+### This Week's Earnings Calendar (Week complete; Mon 6/22 = next week start)
+| Ticker | Date | Time | Result / Stance |
+|--------|------|------|------------------|
+| ~~ACN~~ | Thu 6/18 BMO | DONE | **EPS BEAT $3.80 vs $3.69; rev BEAT $18.72B vs $18.78B (in-line); FY26 rev guide $71.8-72.5B vs $74.0B = SOFT** — stock -5.6% → AVOID drift |
+| ~~KR~~ | Thu 6/18 BMO | DONE | Defensive staples, non-watchlist |
+
+**Looking ahead — Next week (week of 6/22):** Mid-cycle quiet between Q1 calendar print cycle and start of Q2 reporting (mid-July). No major watchlist names confirmed printing 6/22-6/26 yet — Monday's pre-market routine to refresh.
+
+### Tech/Semi Watchlist (Thu close bid quotes; Fri = holiday so quotes are EOD Thu)
+| Ticker | Thu Bid | Setup | Action |
+|--------|---------|-------|--------|
+| **AAPL** | $283.52 / ask $313.43 (curr mark $298.01) | **PEAD drift INTACT** — Thu close $298.01 = +0.27 vs Wed $296.74; China 618 catalyst absorbed; analyst PT raises (Wedbush $400, MS $360, JPM $325, Bernstein $350, 24/7 $349) intact | **HOLD** — trail buffer 4.14% (improved from Wed 3.74%); +15% tighten trigger $327.45 = +9.88% from current = OUT OF RANGE; counter-policy 1 add gate stays CLOSED (no 3-5% pullback structure) |
+| NVDA | — | Lagging quadrant per sector rotation map | WATCH (no entry; post-FOMC digestion + sector lag) |
+| AMD | $492.73 | Sized out (>$164 cutoff) | SIZED OUT |
+| AVGO | $377.01 | Sized out | SIZED OUT |
+| MRVL | $278.21 | Sized out | SIZED OUT |
+| TSM | $373.67 stale | Sized out | SIZED OUT |
+| MU | $988.95 | Sized out | SIZED OUT |
+| QCOM | $200.84 | Sized out | SIZED OUT |
+| ARM | $362.46 | Sized out | SIZED OUT |
+| ASML | n/a | Sized out | SIZED OUT |
+| SMCI | $26.47 | Fundamentally broken | AVOID |
+| INTC | n/a | No fresh catalyst | AVOID |
+| MSFT | $349 | No fresh single-name catalyst | WATCH only |
+| GOOGL | $350.50 / $380.46 | No fresh single-name catalyst | WATCH only |
+| META | $560.68 | Sized out | SIZED OUT |
+| ~~ACN~~ | — | **Rev-guide miss → -5.6% post-print = BROKEN DRIFT, AVOID** | AVOID (broken drift; not eligible) |
+
+### Niche Radar (7-point compliance; Thu close data; Mon 6/22 re-evaluation)
+| Ticker | Thu Bid | Class | Catalyst | EPS | Analyst | Sentiment | Action |
+|--------|---------|-------|----------|-----|---------|-----------|--------|
+| **RKLB** | bid **$107.40** Thu close (+5.7% to **$107.98 last** per Robinhood; KeyBanc upgrade to OW $135 PT; range $100.96-110.40; after-hours ~$106.20-106.50) | **WATCH — inclusion front-run materialized; entry-price question shifted** | **Nasdaq-100 inclusion EFFECTIVE Mon 6/22 OPEN** (mechanical QQQ buy); KeyBanc OW $135; Cantor $96 OW; Stifel $132 Buy; MS OW; Anduril HASTE; SDA Tranche 3; $2.2B backlog | Q1 rev $200.3M +63.5% YoY | Range $96-150 (Cantor low; KeyBanc/Stifel highs $132-135) | $108 close > $103 prior week reclaim; index-fund forced-buy + Geneva signing weekend = compounding catalyst | **DECISION FRAMEWORK Mon 6/22:** Pre-committed hawkish-branch was STAND-DOWN at $103. Thu's $107.98 (+5.7%) = inclusion already front-running. Two paths: (A) **Wait for fade** — sell-the-news inclusion mechanic + Iran-deal-confirmation digestion = potential pullback to $100-103 zone in 1-3 sessions = QUALITY entry at original thesis price; (B) **Chase at $108-110** = violates no-chase gate (>3% above prior session VWAP), violates discipline. **Plan: WAIT FOR FADE to $100-103 zone; no chase entry above $108.** Sizing pre-filter $108 < $164 ✓ |
+| **ASTS** | bid **$76.07** stale / ask **$84.73** stale; **Thu CLOSE $85.43 +3.87% on 29.39M vol** per stockanalysis/marketbeat (single-side bid fog at quote endpoint) | **BUY SETUP CANDIDATE — pre-committed gate CLEARED** | BB8-10 clean deploy Wed; constellation 9 sats; FCC C-band SCS; FirstNet partnerships; Verizon/AT&T direct-to-device pipeline | Q1 EPS miss -$0.66 vs cons -$0.23 baseline | Consensus PT $81.33 "Reduce"; DB Hold; Barclays $60 Sell; new range $60-95 post-launch (some upgrades pending) | **High-volume reclaim of $85+ delivered Thu** = first institutional accumulation signal post-launch | **DECISION FRAMEWORK Mon 6/22:** Gate (a) high-vol $85+ reclaim CLEARED Thu. Remaining gates: (b) hold above $85 Mon open with tight spread + no Iran-deal-weekend disruption, (c) confirm post-launch analyst upgrade flow appears. **Plan: ASTS = LEAD niche entry candidate Mon 6/22 if Mon opens ≥$83-85 with tight spread + no major weekend gap-down.** Sizing: max 10% of equity ($986) = ~11 sh @ $85, hard stop -10% = $76.50, target +25% = $106.50 (R:R = +$22 / -$9 = 2.4:1 ≈ niche 2.5:1 threshold; trim target to +27% = $107.50 for 2.7:1). Sized pre-filter $85 < $164 ✓ |
+| **OKLO** | bid $52.72 / ask $69.29 (wide stale) | WATCH | DOE Aurora-INL criticality target July 4 (T+15 days from Mon 6/22); construction underway; hawkish-rate macro headwind | Pre-rev | Consensus PT $82.78 | Criticality binary T+15; hawkish-FOMC rate-sensitivity = energy-capex pressure | **WATCH** — binary catalyst window opens early July; entry corridor $50-55 valid if pullback persists into criticality; not lead candidate for Mon 6/22 |
+| **AEHR** | bid $97.61 stale | SKIP | Far above analyst PT range ($21-29) | Beats baseline | Stock 3-4x PT range | Disconnect | **SKIP** |
+| **NBIS** | bid $245.10 stale (Wed reference) | **SIZED OUT** ($245 >> $164 cutoff) | Nasdaq-100 inclusion 6/22 (same window as RKLB); 1.2GW AI factory | Q1 rev $399M +684% YoY | GS PT $267 | Same inclusion mechanic + AI-infra tailwind | **SIZED OUT — skip even with inclusion catalyst** |
+| **New scan** | — | — | No fresh actionable single-stock from broad scan; FDA PDUFA Truqap 6/30 (T+11 from Mon) next tier-1 catalyst | — | — | — | **No new niche candidate this week** |
+
+**Niche net output (Mon 6/22 framework):**
+- **PRIMARY ENTRY CANDIDATE: ASTS** — pre-committed gate cleared Thu; Mon 6/22 entry contingent on (a) ≥$83-85 open with tight spread, (b) no major Iran-deal-weekend gap disruption, (c) volume confirmation. Sizing 10% ($986) = ~11 sh, hard stop -10% $76.90, target $107.50 (2.7:1 R:R).
+- **SECONDARY: RKLB** — inclusion front-ran to $108 = no chase above $108; wait-for-fade to $100-103 corridor for quality entry at original thesis price. Mon 6/22 likely DOES NOT clear gate.
+- **WATCH: OKLO** — pre-criticality entry window opens late June/early July; not Mon 6/22 lead.
+- **SKIP: AEHR / NBIS** (above PT / sized out).
+
+### Trade Ideas
+
+**1. HOLD AAPL — primary alpha defense; trail buffer improved to ~4.14%:**
+- 3 sh, entry $284.74, last close $298.01 (+$13.27 / +4.66% unrealized; +$39.81 unrealized P&L).
+- Trail $285.66 HWM $317.40, status `new`. Buffer ~$12.35 / **4.14%** = improved from Wed 3.74% on Thu PEAD continuation.
+- Manual-cut $264.81 (~11.14% below current); structural cushion intact.
+- Thesis intact: PEAD/post-WWDC drift + iPhone 17 cycle + Services + $100B buyback; analyst PT raises (Wedbush $400, MS $360, JPM $325, Bernstein $350, 24/7 $349) intact; mean consensus $308 modest implied upside.
+- 3-day weekend gap-risk: Iran-deal Geneva signing today on holiday = Mon 6/22 open carries Geneva confirmation/reversal exposure; AAPL as mega-cap risk-on proxy = directly correlated.
+- **HOLD; let trail GTC work.** +15% tighten trigger $327.45 = +9.88% from current = OUT OF RANGE. Counter-policy 1 add gate CLOSED — no clean 3-5% pullback to rising 20-DMA + volume reclaim structure; PEAD drift continued Thu = no setup for add. On Mon 6/22 gap-down toward $285.66 → automatic GTC execute (~+$2.76 net realized = +0.32% on position), NO manual override.
+
+**2. ASTS — LEAD NICHE ENTRY CANDIDATE Mon 6/22 (Thu gate CLEARED):**
+- **7-Point Niche Research Compliance (re-confirm Mon 6/22 pre-market):**
+  1. **Earnings/Fundamentals:** Q1 FY26 EPS -$0.66 vs cons -$0.23 (miss); revenue ramp from FCC C-band SCS approvals; pre-revenue scale-up; next earnings ~mid-Aug
+  2. **Analyst Coverage:** consensus PT $81.33 "Reduce"; range $60-95; DB Hold, Barclays $60 Sell; 7 Hold, 3 Sell, 1 Buy
+  3. **Institutional Activity:** Thu 29.39M vol = **above 30-day avg ~15M** = institutional accumulation signal
+  4. **News & Catalysts:** BlueBird 8-10 CLEAN DEPLOY Wed 6/17 (9 sats operational); Verizon/AT&T pipeline; FirstNet partnership; Iran-deal weekend secondary
+  5. **Community Sentiment:** Short interest ~18%; post-launch sentiment turning positive (high-volume $85+ reclaim Thu)
+  6. **Technical Setup:** Closed $85.43 above $85 consensus PT zone with 29.39M vol = clean technical breakout above resistance
+  7. **Thesis:** Post-deploy execution validation + first institutional accumulation signal + 5-day post-launch overhang absorption = asymmetric R:R into broader DTC/SCS adoption catalyst (target Verizon agreement details H2 2026)
+- **Mon 6/22 ENTRY PARAMS** (contingent on Mon open ≥$83-85 + tight spread + no Iran-deal-weekend disruption):
+  - Size: 10% equity = $986 → ~11 sh @ $85.00 = $935 (10.6% of $9,864 portfolio)
+  - Hard stop: -10% = $76.50 (-$9.35/sh = -$94 max loss)
+  - Target: +27% = $107.95 (+$22.95/sh = +$252 gain)
+  - **R:R = 2.7:1** (clears 2.5:1 niche threshold)
+  - 10% trailing stop GTC placed immediately post-fill
+- **DISQUALIFY entry IF:** Mon opens <$80 (broken Thu reclaim), spread >2%, Geneva-deal walk-back triggers risk-off gap-down >5% in S&P futures, volume in first 30 min <50% of Thu's pace
+
+**3. RKLB — INCLUSION FRONT-RAN; WAIT FOR FADE Mon 6/22:**
+- Thu close **$107.98 (+5.7%)** = inclusion bid already priced into stock pre-event
+- Nasdaq-100 inclusion EFFECTIVE Mon 6/22 OPEN = mechanical QQQ + index-fund buy at open
+- Historical sell-the-news pattern: most index inclusions see follow-through gap up at open then 1-3 sessions of pullback as front-running shorts cover and event-driven traders rotate
+- **WAIT FOR FADE entry corridor:** $100-103 = original thesis price level (Thu 6/11 close $103 reclaim was the pre-committed entry)
+- Chase decision tree:
+  - Mon opens >$110 with strong volume = **NO entry** (chase violation; >3% above prior VWAP)
+  - Mon opens $108-110 + fade through morning = **WATCH** for $103-105 retest in 1-3 sessions
+  - Mon opens $100-105 (sell-the-news flush) = **ENTRY ELIGIBLE** at original thesis price
+- ENTRY PARAMS (if $103 retest delivered Mon-Wed):
+  - Size: 10% equity = $986 → ~9 sh @ $103 = $927 (9.4% of portfolio)
+  - Hard stop: -10% = $92.70 (-$10.30/sh = -$93 max loss)
+  - Target: +25-30% = $129-134 (KeyBanc $135 / Stifel $132 PT range)
+  - R:R = 2.5-3.0:1
+- **NO Mon 6/22 chase entry at >$108** — discipline > inclusion FOMO
+
+**4. ACN — AVOID:**
+- Thu post-earnings result: EPS beat $3.80 vs $3.69, rev in-line $18.72B vs $18.78B, **FY26 rev guide $71.8-72.5B vs $74.0B = SOFT** → stock -5.6%
+- Negative drift setup = broken drift entry; not eligible per strategy
+
+**5. OKLO — WATCH:**
+- DOE-route criticality target July 4 = T+15 days from Mon 6/22; binary catalyst window opens late June
+- Hawkish-rate environment = SMR-financing thesis headwind
+- Entry corridor $50-55 if pullback continues; not Mon 6/22 lead candidate
+
+**6. NICHE — Mandatory screen output (Mon 6/22 framework):**
+- ASTS = **LEAD BUY SETUP candidate** (pre-committed gate CLEARED Thu)
+- RKLB = WATCH (inclusion front-ran; wait-for-fade to $100-103 corridor; NO chase >$108)
+- OKLO = WATCH (criticality T+15; macro-rate headwind; entry corridor $50-55)
+- AEHR = SKIP (run past PT range)
+- NBIS = SIZED OUT ($245 >> $164 cutoff)
+- FDA PDUFA Truqap 6/30 (T+11), mirdametinib 7/10, gedatolisib 7/17, Leqembi 7/25 — none Mon 6/22 actionable
+- **Net Mon 6/22 directional bias: 1 LEAD ENTRY (ASTS); 1 WAIT-FOR-FADE (RKLB); 1 WATCH (OKLO).** **TRADE bias, not HOLD** — pre-committed plan's "Thu re-evaluation gate" cleared = ASTS no longer disqualified by lack of margin of safety.
+
+**7. AVOID at Mon 6/22 open:**
+- RKLB chase entry above $108 (discipline > inclusion FOMO; original thesis price was $103 reclaim)
+- ASTS chase if Mon opens >$92 (+8% above Thu close = chase territory, no margin of safety)
+- ACN drift entry (broken post-print)
+- All sized-out names (AMD/AVGO/MRVL/TSM/MU/QCOM/ARM/META/NBIS)
+- AI-semis without single-name catalyst (NVDA in lagging sector quadrant)
+- SpaceX SPCX direct chase
+- OKLO pre-criticality chase
+
+### Risk Factors
+- **Iran-Geneva signing on US holiday = 60+ hr news-gap-risk into Mon 6/22** — confirmation (signing actually happens as planned) = risk-on follow-through favoring AAPL/ASTS/RKLB; reversal/walk-back = gap-down on entire complex + energy spike + inflation re-pricing. ALL Thu-close positions carry exposure.
+- **RKLB inclusion mechanical buy + Iran-deal weekend = compounding gap-risk Mon 6/22 open** — front-running already in price ($107.98 +5.7% Thu); sell-the-news fade pattern historically dominant 1-3 sessions post-inclusion event.
+- **ASTS Mon 6/22 = first live tape post-Thu's gate-clearing reclaim** — entry execution requires (a) Mon opens ≥$83-85 with tight spread, (b) no major weekend disruption, (c) volume confirmation. Single-day reclaim doesn't fully de-risk the bearish analyst stance (consensus $81 Reduce; range still includes $60 Sell).
+- **AAPL buffer 4.14% improved from 3.74%** — but still single-digit % above 3% no-touch line; weekend gap-down >4.1% would trigger automatic GTC at $285.66 (~+$2.76 net realized = +0.32%, NO override).
+- **VIX compressed to 16.86-17.04** with front-month futures 18.49 = market priced for vol expansion; Mon 6/22 gap-risk could rip spot back to 19-22 zone fast.
+- **18th consecutive week sleeve under-deployed at 9.06%** — Mon 6/22 = realistic Week 9 deployment window; missing it = 19th consecutive under-deployed week locked in.
+- **Daytrade count 0/5 rolling.** Week 9: 0/15 trades used; ASTS Mon 6/22 entry would be Week 9 trade #1.
+- **Tech sector in lagging quadrant per momentum map** — directional headwind for AAPL hold thesis (offset by AAPL-specific PEAD catalyst); doesn't change AAPL hold decision but argues against AAPL ADD even if structural pullback appears.
+
+### Decision
+
+**HOLD AAPL through Juneteenth holiday (no live action possible). Pre-position Mon 6/22 as MULTI-CATALYST EVENT WINDOW with PRIMARY ENTRY BIAS on ASTS (gate CLEARED Thu) + SECONDARY WAIT-FOR-FADE on RKLB (no chase >$108) + AAPL trail-defense (buffer 4.14%).**
+
+The Thu re-evaluation explicitly noted ASTS gate "NOT cleared" because price was AT consensus PT with zero margin of safety. Thu's intraday action delivered the gate-clearing event: $85.43 close (+3.87%) on 29.39M volume = high-volume reclaim of $85+ resistance line. This is the FIRST gate the pre-committed plan required, and it landed before the 60+ hour Juneteenth/Geneva news-gap. The Mon 6/22 entry decision is now contingent on three confirmation factors: (a) Mon opens ≥$83-85 with tight spread, (b) no Iran-deal-weekend disruption gap-down, (c) volume confirmation in first 30 min.
+
+RKLB's $5.70 / +5.7% Thu rip captured the inclusion front-running window pre-event = the mechanical Mon 6/22 open buy is largely priced. The pre-committed plan's "hawkish-branch stand-down" thesis stays valid for chase entry >$108 (no margin of safety vs original $103 thesis price). The discipline reroute: WAIT FOR FADE to $100-103 corridor in 1-3 sessions post-inclusion event. If that fade doesn't appear by Wed-Thu, the trade is dead for this cycle — no chase.
+
+AAPL trail buffer improved to 4.14% Thu = structural cushion intact through hawkish-FOMC absorption. Geneva-weekend gap-down >4.1% = automatic GTC execute, NO override.
+
+Week 9 trade count likely moves from 0/15 to 1/15 (ASTS) or 2/15 (ASTS + RKLB fade entry mid-week). Under-deployment streak likely breaks Mon 6/22 if any setup clears Mon-open confirmation gates.
+
+**Plan for Mon 6/22 market-open agent:**
+1. **VERIFY Iran-Geneva signing outcome** (confirmation = ASTS/RKLB risk-on bias; walk-back = stand-down both)
+2. **VERIFY AAPL trail GTC** ($285.66 HWM $317.40, status `new`). Gap-down toward $285.66 → automatic GTC execute, NO override.
+3. **ASTS Mon 6/22 ENTRY EVAL** at open:
+   - Confirm Mon opens ≥$83-85 with bid/ask spread <2%
+   - Confirm no major Iran-deal-weekend gap-down on broader risk indices (S&P futures, VIX)
+   - First 30-min volume ≥50% of Thu's 29.39M pace
+   - If ALL three clear → enter 10% ($986 → ~11 sh @ $85.00), place 10% trail GTC immediately, document 7-point research compliance + 2.7:1 R:R thesis
+   - If any FAIL → stand-down, document failure mode
+4. **RKLB Mon 6/22 EVAL** at open:
+   - If Mon opens $108-110 with strong volume = WATCH for $103-105 fade in 1-3 sessions
+   - If Mon opens >$110 = NO entry (chase violation)
+   - If Mon opens $100-105 (sell-the-news flush) = ENTRY ELIGIBLE at original thesis ($103 zone, ~9 sh, stop -10% $92.70, target $129-134, R:R 2.5-3:1)
+5. **MONITOR OKLO** — pre-criticality drift; not Mon 6/22 lead but flag any sharp move toward $50-55 entry corridor
+6. **AVOID** ACN drift entry (broken post-print); all sized-out names; SpaceX SPCX chase; AI-semis without single-name catalyst
+7. **MIDDAY 10 AM PST:** verify any Mon morning entries' health + position-sizing compliance + trail GTC placement; check RKLB fade pattern emergence
+8. **EOD:** weekly trade count update (likely 1/15 if ASTS entry executes; potentially 2/15 if RKLB fade entry also executes); 19th consecutive week under-deployed only if NEITHER entry clears
+
+**Bias: HOLD AAPL today (Fri holiday). Mon 6/22 = TRADE bias on ASTS gate-clearing if confirmation gates clear at open. Cash 90.94% preserved through hawkish-FOMC + Juneteenth; pre-positioning ready for first sleeve deployment since Wk 5 May 22 review counter-policies were authored.**
+
