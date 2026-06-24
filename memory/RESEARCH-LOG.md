@@ -4469,3 +4469,125 @@ Mon 6/22 sequence resolved: ASTS gates failed (no entry — not in current posit
 10. **Trades this week: 1 / 15 entering Tue** (RKLB entry Mon 6/22 = Wk10 trade #1). 14 slots preserved.
 
 Bias: **PRESERVE CAPITAL. Let trail GTCs do the work on AAPL. Defend RKLB at the -7% line $94.86. No fresh entries into a thin-setup tape pre-PCE.** Mon 6/22 deployment (RKLB fade-corridor) was the week's structural action — Tue is defense and observation, not re-entry. ASTS thesis dead this cycle (gates failed Mon). Cash 82.11% preserved.
+
+---
+
+## 2026-06-24 Wed Pre-Market Research (Week 10, Day 3)
+
+### Account Snapshot (Wed 6/24 pre-bell)
+- **Equity:** $9,796.26 | **Last equity:** $9,791.02 (+$5.24 / +0.05% overnight mark)
+- **Cash:** $8,052.04 (82.20%)
+- **Buying power:** $37,091.97 (4x margin, unused)
+- **Long market value:** $1,744.22 | Position MV: AAPL $887.87 / RKLB $856.35
+- **Daytrade count:** 0/5 rolling — full slate preserved
+- **PDT:** false
+
+### Sleeve Status
+- **Alpha sleeve:** $887.87 (9.06%, AAPL only) vs 70-75% target — **18th consecutive week under-deployed**
+- **Niche sleeve:** $856.35 (8.74%, RKLB only) vs 25-30% target
+- **Cash:** 82.20% — high optionality, deep under-deployment streak
+
+### Open Positions (Tue 6/23 close marks)
+| Ticker | Sleeve | Shares | Entry | Current | Mkt Value | Unrealized P&L | Stop | Buffer |
+|--------|--------|--------|-------|---------|-----------|----------------|------|--------|
+| AAPL | alpha | 3 | $284.74 | $295.96 | $887.87 | +$33.65 (+3.94%) | $285.66 trail GTC (HWM $317.40) | **~3.48%** |
+| RKLB | niche | 9 | $102.0033 | $95.15 | $856.35 | -$61.68 (-6.72%) | $93.16431 trail GTC (HWM $103.5159) | **~2.09% — CRITICAL** |
+
+**Both trail GTCs verified OPEN/NEW on broker.** RKLB buffer at ~2.09% = **HARD AGAINST** the -7% manual cut line $94.86 (only $0.29 above). AAPL buffer expanded slightly vs Tue (3.48% vs 3.00%) on +0.56% intraday tick.
+
+### Market Context (Wed 6/24 pre-market)
+- **S&P 500 futures: 7,440.75 (-100.50 / -1.33%)** — tech-led selloff on valuation concerns. Range 7,440–7,459.
+- **Nasdaq-100 futures: -2.69%** = primary tape weakness, hits AAPL and RKLB directly.
+- **VIX: ~19.27** (intraday range 19.07–19.36), up from 17-18 zone of late last week = volatility regime shifting.
+- **WTI: ~$72.60/bbl** | **Brent: ~$76.40/bbl** — continued slide on US-Iran MoU peace progress, Strait-of-Hormuz reopening framework.
+- **10Y Treasury: 4.50%** | **2Y: 4.20%** | **10Y-2Y spread: +0.27%** (compressed but not inverted).
+- **Today's calendar (7:00 AM PT):** May New Home Sales 10:00 AM ET, Fed Bank Stress Test results, NVDA annual shareholder meeting. AMC: **MU earnings (primary semi binary)**, PAYX, JEF.
+- **Fed structural shift (June 17 FOMC):** Held 3.50-3.75% (12-0 unanimous), but **dot plot turned HAWKISH** — 2026 median rose to 3.8% (above current midpoint 3.625%) = signals **ZERO cuts in 2026, possibly +25-75bp hikes**. 9/18 officials project hikes. **July hold 97.1%, September hike priced ~52%.** Core PCE sticky ~3.3%.
+
+### This Week's Earnings Calendar (refresh)
+| Date | Ticker | Timing | Outcome / Our Stance |
+|------|--------|--------|---------------------|
+| Tue 6/23 | **FDX** | AMC | **BEAT: EPS $6.31 vs cons $5.91 / rev $24.00B vs $23.44B / +8.3% YoY**. Stock to 52-wk highs. Off-theme (freight); no position fit. |
+| **Wed 6/24** | **MU** | **AMC ~4:00 PM ET** | **PRIMARY SEMI BINARY.** Cons EPS $19.43–$20.98 vs guide $19.15±$0.40; rev $33.9–$35.25B vs guide $33.5B±$750M. Gross margin guide 81%. HBM sold out, sustainability of AI capex narrative. **Sizing fail (1 share = ~$1,113 = 11.4% of equity) — WATCH ONLY**. Tape spillover risk to all semis Thu open. |
+| Wed 6/24 | GIS | BMO | Off-theme, AVOID. |
+| Thu 6/25 | NKE, KMX | AMC/BMO | Off-theme, AVOID. |
+| Fri 6/26 | — | Personal Income / PCE final | **MACRO BINARY** — primary Fed inflation gauge. |
+
+### Tech/Semi Watchlist (Wed 6/24 pre-bell — all single-venue V quotes, wide spreads = stale display)
+| Ticker | Bid/Ask | Setup | Note |
+|--------|---------|-------|------|
+| **AAPL** | $293.36 / — | **DRIFT held** | Premarket per Perplexity ~$297.76–$299.54 (-0.66 to -0.80%); post-WWDC AI / Cook→Ternus succession overhang. **HOLD; defend trail $285.66**. |
+| **RKLB** | $91.25 / $100.97 | **TIGHT defense** | Pre-bell display $91.25 below trail; real Tue close $95.15. NDX-inclusion fade extending. **HOLD; armed for -7% manual cut at $94.86**. |
+| **MU** | $1,004 / $1,113 | EARNINGS WED AMC | Sizing-fail; NO trade. Tape proxy for all semis Thu. |
+| NVDA | $200 / $211 | NEUTRAL | Shareholder meeting today = jawbone-only; no own setup. SKIP. |
+| AMD | $493 / $546 | EXTENDED | No catalyst. SKIP. |
+| AVGO | $366 / $495 | NEUTRAL | Prior catalyst played. SKIP. |
+| MRVL | $264 / $294 | NEUTRAL | SKIP. |
+| INTC | $125 / $139 | NEUTRAL | SKIP. |
+| SMCI | $33.50 / $33.53 | WEAK (tight spread) | No own catalyst. SKIP. |
+
+### Niche Radar (per Counter-policy 2, MANDATORY scan)
+| Ticker | Bid/Ask | Sized? | Classification | Key Catalyst | Action |
+|--------|---------|--------|----------------|--------------|--------|
+| **ASTS** | $69.73 / $77.22 | ✅ ($73 < $164 cutoff) | **WATCH** | BB8/9/10 launch SUCCESS 6/17 (3 sats deployed); 2026 target 45 sats. **Consensus Reduce; avg PT $81 ~+11%**. Q1 rev $14.7M, guide $150-200M. BB7 loss $155-160M. | **NO ENTRY** — thesis improved (launch success) but analyst consensus Reduce + recent 12% weekly drop + sized below avg PT only marginal. Re-watch on AT&T/T-Mobile/Verizon JV catalyst. |
+| **RKLB** | $91.25 / $100.97 | ✅ HELD | **HELD — DEFEND** | NDX inclusion 6/22 done; post-inclusion fade primary mechanic. -7% manual cut $94.86 = **armed**. | **HOLD; cut to close if <$94.86 on volume**. |
+| **OKLO** | $48.93 / — | ✅ ($49 < $164) | **WATCH/SPEC** | Pre-revenue till 2027. Meta 1.2 GW prepay deal, NVDA/LANL AI-fuel collab, NRC progress. Short interest 16.45% = squeeze setup. UBS PT $55 / Wedbush ~$60 vs consensus avg $80-100. | **NO ENTRY** — pre-revenue + speculative; would size at 6-8 sh ($300-400 = 3-4% niche) but no own catalyst today. Watch for NRC license news. |
+| **AEHR** | $87.81 / — | ✅ ($88 < $164) | **WATCH** | Q3 FY26 reported 4/7: EPS -$0.05 (beat -$0.07), rev $10.31M (miss). **Bookings $37.2M, book-to-bill 3.5x = strong forward**. FY26 guide rev $45-50M (high end). Q4 expected ~July 2026. Analyst PTs $21-29 (stale, below current = anomaly — likely pre-AI re-rate targets). | **NO ENTRY** — single-venue stale quote; await Q4 print or fresh PT updates. |
+| **NBIS** | $237.02 / $311.66 | ✅ (4 sh @ ~$240 = $960 ~ 9.8% niche) | **STRONG MOMENTUM but POST-NDX-INCLUSION FADE RISK** | NDX inclusion 6/22 (same passive-bid setup as RKLB), $27B Meta deal (Mar 2026), Eigen AI acquisition closed 6/10. Consensus PT $203 (range $85-$380), GS $267, Morgan Stanley Neutral $144. 87.5% Buy. ARR guide $7-9B by EOY. | **NO ENTRY at open** — exact same post-NDX-inclusion fade structure as RKLB (which is now -6.72% from entry). RKLB pattern still working against us → no second exposure to identical mechanic. Wide pre-bell spread ($75 = 24%) = poor execution structure. Re-evaluate post-MU-spillover Thu/Fri if NBIS holds $200s. |
+
+**Other niche scans:**
+- **No FDA PDUFA today** with size-feasible names.
+- **Small-cap breakouts:** none with own catalyst + sub-$164 entry meeting 2.5:1 R:R threshold.
+- **Post-earnings drift:** FDX +52wk highs but off-theme; no Mon/Tue clean tier-1 niche reactions.
+
+### Trade Ideas (Wed 6/24 6:30 AM PST)
+
+**1. HOLD AAPL — buffer expanded to 3.48% from Tue 3.00%; let trail GTC work.**
+- Post-WWDC AI + Cook→Ternus succession overhang persist. Premarket ~$297-299 = -0.66 to -0.80%. Trail $285.66 valid; broker auto-advances on HWM.
+- Cut at -7% manual = $264.81 (well below trail = trail fires first).
+- **No add today** — no 3-5% pullback to rising 20-DMA structure; thesis ambiguity prevents Counter-policy 1 add. **HOLD**.
+
+**2. DEFEND RKLB — armed at -7% manual cut line $94.86 (only $0.29 below Tue close $95.15).**
+- Post-NDX-inclusion fade in 3rd day; passive bid exhausted, profit-taking flow intact.
+- Premarket bid display $91.25 below trail $93.16 = stale single-venue but **structural risk if real**. If RKLB opens sub-$94.86 on volume = **manual cut immediately** (1 daytrade slot consumed).
+- If holds above $94.86, let trail GTC do the work; **no preemptive trim**.
+
+**3. NO FRESH ENTRIES at Wed 6/24 open.**
+- **Macro setup hostile:** S&P -1.33% / Nasdaq-100 -2.69% premarket on tech-valuation concerns; VIX 19.27 elevated; **hawkish Fed dot plot** (zero cuts → possible hikes) re-anchored as structural; MU AMC binary tonight + PCE Fri = double tape risk.
+- **Alpha:** AAPL Counter-policy 1 (core-winner add) fails — no rising-20-DMA structure; thesis ambiguity on CEO transition.
+- **Semis:** all (NVDA/AMD/AVGO/MRVL/TSM/QCOM/ARM/INTC/SMCI/ASML) lack own catalyst into MU AMC; tape-hostage to Wed AMC + Thu open.
+- **Niche:** RKLB slot already occupied + bleeding (-6.72%) = no second NDX-inclusion-fade exposure (NBIS). ASTS launch success improves thesis but consensus Reduce remains bear case. OKLO/AEHR/SMCI no own catalyst.
+- **Off-theme avoid:** FDX (post-print), GIS/NKE/KMX (Wed/Thu), MU (sizing-fail).
+
+### Risk Factors
+- **RKLB -7% manual cut $94.86 ~ $0.29 from current** = **#1 intraday risk**. Bid display $91.25 pre-bell could front-run real open weakness.
+- **AAPL trail buffer 3.48%** = above gate but tight; tech-led tape (-2.69% NDX premarket) drags AAPL with it.
+- **Hawkish Fed dot plot** = structural multiple-compression risk on tech; 9/18 officials project hikes, Sept hike priced ~52%.
+- **MU AMC tonight** = AI/HBM binary; massive spillover risk to all semis Thu open. Any miss/weak guide = NVDA/AVGO/MRVL/AMD red-tape.
+- **PCE Fri** = Fed's primary inflation gauge; sticky core PCE 3.3% leaves room for upside surprise = tape risk.
+- **NVDA annual meeting today** = jawbone risk both ways for AI tape.
+- **Fed Bank Stress Test results** = financials catalyst (not held, but tape mover).
+- **Strait of Hormuz partial blockade** persists despite MoU progress (~1,150 vessels stuck); escalation = oil spike + risk-off.
+- **US-China tariff truce expires Nov 10, 2026** = Q4 risk window; not immediate.
+- **Daytrade count 0/5** — full slate preserved unless RKLB manual cut required.
+- **Under-deployment streak Week 18** — alpha 9.06% vs 70-75%, niche 8.74% vs 25-30%. Counter-policies 1 & 2 demonstrably scanned: no qualifying structure today.
+- **Trades this week: 1 / 20** (RKLB Mon 6/22 = Wk10 trade #1). 19 slots preserved.
+
+### Decision
+**HOLD AAPL / RKLB. NO FRESH ENTRIES. DEFEND with trail GTCs + RKLB manual cut line $94.86.**
+
+Rationale: Tape is hostile (S&P -1.33%, Nasdaq-100 -2.69% premarket on tech valuation re-rate); VIX rising to 19.27; hawkish Fed dot plot is structural overhang; MU AMC + PCE Fri double-binary makes any pre-event entry forced. RKLB position bleeding -6.72% with razor-thin trail buffer = no second niche exposure to identical NDX-inclusion-fade mechanic on NBIS. AAPL trail expanded slightly to 3.48% buffer = let GTC work. No Counter-policy 1 (core-winner add) trigger fires (AAPL no pullback structure to rising 20-DMA). Niche screen ran: ASTS thesis improved (BB8-10 success) but consensus Reduce; OKLO/AEHR/NBIS each fail bar today on own-catalyst + execution-structure basis. Under-deployment Week 18 acknowledged — the floor exists to counter the pattern, NOT to override the no-chase gate into a -1.33% / hostile-vol / pre-binary tape.
+
+**Plan for market-open agent (Wed 6/24 6:30 AM PST):**
+1. **VERIFY both trail GTCs working post-open** — AAPL $285.66 GTC HWM $317.40; RKLB $93.16431 GTC HWM $103.5159.
+2. **MONITOR RKLB intraday** — if sustained <$94.86 on volume = **MANUAL CUT TO CLOSE** (Niche -7% rule). 1 daytrade slot consumed. If holds above, let trail GTC defend.
+3. **MONITOR AAPL intraday** — trail buffer 3.48% with -2.69% Nasdaq-100 premarket = tape can hit. Any break of $285.66 fires trail GTC. **No preemptive trim**.
+4. **HOLD; NO FRESH ENTRIES** — hostile tape into MU AMC + PCE Fri; no A+ structure.
+5. **Track tape:** NVDA shareholder meeting jawbone risk, May New Home Sales 7:00 AM PT, Fed Bank Stress Test results.
+6. **AVOID** all semis (NVDA/AMD/AVGO/MRVL/TSM/QCOM/ARM/INTC/SMCI/ASML) pre-MU AMC; megacaps non-AAPL (no own catalyst); MU (sizing-fail); FDX (post-print drift off-theme); GIS/NKE/KMX (off-theme); NBIS (NDX-fade duplicate risk vs held RKLB); Defense/Energy (no setup, oil unwound).
+7. **AAPL HWM $317.40 / trail $285.66 / +15% tighten trigger $327.45** — far out of reach today absent catalyst pop.
+8. **RKLB HWM $103.5159 / trail $93.16431** — broker auto-advances on fresh HWMs; passive-bid done so HWM sticky.
+9. **Trades this week: 1 / 20** — 19 slots preserved.
+10. **Day trades 0/5 rolling** — preserve unless RKLB defensive cut needed.
+
+Bias: **CAPITAL PRESERVATION. Defend RKLB at $94.86 line. Let trail GTCs do the work on AAPL. No fresh entries into hostile tape + hawkish Fed structural shift + binary-event week (MU AMC, PCE Fri).** Under-deployment Week 18 is a known cost — forced entry into -1.33% premarket on tech-valuation re-rate would compound it, not fix it. Wait for: (a) RKLB stabilization or clean exit, (b) post-MU semi tape clarity Thu, (c) post-PCE Fri macro reset for fresh entries.
