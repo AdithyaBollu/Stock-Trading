@@ -4591,3 +4591,150 @@ Rationale: Tape is hostile (S&P -1.33%, Nasdaq-100 -2.69% premarket on tech valu
 10. **Day trades 0/5 rolling** — preserve unless RKLB defensive cut needed.
 
 Bias: **CAPITAL PRESERVATION. Defend RKLB at $94.86 line. Let trail GTCs do the work on AAPL. No fresh entries into hostile tape + hawkish Fed structural shift + binary-event week (MU AMC, PCE Fri).** Under-deployment Week 18 is a known cost — forced entry into -1.33% premarket on tech-valuation re-rate would compound it, not fix it. Wait for: (a) RKLB stabilization or clean exit, (b) post-MU semi tape clarity Thu, (c) post-PCE Fri macro reset for fresh entries.
+
+
+---
+
+## 2026-06-25 Thu Pre-Market Research (Week 10, Day 4)
+
+### Account Snapshot (Thu 6/25 pre-bell)
+- **Equity:** $9,747.48 | **Last equity:** $9,753.33 (-$5.85 / -0.06% overnight mark)
+- **Cash:** $8,874.09 (91.04% — highest sustained cash of the run post-RKLB exit)
+- **Buying power:** $37,941.85 (4x margin, unused)
+- **Long market value:** $873.39 | Position MV: AAPL only ($873.39)
+- **Daytrade count:** 0/5 rolling — full slate preserved
+- **PDT:** false
+
+### Sleeve Status
+- **Alpha sleeve:** $873.39 (8.96%, AAPL only) vs 70-75% target — **20th consecutive week under-deployed**
+- **Niche sleeve:** $0 (0%) vs 25-30% target — **18-week dormancy resumes** post RKLB trail-exit Wed 6/24
+- **Cash:** 91.04% — full dry powder post-MU AMC binary
+
+### Open Positions (Wed 6/24 close marks)
+| Ticker | Sleeve | Shares | Entry | Current | Mkt Value | Unrealized P&L | Stop | Buffer |
+|--------|--------|--------|-------|---------|-----------|----------------|------|--------|
+| AAPL | alpha | 3 | $284.74 | $291.13 | $873.39 | +$19.17 (+2.24%) | $285.66 trail GTC (HWM $317.40) | **~1.88% — RAZOR THIN** |
+
+**AAPL trail GTC verified OPEN/NEW (id `3390883f`).** Buffer at 1.88% = **WELL BELOW the 3% no-touch line** = any -1.88% intraday gap to $285.66 fires the trail GTC for a ~+$2.76 small green disciplined exit (~+0.32% realized). Lastday $293.08 vs current $291.13 = -0.66% overnight drift, but NDX +1.15% premarket (post-MU) should lift AAPL on relief tape.
+
+### Market Context (Thu 6/25 pre-market)
+- **S&P 500 futures: ~7,474 (+34 / +0.46%)** — relief rally post-MU print, ahead of PCE 5:30 AM PT.
+- **Nasdaq-100 futures: ~30,008 (+1.15%)** = AI/semi tape leadership on Micron's beat-and-raise.
+- **VIX: ~10-14 zone (premarket calm)** — sharp decline from Wed 19.27 on MU clearing semi-tape uncertainty.
+- **WTI: ~$69.35/bbl** (3.5-month low) | **Brent: ~$72-74/bbl** — Iran-Hormuz peace framework holding for markets despite contradictory Iran statements; dollar 13-month high amplifies oil drag.
+- **10Y: ~4.50%** | **2Y: ~4.20%** | spread +0.27% — pre-PCE level; PCE print could re-anchor curve.
+- **Today's calendar:**
+  - **5:30 AM PT (8:30 AM ET): May PCE — PRIMARY MACRO BINARY OF THE WEEK** (pre-bell). PCE deflator forecast +0.5% MoM (vs +0.4% prior); Core PCE YoY consensus 3.3% (vs April 3.3%). Sticky → hawkish; cooler → relief extension.
+  - 5:30 AM PT: Q1 GDP final revision (expect 1.3% confirmed).
+  - 5:30 AM PT: Weekly jobless claims.
+  - AMC: **NKE earnings** (off-theme).
+  - BMO: GIS, KMX (off-theme).
+- **Fed structural context (June 17 FOMC):** Held 3.50-3.75%. **Dot plot hawkish** — 2026 median rose; **0-1 cuts priced for 2026**, possible hikes. Six members signal no further cuts. Three dissents. PCE today re-anchors next move.
+
+### MU Earnings Result (Wed 6/24 AMC) — KEY READ
+- **EPS: $2.51 vs cons ~$2.06** = ~20-24% beat.
+- **Revenue: $41.46B vs cons ~$35B** = ~18% beat (massive AI memory pull).
+- **Q4 FY26 guide: $42-44B** = continued AI capex absorption.
+- **HBM commentary:** sold out, AI accelerator demand intact, "strategic value of memory in the AI era."
+- **Stock response:** MU $1,113 ask Tue → $1,164-$1,166 quote Thu pre-bell = ~+4-5% premarket after the print.
+- **Tape implication:** AI/HBM thesis CONFIRMED; semi-tape headwind from -2.69% NDX Wed gap-down RESET into +1.15% NDX premarket Thu = constructive setup for AAPL, AI hyperscale beneficiaries.
+- **TD Cowen** raised MU PT to $1,500 (from $660) = institutional re-rate validation.
+
+### This Week's Earnings Calendar (refresh)
+| Date | Ticker | Timing | Outcome / Our Stance |
+|------|--------|--------|---------------------|
+| Tue 6/23 | FDX | AMC | BEAT (EPS $6.31 / rev $24.00B). Off-theme; no fit. |
+| Wed 6/24 | **MU** | **AMC** | **BEAT-AND-RAISE: EPS $2.51 / rev $41.46B / Q4 guide $42-44B**. Sizing-fail (1 sh ~$1,165 = 12.0% equity). Spillover bullish to NVDA/AVGO/MRVL/AMD tape. |
+| Wed 6/24 | GIS | BMO | Off-theme. SKIP. |
+| **Thu 6/25** | **NKE** | **AMC** | Off-theme (consumer discretionary). SKIP. |
+| Thu 6/25 | KMX | BMO | Off-theme. SKIP. |
+| **Thu 6/25** | — | **PCE pre-bell** | **MACRO BINARY** — today, 5:30 AM PT. Forecast Core PCE 3.3% YoY. |
+| Fri 6/26 | — | Personal Income / spending | Companion data; secondary read. |
+
+### Tech/Semi Watchlist (Thu 6/25 pre-bell — single-venue V quotes, wide spreads = stale display)
+| Ticker | Bid/Ask | Setup | Note |
+|--------|---------|-------|------|
+| **AAPL** | $293.10 / — | **DRIFT held; trail buffer 1.88% razor-thin** | Pre-bell stale; current $291.13. NDX +1.15% premarket should lift AAPL on MU relief. WWDC AI / Cook→Ternus succession remains; analyst PT anchor $325-440 intact (MS $360, Wedbush $440, BAML $380, Evercore $365). **HOLD; defend trail $285.66**. |
+| **MU** | $1,164 / $1,166 | POST-PRINT RIP | Sizing-fail confirmed; no entry. Tape proxy for AI memory chain. |
+| NVDA | $200 / $232 | RELIEF | Post-MU read-through = AI-memory demand intact. No own catalyst; wide stale spread. SKIP. |
+| AMD | $484 / $538 | RELIEF | Post-MU spillover. No own catalyst. SKIP. |
+| AVGO | $390 / $495 | RELIEF | Post-MU spillover; no own catalyst. SKIP. |
+| MRVL | $257 / $291 | RELIEF | Post-MU spillover; no own catalyst. SKIP. |
+| TSM | — / $382 | NEUTRAL | No own catalyst. SKIP. |
+| INTC | — / $132 | NEUTRAL | No own catalyst. SKIP. |
+| ASML | — / $1,505 | NEUTRAL | No own catalyst; sizing-fail at $1,500+. SKIP. |
+| SMCI | — / $30.41 | WEAK | No own catalyst. SKIP. |
+| QCOM | $186 / $224 | NEUTRAL | No own catalyst. SKIP. |
+| ARM | $306 / $403 | EXTENDED | No own catalyst. SKIP. |
+
+### Niche Radar (Counter-policy 2 MANDATORY scan)
+| Ticker | Price | Sized? | Classification | Key Catalyst | EPS Trend | Analyst | Action |
+|--------|-------|--------|----------------|--------------|-----------|---------|--------|
+| **ASTS** | $64 / $71 (wide stale) | ✅ ($65 < $164) | **AVOID — structurally bearish** | BB8-10 launch SUCCESS 6/17 but **Deutsche downgrade Buy→Hold** ($117→$106), **New Street initiation Neutral $80 bearish PT**, **Zacks Sell rank #4**. ATH $272 (May 28) → $65 = **-76% drawdown from peak**. | Q1 miss; thesis questioned | Consensus Sell / -76% from ATH | **NO ENTRY** — consensus turning structurally bearish; momentum broken; gate-a (above $83 reclaim on volume) deeply failed at $65. |
+| **RKLB** | $82 / $90 (wide stale) | ✅ (post-exit; ~$86 = 8.8% niche if 10sh) | **POST-EXIT FADE EXTENDING** | NDX-inclusion fade extends post our trail-exit at $91.34; now another -8% lower at $86. Validates our exit. KeyBanc OW $135 / Stifel $150 PT thesis intact mid-term but tape mechanic still profit-taking. | Last quarter beat | Avg PT $107, high $150 | **NO RE-ENTRY** — same mechanic still working; would re-enter only on clean basing (3+ sessions stable above $90) with volume reclaim and broader space-sector tape support. Currently distributing, not basing. |
+| **OKLO** | $46 single-venue | ✅ ($46 < $164) | **WATCH** | Pre-revenue till 2027. Meta 1.2GW prepay, NVDA/LANL collab, NRC progress. Short interest 16.45% squeeze setup. PCE-tape sensitive (rate hike = pre-revenue valuation hit). | Pre-revenue | UBS $55, Wedbush ~$60, consensus $80-100 | **NO ENTRY** — sub-$50 corridor entry would size 6-8 sh ($276-368 = 2.8-3.8% niche), but no own catalyst pre-PCE; speculation-stack vulnerable to PCE hot print. Watch post-PCE for NRC license cadence. |
+| **AEHR** | $80 single-venue | ✅ ($80 < $164) | **WATCH** | Bookings $37.2M / book-to-bill 3.5x = strong forward. FY26 rev guide $45-50M. Q4 ~July print upcoming. SiC/GaN test demand robust. | Q3 beat (EPS -$0.05 vs -$0.07) | PTs $21-29 stale (below current) | **NO ENTRY** — stale single-venue quote; await Q4 print or fresh analyst rerate. |
+| **NBIS** | $221 / $296 (wide 24% spread = HUGE) | ✅ at lower end (3 sh @ $221 = $663 ~ 6.8% niche, feasible) | **POST-NDX FADE — caution** | NDX inclusion 6/22 (same setup as RKLB which we just cut); $27B Meta deal, Eigen AI deal closed 6/10. 87.5% Buy. ARR guide $7-9B EOY. MU beat is AI-infra tailwind. | Strong growth | Cons PT $203, GS $267, MS Neutral $144 | **NO ENTRY at open** — RKLB post-NDX fade pattern just cost us -$96 / -10.45%; identical mechanic for NBIS at NDX-inclusion T+3 day. Wait for: (a) clean basing 3+ sessions, (b) volume reclaim of upper range, (c) post-PCE macro clarity. |
+
+**Other niche scans:**
+- **No FDA PDUFA today** with size-feasible names (Truqap PDUFA 6/30 T+5 = next macro catalyst).
+- **Small-cap breakouts:** none with own catalyst + sub-$164 entry meeting 2.5:1 R:R threshold pre-PCE.
+- **Post-earnings drift:** MU sizing-fail at $1,165; no other tier-1 clean reactions.
+- **AVAV (defense)** — Q4/FY26 earnings today; off-theme for niche framework (defense ≠ asymmetric small-cap); SKIP.
+
+### Trade Ideas (Thu 6/25 6:30 AM PST)
+
+**1. HOLD AAPL — trail buffer 1.88% RAZOR-THIN; NDX +1.15% premarket = expected lift on MU relief.**
+- Current $291.13 / trail $285.66 = $5.47 cushion; if AAPL opens flat-to-up on the NDX lift, buffer expands toward 2-3% range.
+- Post-WWDC AI thesis intact; Cook→Ternus succession overhang persists but analyst PT anchor $325-440 intact across 5 firms.
+- Cut at -7% manual = $264.81 (well below trail; trail fires first).
+- **No add today** — Counter-policy 1 fails (AAPL is mid-recovery from gap, not constructive 3-5% pullback to rising 20-DMA structure); pre-PCE macro binary makes any add forced.
+- **HOLD; let trail GTC defend.**
+
+**2. NO FRESH ENTRIES at Thu 6/25 open (pre-PCE).**
+- **PCE 5:30 AM PT = primary macro binary of the week**, prints BEFORE the bell. Sticky 3.3% → hawkish reaction = sell tape; cooler → relief rally extension.
+- No entry pre-PCE on any name; macro print pre-empts any structural setup decision.
+- **Alpha:** AAPL Counter-policy 1 add gate fails (no pullback structure).
+- **Semis:** all riding MU relief tape (NVDA/AMD/AVGO/MRVL) but no own-catalyst entry; chase risk into post-PCE tape direction.
+- **Niche:** ASTS structurally bearish (Sell consensus); RKLB no re-entry into same fade; OKLO/AEHR no own catalyst; NBIS = NDX-inclusion-fade duplicate of RKLB-just-cut.
+- **Off-theme avoid:** NKE/KMX (AMC/BMO today), GIS (BMO Wed; today already old), AVAV (defense, off niche), MU (sizing-fail).
+
+**3. POST-PCE SETUP TRIGGERS (5:35 AM PT onward, pre-bell + intraday):**
+- **PCE COOL (Core <3.3%):** market relief rally extension; AAPL trail buffer expands; AI/HBM tape extension. Setup candidates: (a) AAPL Counter-policy 1 add ONLY if 3-5% pullback to rising 20-DMA appears later in session (NOT a chase add); (b) NBIS re-evaluate if post-PCE clarity + clean basing emerges (still cautious vs RKLB pattern); (c) OKLO re-evaluate if $50-55 corridor appears with NRC headline.
+- **PCE HOT (Core >3.4%):** hawkish reprice; AAPL trail buffer compression — armed for trail GTC to fire; NO new entries; capital preservation mode. RKLB-style flush risk extends to broader tape.
+- **PCE IN-LINE (Core =3.3%):** muted reaction; default = hold, no entry, observe MU drift extension intraday.
+
+### Risk Factors
+- **PCE pre-bell 5:30 AM PT** = #1 macro risk of the day; sticky core has been the structural overhang.
+- **AAPL trail buffer 1.88%** = well below 3% no-touch line; any -1.88% gap to $285.66 fires trail GTC for ~+$2.76 disciplined exit. NDX +1.15% premarket should lift, but a hot PCE flip-flops the tape instantly.
+- **Hawkish Fed dot plot** structural (6 of 18 want no further cuts; September hike priced ~52%); PCE today reprices this in real time.
+- **MU post-print AI/HBM tape leadership** = today's positive, but extends valuation re-rate concerns medium-term.
+- **Iran-Hormuz peace deal fragility** — contradictory reports on closure; oil at 3.5-month low suggests markets discount risk but a single closure headline = oil spike + risk-off.
+- **NKE AMC** = consumer discretionary tape read (off-theme but tape mover).
+- **AVAV earnings** = defense-sector catalyst (no own position).
+- **GDP final revision 5:30 AM PT** = secondary print alongside PCE; usually noise-level.
+- **Daytrade count 0/5** — full slate preserved.
+- **Under-deployment streak Week 20** — alpha 8.96% vs 70-75%, niche 0% vs 25-30%. Counter-policies 1 & 2 scanned; no entry today is correct pre-PCE.
+- **Trades this week: 2 / 20** (Mon RKLB buy, Wed RKLB sell). 18 slots preserved.
+
+### Decision
+**HOLD AAPL. NO FRESH ENTRIES pre-PCE. DEFEND trail GTC at $285.66 ($5.47 / 1.88% buffer).** Post-PCE setup triggers staged for intraday execution if a clean post-print structure emerges (cool PCE + AAPL constructive pullback = Counter-policy 1 add candidate; NBIS basing 3+ sessions = niche re-eval candidate; OKLO NRC headline = niche re-eval candidate).
+
+Rationale: PCE 5:30 AM PT is THE macro binary of the week and prints BEFORE the bell — any pre-print entry would be a forced bet on the data. AAPL trail buffer at 1.88% is in the automatic-defense zone (broker GTC fires on any -1.88% gap). MU beat-and-raise confirms AI/HBM thesis = constructive for AAPL on the tape but does NOT create a Counter-policy 1 add trigger (no pullback structure). Niche screen ran exhaustively: ASTS structurally bearish (Sell rank), RKLB no re-entry into same fade mechanic, OKLO/AEHR no own catalyst pre-PCE, NBIS = NDX-fade duplicate of RKLB-just-cut. 91% cash = full dry powder reserved for post-PCE A+ structure.
+
+**Plan for market-open agent (Thu 6/25 6:30 AM PST):**
+1. **READ PCE PRINT at 5:30 AM PT** (pre-bell) — Core PCE YoY actual vs cons 3.3%. Classify: COOL/IN-LINE/HOT.
+2. **VERIFY AAPL trail GTC** post-open — $285.66 / HWM $317.40 / qty 3. Buffer 1.88% = razor-thin; any -1.88% intraday gap fires trail.
+3. **MONITOR AAPL intraday** — NDX +1.15% premarket should lift AAPL; if AAPL ticks to $295+ on the open, buffer expands toward 3%+ comfort zone. If gap-down on hot PCE, trail GTC executes automatically (~+$2.76 net realized = ~+0.32% disciplined exit).
+4. **POST-PCE TRIGGERS:**
+   - If COOL: watch for AAPL 3-5% pullback to rising 20-DMA (Counter-policy 1 add candidate, ≤10% sizing). Watch NBIS basing structure; OKLO NRC headline.
+   - If IN-LINE: HOLD, no entry, observe MU drift extension.
+   - If HOT: capital preservation; armed for trail-defense on AAPL; no entries.
+5. **NO ENTRIES pre-PCE under any circumstance.**
+6. **AVOID** NKE/KMX/GIS (off-theme), AVAV (defense off-niche), MU (sizing-fail), ASTS (bearish consensus), RKLB (no re-entry), NBIS (NDX-fade duplicate risk), megacaps non-AAPL (no catalyst).
+7. **AAPL HWM $317.40 / trail $285.66 / +15% tighten trigger $327.45** — far out of reach today absent catalyst rally.
+8. **Trades this week: 2 / 20** — 18 slots preserved.
+9. **Day trades 0/5 rolling** — preserve unless AAPL trail-defense fires.
+10. **Cash 91.04%** = full dry powder ready for post-PCE A+ structure entry (cool PCE + clean Counter-policy 1 setup is the highest-probability deployment trigger of the week).
+
+Bias: **DEFEND AAPL trail. WAIT FOR POST-PCE CLARITY. Take quality setup if Counter-policy 1 (AAPL pullback to rising 20-DMA + volume reclaim) appears in a cool-PCE relief tape.** Under-deployment Week 20 acknowledged — the floor exists to counter the dormancy pattern, NOT to chase pre-PCE. MU beat-and-raise is constructive tape catalyst but creates lift, not pullback structure (AAPL gaining ≠ pullback-add trigger). Wait for the data.
