@@ -4738,3 +4738,149 @@ Rationale: PCE 5:30 AM PT is THE macro binary of the week and prints BEFORE the 
 10. **Cash 91.04%** = full dry powder ready for post-PCE A+ structure entry (cool PCE + clean Counter-policy 1 setup is the highest-probability deployment trigger of the week).
 
 Bias: **DEFEND AAPL trail. WAIT FOR POST-PCE CLARITY. Take quality setup if Counter-policy 1 (AAPL pullback to rising 20-DMA + volume reclaim) appears in a cool-PCE relief tape.** Under-deployment Week 20 acknowledged — the floor exists to counter the dormancy pattern, NOT to chase pre-PCE. MU beat-and-raise is constructive tape catalyst but creates lift, not pullback structure (AAPL gaining ≠ pullback-add trigger). Wait for the data.
+
+## 2026-06-26 Fri Pre-Market Research (Week 10, Day 5 — book FLAT post-AAPL trail-out Thu / PCE in-line digested / hostile pre-bell tape / no entries gate-pass)
+
+### Account Snapshot (Fri 6/26 pre-bell)
+- **Equity:** $9,731.53 | **Last equity:** $9,731.53 (flat overnight — no positions to mark)
+- **Cash:** $9,731.53 (**100.00%** — most extreme dry-powder state of the run)
+- **Buying power:** $38,926.12 (4x margin, unused)
+- **Long market value:** $0 | Position MV: NONE
+- **Daytrade count:** 0/5 rolling — full slate preserved
+- **PDT:** false
+- **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline = worst phase read of run, locked-in by flat book
+
+### Sleeve Status
+- **Alpha sleeve:** $0 (0%) vs 70-75% target — **20th consecutive week under-deployed**, no positions held
+- **Niche sleeve:** $0 (0%) vs 25-30% target — **18-week dormancy locked-in** post RKLB Wed + AAPL Thu trail-exits
+- **Cash:** 100.00% — first time fully flat since pre-RKLB Week 9 dormancy
+
+### Open Positions
+NONE — book fully flat since Thu 6/25 AAPL trail-out @ $285.82 (+$3.24 / +0.38% realized). Broker `positions=[]` and `orders=[]` confirmed.
+
+### Market Context (Fri 6/26 pre-market)
+- **S&P 500 futures: ~7,378.75 (-44.50 / -0.60%)** — gives back portion of Thu MU-relief rip overnight; tape consolidating.
+- **Nasdaq-100 futures: ~29,331.75 (-393 / -1.32%)** = tech-led fade post-MU euphoria; AI-cap rerate question reasserts.
+- **VIX: ~20.26 (+7.25% vs Thu)** — opened 19.70, day high 20.32 = back ABOVE the 20 line; vol-risk premium expanding.
+- **WTI: ~$70.28/bbl** | **Brent: ~$76-78/bbl** — falling further (Iran-Hormuz 60-day MoU + sanctions waiver Aug 21 + $25B frozen-asset path = supply normalization tape; ~3.5-month low). Fragile (Iran shut/US denied conflicting reports 6/20; Trump-toll-threat lurks).
+- **10Y: 4.37%** (near 7-week low post-PCE) | **2Y: 4.10%** | spread +0.27% (normal) — benign curve reaction to in-line PCE.
+- **DXY: new 2026 highs Wed** on Fed hawkish dot plot — dollar strength reasserts; oil drag amplified.
+- **Today's calendar:**
+  - **5:30 AM PT (8:30 AM ET): May Advance Goods Trade Balance** (prior -$83.7B; today actual -$83.0B per release) — secondary; absorbs through.
+  - **5:30 AM PT: May Advance Wholesale/Retail Inventories** — secondary print, typically noise.
+  - **7:00 AM PT (10:00 AM ET): UMich Consumer Sentiment FINAL (June)** — prior 48.9; meaningful tape catalyst on confidence trajectory.
+  - **8:00 AM PT: Dallas Fed Trimmed Mean PCE (May)** — secondary inflation read.
+  - **Goolsbee speech mid-day** — Fed jawbone risk both ways.
+  - **BMO earnings:** DRI, SNX, AYI, CMC, WGO, NNOX, APOG, MKC — all consumer/industrial; off-theme.
+- **Fed structural context (post-FOMC 6/17):** Held 3.50-3.75% unanimous. Dot plot REMOVED 2026 cuts; **9 of 19 expect ≥1 hike** by year-end; median 3.8% YE. **Markets price hike by October**, some Sep prob. PCE in-line yesterday DID NOT cool the hawkish path.
+
+### PCE Result (Thu 6/25, pre-bell) — KEY READ
+- **Headline PCE MoM: +0.4%** — matches consensus and April. IN-LINE.
+- **Core PCE MoM: +0.3%** — matches consensus. IN-LINE.
+- **Core PCE YoY: ~3.3%** (sticky, multi-month high since Oct 2023 per supporting data) — sticky, no relief.
+- **Personal Income MoM: +0.7%** vs cons 0.0% — **HOT** consumer strength = sticky inflation supportive.
+- **Personal Spending MoM: +0.7%** vs cons 0.4% — **HOT** consumer demand intact.
+- **Tape implication:** PCE in-line = neither relief nor panic — but income/spending HOT keeps Fed-hike narrative ALIVE. Thu rally was MU-driven, not PCE-driven; Fri gives back portion as macro digestion drags.
+
+### This Week's Earnings Recap (closing)
+| Date | Ticker | Timing | Outcome / Our Stance |
+|------|--------|--------|---------------------|
+| Tue 6/23 | FDX | AMC | BEAT; off-theme; no fit. |
+| Wed 6/24 | **MU** | **AMC** | **BEAT-AND-RAISE: EPS $2.51 / rev $41.46B / Q4 guide $42-44B**. Sizing-fail (1 sh ~$1,165 = 12% equity). Tape proxy for AI-memory. TD Cowen PT $1,500. |
+| Thu 6/25 | NKE | AMC | Consumer-discretionary; off-theme. SKIP. |
+| Thu 6/25 | KMX, GIS | BMO | Off-theme. SKIP. |
+| Fri 6/26 | DRI/SNX/AYI/CMC/WGO/APOG/MKC | BMO | All consumer/industrial; **off-theme; SKIP**. |
+
+### Tech/Semi Watchlist (Fri 6/26 pre-bell single-venue stale quotes — wide spreads)
+| Ticker | Bid/Ask | Setup | Note |
+|--------|---------|-------|------|
+| **AAPL** | $0.01 / $275.29 | EXITED Thu trail-fill +0.38% | Single-venue stale display; bid display is broken. No re-entry today (no own catalyst, no clean pullback to rising 20-DMA structure with broken position). |
+| **MU** | $1,150 / $1,274 | POST-PRINT EXTENSION | Sizing-fail (1 sh ~$1,150 = 11.8% equity, niche cap 12% no margin); no entry. Tape proxy for AI memory. |
+| NVDA | $195.83 / — | NEUTRAL | Single-venue stale; broken ask display. No own catalyst. SKIP. |
+| AMD | $495 / $551 | NEUTRAL | Wide stale spread. No own catalyst. SKIP. |
+| AVGO | $359 / $398 | NEUTRAL | Wide stale spread. No own catalyst. SKIP. |
+| MRVL | $264 / $295 | NEUTRAL | Wide stale spread. No own catalyst. SKIP. |
+| TSM | $379 / $499 | NEUTRAL | Huge stale spread. No own catalyst. SKIP. |
+| INTC | $124 / $139 | NEUTRAL | No own catalyst. SKIP. |
+| QCOM | $194 / $217 | NEUTRAL | No own catalyst. SKIP. |
+| ARM | $296 / $397 | EXTENDED | No own catalyst. SKIP. |
+
+### Niche Radar (Counter-policy 2 MANDATORY scan)
+Pre-filter cutoff at equity $9,731.53 × 0.10 / 6 = **~$162** (10% niche cap, ≥6 share lots).
+
+| Ticker | Price (Bid/Ask) | Sized? | Classification | Key Catalyst | EPS Trend | Analyst | Action |
+|--------|-----------------|--------|----------------|--------------|-----------|---------|--------|
+| **ASTS** | $62.42 / $69.48 | ✅ ($65 < $162) | **AVOID — bearish consensus extends** | Post-BB8-10 launch fade extended; Deutsche Buy→Hold $106, New Street Neutral $80, Zacks Sell #4; -76% from May ATH $272. | Q1 miss; thesis questioned | Consensus Sell | **NO ENTRY** — gate-a $83-reclaim still deeply failing at ~$66 midpoint. Structurally broken momentum. |
+| **RKLB** | $84.76 / $84.94 | ✅ (8.7% niche if 10 sh) | **POST-EXIT FADE PERSISTS** | NDX-inclusion fade extends -7% LOWER than our Wed trail-exit $91.34 (now ~$85). Validates exit. KeyBanc OW $135 / Stifel $150 PT thesis still intact mid-term. | Last beat | Avg PT $107 high $150 | **NO RE-ENTRY** — same mechanic still working downward; would re-enter only on clean basing (3+ sessions stable above $90) with volume reclaim. Currently distributing, not basing. |
+| **OKLO** | — / $44.16 | ✅ ($44 < $162) | **WATCH — sub-corridor without catalyst** | Pre-revenue till 2027. Meta 1.2GW prepay, NVDA/LANL, NRC progress. SI 16.45%. PCE-tape sensitive. | Pre-revenue | UBS $55, Wedbush ~$60 | **NO ENTRY** — sub-$50 corridor cheaper but no own catalyst pre-NRC headline; speculation stack vulnerable to hawkish-dollar / Fed-hike continuation. Watch only for NRC license cadence (~July 4 criticality T+8). |
+| **AEHR** | $84.56 / $111.42 | ✅ ($90 mid < $162) | **WATCH — stale quote** | Bookings $37.2M / book-to-bill 3.5x. FY26 guide $45-50M. Q4 ~July print pending. | Q3 beat | PTs $21-29 stale | **NO ENTRY** — stale single-venue display, wide $27 spread. Await Q4 print or fresh analyst rerate. |
+| **NBIS** | $218.32 / — | ✅ at lower end (3 sh @ $218 = $654 = 6.7% niche) | **POST-NDX FADE — caution** | NDX inclusion 6/22 (same setup as RKLB just cut); $27B Meta deal, Eigen-AI close. ARR guide $7-9B EOY. 87.5% Buy. | Strong growth | Cons PT $203, GS $267 | **NO ENTRY at open** — RKLB post-NDX fade just cost us -$96/-10.45%; identical mechanic. Need 3+ sessions clean basing + volume reclaim + post-PCE/post-tape macro clarity. |
+
+**Other niche scans:**
+- **No FDA PDUFA today** with size-feasible names. Truqap PDUFA 6/30 T+4 = next catalyst.
+- **Small-cap breakouts:** none with own catalyst + sub-$162 entry meeting 2.5:1 R:R pre-weekend.
+- **Post-earnings drift:** MU still sizing-fail. NKE post-AMC Thu = consumer drift (off-theme even if green).
+- **Off-theme avoid:** DRI/SNX/AYI/CMC/WGO/APOG/MKC (all BMO today, none AI/semi/space).
+
+### Macro & Geopolitical Scan (Fri 6/26)
+- **Fed:** Held 3.50-3.75% unanimous 6/17. **Dot plot: hike priced for October**, 9/19 want ≥1 hike. **Sep also has prob**. PCE-in-line + HOT income/spending = no Fed cool-off. **HIGH IMPACT — structural** (dollar at 2026 highs amplifies the path).
+- **Inflation:** Core CPI 2.9% YoY May (3yr high), Core PCE 3.3% YoY May (sticky). Energy +23.5% YoY drives headline. **HIGH IMPACT — sticky inflation remains the Fed-hike justification**.
+- **Jobs/Income:** Personal income/spending HOT (+0.7%/+0.7%) — consumer demand intact, supports sticky inflation. **MEDIUM-HIGH IMPACT.**
+- **Yields:** 10Y 4.37% near 7-week low post-PCE digestion; 2Y 4.10%; spread +0.27% normal. **LOW IMPACT today** (curve absorbed PCE).
+- **Iran-Hormuz:** **Preliminary 60-day MoU** signed 6/19 Geneva; sanctions waived Aug 21; sanctions/asset path negotiated; reopening Hormuz in stages (30-day blockade lift). **Iran 6/20 closure announcement vs US denial = fragile**. Trump-toll-threat lurks. Net tape effect: WTI sub-$70 = supply relief. **MEDIUM WATCH — improvement priced; closure-headline gap-risk lurks**.
+- **US-China trade:** Q3 earnings-preview window opens July 15 — semi-export-restriction read-through pending. **LOW PRICED-IN today**.
+- **Russia-Ukraine:** No new flare-up. **LOW**.
+- **Fiscal:** No active debt-ceiling/spending-bill catalyst today. **LOW**.
+
+### Trade Ideas (Fri 6/26 6:30 AM PST)
+
+**1. NO ENTRIES at the open. Book stays FLAT.**
+- Pre-bell tape hostile (S&P futs -0.60%, NDX -1.32%, VIX 20.26 +7.25%); macro digestion post MU-rip + PCE in-line + income/spending HOT + Fed-hike still priced for Oct.
+- **Alpha:** AAPL exited Thu @ $285.82 (+0.38% realized) — no re-entry; no own catalyst, single-venue stale display, broken HWM tracking. Counter-policy 1 add gate requires a held position with constructive pullback to rising 20-DMA — N/A (book flat).
+- **Semis:** All wide-stale single-venue quotes pre-bell; all post-MU-extension chase risk; no own catalysts; all fail the no-chase gate into hostile tape.
+- **Niche:** ASTS structurally bearish (Sell consensus); RKLB no re-entry into still-falling fade; OKLO sub-corridor with no own catalyst; AEHR stale spread; NBIS = NDX-fade duplicate of RKLB-just-cut.
+- **Off-theme avoid:** DRI/SNX/AYI/CMC/WGO/APOG/MKC (today BMO consumer/industrial), NKE (Thu AMC drift, off-theme), MU (sizing-fail).
+
+**2. POST-OPEN INTRADAY TRIGGERS (re-evaluate via market-open routine):**
+- **Constructive case:** If NDX reclaims +0.5% intraday on UMich beat + Goolsbee dovish + relief tape extension, **NBIS basing watch** (need 3+ sessions stable above $220) or **OKLO corridor entry** (need NRC headline OR clean $50+ reclaim on volume). Both still require own-catalyst + R:R 2.5:1 documented.
+- **Hostile case:** Continuation of -1%+ tape on hot UMich + Goolsbee hawkish + dollar extension = no entries; capital preservation continues. RKLB-style flush risk extends to NBIS/ASTS.
+- **In-line case:** Default = hold cash, observe MU drift extension, end-of-week posture preservation into weekend.
+
+**3. POST-EXIT POSITION POSTURE: 100% cash, all gates re-validated**
+- The two-week defense framework (RKLB trail Wed -10.45%, AAPL trail Thu +0.38%) closed the run's most concentrated risk; the book is now structurally flat with zero exposure to overnight gap-risk into weekend.
+- **Friday end-of-week stance: DEFEND-CASH** preferred unless an A+ structure clears EVERY gate (clean own catalyst, clean spread, sub-pre-filter price, 2.5:1 R:R documented, no-chase gate clear).
+
+### Risk Factors
+- **Hostile pre-bell tape** = primary entry-veto (S&P futs -0.60%, NDX -1.32%, VIX 20.26 +7.25%).
+- **Fed hawkish dot plot** structural overhang — hike priced for October; dollar at 2026 highs; sticky core inflation.
+- **HOT income/spending (+0.7%/+0.7%)** = consumer strength supports sticky inflation, keeps Fed-hike narrative alive.
+- **UMich Consumer Sentiment FINAL 7:00 AM PT** = today's primary tape catalyst — beat vs miss vs in-line drives single-name vol.
+- **Goolsbee speech mid-day** = Fed jawbone risk both ways; hawkish leans hike-cycle; dovish relieves AI/tech.
+- **Iran-Hormuz fragility** — MoU 60-day window holding but conflicting reports + Trump-toll-threat = headline gap-risk overnight into weekend.
+- **Pre-weekend overnight gap-risk** — flat book eliminates this entirely; entering Friday afternoon adds Mon-gap exposure.
+- **Under-deployment streak Week 20** — alpha 0%, niche 0%, cash 100% = most extreme dry-powder state of run. Counter-policies 1 & 2 scanned; no entry today is correct per gates.
+- **Daytrade count 0/5** — full slate preserved.
+- **Trades this week: 3 / 20** (Mon RKLB buy, Wed RKLB trail-sell, Thu AAPL trail-sell). 17 slots preserved.
+
+### Decision
+**HOLD 100% CASH. NO FRESH ENTRIES at the open.** Book stays FLAT into the close + weekend gap-risk window. Capital preservation through Friday end-of-week + Iran-MoU-60-day re-evaluation period.
+
+Rationale: Pre-bell tape is hostile (S&P futs -0.60% / NDX -1.32% / VIX 20.26 +7.25%); Thu MU-relief rally fading overnight as PCE in-line + HOT income/spending + Fed-hike-priced-Oct combine into a "no relief, hawkish-bias-intact" macro read. AAPL trail-exit Thu +0.38% disciplined and clean (55-session post-WWDC PEAD held to forward green at exit). RKLB experiment closed -10.45% Wed via trail GTC = niche-thesis correctness on entry + correct discipline on exit. Niche radar exhaustively scanned: ASTS structurally bearish (Sell consensus / -76% from ATH), RKLB still distributing (-7% below our exit), OKLO sub-corridor no own catalyst, AEHR stale, NBIS = identical NDX-fade duplicate just cut on RKLB. All semi/AI names wide-stale and chase-risk. Off-theme earnings (DRI/SNX/AYI/CMC/WGO/APOG/MKC) provide no entry path. The under-deployment floor was designed to counter dormancy when quality setups exist — Friday pre-weekend in hostile tape with no own catalyst = quality setup does NOT exist; flat-cash is correct. Weekend gap-risk to Iran/Hormuz, China-trade, surprise PMI data, etc. = additional vol cost; staying flat eliminates this entirely.
+
+**Plan for market-open agent (Fri 6/26 6:30 AM PST):**
+1. **VERIFY positions=[], orders=[]** at open. Confirm 100% cash $9,731.53.
+2. **NO ENTRIES at the open** — pre-bell tape hostile; no own catalyst on any tracked name; weekend gap-risk binary.
+3. **MONITOR UMich Consumer Sentiment FINAL** at 7:00 AM PT — beat = relief tape; miss = fade extension.
+4. **MONITOR Goolsbee speech** — Fed jawbone bias direction.
+5. **POST-PRINT TRIGGERS for potential intraday A+ entry** (must clear EVERY gate; default is HOLD CASH):
+   - Clean own-name catalyst (not just tape rally).
+   - Spread tight on tape-active venue (not single-venue stale).
+   - Sized within pre-filter (~$162 niche cap).
+   - 2.5:1 R:R documented for niche / 1.2:1 alpha minimum.
+   - No-chase: NOT within 3% of session HOD, NOT extended past last 5-day rising envelope.
+6. **AVOID** all consumer/industrial BMO (DRI/SNX/AYI/CMC/WGO/APOG/MKC), NKE post-AMC drift, MU (sizing-fail), ASTS (Sell consensus), RKLB (no re-entry into still-falling fade), NBIS (NDX-fade duplicate), megacaps no own catalyst.
+7. **Trades this week: 3 / 20** — 17 slots preserved.
+8. **Day trades 0/5 rolling** — preserve full slate.
+9. **Cash 100.00%** = full dry powder. Pre-weekend stance: capital preservation preferred over forced deployment.
+
+Bias: **DEFEND-CASH through Friday close. WAIT FOR MONDAY'S PRE-MARKET RE-EVAL POST-WEEKEND IRAN/HORMUZ + UMICH DIGESTION.** Under-deployment Week 20 acknowledged — the floor exists to counter dormancy pattern with quality setups, NOT to force entries into hostile pre-weekend tape with zero own-name catalysts. Aggressive bias intact for next week if Mon pre-market shows constructive tape clarity + clean catalyst structure on any tracked name (Truqap PDUFA 6/30 T+4 = next own-catalyst event).
