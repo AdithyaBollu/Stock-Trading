@@ -128,10 +128,12 @@ Every pre-market routine must surface companies reporting earnings this week and
 - Friday: full weekly review — grade the week, adjust strategy if 2+ weeks of evidence
 - Ongoing: tighten stops on winners per the schedule above
 
-## Deployment & Niche Activation Policy (added 2026-05-22, Week 5 review)
+## Deployment & Niche Activation Policy (added 2026-05-22, Week 5 review; Week 10 6/26 re-anchored to operational reality)
 Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target with an empty niche sleeve. The held book worked every week, but the cash drag was the primary driver of benchmark underperformance in up-weeks. The no-chase gate is correct and stays; the fix is broadening *how* capital gets deployed, not lowering the quality bar.
 
-### Counter-policy 1 — Core-winner add path
+### Counter-policy 1 — Core-winner add path  [INOPERATIVE — pending routine-level wiring; preserved for record per Week 10 review]
+*Status (2026-06-26, Week 10 review):* Six consecutive review cycles (Weeks 5–10) flagged this policy's routine-wiring as the top deployment priority and produced **zero implementation across all six cycles**. The policy text below is preserved for the record but is no longer treated as an active deployment driver. Per the Week 9 explicit commitment, this policy is marked INOPERATIVE this review. Re-activation requires the corresponding checklist line landing in `.claude/commands/pre-market.md` AND `.claude/commands/midday.md`. Until that wiring lands, deployment via this path is not expected and is not used as a Friday review grading dimension.
+
 - A proven in-book alpha winner (currently green from entry, thesis intact, drift extending) OR a mega-cap sector leader in a confirmed uptrend may be added **without requiring a fresh earnings catalyst**.
 - Entry trigger: a normal 3–5% pullback to a **rising 20-DMA** with a **volume reclaim** off that level.
 - Sizing: ≤10% of equity per add; combined position must still respect the 15% per-alpha-position cap.
@@ -141,10 +143,14 @@ Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target wi
 
 ### Counter-policy 2 — Mandatory niche screen
 - The pre-market routine MUST produce an explicit niche-candidate list **every session**: core watchlist (ASTS, RKLB, OKLO, AEHR, NBIS), FDA calendar, small-cap breakout scan, mid-cap post-earnings drift.
-- **Step 0 (sizing pre-filter, added 2026-06-12 Week 8 review):** skip any candidate whose share-price exceeds `equity × 0.10 / 6` (so that ≥6-share lots are feasible at the niche 10% sizing cap). At current equity ~$9,845 the cutoff is ~$164. Re-evaluate sized-out names (CRWD, MSTR, $300+ tickers) only when equity grows enough to make them feasible — do not re-burn screen budget on the same arithmetic each week.
+- **Step 0 (sizing pre-filter, added 2026-06-12 Week 8 review):** skip any candidate whose share-price exceeds `equity × 0.10 / 6` (so that ≥6-share lots are feasible at the niche 10% sizing cap). At current equity ~$9,732 the cutoff is ~$162. Re-evaluate sized-out names (CRWD, MSTR, $300+ tickers) only when equity grows enough to make them feasible — do not re-burn screen budget on the same arithmetic each week.
 - At least one screened candidate (post-pre-filter) must be logged with a take/skip reason — "no idea cleared" is only acceptable output AFTER the full screen has demonstrably run.
 - Niche entries still require the 2.5:1 R:R thesis + -10% hard stop + ≤12% sizing.
 - Deep research (7-point checklist) required for any new niche name before first entry.
+- **Tight-buffer manual-cut pre-placement (added 2026-06-26 Week 10 review):** when an open niche position closes the prior session with (a) trail buffer <3% (inside the no-touch line) AND (b) within 1% of the -7% manual-cut line, the next-session pre-market routine must pre-place a manual stop-loss order at the -7% manual-cut line. The pre-placed manual cut + the trail GTC co-exist; whichever fires first executes. This captures the cost advantage of manual cut vs trail gap-through on thin pre-mkt liquidity (RKLB 6/24 gap-through cost +0.05R / ~$1.62 extra slippage on a 9-sh / 1.0R-planned stop).
 
-### Deployment floor (soft target, not a forced-trade mandate)
-- Target lifting alpha deployment toward 40%+ on the first qualifying core-add or A+ setup. This is a bias to act on quality, NOT a license to chase to hit a number — under-deployment is still preferable to a forced bad entry. The floor exists to counter the proven under-deployment pattern, not to override the no-chase gate.
+### Operational Deployment Ceiling (re-anchored 2026-06-26 Week 10 review)
+- **Operational ceiling: 20–30% combined sleeve deployment** is the realistic phase-average operating range under the current entry-gate framework. Six weeks of routine-wiring failure on Counter-policy 1 + 18 weeks of niche-screen dormancy ending in a -10% structural loss confirms that ≤30% deployment is the durable operational regime, not a deviation to close every week.
+- **Aspirational ceiling: 65–75% alpha + 25–30% niche** remains in the strategy as the long-run target IF Counter-policy 1 lands in the daily routines AND the niche screen produces sustained conversions. Treat any week running >40% deployed as a positive deviation, not as catch-up to the aspirational ceiling.
+- **Soft deployment floor:** lift sleeve deployment on the first qualifying A+ setup that clears the standard Sleeve 1 entry checklist (catalyst + sector momentum + R:R + sizing + stop) OR the standard Sleeve 2 niche checklist (7-point research + 2.5:1 R:R + corridor entry + hard stop). This is a bias to act on quality, NOT a license to chase to hit a number. Under-deployment is still preferable to a forced bad entry — the operational ceiling exists to acknowledge the structural pattern, not to override the no-chase gate.
+- **Re-evaluation cadence:** the operational ceiling will be re-evaluated end of Week 13 (post Q3 earnings season opening, ~mid-July). If Q3 earnings drive 1–2 clean PEAD entries that lift deployment to 40%+ via standard checklists, the aspirational ceiling becomes operationally achievable. If Q3 earnings season also fails to deploy meaningful capital, the benchmark mandate itself needs re-thinking (explicit cash-yield deployment for the idle 70%+).
