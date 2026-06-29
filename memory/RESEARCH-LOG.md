@@ -4884,3 +4884,164 @@ Rationale: Pre-bell tape is hostile (S&P futs -0.60% / NDX -1.32% / VIX 20.26 +7
 9. **Cash 100.00%** = full dry powder. Pre-weekend stance: capital preservation preferred over forced deployment.
 
 Bias: **DEFEND-CASH through Friday close. WAIT FOR MONDAY'S PRE-MARKET RE-EVAL POST-WEEKEND IRAN/HORMUZ + UMICH DIGESTION.** Under-deployment Week 20 acknowledged — the floor exists to counter dormancy pattern with quality setups, NOT to force entries into hostile pre-weekend tape with zero own-name catalysts. Aggressive bias intact for next week if Mon pre-market shows constructive tape clarity + clean catalyst structure on any tracked name (Truqap PDUFA 6/30 T+4 = next own-catalyst event).
+
+## 2026-06-29 Mon Pre-Market Research (Week 11, Day 1 — post-weekend US-Iran strike/CEASEFIRE / book FLAT entering / holiday-shortened wk / Truqap PDUFA Tue 6/30 T-1)
+
+### Account Snapshot (Mon 6/29 pre-bell per Alpaca)
+- **Equity:** $9,731.53 | **Last equity:** $9,731.53 (flat overnight — no positions)
+- **Cash:** $9,731.53 (**100.00%** — Week 20 dry-powder, preserved through hostile late-Jun selloff)
+- **Buying power:** $38,926.12 (4x margin, unused) | Long MV: $0
+- **Daytrade count:** 0/5 rolling — full slate preserved
+- **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline — locked in by flat book; matches Fri 6/26 close mark
+
+### Sleeve Status
+- **Alpha sleeve:** $0 (0%) vs 70-75% — **21st consecutive week under-deployed**, all-cash entering Week 11
+- **Niche sleeve:** $0 (0%) vs 25-30% — **dormancy continues** post RKLB-Wed / AAPL-Thu trail-exits
+- **Cash:** 100.00% — survived the weekend Iran-strike gap-risk fully insulated; opens Mon with full optionality
+
+### Open Positions
+NONE — book flat since 6/25 AAPL trail-out. Broker `positions=[]` `orders=[]` confirmed pre-bell.
+
+### Market Context (Mon 6/29 pre-bell)
+- **S&P 500 futures: ~7,455-7,459 (+0.5-0.8%)** — relief rally on US-Iran ceasefire reports overnight; partially recovers Fri's -0.6% giveback. NDX futs +0.6-1.0% (~29,666).
+- **VIX: ~18.40 (-9.2% vs Fri 20.26)** — vol crushed on ceasefire; back below the 20 line.
+- **WTI: ~$70.50/bbl (+1.1%)** | **Brent: ~$72-74/bbl (+0.8%)** — oil firms modestly on lingering supply-risk read but well below pre-strike spike; the 60-day MoU + sanctions waiver Aug 21 path still controls the medium-term tape.
+- **DXY:** Holding 2026 highs from FOMC hawkish dot — dollar strength persists.
+- **10Y: ~4.37%** (near 7-week low post-PCE) | **2Y: ~4.10%**.
+- **Weekend headline cycle (CRITICAL):** US launched strikes on Iranian military targets over the weekend after Tehran-attributed activity along Strait of Hormuz; **US-Iran agreement brokered to halt tit-for-tat attacks** is the Mon pre-bell catalyst lifting risk-on. Trump warned "may militarily complete the job" if Iran re-attacks = political backdrop unstable. Last week: S&P -2%, Nasdaq -4.6%, **NVDA/GOOGL -8% each**, AAPL/META/AMZN -4%+, SPCX -17%.
+- **Today's calendar:**
+  - **9:30 AM ET / 6:30 AM PT: Dallas Fed Manufacturing** (prior +0.4) — low-impact, concurrent with cash open.
+  - **BMO earnings:** DRI/SNX/AYI/CMC/WGO/NNOX — all off-theme consumer/industrial. SKIP.
+- **JPMorgan raised 2026 S&P target to 7,800** (from 7,200), implying ~+5% upside under "Blue Sky" scenario per CNBC wrap.
+
+### This Week's Earnings & Macro Calendar (HOLIDAY-SHORTENED: Fri 7/3 NYSE CLOSED for Independence Day)
+| Day | Time (PT) | Event | Stance |
+|-----|-----------|-------|--------|
+| Mon 6/29 | 6:30 AM | Dallas Fed Manufacturing | Low |
+| Mon 6/29 | BMO | DRI/SNX/AYI/CMC/WGO/NNOX | All off-theme — pass |
+| **Tue 6/30** | **All day** | **Truqap PDUFA (AZN)** | **T-0 own-catalyst niche scan reactivates** — AZN-sized = not niche-fit, but read-through for biotech tape. |
+| Tue 6/30 | 6:00 AM | Case-Shiller Home Price | Low |
+| Tue 6/30 | 6:45 AM | Chicago PMI | Watch |
+| Tue 6/30 | 7:00 AM | Conference Board Consumer Confidence + JOLTS | Labor demand check |
+| Tue 6/30 | AMC | **NKE, STZ** | NKE consumer apparel; STZ consumer staples — both off-theme. SKIP. |
+| Wed 7/1 | 5:15 AM | **ADP Employment** (NFP preview) | Pivot risk |
+| Wed 7/1 | 7:00 AM | **ISM Manufacturing PMI** (cons 53.7) | Macro pivot risk |
+| Wed 7/1 | AMC | GIS/FDS/MSM/UNF/FIZZ | Off-theme — pass |
+| **Thu 7/2** | **5:30 AM** | **June NFP (cons +114K, unemp 4.3%)** | **PRIMARY MACRO BINARY of the week** |
+| Thu 7/2 | 5:30 AM | Initial Jobless Claims | Concurrent with NFP |
+| Thu 7/2 | 7:00 AM | Factory Orders | Low |
+| Fri 7/3 | — | **MARKET CLOSED — Independence Day** | — |
+
+**No major S&P 500 earnings names this week** — alpha-watchlist earnings calendar empty. Truqap PDUFA Tue is the lone own-catalyst event but AZN sizing fails niche-fit.
+
+### Tech/Semi Watchlist (Fri 6/26 close bid marks — pre-market quotes not yet tight)
+| Ticker | Fri Close Bid | Note | Setup |
+|--------|--------------|------|-------|
+| **AAPL** | $282.52 | Exited Thu 6/25 trail @ $285.82 (+0.38%). Now -1.16% below our exit; -10% from June 11 ATH $315 | OVERSOLD — mean-reversion candidate IF reclaims $290 on volume + held 3+ sessions; NO chase the gap-up open. |
+| MSFT | $373.96 | Most resilient megacap last week | NEUTRAL — no own catalyst |
+| GOOGL | $318.25 | -12% from June 2 exit $361; $80B capex/dilution overhang persists | AVOID — broken thesis active |
+| META | $526.47 | -4% last week on risk-off | NEUTRAL |
+| AMZN | $220.29 | Off highs, holding range | NEUTRAL |
+| **NVDA** | $192.36 | **-8% last week**; AI-semi leader washed | OVERSOLD — mean-reversion candidate IF reclaims $200 on volume; NO chase the gap. |
+| AMD | $493.76 | Off highs | NEUTRAL |
+| AVGO | $366.53 | **-19% from June 3 ($453)**; AVGO post-print drift now broken | AVOID until trend repair |
+| MRVL | $249.59 | Down with semis | NEUTRAL |
+| TSM | $373.14 | Down with semis | NEUTRAL |
+| MU | $1,083.83 | Beat-and-raise last Wed; sizing-fail still | TAPE PROXY only |
+| QCOM | $179.65 | Range-bound | NEUTRAL |
+| ARM | $287.24 | Down with semis | NEUTRAL |
+| INTC | $122.34 | Holding higher levels vs March | NEUTRAL |
+| SMCI | $28.79 | Beaten down | WEAK — avoid |
+| CSCO | $108.36 | -15% from June 3 $127; sub our prior -7% line | AVOID — broken |
+
+### Niche Radar (Counter-policy 2 mandatory scan)
+Pre-filter: equity $9,731.53 × 10% / 6 shares = **~$162 cap per share** for niche fit (10% sizing, ≥6 share lots ideal).
+
+| Ticker | Fri Close Bid | Sized? | Class | Catalyst | Action |
+|--------|--------------|--------|-------|----------|--------|
+| **ASTS** | $68.42 | ✅ ($68 < $162) | **AVOID — Sell consensus, -76% from May ATH** | Post-BB8-10 launch fade extended; Deutsche Buy→Hold $106, NewSt Neutral $80, Zacks Sell #4. Structurally broken. | NO ENTRY |
+| **RKLB** | $78.77 | ✅ (~9% niche if 11 sh) | **POST-EXIT FADE PERSISTS** | Down further from our 6/24 trail @ $91.34 (now -14% below). NDX-inclusion fade still distributing. KeyBanc OW $135 / Stifel $150 PT intact mid-term. | NO RE-ENTRY into still-falling fade. Needs 3+ sessions basing above $85 + volume reclaim. |
+| **OKLO** | $43.65 | ✅ ($43 < $162) | **WATCH** | Pre-revenue till 2027; Meta 1.2GW prepay + NRC criticality T+8 (~July 4) | Hold for NRC headline. No chase pre-PDUFA week. |
+| **AEHR** | $77.79 | ✅ ($77 < $162) | **WATCH** | Q4 print ~July pending | Await fresh data; stale spread display. |
+| **NBIS** | $205.11 | ✅ (~6% niche if 3 sh) | **POST-NDX FADE — caution** | NDX inclusion 6/22 = same setup as RKLB-just-cut. ARR guide $7-9B EOY. | NO ENTRY at open — identical NDX-fade mechanic still active. Needs 3+ sessions basing + volume reclaim. |
+
+**Other scans:** No FDA size-fit name today; **Truqap PDUFA Tue 6/30 = AZN-sized (sizing-fail)** but biotech-tape read-through. Small-cap breakouts: none with own catalyst sub-$162 + 2.5:1 R:R clearing. Post-earnings drift: MU sizing-fail; NKE off-theme. Off-theme BMO: DRI/SNX/AYI/CMC/WGO/NNOX all pass.
+
+**Net niche output: zero ready-to-fire today.** Mandatory screen ran; documented skip-reasons per name.
+
+### Macro & Geopolitical Scan (Mon 6/29)
+- **Fed:** Held 3.50-3.75% unanimous 6/17. **Dot plot: hike priced for October**, 9/19 want ≥1 hike; markets pricing potential Sept hike post-Warsh hawkish signal. PCE in-line + HOT income/spending Thu kept hawkish path. **HIGH IMPACT — structural.**
+- **Inflation:** Core PCE 3.3% YoY (sticky 3-year high). Energy +23.5% YoY drives headline; cooling here would relieve. **HIGH IMPACT.**
+- **Jobs/Income:** Personal income/spending +0.7%/+0.7% HOT supports sticky inflation. **NFP Thu 7/2 = primary readout.**
+- **Iran-Hormuz:** **US strike weekend → ceasefire BROKERED** (Mon pre-bell catalyst). Trump warned of "completing the job" if Iran re-attacks = unstable political backdrop. Net tape effect today: relief bounce; oil retreats to ~$70 WTI. **MEDIUM-HIGH WATCH — ceasefire holds = priced; any re-escalation = gap-down risk.**
+- **US-China trade:** Q3 preview window opens July 15 — semi-export-restriction read pending. **LOW PRICED-IN.**
+- **Russia-Ukraine:** No flare-up. **LOW.**
+- **Fiscal:** No active catalyst today. **LOW.**
+
+### Sector Momentum (YTD 2026)
+- **Energy +23.3% / Materials +17.4% / Consumer Staples +15.6% / Industrials +14.1%** = defensive/cyclical leadership
+- **Healthcare** standout day-1 strength (+3.06% last week per CNBC) on the haven bid
+- **IT -3.3% / Discretionary -3.8% / Financials -6.9%** — lagging quadrant
+- **Tech leadership QUESTIONED:** AI capex payoff timing under scrutiny, hyperscaler exposure being trimmed by institutional desks per CNBC wrap.
+
+### Trade Ideas (Mon 6/29 6:30 AM PST)
+
+**1. NO ENTRIES at the open. Book stays FLAT (continuation of Fri stance).**
+- Mon pre-bell gap-up is a CEASEFIRE-headline-driven RELIEF BOUNCE, not a setup. Chase risk at the open print + no own-name catalyst + Fed-hike still priced for Oct + holiday-shortened week + Thu NFP binary = unfavorable risk-reward on fresh deployment.
+- **Alpha:** Counter-policy 1 add gate requires HELD position with rising-20-DMA pullback — N/A (book flat).
+- **Megacaps:** No own catalyst today; relief bounce ≠ A+ setup; semis at the gap = chase territory.
+- **Niche:** ASTS structurally bearish (Sell consensus, -76% from ATH); RKLB still distributing (-14% below our exit); OKLO sub-corridor no own catalyst (NRC headline pending ~7/4 T+5); AEHR stale display; NBIS = NDX-fade duplicate of RKLB-just-cut.
+- **Off-theme avoid:** DRI/SNX/AYI/CMC/WGO/NNOX (today BMO), NKE/STZ (Tue AMC), GIS/FDS/MSM/UNF (Wed AMC) — all off the alpha/niche theme.
+
+**2. POST-OPEN INTRADAY TRIGGERS (re-evaluated via market-open routine):**
+- **Constructive case:** If S&P holds +0.5%+ into midday on ceasefire bid extension + Dallas Fed in-line + Iran-headline-quiet, **WATCHLIST trip-lines** for Tue-Wed staged entries:
+  - **AAPL** reclaim of $290 on volume + 1+ session base = alpha mean-reversion (10% event-week cap = ~$970 = 3 sh ~$870)
+  - **NVDA** reclaim of $200 on volume + 1+ session base = alpha mean-reversion (~$970 = 5 sh ~$1,000; sizing-edge given event-week cap)
+  - **MSFT/META/AMZN** clean pullback to rising-20-DMA + volume reclaim = staged fresh-entry alpha (no current position, so functions as fresh entry)
+  - **NBIS/RKLB** 3+ sessions clean basing + volume reclaim above prior trail line = niche re-entry
+  - **OKLO** NRC headline OR clean $50 reclaim on volume = niche entry candidate
+- **Hostile case:** Gap-up fades back to flat/red into midday on hawkish-Fed-grip resumption or Iran-re-escalation = no entries; flat-cash continues.
+- **In-line case:** Default = hold cash, observe tape post-Dallas-Fed; defer entries to Tue/Wed post-data clarity.
+
+**3. POST-EXIT POSTURE: 100% cash, Week 11 Day 1 entry**
+- The two-week defense framework (RKLB 6/24, AAPL 6/25) closed the run's concentration risk; the book opens Mon flat with zero overnight gap exposure to US-Iran-strike weekend. **The discipline saved capital on the way down; the question now is how to stage deployment back.**
+- **Mon-Tue stance: OBSERVE + STAGE-PLAN** for Wed-Thu post-NFP deployment window. The pre-market routine designs the deployment framework; the market-open agent executes only on confirmed structure.
+
+### Risk Factors
+- **Ceasefire fragility:** Mon's relief rally is headline-driven; Trump-toll-threat lurks + Iran-side re-escalation = gap-down reversal risk overnight.
+- **Fed hawkish posture:** Hike priced for October, potentially September. Structural multiple-compression overhang on tech. Dollar at 2026 highs amplifies.
+- **HOT income/spending** = consumer demand intact supports sticky inflation, keeps Fed-hike narrative alive.
+- **Thu 7/2 NFP** = PRIMARY macro binary of week. Cons +114K / unemp 4.3%. Hot beat (>150K) = re-prices Fed hike higher = tech sell. Soft miss (<75K) = growth-scare risk.
+- **Holiday-shortened week** = thin liquidity Thu PM; gap-risk into Mon 7/6 open.
+- **Sector rotation against tech** intact — 8/11 sectors green YTD but tech in lagging quadrant.
+- **No major S&P 500 earnings this week** = no own-catalyst alpha entry path; all entries would be technical-driven only.
+- **Under-deployment Week 21** acknowledged — counter-policies scanned, no entry today is correct per gates. Floor exists to counter dormancy with QUALITY setups, NOT to chase a ceasefire-relief gap-up.
+- **Trades this week: 0 / 20** (fresh count Mon) — full slate.
+
+### Decision
+**HOLD 100% CASH at Mon 6/29 open. NO FRESH ENTRIES.** Pre-bell ceasefire-relief bounce is a headline gap-up, not a setup. Chase risk at the gap-open + no own-name catalyst today + Fed-hike-still-priced + holiday-shortened week + Thu NFP binary = unfavorable risk-reward. Niche radar scanned exhaustively — ASTS structurally bearish, RKLB still distributing, OKLO/AEHR/NBIS no own catalyst at open. The 100% cash position survived the late-June selloff AND the weekend US-Iran-strike gap-risk intact — that's the capital we now stage from.
+
+**Re-entry framework for THIS WEEK:**
+- **Mon 6/29:** Observe gap-hold vs gap-fade structure. Constructive sustained tape = build watchlist trip-lines for Tue-Wed.
+- **Tue 6/30:** Truqap PDUFA T-0 = biotech-tape read-through but sizing-fail for entry. If AAPL/NVDA establish basing post-Mon gap, consider Tue staged entry pre-NFP.
+- **Wed 7/1:** ADP + ISM = NFP preview; staged alpha entries possible IF AAPL>$290 or NVDA>$200 with volume + clean spread.
+- **Thu 7/2 post-NFP:** PRIMARY deployment window. In-line (90-130K) + tape green = stage alpha + niche entries (ASTS only on clean basing + volume reversal of consensus; RKLB only on basing above $85; NBIS only on basing above $215). Hot or cold = defer.
+- **Mon 7/6 (post-holiday):** Full deployment reassessment in cleaner tape.
+
+**Plan for market-open agent (Mon 6/29 6:30 AM PST):**
+1. **VERIFY positions=[], orders=[]** at open. Confirm 100% cash $9,731.53.
+2. **NO ENTRIES at the open** — gap-up open is chase territory; no A+ catalyst on any tracked name; ceasefire-fragility binary.
+3. **MONITOR Dallas Fed Manufacturing 6:30 AM PT** — low-impact but contextual.
+4. **OBSERVE first 30-min structure:** does the +0.5-0.8% futures gap hold or fade into the cash open?
+5. **POST-OPEN INTRADAY TRIGGERS** (must clear EVERY gate; default is HOLD CASH):
+   - Clean own-name catalyst (not just tape rally).
+   - Spread tight on tape-active venue.
+   - Sized within pre-filter (niche ~$162 cap; alpha ≤10% event-week = ~$970).
+   - 2.5:1 R:R niche / 1.2:1 alpha minimum.
+   - No-chase: NOT within 3% of session HOD, NOT extended past 5-day rising envelope.
+6. **AVOID** all consumer/industrial BMO (DRI/SNX/AYI/CMC/WGO/NNOX), all megacaps at the gap (no own catalyst), GOOGL (broken thesis), AVGO (broken post-print), CSCO sub-$110, energy (oil retreating on ceasefire), defense (war-bid unwinding).
+7. **Trades this week: 0 / 20** — full slate.
+8. **Day trades 0/5 rolling** — preserve full slate.
+9. **Cash 100%** = full dry powder. Mon stance: capital preservation preferred over forced chase of ceasefire-relief gap-up.
+
+Bias: **DISCIPLINE THROUGH THE RELIEF BOUNCE. STAGE BACK IN ON THE FIRST REAL SETUP, NOT THE CHASE.** Week 21 under-deployment intentional; deployment thesis = AAPL/NVDA mean-reversion staged Tue-Wed conditional on structure + post-NFP Thu primary window. Under-deployment floor exists to counter dormancy with quality setups — Mon ceasefire-relief gap-up at the open with no own-catalyst = not a quality setup.
