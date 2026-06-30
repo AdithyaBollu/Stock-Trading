@@ -5045,3 +5045,165 @@ Pre-filter: equity $9,731.53 × 10% / 6 shares = **~$162 cap per share** for nic
 9. **Cash 100%** = full dry powder. Mon stance: capital preservation preferred over forced chase of ceasefire-relief gap-up.
 
 Bias: **DISCIPLINE THROUGH THE RELIEF BOUNCE. STAGE BACK IN ON THE FIRST REAL SETUP, NOT THE CHASE.** Week 21 under-deployment intentional; deployment thesis = AAPL/NVDA mean-reversion staged Tue-Wed conditional on structure + post-NFP Thu primary window. Under-deployment floor exists to counter dormancy with quality setups — Mon ceasefire-relief gap-up at the open with no own-catalyst = not a quality setup.
+
+## 2026-06-30 Tue Pre-Market Research (Week 11, Day 2 — Truqap PDUFA T-0 / book FLAT / Mon-niche gaps DISTRIBUTING into close / NKE+STZ AMC off-theme)
+
+### Account Snapshot (Tue 6/30 pre-bell per Alpaca)
+- **Equity:** $9,731.53 | **Last equity:** $9,731.53 (flat overnight — no positions, no drift)
+- **Cash:** $9,731.53 (**100.00%** — 5th consecutive all-cash session, 6/25 AAPL trail-out → today)
+- **Buying power:** $38,926.12 (4x margin, unused) | Long MV: $0 | Short MV: $0
+- **Daytrade count:** 0/5 rolling — preserved
+- **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline — static cash-floor read; no change since Thu 6/25 AAPL exit
+
+### Sleeve Status
+- **Alpha sleeve:** $0 (0%) vs 65-75% target — **21st-consecutive-week under-deployed extends to Day 2 of Week 11**
+- **Niche sleeve:** $0 (0%) vs 25-30% target — dormancy continues
+- **Cash:** 100% vs 5-10% buffer band — full dry-powder, ceasefire-weekend gap-risk paid intact, Mon vertical-gap chase dodged
+
+### Open Positions
+NONE — broker `positions=[]` `orders=[]` confirmed pre-bell. Book flat since 6/25 AAPL trail-out (Day 6 all-cash).
+
+### Market Context (Tue 6/30 pre-bell ~04:30 AM PT)
+- **S&P 500 futures:** ~7,497.50 (-0.04%) — slight pullback after Mon's ceasefire-relief tape; consolidation read post-Mon-niche-vertical-gap fade.
+- **VIX:** 17.65 (-4.13% Mon close) — below 20 line, consolidation regime; June monthly avg 18.63.
+- **WTI: ~$70.86** | **Brent: ~$70-70.50** — flat with Mon; ceasefire-priced post-Strait-reopening narrative intact; Hormuz ship-traffic recovering but below pre-war.
+- **10Y: 4.38%** (+0.009pp) | **2Y: 4.11%** (-0.01pp) | **2-10 spread: 0.28%** (positive but tight, below long-term 0.85% avg)
+- **Today's calendar (econ-heavy Tue):**
+  - **6:00 AM PT:** Case-Shiller Home Price Index (Apr) — low impact
+  - **6:45 AM PT:** Chicago PMI (Jun, cons 41–43 range) — regional sentiment read
+  - **7:00 AM PT:** Conference Board Consumer Confidence (Jun) + JOLTS Job Openings (May, cons ~7.5M) — labor-demand check pre-NFP
+  - **All day:** **Truqap (capivasertib) PDUFA T-0 (AZN)** — AZN sizing-fail but biotech-tape read-through; outcome telegraphs FDA pace for any future biotech screen.
+  - **AMC:** **NKE** (Q4 FY26 cons EPS $0.11 / rev $10.84B / -21% YoY / Moderate Buy / 8th cons quarter of declining profits — UBS expects conservative near-term guide) + **STZ** (Q1 FY27 cons EPS $3.28 / rev $2.40B / beer-margin guide cut to 37-38% / Moderate Buy / cautious sentiment) — both consumer, off-theme = SKIP pre-print; consider post-print drift only if BMO Wed shows a clean beat+raise+sector tailwind (low expectation).
+- **JPMorgan 2026 S&P target $7,800** (per Mon log) = ~+4% upside vs current futures level.
+
+### This Week's Earnings & Macro Calendar (HOLIDAY-SHORTENED: Fri 7/3 NYSE CLOSED)
+| Day | Time (PT) | Event | Stance |
+|-----|-----------|-------|--------|
+| **Tue 6/30** | **All day** | **Truqap PDUFA (AZN)** | AZN sizing-fail; biotech-tape read-through only |
+| Tue 6/30 | 6:00–7:00 AM | Case-Shiller / Chicago PMI / Consumer Confidence / JOLTS | Pre-NFP labor-demand check |
+| Tue 6/30 | AMC | **NKE, STZ** | Off-theme consumer = SKIP |
+| Wed 7/1 | 5:15 AM | **ADP Employment** (NFP preview) | Pivot risk |
+| Wed 7/1 | 7:00 AM | **ISM Manufacturing PMI** (Jun, cons 53.7) | Macro pivot risk |
+| Wed 7/1 | AMC | GIS/FDS/MSM/UNF/FIZZ | Off-theme — pass |
+| **Thu 7/2** | **5:30 AM** | **June NFP (cons +114K, unemp 4.3%)** | **PRIMARY MACRO BINARY of week** |
+| Thu 7/2 | 5:30 AM | Initial Jobless Claims (prior 215K) | Concurrent |
+| Thu 7/2 | 7:00 AM | Factory Orders | Low |
+| Fri 7/3 | — | **MARKET CLOSED — Independence Day** | — |
+
+**No S&P 500 mega-cap alpha-watchlist earnings this week.** NKE/STZ AMC tonight = consumer/staples off-theme; no own-catalyst alpha entry path open.
+
+### Tech/Semi Watchlist (Mon 6/29 close bid marks — pre-market quotes stale, ask displays inflated; bid = real close mark)
+| Ticker | Mon Close Bid | Mon midday | Δ midday→close | Trigger | Status |
+|--------|--------------|-----------|----------------|---------|--------|
+| **AAPL** | $266.77 | $280.92 | **-5.04% PM fade** | Reclaim $290 + 1 sess base | **NOT TRIGGERED** (further from $290 trigger after PM fade) |
+| **NVDA** | $194.80 | $194.14 | +0.34% (held) | Reclaim $200 + 1 sess base | NOT TRIGGERED (still below $200, basing in $194-195) |
+| MSFT | $350.83 | n/a | — | Clean pullback to rising 20-DMA + vol reclaim | NEUTRAL |
+| GOOGL | $331.58 | n/a | — | Broken thesis active | AVOID |
+| META | $531.88 | n/a | — | No own catalyst | NEUTRAL |
+| AMZN | $232.16 | n/a | — | No own catalyst | NEUTRAL |
+| AMD | $507.75 | n/a | — | Off highs | NEUTRAL |
+| AVGO | $354.94 | n/a | — | -22% from June 3 $453 | AVOID (broken post-print) |
+| MRVL | $263.92 | n/a | — | Down with semis | NEUTRAL |
+| TSM | $384.87 | n/a | — | Down with semis | NEUTRAL |
+| MU | $1,074.28 | n/a | — | Sizing-fail; next earnings Jul 30 | TAPE PROXY only |
+| QCOM | $179.14 | n/a | — | Range | NEUTRAL |
+| ARM | $295.53 | n/a | — | Down with semis | NEUTRAL |
+| INTC | $123.32 | n/a | — | Higher band | NEUTRAL |
+| SMCI | $28.14 | n/a | — | Beaten down | WEAK — avoid |
+
+**Net tech: AAPL trigger FURTHER OUT after Mon PM fade (-5% midday→close suggests distribution, not basing). NVDA holding $194 floor but failing $200 reclaim. No alpha entry candidate clears the gate today.**
+
+### Niche Radar (Counter-policy 2 mandatory scan)
+**Pre-filter:** equity $9,731.53 × 10% / 6 shares = **~$162 cap per share** for niche fit (10% sizing × ≥6-share lot ideal).
+
+| Ticker | Mon Close Bid | Mon midday | Δ midday→close | Sized? | Class | Catalyst | Action |
+|--------|--------------|-----------|----------------|--------|-------|----------|--------|
+| **ASTS** | $82.13 | n/a | — | ✅ ($82 < $162) | **AVOID** | Q1 miss (EPS -$0.66 vs -$0.21 est, rev $14.7M in range). Next earnings Aug 10. BLU 8-10 launched 6/17, on-orbit milestones cleared. Cash $3.5B. Deutsche Hold $106 / Zacks Sell. Structurally broken thesis from Mon log persists. | NO ENTRY |
+| **RKLB** | $92.57 | $93.91 | -1.43% (held) | ✅ (8 sh × $93 = $744 ~7.6% niche) | **WATCH — basing day 1** | Q1 beat ($200M rev +63% YoY), $2.2B backlog, Neutron Q4 '26 launch tgt; 10th cons mission success 6/26. Mon ceasefire-relief gap held into close. | **WATCH** — needs 2+ more sessions basing above $90 + clean volume reclaim before re-entry consideration. Just cut at -10.45% Wed 6/24 — sentiment-fresh re-entry premature without 3-sess structure. |
+| **OKLO** | $50.47 | $52.36 | -3.61% (gap-fill fade) | ✅ ($50 < $162) | **WATCH — $50 reclaim Day 1** | NRC COLA Phase 1 PDC accepted; criticality T+4 (~July 4); Meta 1.2GW LOI prepay. Pre-revenue till 2027. Held $50 by 47¢ at close. | **WATCH** — needs NRC criticality headline (~T+4) OR 2+ sess holding $50 + volume reclaim. Mon close $50.47 = barely held, no second session of confirmation yet. Holiday-shortened week argues against pre-NRC entry. |
+| **AEHR** | $80.96 | n/a | — | ✅ ($80 < $162) | **WATCH — improving bookings** | Q3 EPS beat -$0.05 vs -$0.07; rev miss $10.3M vs $10.8M (-44% YoY); BUT bookings $37M (6x QoQ, 3.5x book-to-bill); $41M AI hyperscale prod order; FY26 bookings raised to high end $60-80M; non-GAAP profitability targeted Q4 FY26. Next earnings ~July. | **WATCH** — fundamentals inflecting (AI/SiC hyperscale order is real), but no entry pre-Q4-print; stale spread display reinforces caution. |
+| **NBIS** | $224.80 | $254.30 | **-11.60% PM fade** | ❌ ($224 > $162) | **SIZING-FAIL + chase fade confirmed** | Q1 rev $399M +684% YoY, GAAP EPS -$0.23 beat -$0.77 by $0.54; AI 98% of rev; Pennsylvania 1.2GW AI factory; Nvidia $2B partnership + Blackwell/Rubin priority. | NO ENTRY — sizing-fail at current equity; even if shares-cap relaxed, Mon midday $254 → close $225 = -11.6% PM fade confirms vertical-gap distribution, exactly the chase pattern to avoid. Re-evaluate when equity grows past ~$13.5K (relaxes 6-share cap to $225). |
+
+**Other scans:** **Truqap PDUFA Tue T-0 (AZN)** = sized at >$200/share = AZN sizing-fail; biotech tape read-through only. No FDA niche-fit name today. New-idea scan (small-cap space/nuclear/AI/defense/disruptive): scan returned mostly known names + APLD/NVTS/RGTI/STX speculative — no new own-catalyst sub-$162 sized + 2.5:1 R:R clearing today. Post-earnings drift candidates: MU sizing-fail (>$1,000); NKE/STZ AMC tonight off-theme.
+
+**Net niche output: zero ready-to-fire today.** Mandatory screen ran; documented skip-reasons per name. Niche dormancy extends to Day 6 since 6/24 RKLB cut.
+
+### Macro & Geopolitical Scan (Tue 6/30)
+- **Fed:** Held 3.50-3.75% at 6/17 meeting; first under Chair **Kevin Warsh** (inaugural). Dot-plot ELIMINATED 2026 cut forecast; 9 of 19 want ≥1 HIKE by year-end. **FedWatch July 29-30 meeting: 15.4% cut / 37.1% hold / 48.3% HIKE**. Hawkish branch FULLY PRICED. No Fed speakers today on calendar. **HIGH IMPACT — structural multiple-compression overhang on tech.**
+- **Inflation:** May PCE 4.1% YoY headline / 3.4% YoY core — accelerating 3rd consecutive month. June PCE release JUL 30 (not this week). **HIGH IMPACT** — sticky-inflation supports hike narrative.
+- **Jobs:** Initial claims 215K (4-wk low, beat 225K cons); continuing claims 1.821M (3-mo high). **NFP Thu 7/2 cons +114K** = primary weekly binary.
+- **GDP:** No print this week.
+- **Iran-Hormuz:** Ceasefire signed 6/19 Geneva; Strait reopening per agreement; ship traffic recovering but well below pre-war. Trump "complete the job" warning still live. **MEDIUM WATCH — priced in; any re-escalation = gap-down risk overnight.**
+- **US-China trade:** Section 301 forced-labor tariff proposed 10-12.5%; 10% general ad valorem active; 90-day truce extension expires Nov 10 = trading window. **LOW PRICED-IN today.**
+- **Russia-Ukraine:** No flare-up. **LOW.**
+- **Fiscal:** Debt ceiling $41.1T (raised Jul 2025), national debt $38.8T; next X-date late 2027. **LOW today.**
+
+### Sector Momentum (YTD 2026)
+- **Energy +23.3% / Materials +17.4% / Consumer Staples +15.6% / Industrials +14.1%** — defensive/cyclical leadership intact
+- **Healthcare** standout near-term strength on haven bid
+- **IT -3.3% / Financials -6.9% / Discretionary -3.8% / Comm Services -1.2%** — lagging quadrant; tech rotation OUT continues
+- **Tech leadership QUESTIONED:** AI capex payoff under scrutiny; hyperscaler exposure being trimmed institutionally per Mon CNBC wrap.
+- Sector tailwind for alpha entries today: energy/materials/staples (off-theme vs our watchlist) / tech against (where most alpha candidates sit).
+
+### Trade Ideas (Tue 6/30 6:30 AM PST)
+
+**1. NO ENTRIES at the open. Book stays FLAT (continuation of Mon stance).**
+- AAPL $290 trigger FURTHER out after Mon -5% PM fade to $266.77 = distribution pattern, NOT a basing setup. Cannot fire alpha mean-reversion thesis when the proxy falls deeper into the hole.
+- NVDA $200 trigger pending — holding $194-195 floor but failing reclaim; 1 session of basing requires confirmation Tue/Wed.
+- Niches Mon gap-and-fade pattern confirms chase warning from Mon midday log: NBIS -11.6% midday→close, OKLO -3.6% gap-fill, RKLB -1.4% modest hold. Pattern = vertical distribution, not setup formation.
+- Truqap PDUFA AZN-sized = sizing-fail; biotech sleeve still absent from book.
+- NKE/STZ AMC = consumer/staples off-theme; both face declining-profits/cautious-guide consensus; post-print drift entry conditional on a clean beat+raise Wed BMO (low expectation).
+- **Trades this week: 0/20** — full slate preserved.
+
+**2. POST-OPEN INTRADAY TRIGGERS (re-evaluated via market-open routine):**
+- **Constructive case:** Soft Chicago PMI/Consumer Confidence/JOLTS prints (labor demand cooling = dovish read-through into Thu NFP) + Truqap clean approval (biotech tape) + S&P holds 7,495 + niches consolidate Mon close gaps without re-failing midday → start arming Wed entry triggers:
+  - **AAPL** reclaim of $290 + 1-sess base + volume — alpha mean-reversion (event-week 10% cap = ~$970 = 3-4 sh)
+  - **NVDA** reclaim of $200 + 1-sess base + volume — alpha mean-reversion (~$970 = 5 sh ~$1,000)
+  - **OKLO** NRC criticality headline OR 2+ sess holding $50 + volume reclaim — niche entry candidate (≤12% niche sizing = ~$1,168 = ~23 sh)
+  - **RKLB** 3+ sess basing above $90 + volume reclaim — niche re-entry (8 sh × ~$93 = ~$744 = ~7.6% niche)
+- **Hostile case:** Hot JOLTS (>8M openings) + S&P rolls under 7,475 + niches give back Mon gap completely = no entries, flat-cash continues, defer all triggers to post-NFP Thu.
+- **In-line case (default):** Hold cash, observe; defer entries to Wed post-ADP/ISM tape clarity + Thu post-NFP primary deployment window.
+
+**3. POST-EXIT POSTURE: 100% cash, Week 11 Day 2 (5th consecutive all-cash session)**
+- The two-week defense framework (RKLB 6/24, AAPL 6/25) closed concentration risk; Mon disciplined no-chase dodged the niche vertical-gap-and-fade exactly as the playbook predicted (NBIS -11.6% PM, OKLO -3.6% PM = distribution patterns).
+- Tue-Wed stance: OBSERVE + STAGE-PLAN; primary deployment window = Thu post-NFP under in-line print (+90-130K).
+
+### Risk Factors
+- **AAPL PM fade -5% Mon midday→close ($280.92 → $266.77)** = distribution pattern, NOT basing; alpha mean-reversion thesis weakening on the proxy.
+- **Niche vertical-gap-and-fade Mon (NBIS -11.6% PM, OKLO -3.6% PM)** = chase pattern confirmed; entry gates must require clean basing structure, not gap-up momentum.
+- **Truqap PDUFA T-0** = AZN-sized so direct sizing-fail; biotech-tape read-through binary on FDA outcome (approve = biotech bid / CRL or delay = biotech sell-off + read-through to MRNA/BMY/PFE-adjacent names).
+- **Wed ADP + ISM Manufacturing** = NFP preview risk; surprise readings re-prices Thu NFP expectations.
+- **Thu 7/2 NFP** = primary weekly binary. Hot beat (>150K) re-prices Fed-hike higher = tech sell. Soft miss (<75K) = growth-scare risk-off. In-line (90-130K) = constructive.
+- **Holiday-shortened week** = thin liquidity into Thu PM; gap-risk into Mon 7/6 open. Independence Day Fri 7/3 closed.
+- **Fed hawkish posture intact** under Chair Warsh — 48.3% July hike probability per FedWatch. Sticky inflation (PCE 4.1% headline) supports.
+- **Sector rotation against tech** persists (IT -3.3% YTD) — alpha watchlist mostly sits in the lagging quadrant.
+- **Ceasefire fragility** — Trump "complete the job" warning + Iran-side risk = overnight gap-down possibility.
+- **Under-deployment Week 21 Day 2** acknowledged — counter-policies scanned exhaustively, no entry today is correct per gates (no own catalyst on any tracked name + AAPL/NVDA triggers untriggered + niches distributing not basing + Truqap sizing-fail + NKE/STZ off-theme). Floor exists to counter dormancy with QUALITY setups, NOT to chase residual relief tape or Tue chop.
+
+### Decision
+**HOLD 100% CASH at Tue 6/30 open. NO FRESH ENTRIES.** 5th consecutive all-cash session. Tue is a data-heavy / no-own-catalyst chop day pre-NFP: Case-Shiller/Chicago PMI/Consumer Confidence/JOLTS midday + Truqap PDUFA AZN-sized + NKE/STZ AMC off-theme. Mon's PM-fade pattern across both AAPL (-5% midday→close) AND niche space (NBIS -11.6%, OKLO -3.6%) is exactly the distribution-vs-basing distinction the no-chase gate was designed for. Pre-bell quote read on AAPL ($266.77) puts the $290 mean-reversion trigger further out, not closer. NVDA holds $194 floor but fails $200 reclaim — Day 1 of base, not 1 session above trigger. Niche radar exhaustively scanned: ASTS structurally broken (Sell consensus + Q1 miss), RKLB basing Day 1 (needs 3 sessions structure), OKLO held $50 by 47¢ (Day 1, needs NRC headline OR 2+ sess confirmation), AEHR fundamentally inflecting but pre-Q4-print, NBIS sizing-fail + chase-fade confirmed.
+
+**Re-entry framework for THIS WEEK:**
+- **Tue 6/30:** Observe Chicago PMI/Consumer Confidence/JOLTS + Truqap PDUFA outcome. Niche gap-and-fade extension vs consolidation read.
+- **Wed 7/1:** ADP + ISM = NFP preview. Staged alpha entries POSSIBLE IF AAPL >$290 or NVDA >$200 with volume + clean spread + 1-sess base. NKE/STZ post-print drift only on clean beat+raise (low expectation).
+- **Thu 7/2 post-NFP:** **PRIMARY deployment window.** In-line print (+90-130K) + tape green = stage alpha + niche entries (RKLB on basing above $90; OKLO post-NRC criticality OR 2+ sess $50 hold; AAPL/NVDA on trigger break). Hot or cold print = defer.
+- **Mon 7/6 (post-holiday):** Full deployment reassessment in cleaner tape.
+
+**Plan for market-open agent (Tue 6/30 6:30 AM PST):**
+1. **VERIFY positions=[], orders=[]** at open. Confirm 100% cash $9,731.53.
+2. **NO ENTRIES at the open** — no own-name catalyst; Tue is data-chop pre-NFP; Mon PM-fade pattern still distributing.
+3. **MONITOR Case-Shiller 6:00 AM PT, Chicago PMI 6:45, Consumer Confidence + JOLTS 7:00** — labor-demand pre-NFP read.
+4. **OBSERVE first 30-min structure:** does the slight -0.04% S&P futures pullback consolidate into a tighter range or extend Mon PM-fade?
+5. **POST-OPEN INTRADAY TRIGGERS** (must clear EVERY gate; default = HOLD CASH):
+   - Clean own-name catalyst (not tape drift / not lingering ceasefire vibe).
+   - Spread tight on tape-active venue.
+   - Sized within pre-filter (niche ~$162 cap; alpha ≤10% event-week = ~$970).
+   - 2.5:1 R:R niche / 1.2:1 alpha minimum.
+   - No-chase: NOT within 3% of session HOD, NOT extended past 5-day rising envelope.
+6. **AVOID** all consumer/industrial AMC (NKE/STZ), GOOGL (broken thesis), AVGO (broken post-print), CSCO sub-$110, MU/NBIS (sizing-fail), AZN (sizing-fail) regardless of Truqap PDUFA outcome, ASTS (Sell consensus). No defense/energy entries (war-bid unwinding, oil retreating).
+7. **TRUQAP PDUFA TAPE READ:** if approval clean during session = biotech-tape constructive; if CRL/delay = biotech-tape negative + read-through to small/mid biotech screen. Read-through only; AZN itself remains sizing-fail.
+8. **Trades this week: 0/20** — full slate.
+9. **Daytrade count 0/5 rolling** — preserve full slate.
+10. **Cash 100%** = full dry powder. Tue stance: capital preservation preferred over forced action on a no-catalyst chop day pre-NFP.
+
+Bias: **HOLD-CASH THROUGH THE DATA-CHOP DAY. STAGE FOR WED ADP/ISM + THU NFP PRIMARY WINDOW.** Mon's vertical-gap-and-fade pattern (NBIS -11.6% PM, OKLO -3.6% PM, AAPL -5% PM) confirms the no-chase gate's design intent — the patient stance is the correct stance until clean basing + own-catalyst clearance emerges. Under-deployment Week 21 Day 2 intentional; Thu post-NFP remains the primary deployment window; pre-NFP Tue-Wed entries require clean trigger-clear structure (AAPL >$290, NVDA >$200, RKLB 3+ sess above $90, OKLO NRC headline OR 2+ sess $50 hold). No such structure exists pre-bell Tue.
