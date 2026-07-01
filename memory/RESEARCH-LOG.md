@@ -5207,3 +5207,153 @@ NONE — broker `positions=[]` `orders=[]` confirmed pre-bell. Book flat since 6
 10. **Cash 100%** = full dry powder. Tue stance: capital preservation preferred over forced action on a no-catalyst chop day pre-NFP.
 
 Bias: **HOLD-CASH THROUGH THE DATA-CHOP DAY. STAGE FOR WED ADP/ISM + THU NFP PRIMARY WINDOW.** Mon's vertical-gap-and-fade pattern (NBIS -11.6% PM, OKLO -3.6% PM, AAPL -5% PM) confirms the no-chase gate's design intent — the patient stance is the correct stance until clean basing + own-catalyst clearance emerges. Under-deployment Week 21 Day 2 intentional; Thu post-NFP remains the primary deployment window; pre-NFP Tue-Wed entries require clean trigger-clear structure (AAPL >$290, NVDA >$200, RKLB 3+ sess above $90, OKLO NRC headline OR 2+ sess $50 hold). No such structure exists pre-bell Tue.
+
+## 2026-07-01 — Pre-market Research (Week 11 Day 3, Wed / event-heavy: Warsh first speech + ISM Mfg + GIS BMO / pre-NFP T-1)
+
+### Account
+- **Equity:** $9,731.53 | **Cash:** $9,731.53 (100.00%) | **Buying power:** $38,926.12 (4x margin, unused) | **Non-marginable BP:** $9,731.53
+- **Daytrade count:** 0 / 5 rolling | **PDT:** false | **Trades this week:** 0 / 20 (Week 11 zeroed out; Mon 6/29 + Tue 6/30 both HOLD-CASH)
+- **Day 0 P&L:** $0.00 vs Tue last_equity $9,731.53 (flat book = no drift possible) | **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline — worst phase read, static
+
+### Sleeve Status
+- **Alpha:** $0 / 0% (target 65-75%) — **23rd consecutive week under-deployed**
+- **Niche:** $0 / 0% (target 25-30%) — empty
+- **Cash:** $9,731.53 / 100% (target 5-10% buffer) — full dry powder / 6 consecutive all-cash sessions since 6/25 AAPL trail-out
+- **Positions:** 0 / 12 max | **Broker confirm:** positions=[], orders=[]
+- **Sizing pre-filter cap:** $9,731.53 × 0.10 / 6 = **$162.19** (share price ≤ $162 for niche sleeve to fit ≥6-share lot at 10% cap)
+
+### Market Context (Wed 7/1 pre-bell ~06:15 AM PT)
+- **S&P futures:** 7,545.50 (-0.04%) — mild pullback after Mon massive Iran-ceasefire relief rally (S&P 6/30 close 7,599.96 = +0.26% on day, snap 5-day decline)
+- **Nasdaq futures:** 30,536.75 (+0.04%) | **Dow futures:** 52,583.00 (-0.17%)
+- **VIX:** 17.11 (down from 17.54 Tue close, 17.65 Mon close) = 3-session decline = risk-on drift
+- **WTI:** $68.80 (down from $80+ pre-ceasefire) | **Brent:** $73.01 — energy risk-premium fully unwinding
+- **JPM raised 2026 S&P target to 7,800** (from 7,200) on "Blue Sky" Iran-resolution scenario
+- **Today's binary events:**
+  - **8:15 AM ET / 5:15 AM PT — ADP Employment Change (Jun): ACTUAL 122K vs cons 113K (HOT beat, prior 105K)** = hawkish read-through
+  - **9:30 AM ET / 6:30 AM PT — Fed Chair Kevin Warsh SPEECH** = his FIRST public speech as Chair, overlapping MARKET OPEN. HIGH BINARY. Baseline hawkish (June dot-plot flipped to hike, median 2026 rate 3.80%, FedWatch >85% odds of hike this year, >50% by Oct).
+  - **9:45 AM ET / 6:45 AM PT — S&P Global Manufacturing PMI Final (Jun): ACTUAL 55.1 vs cons 55.7** (mild miss, still expansion)
+  - **10:00 AM ET / 7:00 AM PT — ISM Manufacturing PMI** (cons ~56, prior 56.8) + **ISM Manufacturing Prices** (prelim 82.1 vs cons 79 = HOT inflation)
+  - **BMO earnings:** General Mills (GIS) Q4 FY2026 — cons EPS $0.82 / rev $4.6B (off-theme; consumer staples, not in watchlist)
+- **Sector Momentum YTD 2026:** Energy +23.3% / Materials +17.4% / Consumer Staples +15.6% / Industrials +14.1% LEADING; **Tech -3.3% / Financials -6.9% / Discretionary -3.8% LAGGING** — tech rotation OUT continues; alpha watchlist sits in lagging quadrant.
+
+### Macro & Geopolitical Scan (Wed 7/1)
+- **Fed:** Held 3.50-3.75% at 6/17 meeting; first under Chair Warsh. Dot-plot ELIMINATED 2026 cut forecast; 9 of 18 want ≥1 HIKE by year-end (Warsh abstained). **FedWatch >85% odds of hike by Dec 2026, >50% by Oct**. **Warsh's FIRST public speech today 9:30 AM ET at market open** = the day's dominant binary — any hawkish reinforcement = tech sell / any surprise dovish tone = tech rally. **HIGH IMPACT.**
+- **Inflation:** May PCE 4.1% YoY headline / 3.4% YoY core = accelerating. ISM Prices prelim 82.1 vs cons 79 = HOT (supports Fed hawkish framing). June PCE release JUL 30. **HIGH IMPACT.**
+- **Jobs:** ADP 122K = HOT beat (cons 113K, prior 105K). Initial claims 215K last read. **NFP Thu 7/2 cons +114K, 4.3% UR** = primary weekly binary. ADP hot skews NFP expectations HIGHER = hawkish risk for Fed math.
+- **Iran-Hormuz:** Ceasefire signed 6/19; Strait reopening. WTI collapsed from $80+ to $68.80 = full premium unwind. **LOW today** (any Trump "complete the job" re-escalation = gap-down risk overnight, monitor).
+- **US-China trade:** 90-day truce extension expires Nov 10 = trading window. **LOW today.**
+- **Fiscal:** Debt ceiling $41.1T; next X-date late 2027. **LOW.**
+
+### This Week's Earnings Calendar (holiday-shortened week, 4 trading days)
+| Ticker | Sector | Date | Time | Our Stance |
+|--------|--------|------|------|-----------|
+| GIS | Consumer Staples | Wed 7/1 | BMO | AVOID (off-theme + sector lagging niche/alpha thesis) |
+| STZ | Consumer Discretionary | Tue 6/30 | AMC (reported) | AVOID (off-theme) |
+| NKE | Discretionary | Tue 6/30 | AMC (reported) | AVOID (off-theme) |
+| — | Tech/semi | — | — | NO major tech/semi print this week; Q3 window opens ~Jul 15 |
+
+### Tech/Semi Watchlist Table (Wed 7/1 pre-bell — quotes are Tue 4pm close/AH; will re-check at open)
+| Ticker | Bid | Ask | Mid | Setup | Classification |
+|--------|-----|-----|------|-------|----------------|
+| AAPL | 272.71 | 300.91 | ~286 | $290 reclaim + 1-sess base trigger; midpoint $4 short; Mon PM fade to $266 = distribution | AVOID (below trigger) |
+| NVDA | 187.18 | 207.03 | ~197 | $200 reclaim + 1-sess base trigger; midpoint $3 short | AVOID (below trigger) |
+| AMD | — | — | ~552 | Sizing: 1-sh only; wide spread | AVOID (sizing-fit only 1 sh + broken tape) |
+| INTC | 133.52 | 146.87 | ~140 | ~7 sh × $140 = $980 alpha 10%-event fit; no own catalyst | WATCH (fits sizing but no trigger) |
+| AVGO | 355.53 | 393.23 | ~374 | Broken post-Jun guide-miss (-12%); no basing yet | AVOID |
+| MRVL | 282.04 | 310.27 | ~296 | 3 sh fit; no catalyst | AVOID |
+| TSM | 410.41 | 538.64 | wide | Sizing weak; stale quote | AVOID |
+| MU | 1087.26 | 1225.62 | ~1156 | **SIZING-FAIL** (need ≥$14K equity for 1 sh + 10% cap) | AVOID |
+| QCOM | 175.44 | 195.05 | ~185 | 5 sh fit; no catalyst | AVOID |
+| ARM | 307.32 | 405.84 | wide | 3 sh fit; wide spread stale | AVOID |
+| SMCI | 29.22 | — | ~29 | Sizing fit (30+ sh @ 10%), but broken thesis | AVOID |
+| ASML | 1685.67 | 2262.53 | wide | **SIZING-FAIL** | AVOID |
+| MSFT | 352.26 | 389.55 | ~371 | 2-3 sh fit; no catalyst | AVOID |
+| GOOGL | 336.27 | 371.77 | ~354 | Broken thesis; 2-3 sh fit | AVOID |
+| META | 532.83 | 590.57 | ~562 | 1-2 sh fit; broken thesis | AVOID |
+| AMZN | 225.49 | — | ~226 | 4 sh fit; no catalyst | AVOID |
+
+**Flag:** No tech/semi name >5% down from 5-day high AND with basing structure. AAPL/NVDA remain within their trigger corridors but neither cleared. No breakout candidates (all sub-trigger).
+
+### Niche Radar Table (Wed 7/1 pre-bell)
+| Ticker | Price (mid) | Sizing | Class | Own Catalyst | Analyst | Setup | Action |
+|--------|-------------|--------|-------|---------------|---------|-------|--------|
+| **ASTS** | ~83 (bid-only) | ✓ Fits | AVOID | BB 8-10 launched clean 6/17; next BB 11-13 first half August | Consensus REDUCE / avg PT ~8% downside; $3.03B cash | Structurally broken (Sell consensus post-Q1 miss) | AVOID — thesis-broken until sell-consensus flips |
+| **RKLB** | ~102 (tight $0.45 spread!) | ✓ Fits | AVOID (chase risk) | Neutron delayed to Q4 2026; **FCC exp window OPENS TODAY 7/1** (sentiment-only, no revenue trigger); Neutron dev spend now ~$450M vs $250-300M original | No confirmed analyst upgrades pre-bell | Mon +19.4% gap-up / Tue extended to $102 = **Day 2 chase territory, no 3+ sess base**; Neutron delay-plus-cost-overhang = fundamental headwind | AVOID — trigger requires 3+ sess base above $90 with vol reclaim; today = Day 2 extending, NOT basing |
+| **OKLO** | ~52 (bid $49.34 / ask $54.76 = 10% spread) | ✓ Fits (23 sh × $52 = $1,196 niche 12% fit) | WATCH | **Groves Isotope Test Reactor criticality target July 4 (T-3 days)** — DOE approved PDSA 6/12, NRC PDC approved 5/6 (+22% pop). Reddit chatter split on July 4 deadline feasibility ("DSA-to-startup ≥4 wks incompressible"). | Consensus $88.74, BofA Buy $80, Tigress $130 | Day 2 above $50 (Mon close $50.47, Tue mid ~$52); triple-tail into T-3 criticality window; spread wide 10% | **WATCH — event-week no-chase applies** — T-3 to binary criticality = defer entry until AFTER 7/4 outcome to avoid pre-event chase / binary-miss gap-down risk (Fri closed = event lands into 4-day gap). Trigger conditions post-holiday: either confirmed criticality headline OR consolidated post-event fade with fresh support base |
+| **AEHR** | ~96 (bid $82.67 / ask $110.57 = 30% spread) | ✓ Fits | AVOID | **Q4 FY2026 earnings Jul 14 (T-13 days)** — mgmt guided return to non-GAAP profitability, FY rev $45-50M high side, bookings $60-80M high side. Fiscal year change to last Friday of June effective post-FY26. | Analysts forecast -19% FY26 rev decline (backward-looking); FY27 setup constructive | 30% spread = illiquid display / stale; T-13 to print = event-week defer | AVOID — spread illiquid + Q4 print is the primary catalyst; pre-earnings 10% cap sizing would be feasible ($970 = 9-10 sh @ $95) but 30% spread on illiquid tape = execution risk. Defer to post-print drift entry on clean beat+guide-raise Jul 15 |
+| **NBIS** | ~279 (bid $239.60 / ask $318.87) | ✗ **SIZING-FAIL** ($239 > $162 cap) | AVOID | European AI infra; Mon vertical +24% gap → PM -11.6% fade = distribution | — | Sizing-fail + confirmed chase-fade pattern | AVOID — permanent sizing-fail until equity grows past ~$14K |
+
+**New idea scan (Wed 7/1):** No new niche names surface from Perplexity radar (space/nuclear/AI-infra deep sweep). Investors.com "Palo Alto Networks +40% YTD" and "Dell +32% earnings pop" = both alpha-sleeve mega-cap plays already trending, but PANW / DELL not on our watchlist and no own catalyst today; also both sizing-heavy at $200+ share. Planet Labs (PL) mentioned as commercially durable space name (+25% 3-mo), but no own catalyst pre-bell and short data thin.
+
+### Trade Ideas (Wed 7/1 6:30 AM PST — Warsh speech + ISM at open/first-hour)
+
+**1. NO ENTRIES at the open. Book stays FLAT (continuation of Tue stance).**
+- **Warsh 9:30 AM ET = 6:30 AM PT = MARKET OPEN** — his first public speech as Chair overlaps the open bell exactly. HIGH BINARY. Historical baseline hawkish (dot-plot median 3.80% year-end vs 3.40% March). Any dovish surprise = tech pop / hawkish reinforcement = tech sell. Cannot pre-position ahead of a binary event = no-chase gate design.
+- **ADP hot 122K** = already prints hawkish read-through; will reinforce Warsh hawkish framing if he leans into inflation/data-dependent language.
+- **AAPL $290 trigger** still ~$4 short at pre-bell mid ~$286; Mon PM fade to $266 = distribution pattern (not basing); Tue mid gap-up to ~$286 mid = give-back partial.
+- **NVDA $200 trigger** still ~$3 short at pre-bell mid ~$197; below trigger for 3rd straight session.
+- **OKLO** Day 2 above $50 + **T-3 to July 4 criticality binary + Fri 7/3 closed = 4-day event gap** = event-week no-chase applies; defer to post-event.
+- **RKLB** Day 2 chase extension (~$102 vs Mon close $92.57) = **NOT basing structure**; FCC exp window opens today = sentiment-only, no revenue trigger; Neutron $450M dev cost overhang.
+- **ASTS** structurally broken (Sell consensus + Q1 miss); BB 8-10 clean launch 6/17 did NOT flip the consensus.
+- **AEHR** 30% spread illiquid + T-13 to print = defer to post-print drift.
+- **NBIS** permanent sizing-fail until equity >$14K.
+- **GIS BMO** = consumer staples off-theme (already leading sector +15.6% YTD but not in our watchlist framework; sleeve targets tech/semi/AI/defense/energy-infra, not packaged food).
+- **Trades this week: 0/20** — full slate preserved.
+
+**2. POST-OPEN INTRADAY TRIGGERS (re-evaluated via market-open routine after Warsh + ISM tape):**
+- **Constructive case:** Warsh signals data-dependent WITHOUT strengthening hike bias + ISM Mfg in-line or slight miss + tape green + niche consolidation → start arming Thu entry triggers:
+  - **AAPL** reclaim of $290 + 1-sess base + volume — alpha mean-reversion (event-week 10% cap = ~$973 = 3-4 sh)
+  - **NVDA** reclaim of $200 + 1-sess base + volume — alpha mean-reversion (~$973 = 5 sh)
+  - **OKLO** post-July 4 criticality outcome (headline confirmed = potential asymmetric long; miss = wait for base rebuild)
+  - **RKLB** wait for 3+ session base above $90 with volume reclaim (currently Day 2 of gap-extension, not basing)
+- **Hostile case:** Warsh reinforces hike bias + ISM Mfg beat + ISM Prices hot + S&P rolls under 7,500 + tape red → no entries, defer all triggers to post-NFP Thu; consider even weaker Mon 7/6 post-holiday primary window.
+- **In-line case (default):** Hold cash, observe; defer entries to Thu 7/2 post-NFP primary deployment window.
+
+**3. POST-EXIT POSTURE: 100% cash, Week 11 Day 3 (6th consecutive all-cash session)**
+- Two-week defense framework (RKLB 6/24, AAPL 6/25) closed concentration risk; Mon disciplined no-chase dodged the niche vertical-gap-and-fade exactly as playbook predicted (NBIS -11.6% PM, OKLO -3.6% PM, AAPL -5% PM); Tue stand-down at open honored every pre-set trip-line.
+- Wed stance: OBSERVE + STAGE-PLAN — 2 macro binaries (Warsh + ISM) at/after open + NFP Thu = 3 binaries T-2 window; primary deployment target = Thu post-NFP under in-line print (+90-130K) OR Mon 7/6 post-holiday under cleaner tape.
+
+### Risk Factors
+- **Warsh 9:30 AM ET first speech as Chair** = binary overlapping open; historical hawkish baseline (dot-plot 3.80% median 2026, elimination of cut forecast, 9 of 18 want hike). Any hawkish reinforcement = tech sell (alpha watchlist directly hit). Any dovish surprise = tech relief bid (rare given his prior work).
+- **ADP 122K HOT** = pre-NFP hawkish signal already priced pre-bell; skews Thu NFP expectations higher = if NFP also HOT, Fed-hike odds climb further = tech-sell cascade risk into holiday-shortened liquidity Thu PM.
+- **ISM Mfg + ISM Prices 82.1 prelim HOT** = inflation reinforcement even if headline PMI softens.
+- **NFP Thu 7/2 = PRIMARY weekly binary.** Hot beat (>150K) re-prices Fed-hike higher = tech sell. Soft miss (<75K) = growth-scare risk-off. In-line (90-130K) = constructive.
+- **Holiday-shortened week + Fri closed** = thin liquidity Thu PM; gap-risk into Mon 7/6 open across Iran-flare/China-trade/OKLO-July 4 outcome window.
+- **OKLO T-3 to July 4 criticality binary + Fri closed = 4-day event gap**; premature entry pre-event = binary-miss gap-down risk; post-event decision routes through Mon 7/6 pre-market.
+- **RKLB Day 2 gap chase** — chase gate design specifically filters this (Mon +19.4% gap = vertical, no base). Wait for 3+ session base above $90 + vol reclaim before re-entry.
+- **Fed hawkish posture intact** under Chair Warsh — 48.3%+ July hike probability, >85% by Dec. Sticky inflation (PCE 4.1% headline, ISM Prices 82.1 prelim) supports.
+- **Sector rotation against tech** persists (IT -3.3% YTD) — alpha watchlist mostly sits in the lagging quadrant; energy/materials/staples leading are off-theme for our stock-picking framework.
+- **Ceasefire fragility** — WTI $68.80 fully unwound but Trump "complete the job" rhetoric still live = overnight gap-down possibility on any Iran-side re-escalation.
+- **Under-deployment Week 23 Day 3 acknowledged** — counter-policies scanned exhaustively, no entry today is correct per gates (Warsh binary overlaps open + no own catalyst on any tracked name + AAPL/NVDA triggers still short + niches distributing/chasing/pre-binary + AEHR pre-print 30% spread + NBIS sizing-fail + GIS off-theme). Floor exists to counter dormancy with QUALITY setups, NOT to pre-position ahead of a binary Fed-Chair speech.
+
+### Decision
+**HOLD 100% CASH at Wed 7/1 open. NO FRESH ENTRIES.** 6th consecutive all-cash session (since 6/25 AAPL trail-out). Wed is the most event-heavy day of the week: Warsh's first speech as Chair at 6:30 AM PT (market open) + ISM Mfg + ISM Prices at 7:00 AM PT + ADP already-hot at pre-bell = 3 macro binaries clustered around the first hour, followed by NFP Thu T-1 = 4 binaries in 2 sessions. Every pre-set trigger fails at the pre-bell print: AAPL ~$286 mid vs $290 trigger; NVDA ~$197 mid vs $200 trigger; RKLB Day 2 chase-extension (no 3+ sess base); OKLO Day 2 above $50 but T-3 to binary criticality event + 4-day Fri-closed event gap = event-week no-chase applies; ASTS structurally broken; AEHR 30% spread + T-13 to print; NBIS sizing-fail; GIS BMO off-theme. Sector rotation against tech (IT -3.3% YTD) makes alpha entries against the tide; niche names either broken (ASTS/NBIS) or pre-binary chase (RKLB) or pre-event (OKLO/AEHR).
+
+**Re-entry framework for THIS WEEK (post Tue):**
+- **Wed 7/1 (today):** Observe Warsh 6:30 AM PT + ISM 7:00 AM PT tape read. Post first-hour: if constructive (dovish/data-dep Warsh + in-line ISM + tape green + tight spreads on niches) = arm Thu triggers. If hostile (hawkish Warsh + hot ISM Prices + tape red) = defer to post-holiday Mon 7/6.
+- **Thu 7/2 post-NFP 5:30 AM PT (8:30 AM ET):** **PRIMARY deployment window.** In-line print (+90-130K) + tape green = stage alpha (AAPL >$290 / NVDA >$200 on triggers) + niche (RKLB on 3+ sess base; OKLO decision requires post-Fri 7/4 clarity anyway). Hot or cold print = defer.
+- **Fri 7/3:** NYSE CLOSED (Independence Day observed).
+- **Mon 7/6 post-holiday:** Full deployment reassessment in cleaner tape; OKLO July 4 criticality outcome factored in.
+
+**Plan for market-open agent (Wed 7/1 6:30 AM PST):**
+1. **VERIFY positions=[], orders=[]** at open. Confirm 100% cash $9,731.53.
+2. **NO ENTRIES at the open** — Warsh 9:30 AM ET (6:30 AM PT) first-speech binary overlaps open bell; no pre-positioning ahead of a Fed-Chair binary.
+3. **MONITOR Warsh 6:30 AM PT tape** — hawkish reinforce vs data-dep vs dovish surprise = read the algo response in first 15-30 min.
+4. **MONITOR ISM Mfg + ISM Prices 7:00 AM PT** — inflation reinforcement risk (Prices prelim 82.1 vs cons 79 HOT).
+5. **OBSERVE first-hour structure:** does tape absorb Warsh + ISM or fade? Niche gap-behavior (RKLB Day 3 = base or continued distribution? OKLO T-3 = does criticality headline emerge intra-session?).
+6. **POST-OPEN INTRADAY TRIGGERS** (must clear EVERY gate; default = HOLD CASH):
+   - Warsh tape read = NOT hawkish-reinforce (i.e., data-dep or dovish surprise = constructive setup)
+   - ISM Mfg + Prices in-line or softer (Prices <82 = softer inflation read)
+   - Clean own-name catalyst (not tape drift / not lingering ceasefire vibe / not Warsh-relief-rally chase)
+   - Spread tight on tape-active venue
+   - Sized within pre-filter (niche ~$162 cap; alpha ≤10% event-week = ~$973)
+   - 2.5:1 R:R niche / 1.2:1 alpha minimum
+   - No-chase: NOT within 3% of session HOD, NOT extended past 5-day rising envelope
+7. **AVOID** all consumer/staples names (GIS off-theme), STZ/NKE post-print off-theme, GOOGL (broken thesis), AVGO (broken post-print), MU/NBIS/ASML (sizing-fail), ASTS (Sell consensus), NBIS (sizing-fail), AEHR (30% spread + T-13 to print). No defense/energy entries (war-bid unwinding, oil crashing).
+8. **OKLO T-3 to July 4 criticality binary + Fri 7/3 closed = event-week no-chase applies** — no pre-event entry regardless of intraday setup constructiveness.
+9. **RKLB Day 3 chase warning** — trigger requires 3+ session base above $90 with volume reclaim; Mon/Tue = Day 1-2 of gap-extension, NOT basing. Wed intraday behavior watched but no entry unless a genuine 3+ sess consolidation prints (mathematically not possible today).
+10. **Trades this week: 0/20** — full slate.
+11. **Daytrade count 0/5 rolling** — preserve full slate.
+12. **Cash 100%** = full dry powder. Wed stance: capital preservation preferred over forced action ahead of a Fed-Chair binary at the open bell.
+
+Bias: **HOLD-CASH THROUGH THE 3-BINARY EVENT WINDOW (Warsh + ISM + ADP-post-read). STAGE FOR THU NFP PRIMARY WINDOW.** Under-deployment Week 23 Day 3 acknowledged — the disciplined stand-down is the correct posture pre-Warsh-Chair-first-speech; no-chase gate design specifically filters this event overlap. Thu post-NFP remains the primary deployment window; pre-NFP Wed entries require clean Warsh-tape-clearance + ISM-in-line + own-catalyst + basing structure — none of which exist pre-bell.
