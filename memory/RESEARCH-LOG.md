@@ -5548,3 +5548,145 @@ Bias: **HOLD-CASH THROUGH THE 3-BINARY EVENT WINDOW (Warsh + ISM + ADP-post-read
 10. **Trades this week: 0/20 → 0-3/20 after execution.**
 11. **Daytrade count: 0/5 → 0/5 (all entries are open-and-hold, no same-session close).**
 12. Bias: **TRADE if quality trigger clears; HOLD if not.** Under-deployment tolerated ONLY when checklist genuinely fails at open.
+
+## 2026-07-03 Fri Pre-Market Research (Week 11, Day 5 — **US MARKET CLOSED / Independence Day (observed)** / book FLAT / no trading possible today / Mon 7/6 re-open preview)
+
+### Holiday-Session Framing
+**Markets closed today (Fri 7/3) — Independence Day observed (Sat 7/4 falls on weekend).** NYSE + Nasdaq + bond mkts all closed. No pre-market, no cash session, no trading action possible from this routine. Purpose of this run = macro digest of Thu 7/2 NFP + PCE Sun-close + Iran-ceasefire arc + tech-earnings roadmap, staged for the Mon 7/6 re-open decision.
+
+### Account Snapshot (as of Thu 7/2 close)
+- Equity: **$9,731.53** | Cash: **$9,731.53 (100.00%)** | Portfolio value: $9,731.53
+- Buying power: $38,926.12 (4x margin, unused) | Non-marg BP: $9,731.53
+- Long mkt value: $0 | Positions: **0 / 12** | Orders: **0** (broker returns [])
+- last_equity: $9,731.53 | balance_asof: 2026-07-02 | Daytrade count: **0 / 5 rolling**
+- Phase P&L vs $10k baseline: **-$268.47 / -2.685%** (unchanged from 6/26 EOD — 100% cash = zero mark-to-market since Wed 6/25 AAPL trail-fill)
+
+### Sleeve Deployment (21st consecutive under-deployed week)
+- **Alpha:** $0 / 0% (target 65-75%) — 65+ pp under-deployed
+- **Niche:** $0 / 0% (target 25-30%) — 25+ pp under-deployed
+- **Cash:** $9,731.53 / 100% (target 5-10% buffer) — 90+ pp over cash
+- Most extreme dry-powder posture of the run holds intact from Wed/Thu of last week into the July 4 weekend.
+
+### Market Context (Fri 7/3 pre-holiday close snapshot)
+- **US equities: CLOSED** (Independence Day observed)
+- **S&P 500 futures:** 7,549.50 **+0.28%** (+21.25) — thin holiday-session bid
+- **Nasdaq-100 futures:** 29,673.00 **+0.40%** (+117.00)
+- **Dow futures:** 53,385.00 **+0.38%** (+202)
+- **VIX:** not fetched (holiday market)
+- **WTI crude:** ~$68.36 | **Brent:** ~$71.58 — 3-week slide continues on Saudi (6.3M bpd = 90% pre-war) + UAE (+30% June) supply recovery; Iran ceasefire de-escalation priced in
+- **10-yr / 2-yr yields:** 2yr >4% per Morningstar; specific 7/3 print not fetched (bond mkt closed)
+- **US Dollar:** at 2026 highs (structural multiple-compression overhang on tech)
+
+### Sun 7/2 NFP Print (Fri 7/2 tape-move driver) — PRIMARY MACRO BINARY DELIVERED
+- **NFP:** **+57K** vs consensus +114K = **SOFT MISS** (~50 pp below cons)
+- **Unemployment:** **4.2%** (slight down-tick)
+- **Reaction:** Treasury yields **RETREATED**; FedWatch flipped from "hike-lean" toward "hold-lock"
+- **CME FedWatch (Jul 29):** **82.3% HOLD** / 17.7% hike (Fri 7/3 print) — prior week 69.0% hold = **dovish-shift on soft NFP**
+- **Dec 2026:** 46.9% still 3.50-3.75 / 7.6% at 4.00-4.25 (aggregate cut prob 2026 ≈ 25%)
+- **ISM Manufacturing PMI (Jun):** 53.3 = expansion holds
+- **Net:** soft-NFP relief bounce = friendly for tech-multiple story on Mon; hawkish Warsh-grip still frames the multi-month backdrop
+
+### Recent Inflation / Rate Backdrop
+- **Headline PCE:** **4.1% YoY** (highest ~3 yrs) — up from 3.8% prior month
+- **Core PCE:** **3.4% YoY** — up from 3.3%
+- **Fed Chair Warsh:** hawkish-hold posture; median dot = 1 hike still on the table by year-end (9 of 19 policymakers)
+- **JPMorgan raised S&P 2026 target to 7,800** on "Blue Sky" scenario (post-ceasefire + soft-NFP relief)
+- **Goldman raised S&P 2026 target to 8,000** on hyperscale capex $754B (+83%) and semi-EPS +69.6% since Apr-25
+
+### Earnings Calendar — Next Week (7/6-7/10)
+| Date | Ticker | Time | Consensus EPS | Our Stance |
+|------|--------|------|---------------|------------|
+| Mon 7/6 | — | — | (light day, no S&P majors) | N/A |
+| Wed 7/8 AMC | GOOGL/META/AMZN/MSFT | AMC | — | AVOID entries into (event-week 10% sizing cap if setup) |
+| Thu 7/9 AMC | AAPL | AMC | — | AVOID entries into |
+| Thu 7/9 BMO | PEP | BMO | $2.21 (+4.2%) | off-theme AVOID |
+| Fri 7/10 BMO | DAL | BMO | $1.47 (-30%) | off-theme AVOID |
+- **Semis (NVDA/AVGO/MU/INTC) NOT reporting next week** — no own-catalyst path for alpha-semi
+- **Q2 blended S&P earnings growth: 23.1%** (FactSet, +90bps WoW post-MU beat)
+
+### Tech / Semi Watchlist Quote Pull (Thu 7/2 close — quotes stale for holiday)
+| Ticker | Ask | Bid | Spread% | Trip-line (from 6/29 plan) | Setup |
+|--------|-----|-----|---------|----------------------------|-------|
+| NVDA | 211.65 | 194.62 | ~8.0% (stale/holiday) | reclaim $200 = alpha mean-reversion | **ABOVE trip-line** (already reclaimed pre-holiday) |
+| AAPL | 321.19 | 291.60 | ~9.2% (stale/holiday) | reclaim $290 = alpha mean-reversion | **ABOVE trip-line + BOTH trip AAPL Mon exit $285.82** — likely momentum-drifted post-NFP |
+| MSFT | 404.08 | 372.35 | ~7.9% (stale/holiday) | rising-20-DMA reclaim = fresh alpha | context only, spread untradeable |
+| META | 0 | 553.01 | — (ask stale) | rising-20-DMA reclaim = fresh alpha | wait for live spread Mon 7/6 |
+| AVGO | 377.22 | 339.74 | ~10.0% (stale/holiday) | AVOID (broken post-print -14%) | AVOID |
+| MU | 1,014.93 | 910.59 | ~10.3% (stale/holiday) | leader — but **SIZING FAIL** ($1,015 > $162 cap) | PASS (arithmetic) |
+
+- **Post-NFP tape read:** if Thu 7/2 close prints reflect the soft-NFP relief bid, then NVDA/AAPL both cleared their 6/29 pre-market trip-lines during Wed/Thu of the shortened week. Live Mon 7/6 quotes required to re-verify (holiday spreads unreliable).
+- **AVGO broken post-print (-14% on soft AI guide)** — off the alpha list.
+- **MU stays sizing-fail** at any equity below ~$60,900.
+
+### Niche Radar Table (Thu 7/2 close — quotes stale for holiday)
+| Ticker | Ask | Bid | Spread | Sizing (÷$162 cap) | Own Catalyst | Classification | Action |
+|--------|-----|-----|--------|-----|--------------|----------------|--------|
+| ASTS | 86.28 | 85.83 | 0.52% ✓ | PASS (6 sh = $517.68 / 5.32%) | BB 8/9/10 launched 6/17 = SUCCESS; +21% on 6/29 | **WATCH** — consensus "Reduce" (2/11 buys) + high beta 2.60; needs 1+ session basing above $80 + confirming BB 11/12/13 launch cadence | HOLD-WATCH; not yet BUY |
+| RKLB | 100.43 | 100.11 | 0.32% ✓ | PASS (6 sh = $602.58 / 6.19%) | trading +$9 above our 6/24 -10.45% exit ($91.34); NDX-inclusion fade fully repaired | **WATCH** — no own catalyst; would need own-earnings or contract news + basing structure | HOLD-WATCH; not yet BUY |
+| OKLO | 54.60 | 49.38 | 9.51% ✗ (STALE) | PASS (6 sh = $327.60 / 3.37%) | NRC criticality-approval catalyst ~7/4 T-day (holiday); own-catalyst window opens Mon 7/6 | **STALE-SPREAD** — no read possible today; re-check Mon 7/6 with live tape | Re-check Mon 7/6 |
+| AEHR | 80.77 | 59.54 | 26.30% ✗ (STALE) | PASS (6 sh = $484.62 / 4.98%) | no near-term catalyst; SiC/GaN theme dormant | STALE-SPREAD | Re-check Mon 7/6 |
+| NBIS | 243.59 | 182.85 | 24.94% ✗ (STALE) | **FAIL** ($244 > $162 cap = $9,732 × 0.10 / 6) | AI-infra theme; RKLB-like fade duplicate | **SIZING-FAIL + STALE-SPREAD** | AVOID |
+
+- **ASTS setup update:** BB 8/9/10 stack-launch delivered 6/17; +21.4% pop 6/29 on BB 11/12/13 timeline confirmation; ~$3.5B cash vs ~$1.45B annual burn = liquid runway; Cantor $30 PT (Overweight) — WAY below tape ($86); B-Riley $60 PT (Buy) — still below tape. Consensus 12-mo PT ~25% BELOW current price + "Reduce" consensus = **structurally overvalued to sell-side** but momentum + own-catalyst execution intact. Own catalyst next = BB 11/12/13 launch (no date announced). **Verdict: WATCH not BUY** — consensus vs tape divergence = wait for basing structure or A+ pullback to prior breakout.
+- **Sizing pre-filter re-check** (equity × 0.10 / 6 = $9,732 × 0.10 / 6 = **$162.19 cutoff**): ASTS ✓ / RKLB ✓ / OKLO ✓ / AEHR ✓ / NBIS ✗ (unchanged since prior sessions).
+
+### Macro & Geopolitical Watch
+- **Fed policy:** Warsh hawkish-hold; FedWatch 82.3% HOLD Jul 29 post-NFP; median dot still 1 hike by year-end; aggregate 2026 cut prob 25% — **MEDIUM WATCH** — soft-NFP relief opens dovish-shift door, but PCE 4.1% caps it
+- **Inflation:** Headline PCE 4.1% (highest ~3 yrs); Core PCE 3.4% — **HIGH IMPACT structural**, but priced-in near-term (mkt shrugged Thu)
+- **Jobs:** NFP +57K soft miss; unemp 4.2% — **HIGH IMPACT catalyst delivered Thu** = friendly for Mon 7/6 tech-bid re-open
+- **Iran / Middle East:** ceasefire negotiations advancing; Saudi/UAE supply back at 90-100% pre-war; oil -3wk slide — **MEDIUM WATCH / de-escalating**
+- **US-China trade:** no acute headline; hawkish-Warsh-dollar-high = structural dollar-strength pressure on multinationals — **LOW/PRICED IN**
+- **Russia-Ukraine:** stable / off-tape — **LOW/PRICED IN**
+- **US debt ceiling / fiscal:** off-tape currently — **LOW/PRICED IN**
+- **Holiday-shortened tape mechanic:** Thu 7/2 half-day-ish (bond mkt closed 2PM ET); light-volume gap-risk between Thu 7/2 close and Mon 7/6 open on any weekend-headline surprise (Iran-arc, ceasefire fragility, geopolitical black swan)
+
+### This Week's Trade Count (Week 11 — Mon 6/29 to Fri 7/3)
+- **Trades:** **0 / 20** — full slate preserved; Mon 6/29 pre-market plan called HOLD/no entries and it executed as documented; Tue-Thu no entries per no-A+-catalyst-clearance
+- **Daytrade count:** **0 / 5** rolling — full slate preserved
+
+### Actionable Ideas — Mon 7/6 Re-Open Preview
+
+**Cash-side observation:** book flat entering 7/6, 100% cash, zero overnight/weekend gap exposure. Mon 7/6 = the primary re-entry decision window for post-NFP relief structure.
+
+**Alpha candidates for Mon 7/6 (staged watchlist):**
+1. **NVDA** — pre-holiday close $211 (well above $200 trip-line); if Mon opens with clean pullback to rising-20-DMA + volume reclaim, fresh alpha entry at ≤10% sizing (~$970 = 4 sh ~$860). **R:R:** ~3-4% risk to prior support / ~6-8% target on continuation = 1.5-2.0:1 R:R ✓ (clears alpha 1.2:1 floor).
+2. **AAPL** — pre-holiday close $321 (materially above $290 trip-line, +12% since Wed 6/25 trail-fill at $285.82); if Mon opens with clean base + volume reclaim, fresh alpha entry at ≤10% sizing (~$970 = 3 sh ~$963). **R:R:** ~3-4% risk / ~6-8% target = 1.5-2.0:1 R:R ✓. Note the irony of re-entering just above our own trail-exit — the trail's job was to protect capital; the fresh entry is a new decision on new structure.
+3. **MSFT** — pre-holiday close $404; if 20-DMA reclaim + volume, fresh alpha entry ≤10% (~$970 = 2 sh $808).
+
+**Niche candidates for Mon 7/6 (staged watchlist):**
+1. **OKLO** — NRC criticality-approval T+3 days (~7/4 holiday, expect Mon 7/6 tape read); if live spread reopens tight (<1.5%) AND own catalyst confirms bullish AND 2.5:1 R:R clears at $54 area with hard -10% stop ($48.60), **niche entry ≤12% sizing (~$1,168 = 21 sh)**. Full 7-point research required pre-entry.
+2. **ASTS** — WATCH for basing structure above $80 + BB 11/12/13 launch-date announcement; not yet BUY (consensus Reduce + PT below tape = execution-risk-heavy). Full 7-point research required.
+3. **RKLB** — WATCH; needs own-earnings-catalyst or contract news + basing structure; not yet BUY.
+4. **NBIS** — AVOID (sizing-fail at $244 vs $162 cap; re-eval when equity grows).
+
+### Risk Factors for Mon 7/6 Re-Open
+- **Holiday-gap risk:** 3-day close (Thu 2PM ET bond → Mon 9:30 AM ET equity) = 68-hour weekend-headline overhang; Iran-arc surprise / China-headline / geopolitical shock = gap-down risk on Mon open
+- **Post-NFP relief bounce fragility:** soft-NFP dovish-shift could reverse on any hawkish Warsh comment or PCE-2 companion print
+- **Wed 7/8 mega-cap earnings binary:** GOOGL/META/AMZN/MSFT AMC report Wed — any fresh entry Mon-Tue faces T+1-2 event-risk; either wait for post-print or size down 10% max
+- **AVGO broken post-print (-14%)** = active sector-momentum drag; if AVGO carries into Mon session, alpha-semi entries face headwind
+- **Warsh hawkish-grip structural** = multiple-compression risk on any Fed-speaker hawk-signal
+- **Ceasefire fragility** = oil pop tail-risk if any Iran re-escalation weekend headline
+- **Under-deployment Week 21 acknowledged** — floor exists to counter dormancy with QUALITY setups, NOT to force a Mon open chase; A+ discipline stands
+
+### Decision
+**HOLD 100% CASH through Fri 7/3 close (routine mechanic — market closed, no trading possible today).**
+
+**Framework for Mon 7/6 (staged, market-open agent executes):**
+1. **VERIFY positions=[], orders=[]** at Mon open — confirm still 100% cash, no weekend surprise adjustments
+2. **RE-PULL LIVE QUOTES** on NVDA / AAPL / MSFT / ASTS / RKLB / OKLO with cash-session tight spreads BEFORE any entry decision (holiday quotes stale)
+3. **PRIMARY DEPLOYMENT PATH:** post-NFP relief-bid Mon open = candidate window for fresh alpha entries on NVDA + AAPL if:
+   - clean spread (<0.5%)
+   - within event-week 10% sizing cap (both ≤$970)
+   - clean pullback structure / volume-reclaim (not vertical chase)
+   - no-chase gate: NOT within 3% of session HOD, NOT extended past 5-day rising envelope
+   - R:R ≥ 1.2:1 (alpha)
+4. **NICHE CANDIDATE:** OKLO if NRC criticality catalyst confirms bullish + live spread reopens tight + full 7-point research complete + 2.5:1 R:R + -10% hard stop at $48.60 area with entry ≤$54 area = ≤12% sizing (~$1,168)
+5. **AVOID:** AVGO (broken post-print), NBIS (sizing-fail), NKE/PEP/DAL (off-theme), any megacap AMC-reporting Wed 7/8 without 10% event-week sizing cap, any chase >3% above session HOD
+6. **Trades this week (Week 12 starts Mon 7/6): 0 / 20** — full slate
+7. **Day trades: 0 / 5 rolling** — full slate
+8. **Cash: 100%** = full dry powder; **deployment target for Mon = 20-40% alpha if 2 candidates clear** = decisive re-entry off the 21-week under-deployment low. **Under-deployment is the recognized failure mode** — Mon post-NFP relief + defended cash-floor = the setup this framework was designed to weaponize.
+
+**Bias:** **DISCIPLINED PATIENCE THROUGH THE HOLIDAY CLOSE → DECISIVE RE-ENTRY MON 7/6 IF STRUCTURE + GATES CLEAR.** The two-week defense framework (RKLB 6/24 / AAPL 6/25) closed the concentration risk cleanly; Mon 7/6 is the primary window to stage back in on NVDA/AAPL post-NFP + OKLO on NRC-catalyst confirm. Under-deployment Week 21 acknowledged — deployment floor bias engages Mon on quality setups per counter-policy framework.
+
+**Note on holiday-session routine mechanic:** this pre-market run executed the mandatory macro/tech/niche research digest AND documented the Mon 7/6 staging framework. No live trading possible today (market closed). Discord notification SKIPPED per "silent unless urgent" (market closed = no urgent action possible). Next actionable window = Mon 7/6 6:30 AM PT market-open routine.
+
