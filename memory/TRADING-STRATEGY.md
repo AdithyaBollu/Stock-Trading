@@ -131,13 +131,24 @@ Every pre-market routine must surface companies reporting earnings this week and
 ## Deployment & Niche Activation Policy (added 2026-05-22, Week 5 review)
 Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target with an empty niche sleeve. The held book worked every week, but the cash drag was the primary driver of benchmark underperformance in up-weeks. The no-chase gate is correct and stays; the fix is broadening *how* capital gets deployed, not lowering the quality bar.
 
-### Counter-policy 1 — Core-winner add path
-- A proven in-book alpha winner (currently green from entry, thesis intact, drift extending) OR a mega-cap sector leader in a confirmed uptrend may be added **without requiring a fresh earnings catalyst**.
+### Counter-policy 1 — Core-eligible universe entry (rewritten 2026-07-03, Week 11 review)
+The original core-winner add path went inoperative when the last in-book alpha winner (AAPL) trail-defended out on 2026-06-25, leaving no eligible name to add to. Rewritten below as a two-track rule that covers BOTH trail-defended re-entries AND first entries into pre-approved mega-cap leaders — with a context-aware relaxation of the 3%-HOD chase-gate for the Track-B universe.
+
+**Track A — trail-defended winner re-entry (no fresh catalyst required)**
+- Eligible name: any alpha winner previously exited at the 10% trail GTC that establishes a **2+ session base above its trail-out price within 30 trading days** of the exit.
+- Fresh-entry checklist still required at re-entry: spread <1%, R:R ≥1.2:1, sizing ≤10% of equity, tape green, position count ≤12, weekly trades ≤20.
+- 3%-HOD chase-gate applies unchanged for Track A.
+- Currently eligible: **AAPL** (trail-out $285.82 on 6/25; re-entry gate = 2+ session base ≥$286 by session ~40 [~T+30 trading days]).
+
+**Track B — mega-cap leader first-entry with relaxed HOD gate**
+- Pre-approved universe: AAPL, NVDA, MSFT, AMZN, META, AMD (from the Sector Themes list).
 - Entry trigger: a normal 3–5% pullback to a **rising 20-DMA** with a **volume reclaim** off that level.
-- Sizing: ≤10% of equity per add; combined position must still respect the 15% per-alpha-position cap.
-- Still no-chase gated: never buy within 3% of the session HOD; never add into a vertical/extended move with no pullback structure.
-- Counts toward the 20-trade/week limit.
-- Purpose: lift sleeve deployment toward target on quality names already validated.
+- Sizing: ≤10% of equity per entry; must still respect the 15% per-alpha-position cap on any subsequent size-up.
+- Additional gate conditions: tight spread <0.5%, session volume ≥ 20-day average, tape green >+0.3%, next earnings date verified against issuer IR / broker calendar.
+- **3%-HOD chase-gate relaxes to 1.5%-HOD for Track-B entries satisfying ALL the above conditions.** The relaxation acknowledges that a confirmed-trend mega-cap leader on a Day-2+ hold above a prior key level with tight spread + volume + tape green is qualitatively different from a fresh unvalidated momentum name at HOD. For all other fresh-entry candidates the 3%-HOD gate remains unchanged.
+- Never add into a vertical/extended move with no pullback structure (rule unchanged).
+
+Both tracks count toward the 20-trade/week limit. Purpose: convert the Week 5 policy from "extend held winners" (empty universe post-AAPL-exit) to "re-enter validated names AND graduate pre-approved mega-cap leaders" — a rule that has a non-empty eligible universe at all times.
 
 ### Counter-policy 2 — Mandatory niche screen
 - The pre-market routine MUST produce an explicit niche-candidate list **every session**: core watchlist (ASTS, RKLB, OKLO, AEHR, NBIS), FDA calendar, small-cap breakout scan, mid-cap post-earnings drift.
