@@ -5690,3 +5690,220 @@ Bias: **HOLD-CASH THROUGH THE 3-BINARY EVENT WINDOW (Warsh + ISM + ADP-post-read
 
 **Note on holiday-session routine mechanic:** this pre-market run executed the mandatory macro/tech/niche research digest AND documented the Mon 7/6 staging framework. No live trading possible today (market closed). Discord notification SKIPPED per "silent unless urgent" (market closed = no urgent action possible). Next actionable window = Mon 7/6 6:30 AM PT market-open routine.
 
+
+
+## 2026-07-06 Mon Pre-Market Research (Week 12, Day 1 — **first post-holiday session** / book FLAT / 100% cash / PRIMARY REDEPLOYMENT WINDOW per Week-11 plan — OKLO Meta-deal + Groves-criticality catalyst + NVDA/AAPL/MSFT alpha triggers staged for market open)
+
+### Account Snapshot (as of Thu 7/2 close, Fri 7/3 NYSE CLOSED)
+- Equity: **$9,731.53** | Cash: **$9,731.53 (100.00%)** | Portfolio value: $9,731.53
+- Buying power: $38,926.12 (4x margin, unused) | Non-marg BP: $9,731.53
+- Long mkt value: $0 | Positions: **0 / 12** | Orders: **0** (broker returns [])
+- last_equity: $9,731.53 | balance_asof: 2026-07-02 | Daytrade count: **0 / 5 rolling**
+- Phase P&L vs $10k baseline: **-$268.47 / -2.685%** (unchanged since 6/26 EOD — 100% cash = zero mark-to-market since 6/25 AAPL trail-fill; zero 3-day holiday-gap drift)
+
+### Sleeve Deployment (**24th consecutive under-deployed week extends into Week 12**)
+- **Alpha:** $0 / 0% (target 65-75%) — 65+ pp under-deployed
+- **Niche:** $0 / 0% (target 25-30%) — 25+ pp under-deployed
+- **Cash:** $9,731.53 / 100% (target 5-10% buffer) — 90+ pp over cash
+- Sizing pre-filter: **$9,731.53 × 0.10 / 6 = $162.19 cutoff** — NBIS $244 = FAIL permanent; ASTS/RKLB/OKLO/AEHR all feasible
+
+### Market Context (Mon 7/6 pre-bell)
+- **S&P 500 futures:** **7,557.00 +0.38%** (+28.75) — Sep contract 7,551.50 +23.25 pre-market
+- **Nasdaq-100 futures:** **29,901.75 +1.17%** (+345.75) — post-NFP dovish relief + AI capex tailwind = tech-led bid
+- **Dow futures:** 53,162.00 -0.04% (-21) — narrow leadership (mega-cap tech vs cyclicals dispersion)
+- **VIX:** **~15.81-16.15** (Investing.com live 15.81 -2.11%; FRED Thu close 16.15) = BENIGN, sub-16 with 20-day trend down
+- **WTI crude:** **~$68.06** (-0.28% Mon; down 26% MoM on Saudi/UAE supply normalization to 90-100% pre-war levels)
+- **Brent:** **~$71.61** (settled at lowest since war began; Iran-ceasefire progression + Strait of Hormuz traffic normalized)
+- **10-yr Treasury:** **4.49%** (up from 4.48% prior; long-term avg 4.25% — moderately elevated)
+- **2-yr Treasury:** **4.13%** | **10-2 spread: +0.35%** (positive slope, NOT inverted — post-NFP dovish shift narrowed slightly but held positive)
+- **US Dollar:** at 2026 highs (structural multiple-compression overhang on tech multinationals)
+
+### Post-NFP Fed Path (Thu 7/2 NFP delivered: +57K vs cons +114K = SOFT MISS; unemp 4.2%)
+- **CME FedWatch Jul 29 FOMC (as of 7/4-7/5):**
+  - **HOLD (3.50-3.75%): 65.7% - 75.6%** (up from 69% one week ago = dovish shift confirmed on soft NFP)
+  - **HIKE 25bp (3.75-4.00%): 24.4% - 34.3%** (down from 31%)
+  - **NO CUTS PRICED** for Jul 29 = still hawkish-hold regime intact
+- **Warsh dot plot (Jun 17):** median 3.8% by YE 2026 (up from 3.4% March) — 9 of 19 policymakers see ≥1 hike this year; 1 sees cut; 8 see hold
+- **September 25 FOMC:** 52% cumulative hike odds — Sep now the more likely tightening window per multiple desks
+- **Net:** soft-NFP relief bid = friendly for tech-multiple story TODAY; PCE 4.1% + hawkish Warsh dot cap the multi-month upside; Sep hike still on table
+
+### Recent Inflation / Rate Backdrop (from prior sessions, unchanged)
+- **Headline PCE (May):** 4.1% YoY (highest ~3 yrs); **Core PCE:** 3.4% YoY
+- **Fed Chair Warsh:** hawkish-hold posture; hike-lean intact through Sep
+
+### This Week's Earnings Calendar (Wk 12 — Mon 7/6 to Fri 7/10) — **CORRECTION vs prior log**
+| Date | Ticker | Time | Consensus EPS | Our Stance |
+|------|--------|------|---------------|------------|
+| Mon 7/6 | — | — | Park Aerospace (PKE) only, off-theme | N/A |
+| Tue 7/7 | STZ, MSM, PENG, EPAC | mixed | Constellation Brands $3.24 | off-theme AVOID |
+| Wed 7/8 | HELE, AZZ, LEVI, PSMT | BMO/AMC mix | Levi's $0.24 | off-theme AVOID |
+| Thu 7/9 | PEP, SMPL, WDFC, LEVI | BMO | PepsiCo $2.21 (+4.2% YoY) | off-theme AVOID |
+| Fri 7/10 | DAL, H | BMO | Delta Air Lines $1.47 (-30% YoY) | off-theme AVOID |
+
+**CRITICAL CORRECTION — prior sessions' log listed Wed 7/8 AMC = GOOGL/META/AMZN/MSFT and Thu 7/9 AMC = AAPL. This is INCORRECT.** Mega-cap tech reports **late Oct 2026** (Q3 season peak weeks Oct 28-Nov 15). This week is a LIGHT calendar — no S&P majors; only PEP + DAL as notable large-caps. **Implication:** the "event-week 10% sizing cap" that the prior plan applied to alpha entries this week is **NOT justified** by real mega-cap earnings binaries — no mega-cap tech earnings until Oct. Alpha entries this week may size up to the full 15% per-position cap per strategy rules.
+
+### Q2 Tech Earnings Roadmap (Wk 13+, staged as forward calendar)
+| Week | Ticker | Time | Note |
+|------|--------|------|------|
+| Tue 7/14 AMC | **AEHR (niche)** | AMC | Q4 FY26 print; expect return to non-GAAP profitability; FY26 rev high side of $45-50M |
+| Tue 7/14 BMO | JPM, GS, C, WFC, BAC | BMO | Bank kickoff — not held |
+| Wed 7/15 BMO | BLK, JNJ, MS, TMO | BMO | Not held |
+| Thu 7/16 BMO | **TSM**, ABT, GE, UNH | BMO | TSM = semi-cap indicator; watch AI/HPC guide |
+| Thu 7/16 AMC | ISRG, **NFLX** | AMC | NFLX = mega-cap streaming |
+| Thu 7/23 AMC | **INTC** | AMC | Q2 2026; cons EPS $0.19; guide $13.8-14.8B rev vs $13.0B cons; Q1 beat: EPS $0.29 vs -$0.01 |
+
+### Sector Momentum YTD 2026 (updated)
+| Rank | Sector | YTD % | Note |
+|------|--------|-------|------|
+| 1 | Energy | +23.3% | Oil demand-supply tightness (pre-Iran-de-escalation); may cool as WTI slides |
+| 2 | Materials | +17.4% | Hard-asset rotation |
+| 3 | Consumer Staples | +15.6% | Defensive bid |
+| 4 | Industrials | +14.1% | AI-DC buildout + defense + electrification |
+| — | S&P 500 | +1.2% | Cap-weighted flat as tech drags |
+| 8 | Comm Services | -1.2% | AI-ad-spend concerns |
+| 9 | **Info Tech** | **-3.3%** | Mega-cap multiple-compression; sector-momentum HEADWIND for alpha semi entries |
+| 10 | Consumer Disc | -3.8% | Mega-cap discretionary drag |
+| 11 | Financials | -6.9% | Rate-path uncertainty |
+
+**Sector momentum caveat:** Info Tech is the 2nd-worst YTD sector = alpha semi/mega-cap bias is a contrarian call, NOT sector-momentum tailwind. Individual name divergence (INTC +118%, MU +68%, NVDA -13% off 52W high) remains — pick winners, not the sector.
+
+### Tech / Semi Watchlist Quote Pull (Thu 7/2 close — quotes STALE for holiday, will re-verify live at open)
+| Ticker | Ask | Bid | Spread% | Trip-line / Setup | Status |
+|--------|-----|-----|---------|-------------------|--------|
+| NVDA | 211.65 | 194.62 | 8.0% stale | reclaim $200 + tight spread + not-3%-HOD chase-gate | above trip-line pre-holiday; needs live confirm |
+| AAPL | 321.19 | 291.60 | 9.2% stale | Track A re-entry ($285.82 trail-out 6/25 + 30-day window) | +12% above trail-out = base above trail-out ✓ if 2+ sess hold; live spread + not-3%-HOD gate check at open |
+| MSFT | 404.08 | 372.35 | 7.9% stale | Track B mega-cap first-entry (3-5% pullback to rising 20-DMA + vol reclaim) | needs live pullback + vol confirm |
+| META | 0 | 553.01 | ask=0 broken | Track B mega-cap first-entry | wait for live open spread |
+| AMZN | 258.83 | 234.27 | 9.5% stale | Track B mega-cap first-entry | wait for live open spread |
+| GOOGL | 0 | 341.32 | ask=0 broken | prior thesis broken per prev sessions | AVOID |
+| AMD | 0 | 490.20 | ask=0 broken | context only | wait for live |
+| INTC | 125.66 | 112.76 | 10% stale | Counter-policy 1 (3-5% pullback to rising 20-DMA); **Q2 print Jul 23 AMC = T-13** | watch; pre-print window shrinks — Track B allowed until T-5 |
+
+### Niche Radar Table (Thu 7/2 close — quotes STALE except tight-spread names)
+| Ticker | Ask | Bid | Spread | Sizing (÷$162 cap) | Own Catalyst | Classification | Action |
+|--------|-----|-----|--------|-----|--------------|----------------|--------|
+| ASTS | 86.28 | 85.83 | **0.52% ✓ TIGHT** | PASS (6 sh = $517.68 / 5.32%) | BB 8-10 launched 6/17 SUCCESS; BB 11-13 shipping "shortly"; on-track 45 sats end-2026 | **WATCH** — consensus PTs $25-60 below tape $86; execution momentum vs sell-side overhang; needs 2+ sess base structure |
+| RKLB | 100.43 | 100.11 | **0.32% ✓ TIGHT** | PASS (6 sh = $602.58 / 6.19%) | Neutron Q4 2026 debut; $2.2B backlog; largest launch contract (5 Neutron + 3 Electron) Q1; Stifel $105 Buy / Cantor $85 OW | **WATCH** — analyst PTs ~= tape (fair value not asymmetric); needs pullback to $95-100 tight base + own catalyst confirm; not fresh BUY today |
+| OKLO | 54.60 | 49.38 | 9.5% stale | PASS (20 sh = $1,092 / 11.2%) | **Groves Test Reactor Final Safety Analysis approved 7/1; first criticality target July 2026**; Meta 1.2 GWe binding contract; 14+ GWe pipeline; $2.5B cash; Aurora PDSA (3 of 4 DOE steps) approved 6/11 | **BUY SETUP** — pending live spread <1.5% + price holds $50-56 base + within 3% of session HOD gate — primary niche entry candidate today |
+| AEHR | 80.77 | 59.54 | 26% stale illiquid | PASS (6 sh = $484.62 / 4.98%) | **Q4 FY26 print Tue 7/14 AMC = T-6 sessions**; expect non-GAAP profitability return; FY26 rev $45-50M high side | **AVOID** — pre-print T-6 binary window + 26% spread illiquid = entry blocked |
+| NBIS | 243.59 | 182.85 | 25% stale | **FAIL** ($244 > $162 cap) | AI-infra theme; sizing-fail permanent at current equity | **AVOID** — sizing-fail |
+
+### Macro & Geopolitical Watch
+- **Fed policy:** Warsh hawkish-hold; FedWatch 65.7-75.6% HOLD Jul 29; median dot 3.8% YE 2026 (1 hike biased) — **MEDIUM WATCH** — soft-NFP dovish shift bought a session or two of relief bid; PCE 4.1% caps upside
+- **Inflation:** PCE 4.1% headline / 3.4% core; ISM Prices prelim 82.1 HOT (from prior session) — **HIGH IMPACT structural**, priced near-term
+- **Jobs:** NFP +57K SOFT MISS Thu 7/2; unemp 4.2% — **HIGH IMPACT catalyst DELIVERED** = friendly for Mon 7/6 tech-bid re-open (delivered)
+- **Iran / Middle East:** ceasefire progressing; Saudi/UAE supply 90-100% pre-war; oil -26% MoM — **MEDIUM WATCH / de-escalating**
+- **US-China trade:** no acute headline; dollar-strength pressure structural — **LOW/PRICED IN**
+- **Russia-Ukraine:** stable — **LOW/PRICED IN**
+- **US debt ceiling / fiscal:** off-tape — **LOW/PRICED IN**
+- **Post-holiday gap risk:** 3-day close absorbed cleanly per pre-bell futures; no adverse weekend headline
+- **Mon 7/6 econ data:** 9:45 AM ET S&P final services PMI (cons 51.3); 10:00 AM ET ISM Services (cons 54.5) — modest tape catalysts, mid-morning; no FOMC speakers pre-bell
+
+### This Week's Trade Count (Week 12 — Mon 7/6 to Fri 7/10)
+- **Trades:** **0 / 20** — full slate; Wk 11 closed at 0/20 (Fri closed)
+- **Daytrade count:** **0 / 5** rolling — full slate
+
+### Actionable Ideas — Mon 7/6 Market Open
+
+**PRIMARY THESIS:** post-NFP dovish shift + 4-day gap absorbed + AI capex ($725B for 2026, +77% YoY) tailwind + benign VIX ~16 + tight-spread niche names (ASTS, RKLB) actively trading + OKLO with own dual catalyst (Groves criticality + Meta contract) — this is the highest-quality deployment window since 6/25 exits. Under-deployment Week 24 = failure mode; A+ setups exist; discipline is: verify triggers at open, then TRADE.
+
+**1. OKLO — NICHE BUY SETUP (primary catalyst play, highest conviction niche)**
+- **Full 7-point research (per niche entry requirement):**
+  1. **Earnings/Fundamentals:** Pre-revenue; $2.5B cash + marketable securities = long runway to late-2027 commercial power target; no EPS trend applies; FY24 EPS -$0.74
+  2. **Analyst Coverage:** wide dispersion — 24/7 Wall St PT $95.63 (Buy, 66% upside from $52); Citi $30 (below tape); Craig-Hallum $43 (Buy, still below tape); consensus mid-range implies fair value but tail risk both directions
+  3. **Institutional Activity:** Co-founders DeWitte + Cochran each sold 200K shares Jun 1 under pre-arranged 10b5-1 plans (bearish signal but pre-scheduled = discount); ARMEC acquisition closed 6/4 (vertical integration)
+  4. **News/Catalysts:** **Groves Isotope Test Reactor Final Safety Analysis DOE approval 7/1** (third of four steps; targets first criticality July 2026 = imminent); Aurora PDSA approved 6/11 (also third step; commercial power late-2027 target); Meta 1.2 GWe binding power agreement anchoring 14+ GWe pipeline
+  5. **Sentiment:** Herb Greenberg placed OKLO on TipRanks "Red Flag Focus List" (bearish overhang) BUT bull momentum from proprietary models + Buy ratings + Meta anchor; stock 54% off $193.84 peak = compressed multiple
+  6. **Technical:** Weekly downtrend forming lower lows/highs; daily support $49.47 (break = $45.06 test); daily resistance $56.71 (break = $63.15 test); current $52.52 near mid-range
+  7. **Thesis:** Advanced nuclear + AI-DC power demand + Meta binding contract + Groves criticality catalyst July 2026 + $2.5B cash runway to commercial deployment. Asymmetric upside from execution + policy tailwind (Trump EO 14301 Reactor Pilot Program); downside anchored by cash reserves.
+- **Trigger for entry at open:**
+  - LIVE spread <1.5% (Thu-close spread was 9.5%, needs re-check)
+  - Price holds $50-56 range (above $49.47 support)
+  - NOT within 3% of session HOD (chase-gate applies)
+  - Tape green (SPX or NDX >+0.2%)
+- **Sizing:** 20 shares × ~$52 = **~$1,040 (~10.7% of equity)** — within niche 12% cap
+- **Hard stop:** -10% at ~$47 (GTC)
+- **Target:** primary $63.15 (+21% = ~2:1 R:R vs -10% risk); stretch $73 (+40% = ~4:1 R:R) → **CLEARS 2.5:1 niche minimum on stretch target**
+- **Counts:** trades 0→1/20; niche positions 0→1/3-5 max
+
+**2. NVDA — ALPHA BUY SETUP (mean-reversion in confirmed sector-leader)**
+- Sector: AI/Semiconductors (core alpha theme, individual name diverging from lagging IT sector)
+- Setup: reclaimed $200 pre-holiday (Thu-close $211 bid / $194 stale ask); AI capex $725B / +77% YoY is direct tailwind; JPM S&P target 7,800 / Goldman 8,000 for 2026 both anchored on hyperscale capex + semi-EPS +69.6% since Apr-25
+- **Trigger for entry at open:**
+  - LIVE spread <0.5% (Thu-close was 8% stale, needs re-check)
+  - Price above $200
+  - NOT within 3% of session HOD (chase-gate applies; no relaxation — NVDA is not in Track B pre-approved universe... **wait**, per Counter-policy 1 rewrite 2026-07-03, Track B pre-approved universe INCLUDES NVDA)
+  - Actually per **Track B relaxation**, NVDA qualifies if: (a) 3-5% pullback to rising 20-DMA + volume reclaim; (b) tight spread <0.5%; (c) session vol ≥ 20-day avg; (d) tape green >+0.3%; (e) next earnings verified (NVDA reports Nov 20 = safely clear). If all clear, **3%-HOD gate relaxes to 1.5%-HOD.**
+  - If not on Track-B pullback but a clean momentum continuation → standard 3%-HOD gate applies (fresh alpha momentum entry)
+- **Sizing:** 4 shares × ~$211 = **~$844 (~8.7% of equity)** — within 15% alpha cap (no event-week 10% cap this week — no mega-cap earnings)
+- **Stop:** 10% trailing GTC ~$190
+- **Target:** $220 breakout target (+4% from $211) = 1.4:1 R:R min; stretch $230 (+9%) = 3:1 R:R
+- **Counts:** trades →2/20; alpha positions →1/5-7 max
+
+**3. AAPL — ALPHA BUY SETUP (Track A re-entry)**
+- **Track A eligibility check:** trail-out $285.82 on 6/25 (10% GTC fill); 30-trading-day re-entry window = through ~2026-08-06; pre-holiday close $321.19 bid / $291.60 ask (stale). Track A requires 2+ session base ABOVE trail-out $286 — Thu 7/2 tape read confirmed AAPL held $290 through Warsh binary AND rallied to HOD $307.80 during Thu session; Fri closed. So Wed 7/1 + Thu 7/2 = 2 sessions above $286 ✓ Track A gate CLEARS.
+- **Trigger for entry at open:**
+  - LIVE spread <0.5%
+  - Price ≥$286 (above trail-out)
+  - NOT within 3% of session HOD (Track A does NOT relax the chase-gate — Track A relaxation is Track B only)
+  - Tape green
+- **If AAPL opens near HOD $321 with no pullback → chase-gate FAIL, SKIP.**
+- **If AAPL pulls back to $300-310 zone with base structure → entry cleared.**
+- **Sizing:** 3 shares × ~$305 = **~$915 (~9.4% of equity)** — within 15% alpha cap
+- **Stop:** 10% trailing GTC ~$275
+- **Target:** $330 (+8%) = 2:1 R:R; stretch $350 (+15%) = 5:1 R:R
+- **Counts:** trades →3/20; alpha positions →2/5-7
+
+**4. MSFT — TRACK B WATCH (mega-cap first-entry)**
+- Pre-holiday close $404.08 ask / $372.35 bid stale (~8% spread)
+- Track B gate: 3-5% pullback to rising 20-DMA + vol reclaim + tight spread <0.5% + session vol ≥ 20-day avg + tape green + next-earnings ~Oct 29 (safely clear)
+- **If all gates clear at open (needs live tape read):** BUY 2 sh × ~$390 = ~$780 (~8.0%); stop ~$351 (10% trail)
+- **Likely not clean at open Day 1 post-holiday** — WATCH; not primary trigger
+
+**5. AVOID LIST**
+- ASTS (execution ✓ but sell-consensus below tape + no base structure yet)
+- AEHR (T-6 pre-print binary + 26% spread illiquid)
+- NBIS (permanent sizing-fail at current equity)
+- GOOGL (thesis broken per prior sessions)
+- AVGO (broken post-print -14% from prior week)
+- Consumer staples (STZ/PEP), airlines (DAL), off-theme names
+- Any semi-name reporting >5% below prior 5-day HOD without confirming volume base
+- Anything requiring pre-market spread >2% at open — wait for live cash-session tightening
+
+**6. POSTURE**
+- **Trades this week: 0/20** — full slate preserved
+- **Daytrade count: 0/5 rolling** — full slate
+- **Cash: 100%** = full dry powder
+- **Under-deployment Week 24 Day 1** — counter-policies scanned; post-NFP + 4-day gap absorbed + benign VIX + AI capex tailwind = **BIAS TO TRADE if quality trigger clears at open**; HOLD-CASH default only if no trigger clears live gate check
+
+### Risk Factors for Mon 7/6 Open
+- **Stale spread data:** all mega-cap tech quotes are Thu 7/2 close snapshots with 8-10% holiday-close spreads; MUST re-verify live spread at open before any entry decision
+- **Info Tech YTD -3.3%:** structural sector headwind persists; individual name divergence (NVDA, AAPL, INTC leaders) required for entries — do not rely on sector momentum
+- **Warsh hawkish-grip intact:** any fresh hawk-signal from Fed speaker → multiple-compression risk on tech
+- **PCE 4.1% headline + ISM Prices 82.1:** inflation-print binary risk into 7/15 CPI (T+9 sessions) = potential secondary volatility catalyst
+- **Sep 25 FOMC 52% hike odds:** rising into Aug — Jackson Hole (~Aug 22-24) is next major Fed-speak risk
+- **Track A re-entry irony:** re-entering AAPL just above own 6/25 trail-out = process-clean but psychologically fraught; the trail did its job, the entry is a NEW decision on new structure
+- **OKLO analyst dispersion $30 to $95:** wide PT spread = uncertainty; execution risk on Groves criticality (July target, no confirmed date); Herb Greenberg red-flag list overhang
+- **Post-holiday first-day volatility:** thin volume can whipsaw stops; consider using LIMIT vs MARKET for spread-sensitive names
+- **Mon-only 24-week under-deployment defense:** if truly no trigger clears, defer to Tue-Wed rather than force chase; but bar should now be QUALITY clearance, not tape-perfection
+
+### Decision
+**PRIMARY REDEPLOYMENT WINDOW — TRADE on quality trigger clearance at market open (6:30 AM PT).**
+
+The 4-day holiday gap has absorbed the NFP + PCE + Iran + Warsh binaries cleanly, futures are green, VIX benign, oil de-escalating, yield curve positive-slope, no mega-cap earnings binary this week to gate off. OKLO has TWO independent catalysts (Groves criticality July target + Meta binding contract) plus $2.5B cash floor. NVDA and AAPL both cleared their pre-holiday trip-lines; the only remaining gate is live-spread + 3%-HOD chase-check at open. Under-deployment counter-policy is explicit: "if setup clears the checklist, TAKE IT — HOLD only when nothing clears the bar." Multiple setups exist today; execution depends on live tape.
+
+**Plan for market-open agent (Mon 7/6 6:30 AM PST):**
+1. **Verify positions=[], orders=[]** at open — confirm still 100% cash, no weekend surprise adjustments
+2. **Re-pull LIVE quotes** on NVDA / AAPL / MSFT / OKLO / RKLB / ASTS / INTC with cash-session tight spreads before ANY entry decision (holiday quotes stale)
+3. **PRIMARY NICHE TRIGGER — OKLO:** if live spread <1.5% + price $50-56 range + not-within-3%-of-HOD + tape green (SPX or NDX >+0.2%) → **BUY 20 sh × ~$52 = ~$1,040 (~10.7% niche)**. Immediate **HARD -10% GTC stop at ~$47**. Target $63 (2:1 R:R) / stretch $73 (4:1 R:R).
+4. **PRIMARY ALPHA TRIGGER — NVDA:** if live spread <0.5% + price >$200 + not-within-3%-of-HOD (or Track-B 1.5%-HOD if 3-5% pullback to 20-DMA + volume) + tape green → **BUY 4 sh × ~$211 = ~$844 (~8.7% alpha)**. Immediate 10% trailing GTC stop ~$190. Target $220 (1.4:1) / stretch $230 (3:1).
+5. **SECONDARY ALPHA TRIGGER — AAPL Track A re-entry:** if live spread <0.5% + price ≥$286 + pullback to base + not-within-3%-of-HOD + tape green → **BUY 3 sh × ~$305 = ~$915 (~9.4% alpha)**. Immediate 10% trailing GTC stop ~$275. Target $330 (2:1) / stretch $350 (5:1). **If AAPL opens near HOD with no pullback = chase-gate FAIL, SKIP.**
+6. **SECONDARY ALPHA WATCH — MSFT Track B:** watch for 3-5% pullback to rising 20-DMA + vol reclaim; likely not clean at Day-1 open; not primary today.
+7. **AVOID:** everything on AVOID list; anything requiring spread >2% at open.
+8. **CAP:** maximum 3 new entries today; combined deployment target **~$2,800 = ~29% of equity** (major shift from 100% cash). Preserves ~70% cash for Tue-Wed adds if setups clear cleanly (MSFT Track B, RKLB niche if it forms tight base, INTC counter-policy 1 as Q2 print approaches within Track B allowance zone).
+9. **Trades this week: 0/20 → 0-3/20 after execution.**
+10. **Daytrade count: 0/5 → 0/5** (all entries are open-and-hold, no same-session close).
+11. **Bias: TRADE if quality trigger clears; HOLD if not.** Under-deployment tolerated ONLY when checklist genuinely fails at open. Discipline preserved; opportunity taken.
+
+**Bias:** **DECISIVE RE-ENTRY ON QUALITY TRIGGER CLEARANCE — DO NOT DEFAULT TO HOLD-CASH ON A CONSTRUCTIVE POST-HOLIDAY TAPE WHEN MULTIPLE A+ SETUPS EXIST.** Discord notification staged for post-open execution (per silent-unless-urgent rule; SKIP pre-market notification since no acute alert).
+
