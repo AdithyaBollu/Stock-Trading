@@ -5936,3 +5936,167 @@ The 4-day holiday gap has absorbed the NFP + PCE + Iran + Warsh binaries cleanly
 **Tape read (~06:37 AM PT):** SPY $748.17 / QQQ $720.00 = green tape context confirmed but insufficient to override individual gate fails. Under-deployment counter-policy explicitly states: **"if setup clears the checklist, TAKE IT — HOLD only when nothing clears the bar."** No setup clears the checklist. AAPL is the most tantalizing miss (3 of 4 gates ✓) — but the 3%-HOD chase-gate exists precisely to filter buying at intraday tops; AAPL gapped OVER Thu HOD $307.80 on open with no pullback, and buying at HOD-extension is textbook chase behavior. OKLO 10.5% spread is opening-minute noise — will re-evaluate at midday if spread tightens to <1.5% AND OKLO Jul-4 criticality outcome resolves cleanly. Bar was set precisely to filter this scenario.
 
 **Notes:** Mon 7/6 open (Week 12 Day 1, first post-holiday session / OKLO Jul-4 criticality window absorbed over 3-day gap) — equity $9,731.53 = **$0.00 / 0% on the day** vs Thu 7/2 last_equity $9,731.53 (flat-book overnight zero drift), **phase P&L unchanged at -$268.47 / -2.685%** vs $10k baseline. Pre-market designated Mon as PRIMARY redeployment window with 4 explicit triggers (OKLO niche primary, NVDA alpha primary, AAPL Track A secondary, MSFT Track B watch). Post-holiday open (~6:37 AM PT): **OKLO spread 10.5% = hard FAIL** on primary niche trigger; **NVDA $197 = hard FAIL price gate** ($2.84 short); **AAPL $308.9 = hard FAIL 3%-HOD chase-gate** (gap-up above Thu HOD $307.80 with no pullback); **MSFT 1% spread = FAIL Track B <0.5% gate**; **INTC 1.9% pullback = FAIL 3-5% zone**; **RKLB extending + 4.5% spread = FAIL**. Zero triggers clear ALL boxes. Per pre-market Step 11: **"Bias: TRADE if quality trigger clears; HOLD if not. Under-deployment tolerated ONLY when checklist genuinely fails at open."** The checklist genuinely fails at open. **25th-consecutive-week under-deployed** locks in (Week 12 Day 1 = start of Week 12) but the specific gate failures are structural (OKLO opening spread, NVDA sub-$200, AAPL HOD-extension gap-up) — NOT reflexive HOLD, NOT missing a quality setup. Sleeve posture: 0% alpha / 0% niche / 100% cash preserved. **Trades this week: 0/20** — full slate intact. **Daytrade count 0/5 rolling** preserved. **Discord notification SKIPPED per routine STEP 7** (no trade placed). **Commit committed for RESEARCH-LOG continuity** (per prior-day pattern to preserve session state across ephemeral container restarts). **Re-evaluation windows:** midday Mon 7/6 (re-check OKLO if spread tightens <1.5% AND criticality outcome confirmed + AAPL 3%-below-HOD pullback OR NVDA $200 clean break); Tue 7/7 pre-market (Week 12 Day 2 continuation read + INTC earnings-date verification data completion). **Forward catalysts:** Wed 7/8 AMC GOOGL/META/AMZN/MSFT mega-cap earnings binary (event-week 10% sizing cap if any entry); Thu 7/9 AMC AAPL earnings; AEHR Q4 print Jul 14 (T-8); Q3 earnings preview window opens Jul 15 (T-9). **Bias post-open: DEFEND CASH through opening-minute spread absorption; midday re-check for OKLO spread-tightening + criticality outcome OR AAPL pullback into 3%-below-HOD zone OR NVDA $200 clean break; primary continuation window is Tue 7/7 pre-market with cleaner Day-2 tape + fresh trigger re-arming into Wed AMC mega-cap earnings binary.**
+
+
+## 2026-07-07 — Pre-Market Research (Week 12 Day 2, Tuesday — Day-2 post-holiday continuation / book FLAT / 100% cash / NDX futures RED -0.62% + AI semi selloff Mon 7/6 (MU -5.5%, AMD -4.3%, INTC -5.3%) / FOMC minutes T-1 Wed 7/8 / bias: SELECTIVE — quality trigger clearance required, weak tech tape lowers probability of clean setup)
+
+### Account Snapshot (Tue 7/7 ~05:07 AM PT)
+- **Equity:** $9,731.53 | **Cash:** $9,731.53 (100.00%) | **Buying power:** $38,926.12 (4x margin, unused)
+- **Day P&L:** $0.00 (0.000%) vs Mon last_equity $9,731.53 (flat-book overnight zero drift extends Day 13)
+- **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline (unchanged since 6/25 AAPL trail-out)
+- **Balance_asof:** 2026-07-02 (still stale — Alpaca portfolio-history hasn't rolled to Mon close yet; equity/cash lines fully current + zero long_market_value corroborates cash-only book)
+- **Positions:** 0 / 12. **Orders:** 0. Broker `positions=[]` / `orders=[]` confirmed.
+- **Daytrade count:** 0/5 rolling. **Trades this week:** 0/20 — full slate.
+
+### Sleeve Status
+- **Alpha:** $0 (0%) vs 65-75% target = **~65% underweight**
+- **Niche:** $0 (0%) vs 25-30% target = **~25% underweight**
+- **Cash:** 100% vs 5-10% buffer band = **90% over-cash**
+- **25th-consecutive-week under-deployed** (Week 12 Day 2 start); NO trigger clearance since 6/25 AAPL trail-out (Day 10 all-cash into cash-session open).
+
+### Market Context (~05:07 AM PT / T-83 min to open)
+- **ES futures:** 7,580.25 **-0.15%** (mildly red, orderly)
+- **NDX futures:** 29,756.50 **-0.62%** (semi-driven weakness continues — SOX broke uptrend Mon, KOSPI -8% overnight amplified selloff)
+- **Dow futures:** 53,416 **+0.08%** (broadening rally in non-tech)
+- **VIX:** 15.96 **+2.5%** (still low-vol bull; contango; front-month futures 18.10 pricing modest volatility ahead of FOMC minutes)
+- **WTI:** ~$69/bbl (range $67.83-$69.20); **Brent:** ~$72/bbl (+$0.05); oil consolidating post-Iran-de-escalation
+- **10Y Treasury:** yields drifting lower post-Warsh hawkish tilt (but curve holding positive slope)
+- **Sector YTD (S&P 500):** Energy +23.3% (leader), Materials +17.4%, Cons Staples +15.6%, Industrials +14.1% | LAGGARDS: Comm Svcs -1.2%, **Info Tech -3.3%** (structural headwind persists), Cons Disc -3.8%, **Financials -6.9%**
+- **Mon 7/6 close:** DJI 52,900 (new record high), SPY $751 +0.4%, QQQ $726 +0.8% (early), **but tech-heavy NASDAQ Comp closed -0.8% at 25,832.67 on AI semi selloff** — DJI/SPX/QQQ session-open divergence resolved to tech-weakness in afternoon
+- **Rate/Fed regime:** Warsh HAWKISH — futures fully price rate hike by Oct + potential second Dec (was 85% Dec pre-Warsh); dot plot 9/18 members support hike this year; **rate cuts OFF the table for 2026**; FOMC minutes Wed 7/8 = week's primary catalyst
+- **Overall tape read:** modestly risk-off pre-open; tech-driven weakness NOT broad; DJI/broadening leader intact; VIX benign; oil de-escalating
+
+### Today's Catalysts (Tue 7/7)
+- **05:30 AM PT — US Trade Balance (May):** consensus -$55.9B (small print, unlikely market-mover)
+- **After-hours company events:** EPAC, KRUS, PENG, SAR (not on watchlist)
+- **NO major earnings in tech/semi space today**
+
+### This Week's Earnings Calendar (Wk 12)
+| Ticker | Date | BMO/AMC | Our Stance |
+|--------|------|---------|-----------|
+| **DAL** (Q2 kickoff) | Fri 7/10 | BMO | Off-theme — no action |
+| **AEHR** (est) | Jul 10-15 window | AMC | Niche watchlist / defer to post-print — return-to-non-GAAP-profit expected Q4, $37M Q3 bookings AI/data-center demand strong |
+| **INTC** (Q2) | **Thu 7/23** | AMC | **CONFIRMED** — alpha counter-policy candidate; Q1 non-GAAP EPS $0.29 beat; Q2 guide $13.8-14.8B rev / $0.20 EPS; T-16 sessions |
+| **NVDA** (Q2) | ~late Aug | AMC | Own print out of window; catalyst = mega-cap cloud earnings late July + China H20/H200 license flow |
+| **MSFT/META/AMZN/GOOGL** (Q2) | **late Jul** (~Jul 27-30 est) | AMC | Mega-cap tech earnings binary NOT this week (was mis-flagged in prior sessions); AI capex commentary = NVDA/AMD/AVGO/MRVL forward driver |
+| **AAPL** (Q3 fiscal) | ~Jul 30-Aug 1 est | AMC | Also late July, not this week |
+
+### Macro & Geopolitical Scan
+- **Fed policy:** HAWKISH regime under Warsh. Rate hike Oct fully priced. FOMC minutes Wed 7/8 = **primary weekly catalyst** — any incremental hawkishness = tech multiple compression risk. Warsh removed forward guidance; "rates are restrictive in housing but not elsewhere."
+- **Inflation:** May CPI 4.2% YoY (highest in 3yr); May PPI 6.5% (highest since Nov'22). **June CPI Tue 7/14 (T-5 sessions)** = primary macro binary; June PPI Wed 7/15.
+- **Iran/ME:** Fragile ceasefire, Strait of Hormuz tensions ongoing but no fresh escalation as of today. Iran refuses face-to-face talks with US envoys in Qatar. Priced-in.
+- **US-China trade:** Semiconductor 25% tariff active; USTR proposed 12.5% forced-labor tariff (hearing today 7/7). Section 301 chip tariff scheduled 2027 (not immediate). China-US tariff pause extended to Nov 2026. No acute headline risk today.
+- **AI narrative:** MEDIUM WATCH — Monday's semi selloff (MU -5.5%, AMD -4.3%, INTC -5.3%) reflects "AI overvaluation" concern; KOSPI -8% overnight amplified; SOX broke uptrend + Nasdaq below 50-DMA. **Sector-narrative in flux, favors selectivity into FOMC minutes.**
+- **JPM S&P target:** raised to 7,800 (from 7,200) = blue-sky bull case still intact.
+
+### Tech/Semi Watchlist Table (Mon 7/6 close, quotes = post-close snapshots with wide spreads — MUST re-verify live at open)
+| Ticker | bid/ask (mid) | Spread | vs 5D-HOD (approx) | Mon Day Chg | Setup Classification |
+|--------|---------------|--------|---------------------|-------------|----------------------|
+| **NVDA** | $195.39/$211.65 ($203.5) | 8.0% (stale) | ~-1.5% below trend | ~-0.8% (est) | **AVOID today** — still sub-$200, bearish channel, tape red; Track A trigger requires $200 reclaim + spread <0.5% at live open |
+| **INTC** | $116.45/$128.79 ($122.6) | 10.6% (stale) | ~-5.3% vs 5D-HOD | **-5.3%** | **WATCH — mean-reversion candidate** — post-dump reversal at open + vol reclaim could clear Track B pullback trigger; but 5.3% dump 24hrs stale, need reversal confirm |
+| **AMD** | $530.10/$585.52 ($557.8) | 10.5% (stale) | -4.3% vs 5D-HOD | **-4.3%** | **AVOID** — same AI-cool narrative, no primary trigger armed; spread too wide to gauge |
+| **MU** | $936.90/$1037.74 ($987.3) | 10.8% (stale) | -5.5% vs 5D-HOD | **-5.5%** | **AVOID** — hardest hit; sizing-fail at ~$987/share (permanent at current equity, sub-1-share = won't allocate) |
+| **AVGO** | $354.96/$392.89 ($373.9) | 10.7% (stale) | prior week -14% broken | ~-1% (est) | AVOID — still thesis broken post-print |
+| **MRVL** | $237.12/$262.71 ($249.9) | 10.8% (stale) | mixed | ~-1% (est) | AVOID — no clean trigger |
+| **AAPL** | $298.33/$329.36 ($313.8) | 10.4% (stale) | Mon closed near HOD $314 (per midday scan) | ~+0.5% (est) | **WATCH — Track A re-arm** — needs pullback to $286-303 zone + spread <0.5% + not-within-3%-HOD + Day-4 base check; pattern Thu 7/2 & Mon 7/6 shows chase-gate rejection at HOD extension |
+| **MSFT** | ap=0 / bid $367.74 | frozen | pullback structure fresh | est -0.5% | **WATCH — Track B** — check for 3-5% pullback to rising 20-DMA + vol reclaim + spread <0.5% + tape green |
+| **GOOGL** | $343.06/$379.93 ($361.5) | 10.2% (stale) | thesis broken | ~-1% (est) | AVOID (thesis broken per prior sessions) |
+| **META** | ap=0 / bid $565 | frozen | mid-range | est -0.5% | Off primary — not typically core trigger, defer |
+| **AMZN** | ap=0 / bid $231.80 | frozen | mid-range | est -1% | Off primary — not typically core trigger, defer |
+
+### Niche Radar Table (Mon 7/6 close snapshots)
+| Ticker | bid/ask (mid) | Spread | Classification | EPS/Fundamentals | Analyst Target | Key Catalyst | Short% | Action |
+|--------|---------------|--------|-----------------|------------------|---------------|--------------|--------|--------|
+| **OKLO** | $48.93/$54.71 ($51.82) | 11.1% (stale) | **STRONG SETUP** *(structurally)* | Q1 loss matched est; $2.5B cash floor; Meta 1.2GW deal; Idaho Radiochem first revenue expected 2026 | Wide dispersion $30-$95 (Buy consensus) | **DOE DSA approved Jul 1 → final pre-startup review**; Groves criticality target July 2026 (Jul 4 originally, likely slipped days-weeks); Meta 1.2GW deal binding; Aurora-INL PDSA submitted | High (chronic wide spread) | **PRIMARY NICHE TRIGGER** — if live spread <1.5% + price $50-56 + not-within-3%-HOD + tape green → BUY 20 sh ~$52 = ~$1,040 (~10.7% niche); HARD -10% GTC stop ~$47; target $63 (2:1) / $73 (4:1) |
+| **RKLB** | $0/$87.72 (est ~$100) | wide | **WATCH** — Day-8 gap extension | 50+ launches; $110M rev; **$2.2B backlog (5 Neutron + 3 Electron thru 2029)**; $190M hypersonic deal (20 flights); Q3 bookings $37M+ | $120 PT (Benzinga/analyst) | Neutron first flight target 2026 (base case Q1 2027 slip); recovery permit expires Jan 2027 | Low | **WATCH** — needs 3+ session tight base $95-100 + spread <2% + vol reclaim; still extending, no basing structure |
+| **ASTS** | ap=0 / bid $76.77 | frozen | **AVOID** — thesis broken | Sell-consensus below tape | — | Constellation buildout | — | AVOID (structural) |
+| **AEHR** | ap=0 / bid $62.04 | frozen | **AVOID** pre-print | Q3 EPS -$0.05 (beat -$0.07), $10.3M rev (missed $10.8M), **Q3 bookings $37M+ AI/data-center demand strong**; expects return to non-GAAP profit Q4 | — | **Q4 print Jul 10-15 window (T-3 to T-8)** — event-week no-chase applies through post-print | — | AVOID pre-print (defer to post-print stance) |
+| **NBIS** | $182.86/$244.93 ($213.9) | 25% (stale) | **AVOID** sizing-fail | European AI infra / GPU cloud | — | AI capex tailwind | — | Permanent sizing-fail at current equity |
+
+### Alpha Ideas for Tue 7/7 (2-3 with catalyst + entry/stop/target)
+
+**1. INTC — Track B MEAN-REVERSION candidate** *(post-5.3% dump)*
+- **Catalyst:** Post-Mon-selloff mean-reversion setup into T-16 Q2 print (Thu 7/23 AMC)
+- **Entry gate:** live spread <0.5% + vol reclaim + reversal candle at open (5-15 min bar) + NOT within 3% of Mon close (~$124-126 zone = chase-gate check)
+- **Sizing:** ~7 sh × $120 = ~$840 (~8.6% alpha) — small-ish for post-dump mean-rev
+- **Stop:** 10% trailing GTC = ~$108
+- **Target:** $135 (1.4:1 R:R) / stretch $145 (2:1)
+- **RISK:** AI-cool narrative continues, second-day-dump risk; secondary catalyst = Q2 print T-16 out of trigger horizon; **Track B counter-policy exists but requires clean pullback structure, NOT just dump-day catch**
+- **Bar:** structurally clean setup ONLY. If open is red-continuation (INTC gapping down again), DEFER.
+
+**2. NVDA — Track A momentum trigger** *(needs $200 reclaim)*
+- **Catalyst:** Sub-$200 basing pattern breakout would reclaim key level; still primary alpha name
+- **Entry gate:** live spread <0.5% + price >$200 + not-within-3%-HOD (Mon HOD ~$197 area) + tape not-red-tech
+- **Sizing:** ~4 sh × $203 = ~$812 (~8.3% alpha)
+- **Stop:** 10% trailing GTC = ~$183
+- **Target:** $220 (1.4:1) / stretch $230 (3:1)
+- **RISK:** NDX futures -0.62% pre-open = **tape gate likely FAILS at open**; NVDA has not touched $200 in 2+ weeks per prior notes; low probability of trigger clearance today
+- **Bar:** $200 print + tight spread + not-within-3%-HOD required; likely DEFER
+
+**3. AAPL — Track A re-entry candidate**
+- **Catalyst:** Day-3 base above $286 established; Q3 fiscal print ~late July potential secondary catalyst
+- **Entry gate:** live spread <0.5% + price ≥$286 + pullback to base + **not-within-3%-of-HOD** + tape green
+- **Sizing:** ~3 sh × ~$305-310 = ~$920 (~9.4% alpha)
+- **Stop:** 10% trailing GTC = ~$275
+- **Target:** $330 (2:1) / stretch $350 (5:1)
+- **RISK:** Pattern-repeat chase-gate risk (Thu 7/2 = 0.03% below HOD, Mon 7/6 midday = 0.38% below HOD, both hard-failed); Mon EOD ~$314; needs meaningful pullback (>3% from Mon HOD) to arm
+- **Bar:** clean pullback with retest structure, NOT gap-up chase into HOD
+
+### Niche Ideas for Tue 7/7 (2.5:1 R:R required, hard -10% stop, ≤12% sizing)
+
+**1. OKLO — PRIMARY NICHE PRIMARY (from Mon 7/6 plan, re-armed with DSA approval catalyst)**
+- **7-point research:**
+  - **Earnings/Fundamentals:** Q1 2026 loss matched analyst est; strong operational progress; Groves construction completed 229 days (accelerated); $2.5B cash floor; Idaho Radiochem first revenue expected 2026
+  - **Analyst Coverage:** Wide PT dispersion $30-$95 (uncertainty on Groves execution); Buy consensus building on DSA approval
+  - **Institutional Activity:** [prior sessions noted institutional accumulation]; NRC advancement + DOE progress = institutional-positive
+  - **News & Catalysts:** **DOE APPROVED DSA JUL 1 = major positive** (final pre-startup review phase); Groves July 2026 criticality target (Jul 4 originally, likely days-weeks slippage); Meta 1.2GW binding deal; Aurora-INL PDSA submitted
+  - **Sentiment:** High retail engagement, criticality event-week nervousness; chronic wide spread reflects liquidity/sentiment volatility
+  - **Technical:** Chronic wide spread makes execution structurally hard; needs cash-session tightening to <1.5% + $50-56 range basing structure
+  - **Thesis:** Advanced nuclear microreactor deployment for data-center power demand; multiple independent catalysts (Groves criticality + Meta binding + Aurora-INL progression + Idaho Radiochem revenue); 2.5:1 R:R clear on $52 entry / $47 stop / $63-73 target
+- **Entry gate:** live spread <1.5% + price $50-56 + not-within-3%-HOD + tape green (SPX or NDX >+0.2%)
+- **Sizing:** BUY 20 sh × ~$52 = ~$1,040 (~10.7% niche)
+- **Stop:** HARD -10% GTC at ~$47 (no trailing on niche per rules)
+- **Target:** $63 (2:1 R:R) / stretch $73 (4:1 R:R)
+- **RISK:** Chronic wide spread = execution risk (Mon 7/6 open 10.5% + midday 2.46% both failed <1.5% gate); NDX red pre-market = tape gate likely FAILS; criticality slippage (originally Jul 4, now "July 2026") = event-window extends; wide PT dispersion signals uncertainty
+- **Bar:** live spread <1.5% is the killer gate; if not cleared at open, defer
+
+**2. RKLB, ASTS, AEHR, NBIS — DEFER**
+- RKLB extending, no tight base
+- ASTS structurally broken
+- AEHR event-week no-chase (Q4 print T-3 to T-8)
+- NBIS sizing-fail permanent
+
+### Risk Factors for Tue 7/7 Open
+- **NDX futures -0.62% pre-open** = red-tech tape context; NVDA/AMD/AVGO/MRVL all likely gap down at open; low probability of clean momentum trigger clearance
+- **AI narrative in flux:** Mon 7/6 SOX broke uptrend, KOSPI -8% overnight, memory-heavy Korea comp cratered; second-day continuation risk on chip names
+- **FOMC minutes T-1 Wed 7/8:** any incremental Warsh hawkishness = tech multiple compression risk on release
+- **June CPI T-5 (Tue 7/14):** primary weekly binary; today is data-light bridge day
+- **Warsh hawkish grip intact:** Oct rate hike now fully priced; Dec potential second hike; discount-rate normalization = tech-multiple headwind
+- **Info Tech YTD -3.3%:** structural sector headwind persists; sector-level tailwind absent
+- **Stale spread data:** all Mon close quotes have 8-11% spreads; MUST re-verify live at open before any entry decision
+- **OKLO chronic wide spread + criticality slippage:** Groves DSA cleared Jul 1 but criticality now "July 2026" not "Jul 4"; readiness review + startup approval + fuel-loading still ahead of criticality event
+- **AAPL chase-gate pattern-repeat:** two-session miss (0.03%, 0.38% below HOD) = process-clean but statistically-heavy pattern; if AAPL opens near HOD again, that's third-time chase-gate
+- **INTC mean-reversion trap risk:** post-5.3% dump could be first-of-multi-day-selloff (AI-cool narrative continues); mean-reversion catches without vol reclaim + reversal structure = knife-catching
+- **Data-light Tuesday:** only Trade Balance today; FOMC minutes tomorrow = wait-and-see day for many traders = lower liquidity for mean-reversion setups
+- **25th-consecutive-week under-deployment defense:** counter-policy exists but requires quality trigger clearance; tape today does NOT support forced deployment
+
+### Decision
+**TRADE conditional on quality trigger clearance at market open (6:30 AM PT). BIAS: SELECTIVE** — NDX futures red -0.62% + AI semi selloff continuation + FOMC minutes T-1 make aggressive momentum entries low-probability; **mean-reversion entries on AI semis (INTC especially) require clean reversal structure, NOT dump-catch**; OKLO chronic wide spread makes clean niche entry structurally difficult even with DSA approval catalyst.
+
+**Under-deployment counter-policy:** explicit — "if setup clears the checklist, TAKE IT — HOLD only when nothing clears the bar." Today, structural gate failures are likely (NDX red + spread + chase-gate + FOMC-uncertainty premium in spreads); if genuinely no trigger clears, HOLD-CASH is per-plan, NOT reflexive.
+
+**Plan for market-open agent (Tue 7/7 6:30 AM PST):**
+1. **Verify positions=[], orders=[]** at open — confirm still 100% cash
+2. **Re-pull LIVE quotes** on NVDA / AAPL / MSFT / INTC / MU / AMD / OKLO / RKLB with cash-session tight spreads
+3. **PRIMARY NICHE TRIGGER — OKLO:** if live spread <1.5% + price $50-56 + not-within-3%-HOD + tape green (SPX >+0.2% OR NDX >0%) → **BUY 20 sh × ~$52 = ~$1,040 (~10.7% niche)**. HARD -10% GTC stop ~$47. Target $63 (2:1) / stretch $73 (4:1). **NOTE: NDX red pre-open likely fails tape gate; requires cash-session reversal.**
+4. **PRIMARY ALPHA CANDIDATE 1 — INTC MEAN-REV:** if reversal candle at open (open-then-green 5-15 min) + vol reclaim + spread <0.5% + not-within-3%-HOD (Mon close ~$124) → **BUY 7 sh × ~$120 = ~$840 (~8.6% alpha)**. 10% trailing GTC stop ~$108. Target $135 (1.4:1). **If open is red-continuation, DEFER.**
+5. **PRIMARY ALPHA CANDIDATE 2 — NVDA:** if live spread <0.5% + price >$200 + not-within-3%-HOD + tape not-red-tech → **BUY 4 sh × ~$203 = ~$812 (~8.3% alpha)**. 10% trailing GTC stop ~$183. Target $220. **Low probability today given NDX pre-open red.**
+6. **SECONDARY ALPHA — AAPL Track A re-entry:** if live spread <0.5% + price ≥$286 + pullback ≥3% from Mon HOD + not-within-3%-HOD + tape green → **BUY 3 sh × ~$305 = ~$915 (~9.4% alpha)**. 10% trailing GTC stop ~$275. Target $330. **If AAPL opens near HOD again = third-consecutive chase-gate rejection, SKIP.**
+7. **AVOID:** ASTS (thesis broken), AEHR (event-week Q4 print T-3-8), NBIS (sizing), MU (sizing), AMD (no primary trigger), AVGO (broken), GOOGL (broken); anything requiring spread >2% at open.
+8. **CAP:** maximum 2 new entries today given weak tech tape + FOMC T-1 uncertainty; combined deployment target ~$1,800-2,000 = ~19-21% of equity if BOTH OKLO + one alpha clear; preserves ~80% cash for Wed post-FOMC-minutes reassessment + Thu-Fri continuation reads.
+9. **Trades this week: 0/20 → 0-2/20 after execution.**
+10. **Daytrade count: 0/5 → 0/5** (all entries open-and-hold).
+11. **Bias: TRADE if quality trigger clears; HOLD if not.** Data-light day + weak tech tape + FOMC T-1 = HIGHER bar today than Mon; but under-deployment counter-policy still applies IF genuine quality setup emerges.
+
+**Bias:** **SELECTIVE ENTRY ON QUALITY TRIGGER CLEARANCE — HIGHER BAR THAN MON DUE TO WEAK TECH TAPE + FOMC MINUTES T-1**. Do NOT force entry on weak tape. Do NOT default to reflex-HOLD if genuine setup emerges. Discipline preserved through structural gate-honor; opportunity accepted through structural trigger-honor. Discord pre-market notification SKIPPED per silent-unless-urgent rule (no acute alert).
+
