@@ -6564,3 +6564,116 @@ Rationale (rule-conformant): (a) All 4 alpha triggers arm PENDING confirmation o
 11. **Post-open re-evaluation windows:** ~06:45 AM PT (first 15-min bar structure), midday ~09:00 AM PT (spread compression + intraday pullback check), EOD Fri 7/10 (weekly close + weekend planning into Mon Q2-kickoff).
 
 **Discord pre-market notification SKIPPED per silent-unless-urgent rule** (no acute alert; standard bridge-day consolidation setup). Commit + push per STEP 6 mandatory.
+
+## 2026-07-13 — Pre-market Research (Week 13 Day 1, Monday — Q2 EARNINGS SEASON KICKOFF T-1 / IRAN CEASEFIRE BROKEN over weekend / SPX futures soft -0.44% / SK Hynix Nasdaq-debut memory-chip rotation ongoing / book FLAT 100% cash Day-20 / bias: TAKE if trigger clears / nothing clears → DEFEND CASH pre-Tue-CPI+banks+AEHR event stack)
+
+### Account
+- **Equity:** $9,731.53 | **Cash:** $9,731.53 (100%) | **Buying power:** $38,926.12
+- **Portfolio value:** $9,731.53 | **Last equity:** $9,731.53 (flat book = zero drift Day 20 weekend included)
+- **Phase P&L vs $10k baseline:** −$268.47 (−2.685%)
+- **Alpha sleeve:** $0 (0%). **Niche sleeve:** $0 (0%). **Trades this week (Mon start):** 0/20. **Open positions:** 0/12. **Daytrade count:** 0/5 rolling.
+- **Broker `positions=[]` / `orders=[]` confirmed.**
+
+### Market Context (Mon 7/13 ~05:08 AM PT pre-market)
+- **WTI:** ~$72.75–$74.50 (spot area; +1.88% to +4.33% depending on contract) — RISING on Iran/Hormuz re-escalation
+- **Brent:** ~$77+ (implied premium; up 7% week-over-week)
+- **S&P 500 futures (ESU26):** 7,586.75, **DOWN −33.50 (−0.44%)** — soft premarket, Polymarket 54–76% probability SPX finishes DOWN
+- **VIX:** 15.03 (Fri close; −5.11% Fri; open 16.06 range 14.96–16.16) — STILL CALM despite geopolitical escalation; complacency risk
+- **10Y/2Y:** yield curve stable, no acute stress signal from Fri
+- **Fed FOMC 7/29:** 70% HOLD / 30% CUT probability per CME FedWatch; current range 3.50–3.75%
+
+### Today's catalysts
+- **NO major earnings today** — muted volume expected
+- **SK Hynix (SKHY) Nasdaq debut Fri +13%** ($168.01 close from $149 IPO; $26.5B raise = largest foreign US listing ever) → **memory-chip rotation:** WDC/INTC/SNDK sold Fri; MU (HBM peer) faces intensified competition
+- **AVGO Apple $30B multi-year deal through 2031** (Fri +6%) → AI chip momentum reinforced
+- **Circle Internet Group (CRCL)** +13% on US crypto-bank approval (not our sector)
+- **Iran ceasefire disintegrated over weekend:** US strikes 140 Iranian targets (300 over 3 nights); Iran attacked GFS Galaxy container ship in Strait of Hormuz; Iran retaliated targeting Bahrain/Qatar/UAE/Jordan/Kuwait
+
+### Earnings before open (Mon 7/13): NONE
+### This Week's Earnings Calendar (Q2 season kickoff)
+| Date | Ticker | Timing | Our Stance |
+|------|--------|--------|------------|
+| Tue 7/14 BMO | JPM, BAC, C, WFC, GS | Big banks kickoff | **AVOID** — outside strategy (financials sector, not our focus) |
+| Tue 7/14 AMC | **AEHR** | Q4 FY26 + full year | **WATCH/DEFER pre-earnings** — binary T-1, wait for post-print drift Wed open IF clean beat + guide raise |
+| Wed 7/15 | (bank continuation) | — | Skip |
+| Thu 7/16 | (mixed) | — | Skip |
+| Later this week | ASML | Q2 earnings | **WATCH** — sized out (ASML $1532, >5% cap), semi read-through only |
+
+### Economic Calendar this week
+- **Tue 7/14 8:30 AM ET:** June CPI — consensus ~3.9% headline YoY (down from May's 4.2%), potential −0.1% MoM headline, core CPI 2.85–2.90% YoY (steady from May 2.9%)
+- **Wed 7/15 8:30 AM ET:** June PPI — forecast −0.20% MoM, +6.2% YoY
+- **Fri 7/17:** (rolling data / claims)
+
+### Sector momentum YTD (from Fri 7/10 scan)
+- **LEADING:** Energy (+23% area, oil-supply premium); Healthcare (+28% July MoM, CRNX/FBRX top gainers)
+- **LAGGING:** Tech (−3.3% YTD amid multiple compression)
+- **NEW:** Memory/HBM re-rate (SK Hynix debut = structural shift; MU/NVDA/AVGO beneficiaries; INTC hurt)
+
+### Tech/Semi Watchlist (Fri 7/10 close-of-day quotes; pre-market intraday not available from Alpaca)
+Sizing floor: equity $9,731.53 × 0.05 = **$486.58 per share cutoff** (Week 8 5%-alpha-min rule). Names >$487 = SIZED-OUT.
+
+| Ticker | Fri bid close | Fri Δ vs Thu HOD | Setup | Alpha size feasibility | Classification |
+|--------|--------------|------------------|-------|------------------------|----------------|
+| **NVDA** | $210.47 | **+3.02% vs Thu $204.46 HOD = BROKE ABOVE prior resistance** | Track B $200-reclaim setup INVERTED → Track A momentum-continuation | ✓ (7 sh @ $210 = $1,470 = 15.1% ≈ 15% alpha cap; marginal) | **MOMENTUM CANDIDATE — need clean pullback structure ≥3% below opening HOD OR hold-of-$208 base + tape green** |
+| **AAPL** | $298.72 | **−4.19% vs Tue HOD $315.48 (CLEARS 3% gate) ; −4.19% vs Thu HOD $311.79** | Track A pullback (8th check) — gate FINALLY cleared | ✓ (3 sh @ $299 = $897 = 9.2%) | **WATCH — gate clears; but R:R weak (target $325 → 0.87:1, need $340 for 1.4:1); require intraday base + tape green** |
+| **INTC** | $103.74 | **−10.3% vs Thu HOD $115.70; ~−6% Fri intraday** | Track B mean-rev — deep-selloff candidate | ✓ (9 sh @ $104 = $936 = 9.6%) | **DEFER T-8 pre-earnings 7/23** — post-earnings drift preferred; also SK Hynix rotation pressure real |
+| **AVGO** | $377.37 | Fri +6% on Apple $30B deal | Post-catalyst momentum | ✓ (3 sh @ $377 = $1,131 = 11.6%) | **WATCH — post-catalyst chase-gate risk; need pullback ≥3% below Fri HOD** |
+| **MSFT** | $367.94 | −2.28% vs Thu HOD $376.50 (BORDERLINE, not clear 3%) | Track B pullback-to-20DMA | Borderline (2 sh @ $368 = $736 = 7.6%) | **WATCH — need clean pullback + vol reclaim** |
+| **GOOGL** | $339.47 | — | No active setup | Borderline (2 sh @ $340 = $680 = 7.0%) | **WATCH — no active trigger** |
+| **AMZN** | $236.93 | — | No active setup | ✓ (3 sh @ $237 = $711 = 7.3%) | **WATCH — no active trigger** |
+| **MRVL** | $225.94 | — | Semi read-through | ✓ (3 sh @ $226 = $678 = 7.0%) | **WATCH — no active trigger** |
+| **TSM** | $375.95 | — | Semi read-through | ✓ (2 sh @ $376 = $752 = 7.7%) | **WATCH — no active trigger** |
+| **QCOM** | $178.05 | — | Semi read-through | ✓ (5 sh @ $178 = $890 = 9.1%) | **WATCH — no active trigger** |
+| **SMCI** | $28.34 | — | Small-cap AI | ✓ (30 sh @ $28.34 = $850 = 8.7%) | **WATCH — no active trigger; low-price = many shares feasible** |
+| **AMD** | $527.44 | — | — | ✗ SIZE-FAIL (>$487 gate; 1 share = $527 = 5.4%, would blow 5% min-fill discipline) | **SIZED-OUT** |
+| **MU** | $936.82 | — | HBM peer | ✗ SIZE-FAIL major | **SIZED-OUT** |
+| **META** | $641.32 | — | — | ✗ SIZE-FAIL | **SIZED-OUT** |
+| **ARM** | $277.31 | — | — | Borderline (2 sh @ $277 = $554 = 5.7%) | **WATCH — no active trigger** |
+| **ASML** | $1,532.11 | — | Semi lithography | ✗ SIZE-FAIL major | **SIZED-OUT** |
+
+### Niche Radar (mandatory every session; Fri 7/10 close)
+Sizing pre-filter (Week 8 rule): equity $9,731.53 × 0.10 / 6 = $162.19 cutoff. Names ≤$162 = feasible.
+
+| Ticker | Price area | Classif. | EPS Trend | Analyst Target | Key Catalyst | Sentiment | Action |
+|--------|-----------|----------|-----------|---------------|-------------|-----------|--------|
+| **AEHR** | $63.45 (−16.7% vs Thu $76.21 = major pre-earnings de-risking) | **DEFER T-1 pre-earnings binary** | Q3 EPS −$0.05 (beat); FY26 guide $25-35M rev, −$0.09 to −$0.05 EPS reaffirmed | Median $68 (range $56–90); consensus Buy | **Q4 fiscal print Tue 7/14 AMC (call 5PM ET) = binary** ; $37M Q3 bookings AI/DC | Post-crash retail bearish; pre-print premium collapsing | **WATCH T-1 → enter Wed 7/15 open ONLY IF clean beat + guide raise + gap-hold structure** |
+| **OKLO** | $45.72 (sub-$50 band Day-8 extending) | **WATCH — sub-band, deadline slipped** | Pre-revenue | Consensus $91-100; bull-case $180 (24/7 Wall St.) | **DOE 7/4 criticality deadline** — partial win 7/1 (Final Safety Analysis approved); criticality status unclear | Short-squeeze narrative fading; retail waiting for milestone | **WATCH — require $50 reclaim + spread <1.5% + tape green + not-within-3%-HOD** ; sizing 20 sh @ $50 = $1000 = 10.3% ≈ 12% niche cap ✓; stop −10% = $45; target $70 = R:R 2:1 (borderline vs 2.5:1 req) |
+| **RKLB** | $76.39 (below $80-93 range = base fully broken sub-$85) | **WATCH — base broken** | Q1 rev $200M +63% YoY; $2.2B backlog + $816M SDA contract | Consensus $103; KeyBanc OW $135 target; range $89–155 | Neutron rocket launch expected 2026 (mother catalyst) | Zacks #4 Sell (valuation); retail bullish | **WATCH — need base establishment $75-80 with reclaim structure** ; sizing 12 sh @ $76 = $912 = 9.4% ≤12% ✓; stop −10% = $68.40; target $100 = R:R 2.5:1 ✓ |
+| **ASTS** | $68.68 (below prior $70-72 support = base fully broken) | **WATCH — base broken** | 2026 loss est $1.47/sh; rev guide $150-200M | Mean $73.23; range $56–95 | **BlueBird 11/12/13 August launch window T+3-4wks** | Bearish estimate revisions; retail passionate but sell-the-news week ago | **WATCH — need hold-of-$68-base OR pullback to $65 + reclaim** ; sizing 12 sh @ $69 = $828 = 8.5% ≤12% ✓; stop −10% = $62.10; target $85 = R:R 2.3:1 (needs $90 for 2.5:1) |
+| **NBIS** | $192.19 | **SIZED-OUT permanent** | — | — | — | — | **SKIP** — Week 8 pre-filter; do not burn screen budget |
+
+### Actionable Alpha Ideas (Mon 7/13 pre-market)
+1. **NVDA Track A momentum retry** — Fri close $210.47 broke above prior $204 resistance for first time since June rally. Entry gate: spread <0.5% + hold-above-$208 (or pullback ≥3% below opening HOD if gap-up) + tape not-red-tech + not-within-3%-HOD. Sizing 7 sh @ $210 = $1,470 = 15.1% alpha (right at cap). Stop −10% = $189. Target $225 → R:R 1.0:1 (weak); need $232 for 1.5:1 (marginal). **VERDICT: WATCH — momentum candidate but Iran-risk + Tue CPI event stack argues for defensive posture; require CLEAN pullback structure OR gap-and-hold.**
+2. **AAPL Track A gate finally cleared (8th check)** — Fri close $298.72 = −4.19% vs Tue HOD $315.48 (CLEARS 3% gate for first time in 7 sessions). Entry gate: spread <0.5% + ≥$286 + tape green + intraday base structure + not-within-3%-HOD. Sizing 3 sh @ $299 = $897 = 9.2%. Stop −10% = $269. Target $325 → R:R 1.0:1 (weak); $340 → 1.4:1 (marginal). **VERDICT: WATCH — gate clears but R:R weak; need intraday reclaim structure + tape green to fire.**
+3. **AVGO post-Apple-deal momentum** — Fri +6% on $30B Apple partnership. Post-catalyst chase-gate risk. Entry gate: pullback ≥3% below Fri HOD + spread <0.5% + hold-of-base. Sizing 3 sh @ $377 = $1,131 = 11.6%. Stop −10% = $340. Target $410 → R:R 0.87:1 (weak); need $450 for 2:1. **VERDICT: WATCH — no fresh entry into gap-up chase.**
+
+### Actionable Niche Ideas (Mon 7/13)
+1. **AEHR — DEFER T-1 pre-earnings.** Fri close $63.45 = −16.7% Thu → capitulation de-risking. Print Tue AMC binary. Post-earnings drift entry Wed 7/15 open IF clean beat + guide raise + gap-hold. Sizing 15 sh @ $65 = $975 = 10.0% ≤12% ✓; stop −10% = $58.50; target $80 = R:R 2.3:1 (needs $85 for 2.5:1). **WATCH T-1.**
+2. **OKLO — WATCH sub-band Day-8.** Structural sub-$50 floor break persists. DOE 7/4 criticality deadline came — Final Safety Analysis approved 7/1 but criticality status unconfirmed. Re-arm ONLY if $50 reclaims + spread <1.5% + tape green. Sizing 20 sh @ $50 = $1000 = 10.3% ≈ 12% ✓; stop −10% = $45; target $70 = R:R 2:1 (borderline vs 2.5:1 req). **WATCH.**
+3. **RKLB — WATCH base-establishment.** Sub-$85 base fully broken; would re-arm on 3+ session base $75-80 + reclaim structure + Neutron rocket launch progress news. Sizing 12 sh @ $76 = $912 ≤12% ✓; stop −10% = $68.40; target $100 = R:R 2.5:1 ✓. **WATCH.**
+4. **ASTS — WATCH base + August-catalyst approach.** BlueBird 11/12/13 launch window August 2026 = T+3-4wks major catalyst. Would re-arm on hold-of-$68-base + reclaim $70 + spread <2% + tape green. Sizing 12 sh @ $69 = $828 ≤12% ✓; stop −10% = $62.10; target $85 = R:R 2.3:1 (needs $90 for 2.5:1). **WATCH.**
+
+### Risk Factors (Mon 7/13)
+- **HIGH:** **Iran-US ceasefire BROKEN over weekend** — US strikes 140 Iranian targets (300 over 3 nights); Iran attacked GFS Galaxy container ship + retaliated targeting 5 Gulf states; Strait of Hormuz active-combat zone. Was LOW/PRICED-IN Fri baseline → now HIGH IMPACT. Oil breaking $73-74. **Adjust position sizing DOWN, tighten stops.** Energy sector tailwind but tech-multiple headwind.
+- **HIGH:** **Tue 7/14 event stack = June CPI 8:30 AM ET + big banks BMO (JPM/BAC/C/WFC/GS) + AEHR AMC**. Session vol expected. Consensus 3.9% headline CPI YoY (down from 4.2%); core 2.9%. Print above 4.0% or core >2.9% = hawkish repricing / tech drawdown risk.
+- **HIGH:** **SK Hynix Nasdaq-debut memory-chip rotation** — Fri outflows from INTC/WDC/SNDK into memory/HBM leader; INTC pre-earnings 7/23 double-headwind (SK Hynix + T-8 event).
+- **MED:** **Wed 7/15 PPI** — secondary inflation read; consensus −0.20% MoM / +6.2% YoY.
+- **MED:** VIX 15.03 = complacent despite geopolitical (pricing 30-day IV); VIX <16 leaves upside risk on realized-vol spike.
+- **LOW/PRICED-IN:** Fed FOMC 7/29 (70% hold priced; 3.50-3.75% range).
+
+### Decision: **HOLD (pre-market)** — arm gates, TRADE if any clears at open.
+Rationale (rule-conformant): (a) Iran war escalation over weekend materially raises intraday risk profile; defensive-cash posture Day-20 remains structurally correct until a trigger clears with tape confirmation. (b) Tue 7/14 event stack (CPI + banks + AEHR) is 24-hour binary window — new alpha positioning today faces asymmetric downside on hawkish CPI print or bank guide-miss. (c) NVDA breakout candidate exists but requires clean structure; AAPL gate finally clears but R:R weak; AVGO post-catalyst chase risk; INTC/AEHR = pre-earnings defer. (d) All 4 niche watchlist in WATCH state (AEHR T-1 binary defer, OKLO sub-band Day-8, RKLB/ASTS base-broken). (e) Under-deployment 20th consecutive session extends — gate-honor is discipline, NOT reflex HOLD. **Bias: TRADE if quality trigger clears; HOLD if not — genuine geopolitical + event-stack gate discipline.**
+
+### Mon 7/13 Open Plan (arm at 06:30 AM PT bell)
+1. **NVDA primary alpha trigger (Track A momentum):** re-evaluate at open. If NVDA opens ≥$208 with hold-of-base + spread <0.5% + tape not-red-tech: WATCH for pullback ≥3% below opening HOD OR reclaim above $215 with vol confirmation. If session opens weak sub-$205: revert to WATCH-only.
+2. **AAPL Track A gate (8th check retry):** Fri close cleared 3% pullback gate for first time. Re-arm ≥$286 + spread <0.5% + intraday base + tape green + not-within-3%-HOD. If AAPL bounces at open without base structure = pass.
+3. **AVGO post-catalyst:** re-arm ONLY on pullback ≥3% below Fri HOD + spread <0.5% + tape green.
+4. **INTC:** DEFER pre-earnings T-8; also SK Hynix rotation pressure = downside vulnerability.
+5. **OKLO niche primary conditional:** if $50 reclaims + spread compresses <1.5% + tape green + not-within-3%-HOD → arm; else WATCH.
+6. **AEHR:** WATCH T-1 to print; no fresh pre-earnings entry.
+7. **RKLB/ASTS:** WATCH; base-establishment structure required.
+8. **Position after open ≤12 (currently 0) ✓ ; Trades this week ≤20 (currently 0) ✓ ; Daytrade ≤5 (0/5) ✓.**
+9. **Bias:** **TRADE if quality trigger clears; HOLD if not.** Under-deployment continues structurally correct until a trigger arms with clean tape.
+10. **Post-open re-evaluation windows:** ~06:45 AM PT (first 15-min bar structure), midday ~09:00 AM PT (Tue-CPI positioning check), EOD Mon 7/13 (weekly plan into Tue 8:30 AM ET CPI print).
+
+**Discord pre-market notification SENT — Iran ceasefire broken over weekend = material regime shift from Fri LOW/PRICED-IN baseline to HIGH IMPACT. One-line alert warranted.** Commit + push per STEP 6 mandatory.
