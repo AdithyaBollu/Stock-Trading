@@ -6854,3 +6854,139 @@ Rationale (rule-conformant, gate-honor NOT reflex): (a) CPI print at 5:30 AM PT 
 - **EOD agent (1:00 PM PT):** log Tue close marks, evaluate AEHR post-print AMC + PPI Wed AM binary, plan Wed pre-market posture (post-CPI regime read + AEHR drift + PPI setup + Track A/B re-arm framework).
 
 **Sleeve balance:** Alpha 0% / Niche 0% / Cash 100%. 23rd consecutive under-deployed session — gate discipline held today despite quality macro backdrop (dovish CPI + broad tech rally); the setup-quality bar is intact and the specific triggers armed all failed the pullback-structure test at midday.
+
+
+## 2026-07-15 — Pre-Market Research (Wed, Week 13 Day 3, POST-CPI+PPI regime + AEHR post-print drift SETUP)
+
+### Account Snapshot
+- Equity: $9,731.53 | Cash: $9,731.53 (100%) | Buying power: $38,926.12 (4x, unused)
+- Positions: 0/12 | Orders: 0 | Trades this week: 0/20 | Daytrade: 0/5 rolling
+- balance_asof: 2026-07-14 | last_equity: $9,731.53 (Day 24 flat book)
+
+### Sleeve Status
+- Alpha: $0 (0% vs 65-75% target) — 24th under-deployed session
+- Niche: $0 (0% vs 25-30% target)
+- Cash: 100% (vs 5-10% target) — zero drift Day 24
+
+### Market Context (Wed 7/15 open)
+- **Oil:** WTI $79.69, Brent $85.36 (both elevated on Iran re-escalation; Strait of Hormuz risk premium priced in)
+- **SPX futures:** ~7,558.75 (-0.06%) after Tue close 7,597.75 — modest digestion of Tue dovish-CPI ramp
+- **VIX:** 16.86 intraday (Tue close 17.16; Mon 17.16; range 16.53-17.56) — quieter but not complacent
+- **US June PPI at 5:30 AM PT (8:30 ET) = TODAY'S BINARY** — consensus MoM +0.2%/YoY +6.2%; SOME pre-release chatter of HOT print (leaked TradingEconomics reads 6.5% YoY / +0.9% MoM); if confirmed HOT, hawkish tilt intensifies (Fed hike prob may rise from 34%)
+- **Fed:** CME FedWatch — **0% CUT, 65.7% HOLD, 34.3% HIKE** for 7/29 FOMC (FOMC minutes revealed 9 members project ≥1 hike in 2026); PPI print will shift these odds
+- **Yields:** elevated (implied by hawkish tilt) — pressures tech multiples
+
+### AEHR Post-Print Result (TUESDAY AMC — THE SETUP)
+- **EPS:** +$0.11 non-GAAP vs -$0.01 est → **BEAT by $0.12** (huge)
+- **Revenue:** $18.8M vs $19.06M est → -$0.22M miss (tiny)
+- **Bookings:** $60.7M record quarterly | **Backlog:** $100.6M record
+- **Guide FY27:** $130-150M rev = **160-200% YoY growth** (crushed)
+- **Gross margin:** 45% (+10 pts YoY)
+- **After-hours reaction:** +30.4% → indicated ~$91-92 vs Tue close $71.06
+- **Verdict:** CLEAN BEAT + GUIDE RAISE + RECORD BACKLOG = Wed post-print drift entry criteria met on fundamentals; gap-hold structure evaluates at open
+
+### This Week's Earnings Calendar
+| Date | Ticker | Timing | Our Stance |
+|------|--------|--------|------------|
+| Tue 7/14 BMO | JPM, GS, WFC | Big banks Q2 kickoff | Outside strategy — skip |
+| Tue 7/14 AMC | **AEHR** | Q4 FY26 | **✅ BEAT+RAISE POST-DRIFT ENTRY CANDIDATE Wed 7/15 open** |
+| Wed 7/15 8:30 ET | US June PPI | Binary macro | Consensus +0.2%/6.2%; leaked HOT risk |
+| Wed 7/15 BMO/AMC | BAC, C (continuation) | Bank read-through only | Skip |
+| Thu 7/16 | ASML, NFLX, TSM, JNJ, MS, BLK | Q2 continuation | ASML sized-out; TSM sized-out at $483; NFLX/MS/BLK/JNJ outside sleeves |
+| Thu 7/23 | **INTC** | Q2 print | DEFER T-8 pre-earnings |
+
+### Tech/Semi Watchlist (Tue 7/14 close bid, stale post-4pm ET quotes with wide AH spreads — actionable only at open)
+Sizing floor: equity $9,731.53 × 0.05 = **$486.58 cutoff**.
+
+| Ticker | Tue close bid | Notes on setup | Sizing | Class |
+|--------|--------------|----------------|--------|-------|
+| **NVDA** | $197.78 (Tue close ~$208) | Track B mean-rev; Tue post-CPI ramp faded; if Wed pullback ≥3% below Tue HOD ($209.14→≤$202.87) forms + spread tight + tape green | 7 sh @ $200 = $1,400 = 14.4% | **WATCH — armed on pullback structure** |
+| **AAPL** | $293.43 (Tue close ~$314) | Track A retry; 10th consecutive HOD chase-gate miss Tue; Tue faded from open to close = -6.5% pullback from HOD — GATE CLEARS if intraday base $290-295 + spread tight | 3 sh @ $294 = $882 = 9.1% | **WATCH — pullback gate now cleared; R:R still weak; target $325 = 1.1:1** |
+| **AVGO** | $375.05 (Tue close ~$393) | Track B; Tue similar fade -4.8% from HOD | 2-3 sh @ $375 = 7.7-11.6% | **WATCH — pullback gate clearing; needs volume reclaim** |
+| **MSFT** | $376.25 (Tue close ~$385) | Track B pullback; Tue -2.3% fade from HOD | 2 sh @ $376 = 7.7% | **WATCH — undersized** |
+| **INTC** | $102.53 | Track B mean-rev; **T-8 pre-earnings block persists** | 9 sh @ $103 = 9.5% | **DEFER** |
+| **AMD** | $527.25 | SIZED-OUT (>$487) | — | **SKIP** |
+| **MRVL** | $211.01 | No trigger | 4 sh @ $211 = 8.7% | **WATCH** |
+| **TSM** | $361.13 | Pre-earnings Thu | 2 sh = 7.4% | **DEFER pre-earnings** |
+| **MU** | $938.20 | SIZED-OUT | — | **SKIP** |
+| **QCOM** | $168.72 | No trigger | 5 sh = 8.7% | **WATCH** |
+| **ARM** | $241.69 | No trigger | Borderline | **WATCH** |
+| **SMCI** | $27.76 | No trigger | 35 sh @ $27.76 = 10.0% | **WATCH** |
+| **ASML** | $1,537 | Pre-earnings Thu + SIZED-OUT | — | **SKIP** |
+| **GOOGL** | $340.61 | No trigger | 2 sh = 7.0% | **WATCH** |
+| **META** | $632.49 | No trigger | Borderline | **WATCH** |
+
+### Niche Radar
+Sizing pre-filter: equity $9,731.53 × 0.10 / 6 = **$162.19 cutoff**.
+
+| Ticker | Price (Tue+AH) | Class | EPS Trend | Analyst Tgt | Catalyst | Sentiment | Action |
+|--------|---------------|-------|-----------|-------------|----------|-----------|--------|
+| **AEHR** | ~$91-92 AH (Tue close $71.06 +30.4% AH) | **STRONG BUY SETUP** | Q4 EPS +$0.11 beat by $0.12; FY27 guide $130-150M (2.6-3x) | Median $29.50 stale — likely raised post-print | **Post-print drift Wed AM** — clean beat + guide raise + record backlog $100.6M + record bookings $60.7M | Bullish pop; retail 40% AH surge | **✅ ENTER at open IF gap-hold + spread <2% + tape green** — 12 sh @ $92 = $1,104 = 11.3% ≤12% ✓; stop -10% = $82.80; target $115 = R:R 2.5:1 ✓ |
+| **OKLO** | ~$43.48 (Day 12 sub-$50) | **WATCH** | Pre-rev; Q1 $1B equity offering announced | Median $91.43 (55% up) | DSA approved 7/1; DOE readiness review + fuel loading pending; **Groves criticality July 4 deadline PASSED without announcement** (12 days late) | Faded; awaiting binary | **WATCH — require $50 reclaim + spread <1.5% + tape green + criticality announcement OR 2-session $45-48 base** ; sizing 22 sh @ $45 = 10.2% ✓; stop $40.50; tgt $65 R:R 2.2:1 |
+| **RKLB** | ~$74.87 (base still broken) | **WATCH** | Q1 rev $200M +63%; $2.2B+$5.6B backlog | Consensus $103-108 | Neutron delayed Q4 2026 | Neutral | **WATCH — need 2+ session base $70-75 with reclaim** ; sizing 13 sh @ $75 = 10.0% ✓; stop $67.50; tgt $95 R:R 2.7:1 |
+| **ASTS** | ~$66.35 (base broken; Tue -8% relief pop faded) | **WATCH — CATALYST T-3wks** | 2026 loss est $1.47/sh; rev $150-200M | Mean $73.23 (range $56-95) | **BB11-13 launch first-half August 2026 on Falcon 9** = ~3 weeks out; assembly finalized | Bearish estimates but launch bullish | **WATCH — need hold-of-$64 base + spread <2% + reclaim $65 + tape green** ; sizing 15 sh @ $65 = 10.0% ✓; stop $58.50; tgt $85 R:R 3.1:1 (highest-catalyst niche) |
+| **NBIS** | $170.15 | SIZED-OUT permanent | — | — | — | — | **SKIP** |
+
+### Actionable Alpha Ideas (Wed 7/15 pre-market)
+1. **NVDA Track B mean-reversion** — Tue pumped +7.4% on CPI relief to HOD $209 then faded to $208 close. If Wed pullback ≥3% below Tue HOD ($≤$202.87) + hold-of-$192 base + spread <0.5% + tape green + volume reclaim: 7 sh @ ~$200 = 14.4% alpha; stop -10%=$180; target $225 R:R 1.6:1. **VERDICT: WATCH — armed on pullback + tape.** Hot PPI risk pressures entry.
+2. **AAPL Track A retry (10th miss)** — Tue faded from $317 HOD to $314 close = -0.94% below HOD still. Not quite the -3% required. If Wed opens with additional -2%+ fade to ~$304-307 zone + intraday base + spread tight: 3 sh @ ~$305 = 9.4%; stop -10%=$275; target $325 R:R 0.9:1 or $340 R:R 1.2:1. **VERDICT: WATCH — R:R still weak; only take if deep pullback to $290s.**
+3. **AVGO Tue-relief-fade retry** — Tue $393 close; if Wed pullback ≥3% below Tue HOD ($397→≤$385) + hold-of-$385 base + spread <0.5% + volume reclaim: 2-3 sh @ ~$385 = 7.9-11.9%; stop -10%=$347; target $425 R:R 1.4:1. **VERDICT: WATCH — pullback structure most likely to arm today given Tue's late-session fade.**
+
+### Actionable Niche Ideas (Wed 7/15) — **AEHR is the primary trade candidate**
+1. **AEHR POST-EARNINGS DRIFT — PRIMARY ENTRY** (7-point research complete):
+   - **Earnings/Fundamentals:** Q4 EPS +$0.11 (beat -$0.01 est by $0.12); rev $18.8M (in-line); bookings $60.7M RECORD; backlog $100.6M RECORD; margin 45% (+10pts)
+   - **Guidance:** FY27 rev $130-150M = **160-200% YoY** (from ~$50M FY26); non-GAAP pretax margin 18-22%
+   - **Analyst:** stale median $29.50 pre-print — all coverage will be revised UP post-print; expect $60-100 range within days
+   - **Institutional/Insider:** CFO Chris Siu SOLD 1,600 shares @ $106.78 in May (before drawdown to $71 low) — pre-earnings noise; post-print bookings validation resets narrative
+   - **News/Catalysts:** print itself is the catalyst; AI/silicon photonics/data-center demand cited as record-bookings driver
+   - **Sentiment:** retail 40% AH pop; StockTitan headlines "bleeding stops confirmed"; short squeeze potential from prior 33% 30-day drawdown
+   - **Technical:** gap from $71 → $91-92 AH = massive; gap-hold structure Wed AM is the only remaining gate
+   - **Thesis:** Guide-raise + record backlog decisively refutes the FY26 revenue-decline narrative; FY27 2.6-3x re-rate justifies multiple expansion; drift plays into next earnings ~90 days out. Highest-conviction niche entry in weeks.
+   - **Entry gate:** spread <2% + gap-hold ≥$85 in first 15 min + tape green + PPI not-catastrophic
+   - **Sizing:** 12 sh @ $92 = $1,104 = 11.3% ≤12% ✓
+   - **Stop:** -10% = $82.80 hard
+   - **Target:** $115 = R:R 2.5:1 ✓ (initial); $130 stretch = R:R 3.6:1
+   - **Trade count:** 1/20 this week if taken
+2. **OKLO** — WATCH Day 12; require $50 reclaim + spread compress + criticality announce or 2-session base.
+3. **RKLB** — WATCH; base-establishment; no near-term catalyst.
+4. **ASTS** — WATCH BB11-13 T-3wks; require $65 reclaim + spread <2% + base structure.
+
+### Macro & Geopolitical (Wed 7/15)
+- **HIGH:** **June PPI at 5:30 AM PT** = 1-hour pre-open binary. Consensus +0.2% MoM / +6.2% YoY. Leaked pre-release chatter of 6.5% YoY / +0.9% MoM = HOT = hawkish. Confirm at 5:30 PT. **If hot: tech risk-off pressure at open; AEHR gap-hold gate tightens.**
+- **HIGH:** **AEHR post-print drift Wed AM** — primary niche binary. Requires gap-hold structure first 15 min.
+- **HIGH:** **Iran-US escalation persists.** Fresh strikes on Iran + Iranian expansion to Qatar/UAE + revoked oil sanction waivers + Strait of Hormuz risk. Brent $85+ elevated. Adjust sizing DOWN if entering.
+- **HIGH:** **Fed hawkish tilt:** 34.3% hike probability 7/29 FOMC; 0% cut. Fed Chair Warsh testifying to Congress this week.
+- **MED:** Bank continuation earnings (BAC, C possibly today); Tue banks generally impressed.
+- **LOW/PRICED-IN:** Ceasefire hopes revived on-and-off; markets have priced volatility.
+
+### Risk Factors (Wed 7/15)
+- **PRIMARY: Hot PPI could reverse Tue's dovish-CPI ramp** — mega-cap tech would sell off from Tue's +7% gains; AEHR gap could compress from $92 → $85 area
+- Iran escalation continues to pressure tech via crude spike + risk-off rotation
+- Fed hawkish tilt could accelerate on hot PPI (hike prob >40%)
+- 24th under-deployed session extends; **AEHR is the trade this week if gap holds**
+
+### Decision: **TRADE if AEHR gap-hold clears at open — this is the setup the pre-market plan explicitly armed for.** HOLD other triggers pending macro clarity.
+Rationale: (a) AEHR earnings beat criteria decisively met: EPS beat by $0.12, guide 160-200% growth, record bookings/backlog. Post-print drift entry Wed AM is EXACTLY the trade Tue's pre-market plan planned for. (b) 30% AH gap is large — chase risk mitigated by 2.5:1 R:R + hard -10% stop + gap-hold gate + 11.3% sizing under 12% cap. (c) PPI risk at 5:30 PT is a real gate — if catastrophic, delay entry until AEHR gap-hold confirms 30-min post-PPI. (d) Alpha ideas (NVDA/AAPL/AVGO Track B) require pullback structure not yet formed; likely re-arm intraday if PPI hot causes fade. (e) Under-deployment 24th session — AEHR is the FIRST setup in weeks with A+ fundamentals + clean catalyst + tradeable structure. **Deploy on quality.**
+
+### Wed 7/15 Open Plan (post-PPI at 5:30 PT / bell 6:30 PT)
+1. **AEHR PRIMARY NICHE ENTRY:** if PPI not-catastrophic + open gap-hold ≥$85 in first 15 min + spread <2% + tape green: **BUY 12 sh @ market ~$88-92**; place -10% trailing stop GTC on fill; log to TRADE-LOG.
+2. **NVDA Track B:** if pullback ≥3% below Tue HOD $209 (=≤$202.87) + hold $192 base + spread <0.5% + tape green + volume reclaim: 7 sh @ ~$200 = 14.4% alpha; stop $180; target $225 R:R 1.6:1.
+3. **AAPL Track A:** if intraday deep pullback to $290-305 + spread tight + base structure: 3 sh @ ~$300 = 9.3%; stop $270; target $340 R:R 1.3:1.
+4. **AVGO Track B:** if pullback ≥3% below Tue HOD $397 (=≤$385) + volume reclaim: 2-3 sh @ ~$385 = 7.9-11.9%; stop $347; target $425 R:R 1.4:1.
+5. **OKLO:** WATCH; need $50 reclaim + spread <1.5% + criticality announce.
+6. **ASTS:** WATCH; need $65 reclaim + spread <2% + hold-of-$64 base.
+7. **INTC/TSM/ASML:** DEFER pre-earnings — no entry.
+8. **MSFT/GOOGL/AMZN/META/QCOM/MRVL/SMCI:** WATCH; no trigger armed.
+9. **Position cap check:** after AEHR entry = 1/12 ✓; after full slate (AEHR + 1 alpha) = 2/12 ✓; trades this week ≤20 ✓; daytrade 0/5 ✓.
+10. **Bias:** **TRADE AEHR IF gap-hold clears** — this converts the 24-session under-deployment discipline into decisive action on the first A+ setup that cleared the checklist. Under-deployment is a failure mode; AEHR is the answer.
+
+### Discord Pre-Market Notification
+Silent — normal-day + explicit gate for AEHR entry evaluation at open; no acute pre-market alert warranted.
+
+### Re-Evaluation Windows
+- 5:30 PT: PPI print → macro regime read
+- 6:30 PT: bell → AEHR gap-hold gate + alpha pullback check
+- 6:45 PT: 15-min bar close → AEHR entry decision if all gates clear
+- 9:00 PT: midday scan → stop tightens on any AEHR fill (+15/+20 ladder), Track B re-check
+- 13:00 PT: EOD snapshot + Thu prep (NFLX AMC, ASML/TSM/JNJ AMC/BMO)
+
