@@ -1980,3 +1980,50 @@ Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this we
 - **Cash preserved into midday** = zero-drift Day 24; if AEHR spread compresses + gap-hold clears → TRADE per Deployment policy; else HOLD.
 
 **Next scheduled routine:** Wed 7/15 Midday Scan ~09:00 AM PT (positions check + AEHR spread-compression re-evaluation for primary niche entry + alpha pullback-structure re-check).
+
+
+## 2026-07-15 — Midday Scan (Week 13 Day 3, Wednesday — ~09:11 AM PT / T+2.7h into session / book FLAT 100% cash / **NO-OP** — all 6 primary triggers still FAIL gates: AEHR spread compressed from 28.7% → 18.3% still >2% block; NVDA/AAPL/AVGO FAIL chase-gate/spread; OKLO/ASTS still WIDE / discipline preserved Day 24 all-cash)
+
+**Open positions:** NONE. **Equity:** $9,731.53 | **Cash:** $9,731.53 (100%) | **Buying power:** $38,926.12 | **Trades this week:** 0/20 | **Positions:** 0/12 | **Broker `positions=[]` / `orders=[]` confirmed at midday pull.**
+
+### Midday Trigger Re-Evaluation (~09:11 AM PT)
+
+| Trigger | Gate | Wed Open Mid | Midday Mid | Spread | Verdict |
+|---------|------|--------------|-----------|--------|---------|
+| **AEHR (niche PRIMARY)** | spread <2% + gap-hold ≥$85 + tape green | $106.05 (spread 28.7%) | $84.36 (ap 92.05 / bp 76.66) | **18.3% ✗** | **FAIL — spread compressed 28.7→18.3% but still 9x cap**; mid faded to $84.36 = below gap-hold threshold ($85); post-print retail chase deflating without institutional bid; gate structurally blocks — no entry |
+| **NVDA (alpha Track B)** | pullback ≥3% below Tue HOD $209 (≤$202.87) + spread <0.5% | $212.36 (fresh HOD) | $207.31 (ap 207.32 / bp 207.30) | **0.010% ✓** | **FAIL — pullback only -0.8% below Tue HOD; need ≤$202.87** — spread perfect but structural pullback insufficient |
+| **AAPL (alpha Track A)** | pullback ≥3% + spread <0.5% + base | $318.35 (spread 0.685%) | $326.96 (ap 326.98 / bp 326.94) | **0.012% ✓** | **FAIL — extended further to fresh HOD $327 (+2.7% vs open)**; 13th consecutive chase-gate miss; spread compressed but no pullback structure |
+| **AVGO (alpha Track B)** | pullback ≥3% below Tue HOD $397 (≤$385) + spread <0.5% | $386.60 (spread 5.38%) | $389.75 (ap 391 / bp 388.5) | **0.64% ✗** | **FAIL — spread 0.64% > 0.5% cap; price rebounded from open $386.60 to $389.75** (+0.8% intraday); pullback -1.8% below Tue HOD (need -3%); dual-gate fail |
+| **OKLO (niche)** | spread <1.5% + $50 reclaim | $46.73 (spread 10.34%) | $43.52 (ap 44.58 / bp 42.46) | **4.87% ✗** | **FAIL — spread 4.87% wide-display block (3.2x cap)**; price faded to $43.52 = -6.9% intraday; $50 reclaim receding; Day 12 sub-band deepens |
+| **ASTS (niche BB-catalyst)** | spread <2% + hold-of-$64 + reclaim $65 | $69.50 (spread 8.36%) | $66.70 (ap 68.51 / bp 64.88) | **5.44% ✗** | **FAIL — spread 5.44% wide-display block (2.7x cap)**; price -4.0% intraday but bp $64.88 = $64 base holding; BB11-13 T-3wks catalyst intact but spread precludes entry |
+
+**RKLB (watchlist reference):** mid $75.95 (ap 76.09 / bp 75.81) = spread **0.37%** ✓ TIGHT — huge improvement vs open 4.07%; but no armed trigger (need 2+ session base $70-75 with reclaim tape); noted for late-session or Thu re-arm consideration.
+**MSFT (secondary alpha reference):** mid $398.87 (ap 399 / bp 398.74) = +2.1% vs Wed open $390.91; spread **0.065%** ✓ but no armed trigger + fresh-HOD stamp = chase-gate fail.
+
+### Actions Taken (STEPS 3-7)
+- **STEP 3 cut losers (unrealized_plpc ≤ -0.07):** N/A — no positions to evaluate.
+- **STEP 4 tighten winners (+15/+20 ladder):** N/A — no positions to evaluate.
+- **STEP 5 thesis check:** N/A — no positions to evaluate.
+- **STEP 6 sleeve balance:** Alpha 0% (target 65-75%), Niche 0% (target 25-30%), Total 0/12 positions ✓. Deployment 0% = 24th consecutive under-deployed session; deployment floor policy notes bias to act on quality but AEHR/NVDA/AAPL/AVGO all fail structural gates — quality gate holds.
+- **STEP 7 intraday research:** SKIP — no sharp unexplained moves; AEHR post-print behavior is expected liquidity fragmentation, price compression, retail unwind vs institutional accumulation lag; ASTS spread persists on launch-anticipation retail; no addendum warranted.
+- **STEP 8 Discord notification:** SKIP per routine ("only if action was taken").
+
+### Structural Signals — Midday Wed 7/15
+1. **AEHR spread compressed 35% (28.7 → 18.3%) but still 9x cap** — institutional bid absent; retail-driven post-print fade compressing but market-maker inventory management still fragments liquidity; watch for spread <5% as first-order improvement, <2% as gate-clear; price $84.36 is now below the $85 gap-hold threshold = compound gate fail even if spread cleared.
+2. **NVDA/AAPL both fully spread-cleared but structurally chase-gated** — NVDA -0.8% pullback insufficient; AAPL extended +2.7% intraday to fresh HOD $327 = 13th chase-gate miss confirms Track A gate structural inadequacy through this rally leg; weekly review Fri 7/17 must recalibrate.
+3. **AVGO the closest alpha to armed** — spread 0.64% just above 0.5% cap; pullback -1.8% just below -3% threshold; if late-session compression + fade to $385: dual-gate could clear.
+4. **OKLO breaking further sub-band** — mid $43.52 vs open $46.73 = -6.9% intraday; DSA-catalyst decay continues Day 12 without criticality announcement; watch for capitulation-vol + <$40 potential deep-support entry (would require new thesis document).
+5. **ASTS holding $64 base at bid level** — spread 5.44% blocks entry but structurally the base is intact; BB11-13 catalyst window narrowing to T-3wks; if spread compresses <2% at any point, gate could clear on $65 reclaim.
+6. **RKLB spread cleaned dramatically** (4.07% → 0.37%) — no armed trigger yet but the tape improvement is structurally meaningful; if 2+ session base $70-75 confirms + reclaim tape emerges, could arm for Thu/Fri.
+
+### Bias to EOD (~13:00 PT)
+- **AEHR:** Watch for spread compression <5% + gap-hold reclaim ≥$85; unlikely to clear <2% cap in remaining ~4 hours.
+- **NVDA:** Watch for pullback ≥3% to ≤$202.87 + spread hold + volume reclaim; late-session fade could arm.
+- **AAPL:** SKIP — 13th chase-gate miss; will not force this trade.
+- **AVGO:** **Closest to armed** — watch for spread <0.5% + pullback to ≤$385; late-session settlement could clear both gates.
+- **OKLO:** Watch for capitulation vol or spread <1.5%; no fresh entry base yet.
+- **ASTS:** Watch for spread <2% + $65 reclaim tape; BB catalyst intact.
+- **RKLB:** Watch for base confirmation + reclaim tape; could arm Thu.
+- **Cash preserved into EOD** = Day 24 all-cash if all triggers stay gated; if AVGO gate clears in final hour → possible late-session entry per Deployment policy.
+
+**Next scheduled routine:** Wed 7/15 EOD snapshot ~13:00 PM PT (positions check, no-op or single-position update, Thu 7/16 prep = NFLX Q2 AMC + ASML/TSM/JNJ mixed calendar).
