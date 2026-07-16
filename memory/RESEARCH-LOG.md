@@ -6990,3 +6990,140 @@ Silent — normal-day + explicit gate for AEHR entry evaluation at open; no acut
 - 9:00 PT: midday scan → stop tightens on any AEHR fill (+15/+20 ladder), Track B re-check
 - 13:00 PT: EOD snapshot + Thu prep (NFLX AMC, ASML/TSM/JNJ AMC/BMO)
 
+
+
+## 2026-07-16 — Pre-Market Research (Week 13 Day 4, Thursday — 08:00 AM ET / 05:00 AM PT / T-1.5h to bell / book FLAT 100% cash Day 25 / **ASML+TSMC double semi catalyst + AEHR post-print continuation gate + ASTS THESIS BROKEN**)
+
+**Account snapshot:** Equity **$9,731.53** | Cash **$9,731.53** (100%) | Buying power $38,926.12 (4x margin, unused) | Non-marginable BP $9,731.53 | Positions 0/12 | Trades this week 0/20 | Daytrade count 0/5 rolling | `balance_asof` 2026-07-15 (one-session lag; equity/cash lines current). Broker `positions=[]` / `orders=[]` confirmed.
+
+**Sleeve status:** Alpha 0% (target 65-75%); Niche 0% (target 25-30%); Total deployment 0% — **Day 25 consecutive under-deployed session**. Deployment-floor policy: bias to act on quality; AEHR is the standing niche PRIMARY if Thu open clears structural gates.
+
+### Market Context (Thu 7/16 pre-open)
+| Metric | Value | Read |
+|--------|-------|------|
+| **SPX futures** | 7,607.25 +0.21% (also seen 7,616-7,618 mid-session) | **Mildly risk-on**; ASML+TSMC AH catalyst supportive |
+| **VIX** | 15.76 close 7/15; 16.20 open 7/16 | **Calm**; below 20 risk-on regime |
+| **WTI Crude** | $80.16 +1.03% | Elevated but stable; no fresh Iran shock |
+| **Brent Crude** | $85.91 +1.39% | Same |
+| **US 2Y yield** | 4.21% | Sticky; only 0.14pt higher MoM |
+| **US 10Y yield** | ~4.40% (approx from spread) | Yields rising post-hot-retail-sales |
+| **CPI June (Tue print)** | -0.4% MoM / **3.5% YoY (from 4.2%)** | **DOVISH** — biggest drop since Apr-2020 |
+| **PPI June (Wed print)** | -0.3% MoM / **5.5% YoY** (vs 6.2% consensus) | **DOVISH** — reversed May +0.6% |
+| **Retail Sales June (today 08:30 ET)** | **+0.9% MoM actual vs +0.5% forecast** | **HOT** — consumer resilient; yields rising |
+| **Initial jobless claims (today 08:30 ET)** | 215K actual vs 216K forecast | **IN-LINE**; labor stable |
+| **CME FedWatch 7/29 FOMC** | Hold 65-75% / Hike 25-34% / **Cut 0%** | Hike odds dampened by dovish CPI+PPI but no cut |
+| **Fed hawkish tilt** | Warsh testimony this week | Persistent |
+| **Iran-Israel-US** | Strait of Hormuz risk persistent | HIGH but priced-in |
+| **Sector momentum YTD** | Energy +34% > Tech > Industrials (defense) | Semis had July MTD drawdown (SOXQ -6.6%) — likely reversed today by ASML+TSMC |
+
+### This Week's Earnings Calendar (Week 13 refresh)
+| Date | Ticker | BMO/AMC | Result / Stance |
+|------|--------|---------|-----------------|
+| Tue 7/14 8:30 ET | US June CPI | Binary macro | -0.4% MoM / 3.5% YoY = DOVISH |
+| Wed 7/15 8:30 ET | US June PPI | Binary macro | -0.3% MoM / 5.5% YoY = DOVISH beat |
+| Tue 7/14 AMC | AEHR | Q4 print | **BEAT + guide raise** — post-print Wed opened $106 gap → faded to $87.79 close = +21.9% net |
+| Wed 7/15 BMO | ASML | Q2 print | **BEAT + raised 2026 to €43-45B** — +6.5% AH to $1,838; SIZED-OUT |
+| **Thu 7/16 BMO** | **TSM** | Q2 print (2am ET call) | Consensus $39.85B rev / EPS $3.80-3.83; expected BEAT (record June sales); **SIZED-OUT at $420** |
+| Thu 7/16 08:30 ET | US Retail Sales | Binary macro | **+0.9% actual vs +0.5% forecast = HOT consumer** |
+| Thu 7/16 AMC | NFLX, JBHT | Q2 | Outside sleeves |
+| Thu 7/16 08:00 ET | JNJ, MS, BLK | Q2 | Outside sleeves |
+| Thu 7/23 AMC | **INTC** | Q2 print | **DEFER T-7 pre-earnings** |
+
+### Tech/Semi Watchlist (Thu 7/16 stale post-close bid quotes — actionable only at open)
+Sizing pre-filter: equity $9,731.53 × 0.05 = **$486.58 cutoff**.
+
+| Ticker | Wed close bid | Notes on setup (Thu open) | Sizing @ close | Class |
+|--------|--------------|---------------------------|----------------|-------|
+| **NVDA** | $212.03 | ASML+TSMC double catalyst = likely GAP UP; Track B mean-rev **needs pullback ≥3% below Wed HOD** ($≤$208 approx) + spread <0.5% + tape green + volume reclaim | 7 sh @ $212 = 15.2% (at cap) | **WATCH — armed only on gap-fill pullback** |
+| **AVGO** | $368.36 (post-close bid stale) | ASML+TSMC positive; Track B — needs pullback ≥3% + volume reclaim + spread <0.5% | 3 sh @ $370 = 11.4% | **WATCH — gate structural check post-open** |
+| **AAPL** | $293.43 (stale) | ASML Panther Lake supplier for Intel; not core AAPL catalyst; Track A retry — **14th chase-gate miss risk**; needs deep pullback with spread <0.5% + base structure | 3 sh @ $293 = 9.0% | **WATCH — Track A anchor stale, Fri weekly review priority** |
+| **MSFT** | $375.76 (stale) | Track B pullback; no armed trigger | 2 sh @ $376 = 7.7% | **WATCH** |
+| **INTC** | $97.51 (stale, -4.9% from Tue $102) | ASML high-NA at Intel Panther Lake = positive readthrough; **T-7 pre-earnings block persists** | 9 sh @ $98 = 9.1% | **DEFER pre-earnings** |
+| **AMD** | $495.74 bid (stale, SIZED-OUT >$487) | — | — | **SKIP** |
+| **MRVL** | $197.87 | Under-owned; no trigger | 5 sh = 10.2% | **WATCH** |
+| **TSM** | $357.24 bid post-close (stale) | **Q2 print pre-market — expected BEAT** (rev $39.6B +36% YoY per July prelim); AH indicated $423.74 (+0.74%); **SIZED-OUT still at $420+** | — | **SKIP sized-out** |
+| **MU** | $852.39 bid (SIZED-OUT) | Strong sector momentum (up 200% YTD per SoxSec commentary) | — | **SKIP** |
+| **QCOM** | $167.01 | No trigger | 5 sh @ $167 = 8.6% | **WATCH** |
+| **ARM** | $235.93 | Borderline | 2 sh = 4.9% (below cap) | **WATCH** |
+| **SMCI** | $26.89 | No trigger | 35 sh @ $27 = 9.7% | **WATCH** |
+| **ASML** | $1,534 close bid; AH $1,838 (+6.5%) | **BEAT + guide raise** — SIZED-OUT | — | **SKIP** |
+| **GOOGL** | $358.85 | No trigger | 2 sh = 7.4% | **WATCH** |
+| **META** | $645.49 (borderline SIZED-OUT >$486) | No trigger; borderline size | 1 sh = 6.6% | **SKIP borderline** |
+| **AMZN** | $242.27 | No trigger | 4 sh = 10.0% | **WATCH** |
+
+### Niche Radar (7-point research where applicable)
+Sizing pre-filter: equity × 0.10 / 6 = **$162.19 cutoff**.
+
+| Ticker | Price (Wed close/AH) | Class | EPS Trend | Analyst Tgt | Catalyst | Sentiment | Action |
+|--------|---------------------|-------|-----------|-------------|----------|-----------|--------|
+| **AEHR** | close $87.79; opened $110 → faded to $84 midday → closed $87.79 | **STRONG BUY SETUP still armed** | Q4 EPS +$0.11 beat; FY27 guide $130-150M (2.6-3x) | Stale $29.50 pre-print; expect upgrades this week | **Thu open = post-print Day 2 continuation gate** — need $85 gap-hold + spread <2% + tape green | Retail exuberance flushed Wed | **✅ ARMED — Thu OPEN entry gate:** spread <2% + hold-of-$80 (below Wed close $87.79 flush support) + first 15-min bar close ≥$85 + tape green. Sizing 13 sh @ $87 = $1,131 = 11.6% ≤12% ✓; stop -10% = $78.30; target $110 R:R 2.5:1 ✓ |
+| **OKLO** | $43.37 bid (close $46.24) | **WATCH** | Pre-rev; Q1 $1B equity offering; DOE DSA approved 7/1 | Median $85-93 (55%+ upside per BofA) | Groves criticality July 4 target **PASSED without announce** (13 days late); no NRC yet | Neutral fading | **WATCH — require $50 reclaim + spread <1.5% + criticality announce OR 2-session base $43-46** ; 22 sh @ $45 = 10.2%; stop $40.50; tgt $65 R:R 2.2:1 |
+| **RKLB** | $73.37 bid Wed close (mid Wed midday $75.95, spread 0.37%) | **WATCH** — spread compressed Wed midday but base still forming | Q1 $110M rev; $2.2B (May contract) + $5.6B NSSL backlog | Consensus $103-108 | Neutron inaugural target July 2026 (some sources Q4); FCC experimental license active | Positive | **WATCH — need 2+ session base $70-75 with reclaim tape** ; 13 sh @ $75 = 10.0%; stop $67.50; tgt $95 R:R 2.7:1 |
+| **ASTS** | $58.09 bid Wed AH (close $69.00; extended AH -12.98% to $57.70) | **AVOID — THESIS BROKEN** | 2026 loss est $1.47/sh | Mean $73.23 (range $56-95) | **BB7 launch FAILED Sun 7/13** (Blue Origin New Glenn 3 wrong altitude, de-orbited); **$1B convertible senior notes offering priced Thu 7/16 at 1.625% due 2034** (capped call $149.20) — dilution; BB11 at Cape Canaveral; BB12-13 August; 45 sats YE target | Broken; capital raise + launch failure = double blow | **❌ AVOID until dilution absorbed + BB11 or BB12/13 successful launch confirms operational plan** — BB catalyst PATH intact but confidence gap opened; re-evaluate when price stabilizes + first successful successor launch |
+| **NBIS** | $173.85 bid (SIZED-OUT permanent >$162) | — | — | — | — | — | **SKIP** |
+
+### Actionable Alpha Ideas (Thu 7/16)
+1. **NVDA Track B — post-ASML+TSMC gap-fill mean-rev** — ASML raised 2026 to €43-45B + TSMC Q2 expected beat = **semi sleeve gap-up likely at open**; NVDA Track B **needs pullback ≥3% below post-gap HOD** + spread <0.5% + tape green + volume reclaim. Sizing 7 sh @ $200-210 = 14-15% (at alpha cap). Stop -10%. Target +12% R:R 1.2:1. **VERDICT: WATCH — armed only on gap-and-fade pattern.**
+2. **AVGO Track B — same catalyst** — needs pullback ≥3% + spread <0.5% + volume reclaim. 3 sh @ ~$385 = 11.9%. Stop $347. Target $425 R:R 1.4:1. **VERDICT: WATCH — same gap-fade dependency.**
+3. **AAPL Track A retry (14th miss risk)** — Wed post-close $293.43 = -6% below Wed HOD $327 = **pullback structure now technically in range** (>3% below HOD); would need Thu open spread <0.5% + hold-of-$290 base structure. 3 sh @ $295 = 9.1%. Stop $265. Target $325 R:R 1.0:1 (still weak) or $340 R:R 1.5:1. **VERDICT: WATCH — chase-gate pullback finally cleared but R:R marginal.**
+
+### Actionable Niche Ideas (Thu 7/16)
+1. **AEHR POST-PRINT DAY 2 CONTINUATION — PRIMARY NICHE ENTRY** (7-point research completed Wed):
+   - **Earnings/Fundamentals:** Q4 EPS +$0.11 (beat by $0.12); rev $18.8M (in-line); bookings $60.7M RECORD; backlog $100.6M RECORD; 45% margin
+   - **Guidance:** FY27 rev $130-150M = **160-200% YoY** (from ~$50M FY26); 18-22% pretax margin
+   - **Analyst:** stale $29.50 median pre-print; upgrades pending; AI processors + silicon photonics >80% of Q4 rev
+   - **Institutional:** CFO Siu sold 1,600 shares @ $106.78 in May (pre-drawdown noise); post-print bookings validates business
+   - **News:** print is the catalyst; retail 40% AH surge Wed → flush to $87.79 close
+   - **Sentiment:** post-print exuberance flushed = clean structural test on Thu Day 2
+   - **Technical:** massive Wed range $86-$110; close $87.79 = -20.6% below high, +21.9% above prior close; **support at $80 (Wed midday flush low $84 minus buffer)**; resistance at $95 (Wed VWAP roughly); need Thu open to hold-of-$80 with $85 reclaim by 15-min bar close
+   - **Thesis:** guide-raise + record backlog decisively refutes FY26 decline narrative; FY27 2.6-3x re-rate justifies multi expansion; drift plays 90 days into next print. Highest-conviction niche in weeks. Wed's post-print fade = pump exhaustion, NOT thesis break.
+   - **Entry gate:** spread <2% + hold-of-$80 in first 15 min + 15-min bar close ≥$85 + tape green + spread compressed vs Wed catastrophe (28.7% → likely <5% Thu)
+   - **Sizing:** 13 sh @ $87 = $1,131 = 11.6% ≤12% ✓
+   - **Stop:** -10% = $78.30 hard
+   - **Target:** $110 = R:R 2.6:1 ✓ (initial); $130 stretch = R:R 4.9:1
+   - **Trade count:** 1/20 this week if taken
+2. **OKLO** — WATCH; require $50 reclaim + spread compress + criticality announce or 2-session $43-46 base.
+3. **RKLB** — WATCH; base-establishment $70-75 + reclaim tape; Neutron inaugural imminent.
+4. **ASTS** — **AVOID (thesis broken)** — BB7 failure + $1B dilution.
+
+### Macro & Geopolitical Assessment (Thu 7/16)
+- **HIGH:** **TSMC Q2 pre-market print (2am ET)** — expected beat; semi sleeve reaction determines NVDA/AVGO gap-up magnitude and AEHR co-momentum.
+- **HIGH:** **Retail Sales 08:30 ET** (+0.9% actual vs +0.5% forecast = HOT); consumer resilience = yields rising = tech multiple pressure but no hawkish tilt vs FOMC.
+- **HIGH:** **AEHR Day 2 post-print continuation** — primary niche binary gate.
+- **MEDIUM:** ASML AH +6.5% to $1,838 — SIZED-OUT for direct entry but positive semi readthrough.
+- **MEDIUM:** Fed hike odds 25-34% at 7/29 dampened by dovish CPI+PPI but still elevated.
+- **MEDIUM:** Iran-US tensions ongoing; Strait of Hormuz risk; oil at $80 WTI stable.
+- **LOW/PRICED-IN:** JNJ/MS/BLK/NFLX earnings today = outside sleeves.
+
+### Risk Factors (Thu 7/16)
+- **PRIMARY:** AEHR Day 2 gap-hold gate is the critical binary — if spread stays >5% or price fails $85 by 15-min bar close, no entry today.
+- **SECONDARY:** Semi sleeve gap-and-fade pattern is chase-gate risk for NVDA/AVGO; extended-move risk vs pullback structure.
+- **TERTIARY:** ASTS thesis-break flags niche watchlist quality risk — reminder that binary catalysts can go both ways; AEHR sizing at 11.6% respects this.
+- Iran escalation risk always present; sizing DOWN if entering.
+- 25th under-deployed session extends; deployment-floor policy activated but no forcing.
+
+### Decision: **TRADE IF AEHR gate clears** — Day 2 post-print continuation is a valid armed setup; alpha triggers depend on gap-fade structure not yet formed.
+Rationale: (a) AEHR fundamentals unambiguously A+; Wed post-print pump-flush = pump exhaustion, not thesis break; Thu Day 2 = clean structural test with tighter spreads expected. (b) Semi sleeve (NVDA/AVGO) likely GAP UP on ASML+TSMC double catalyst — chase-gate discipline preserves capital until pullback ≥3% + volume reclaim structure forms; deployment-floor bias does not override the no-chase gate. (c) ASTS AVOID protects against binary catalyst-fail damage; RKLB/OKLO stay WATCH. (d) 25th under-deployed session extends; deployment floor + AEHR A+ setup + gate discipline = TRADE if gate clears / else HOLD. (e) Hot retail sales = consumer strong but yields rising = tech multiple headwind; sizing still 11.6% respects R:R.
+
+### Thu 7/16 Open Plan (post-Retail-Sales at 5:30 PT / bell 6:30 PT)
+1. **AEHR PRIMARY NICHE ENTRY:** if spread <2% + hold-of-$80 first 15 min + 15-min bar close ≥$85 + tape green: **BUY 13 sh @ market ~$85-92**; place -10% trailing stop GTC on fill; log to TRADE-LOG.
+2. **NVDA Track B:** if post-gap pullback ≥3% below Thu HOD + hold-of-$208 base + spread <0.5% + tape green + volume reclaim: 7 sh @ ~$205-210 = 14.7-15.1% alpha (borderline cap); stop $185; target $225 R:R 1.5:1.
+3. **AVGO Track B:** if post-gap pullback ≥3% below Thu HOD + volume reclaim: 3 sh @ ~$385 = 11.9%; stop $347; target $425 R:R 1.4:1.
+4. **AAPL Track A:** if base structure at $290-300 + spread <0.5%: 3 sh @ $295 = 9.1%; stop $265; target $325 R:R 1.0:1 (skip if R:R stays <1.2:1) or $340 R:R 1.5:1.
+5. **OKLO:** WATCH; need $50 reclaim + spread <1.5% + criticality announce.
+6. **RKLB:** WATCH; need 2+ session $70-75 base + reclaim.
+7. **ASTS:** **DO NOT ENTER — thesis broken.**
+8. **INTC/TSM/ASML:** DEFER earnings/SIZED-OUT.
+9. **MSFT/GOOGL/AMZN/META/QCOM/MRVL/SMCI/ARM:** WATCH; no trigger armed.
+10. **Position cap check:** after AEHR entry = 1/12 ✓; after full slate (AEHR + 1 alpha) = 2/12 ✓; trades this week ≤20 ✓; daytrade 0/5 ✓.
+11. **Bias:** **TRADE AEHR IF gate clears** — 25-session under-deployment = failure mode; A+ setup exists; gate discipline is the check. Alpha triggers likely require pullback structure not yet formed = pre-open uncertainty.
+
+### Discord Pre-Market Notification
+Silent — normal-day + explicit AEHR gate evaluation; no acute pre-market alert warranted. (ASTS thesis break is worth noting internally but not urgent to Discord.)
+
+### Re-Evaluation Windows
+- 5:30 PT: Retail Sales + Initial claims prints → macro regime confirm
+- 6:30 PT: bell → AEHR spread + gap-hold gate + semi gap-and-fade check
+- 6:45 PT: 15-min bar close → AEHR entry decision if gate clears
+- 9:00 PT: midday scan → stop tightens on any AEHR fill + Track B re-check + AAPL Track A re-evaluate
+- 13:00 PT: EOD snapshot + Fri prep (Weekly Review Fri 7/17)
