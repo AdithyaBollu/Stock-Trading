@@ -7127,3 +7127,139 @@ Silent — normal-day + explicit AEHR gate evaluation; no acute pre-market alert
 - 6:45 PT: 15-min bar close → AEHR entry decision if gate clears
 - 9:00 PT: midday scan → stop tightens on any AEHR fill + Track B re-check + AAPL Track A re-evaluate
 - 13:00 PT: EOD snapshot + Fri prep (Weekly Review Fri 7/17)
+
+
+## 2026-07-17 — Pre-market Research (Fri Week 13 Day 5 — Weekly Review day)
+
+### Account Snapshot (~05:15 PT)
+- **Equity:** $9,731.53 | **Cash:** $9,731.53 (100%) | **Buying power:** $38,926.12 (4x margin unused) | **Non-marginable BP:** $9,731.53
+- **Positions:** 0/12 open (broker `positions=[]` confirmed) | **Orders:** 0 (broker `orders=[]` confirmed)
+- **Daytrade count:** 0/5 rolling | **Trades this week:** 0/20 | **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline
+- **Balance_asof:** 2026-07-16 | **Day 26 all-cash** (Week 13 Day 5, Fri = Weekly Review day)
+
+### Sleeve Deployment
+- **Alpha:** $0 / 0% (target 65-75%) — 26th consecutive under-deployed session
+- **Niche:** $0 / 0% (target 25-30%) — 26th consecutive niche-empty session
+- **Cash:** $9,731.53 / 100%
+
+### Market Context (Fri 7/17 pre-market)
+- **S&P 500 futures:** ~7,509-7,513 = **-0.85% to -0.90%** (chip selloff extending; NFLX -8% AH added pressure)
+- **Nasdaq 100 futures:** -1.66% at ~28,742 (semi-lead selloff)
+- **VIX:** 17.96 (+7.35% from Thu close 16.73) — risk-off tilt
+- **WTI oil:** ~$79.53-79.77 | **Brent:** ~$84.89-84.93 (Iran-US strikes resumed 7/15-16, Hormuz partially disrupted)
+- **Fed rate:** 3.50-3.75% hold; FOMC 7/29 hike odds ~10%; Sept hike odds 68-70%; NO cuts expected 2026
+- **June CPI:** -0.4% MoM / 3.5% YoY (cooled from 4.2%); Core 2.6% YoY; PPI 5.5% YoY
+- **Today's data:** Building Permits + Housing Starts + Industrial Production + Capacity Utilization + UMich Consumer Sentiment prelim + Export/Import prices
+
+### This Week's Earnings — Fri 7/17 Focus
+| Time | Ticker | Report | Our Stance |
+|------|--------|--------|-----------|
+| Thu AMC (last night) | **NFLX** | Q2 EPS $0.80 beat / rev $12.56B miss / **Q3 guide LOWERED** ($0.82 vs $0.84) | Outside sleeve; **-8% AH → 52-wk low** = risk-sentiment negative for tech complex today |
+| Fri BMO | TRV | Q2 EPS $5.34 vs est $5.15 beat | Outside sleeve |
+| Fri BMO | TFC, FITB, RF | Regional bank Q2s | Outside sleeve |
+| Fri BMO | DRI, SNX, AYI, ALV, WGO, GE Aerospace, UNH | Q2 mix | Outside sleeve |
+| Thu 7/23 AMC | **INTC** | Q2 print | **DEFER T-6 pre-earnings block** |
+| Wed 7/22-Fri 7/24 | GOOGL, MSFT, META, T-Mobile | Q2 wave next week | Watch pre-earnings drift setups |
+
+### Tech/Semi Watchlist — Post-Close Bids (STALE, pre-market spreads confirm chip selloff extending)
+Sizing pre-filter: equity $9,731.53 × 0.05 alpha ≥ **$486.58 cutoff** (10% cap = $973.15; 6 shares min → $486.58 max share price for full-cap 6-share position). Sized-out >$487.
+
+| Ticker | Post-close bid | Move context (vs Wed high) | Sizing @ close | Class |
+|--------|---------------|---------------------------|----------------|-------|
+| **NVDA** | $195.57 bid (ap $230 stale) | Chip selloff Thu: NVDA -6%; another leg down in Fri futures; **now $195.57 = -8% below Wed HOD $212.36** = **pullback structure NOW EXCEEDS 3% GATE** | 5 sh @ $196 = 10.1% (below cap) | **⚠️ WATCH — pullback gate finally cleared; need open confirmation (spread <0.5% + volume reclaim + tape green)** |
+| **AVGO** | $357.34 bid (ap $396 stale) | Thu -13% post-earnings; **now -7.4% below Wed HOD $386** = pullback gate cleared | 2 sh @ $357 = 7.3% (below cap) | **⚠️ WATCH — Thu -13% may have exhausted seller; need spread <0.5% + hold-of-$350 + volume reclaim** |
+| **AAPL** | $311.60 bid (stale) | Thu all-time high $334.68; HSBC upgrade to Buy $366 target; **-6.9% pullback to $311.60** = Track A gate technically cleared | 3 sh @ $312 = 9.6% (below cap) | **WATCH — chase-gate finally cleared but AAPL held up while chips sold off; single-name divergence risk** |
+| **MSFT** | $378.10 bid (stale) | Chip sentiment spillover | 2 sh @ $378 = 7.8% | **WATCH — no armed trigger** |
+| **AMD** | $474.05 bid (stale, ~SIZED-OUT >$487 borderline) | Chip selloff -9% Thu | 2 sh borderline | **WATCH borderline** |
+| **MRVL** | $178.38 bid (stale) | Chip drift; no trigger | 5 sh @ $178 = 9.2% | **WATCH** |
+| **QCOM** | $160.57 bid (stale) | Chip drift -9% Thu | 6 sh @ $161 = 9.9% | **WATCH — sized properly at 6 sh** |
+| **INTC** | **$93.01 bid Fri 05:08 PT** (fresh quote; -4.6% below Wed close $97.51) | **T-6 pre-earnings (Thu 7/23 AMC)** | 10 sh @ $93 = 9.6% | **DEFER pre-earnings block** |
+| **ARM** | $224.41 bid (stale) | Chip drift | 2 sh @ $224 = 4.6% (below cap) | **WATCH** |
+| **SMCI** | $23.60 bid (stale) | Chip drift | 41 sh @ $24 = 10.1% | **WATCH** |
+| **TSM** | $349.07 bid (stale, SIZED-OUT >$487) | Q2 BEAT day-of print faded on macro selloff | 2 sh borderline | **SKIP borderline** |
+| **MU** | $806.44 bid (SIZED-OUT permanent) | Chip -9% Thu | — | **SKIP** |
+| **GOOGL** | (not queried) | Wed close was ~$360 | 2 sh borderline | **WATCH — earnings next week** |
+| **META** | (SIZED-OUT >$486) | — | — | **SKIP** |
+| **AMZN** | (WATCH ~$242) | — | 4 sh | **WATCH — no trigger** |
+
+### Niche Radar (7-point research where applicable)
+Sizing pre-filter: equity × 0.10 / 6 = **$162.19 cutoff**.
+
+| Ticker | Price (post-close/pre-mkt) | Class | EPS Trend | Analyst Tgt | Catalyst | Sentiment | Action |
+|--------|---------------------------|-------|-----------|-------------|----------|-----------|--------|
+| **AEHR** | ~$83-84 real (Thu close $87.79; stale bid $72.32 / ask $94.74 = 30% wide-display); premarket VWAP $84.80 | **STRONG BUY SETUP — Day 3 continuation** | Q4 EPS +$0.11 beat; FY27 guide $130-150M (2.6-3x) | **Craig-Hallum UPGRADE to Buy today 7/17** | Post-print Day 3 = gap-fill test; needs $80 hold + spread compress | Retail flushed Wed; institutional re-entry Thu partial | **✅ ARMED — Fri OPEN entry gate:** spread <2% + hold-of-$80 first 15 min + tape green + 15-min bar close ≥$82. Sizing 13 sh @ $85 = $1,105 = 11.4% ≤12% ✓; stop -10% = $76.50; target $110 R:R 2.9:1 ✓ |
+| **OKLO** | bid $39.43 / ask $43.17 = 9.5% wide-display (Thu mid $41.23) | **WATCH — sub-band deepens Day 13** | Pre-rev; DSA approved 7/1; no criticality announce | Median $85-93 | Groves criticality 14 days late; NRC silence | Neutral fading | **WATCH — require $50 reclaim + spread <1.5% + criticality announce OR $40 capitulation base**; 24 sh @ $40 = 9.9%; stop $36; tgt $60 R:R 2.2:1 |
+| **RKLB** | bid $64.04 stale (Thu mid $66.21, base broken) | **WATCH — base broken** | Q1 $110M rev; $2.2B+$5.6B backlog | Consensus $103-108 | Neutron inaugural target Q4/Jul-2026 | Positive fund; broken tech | **WATCH — need 2+ session base $65-70 with reclaim tape**; 15 sh @ $65 = 10.0%; stop $58.50; tgt $85 R:R 2.4:1 |
+| **ASTS** | bid $51.53 / ask $57.81 (Thu mid $55.50) = -25% below Wed close $69 | **AVOID — THESIS BROKEN** | 2026 loss est $1.47/sh | Mean $73.23 | BB7 launch FAILED 7/13 + $1B convert priced 1.625% due 2034 | Broken; dilution + failure | **❌ AVOID until BB11 or BB12/13 successful launch + price stabilization** |
+| **NBIS** | bid $145.46 (borderline sized-out cutoff $162) | — | — | — | — | — | **Borderline SKIP — would need 6 sh @ $162 = full cap; skip until spread + trigger** |
+
+### Actionable Alpha Ideas (Fri 7/17)
+1. **NVDA Track B — post-chip-selloff mean-rev (highest probability)** — chip selloff Thu -6% + Fri futures -1.66% NDX = NVDA likely GAP DOWN at open below $195; **Wed HOD $212.36 → pre-mkt bid $195.57 = -8% pullback = -3% gate CLEARED**. Needs open confirmation: spread <0.5% + volume reclaim + tape green + hold-of-$190 base. Sizing 5 sh @ ~$196 = 10.1% alpha (below cap for margin room). Stop -10% = $176. Target $215 R:R 1.9:1. **VERDICT: ARMED IF gap-fill confirms base + volume reclaim in first 30 min.**
+2. **AVGO Track B — same catalyst deeper** — Thu -13% post-earnings on AI margin concerns (74% guide vs 77.1% Q2). Chip sentiment negative but AVGO's own bar already lowered = potential exhaustion. Bid $357.34 = -7.4% below Wed HOD. Needs spread <0.5% + hold-of-$350 + volume reclaim. 2 sh @ ~$358 = 7.4% (well below cap). Stop $322. Target $400 R:R 1.7:1. **VERDICT: WATCH — needs confirmation of seller exhaustion.**
+3. **AAPL Track A — HSBC upgrade + pullback finally structural** — Thu all-time high $334.68 then HSBC upgraded from Hold to Buy $366 target = catalyst; Fri pre-mkt bid $311.60 = -6.9% pullback. Track A gate technically clears (>3%). But AAPL held up while chips sold off = single-name idiosyncratic strength = late-cycle risk. 3 sh @ ~$312 = 9.6%. Stop $281. Target $340 R:R 1.0:1 (weak) or $360 R:R 1.7:1 (HSBC-anchored). **VERDICT: WATCH — R:R marginal at $340 target; consider only if base structure $305-315 forms cleanly.**
+
+### Actionable Niche Ideas (Fri 7/17)
+1. **AEHR POST-PRINT DAY 3 CONTINUATION — PRIMARY NICHE ENTRY** (7-point research):
+   - **Earnings/Fundamentals:** Q4 EPS +$0.11 beat; rev $18.8M in-line; bookings $60.7M RECORD; backlog $100.6M RECORD; 45% margin
+   - **Guidance:** FY27 rev $130-150M = 160-200% YoY growth
+   - **Analyst:** **Craig-Hallum upgraded to Buy today 7/17** ← FRESH catalyst; other upgrades pending
+   - **Institutional:** post-print bookings validates business; CFO Siu May sale pre-drawdown noise
+   - **News:** Thu Day 2 traded range $79.69-$87.73, close ~$83.82 mid; institutional flat, retail flush continuing
+   - **Sentiment:** post-print exuberance flushed = Day 3 clean structural test
+   - **Technical:** Wed range $86-$110; Thu range $79.69-$87.73; **support $80 flush level (Thu low)**; resistance $88 (Thu VWAP); Fri needs hold-of-$80 with $82 reclaim by 15-min bar close
+   - **Thesis:** Fundamentals A+ + fresh analyst upgrade + 3rd session structural test with tighter expected spread. Multi-day drift play into next print. Highest-conviction niche.
+   - **Entry gate:** spread <2% + hold-of-$80 first 15 min + 15-min bar close ≥$82 + tape green (adjusted vs Thu $85 gate given Day 2 low $79.69 = new support anchor)
+   - **Sizing:** 13 sh @ ~$85 = $1,105 = 11.4% ≤12% ✓
+   - **Stop:** -10% = $76.50 hard
+   - **Target:** $110 = R:R 2.9:1 ✓; stretch $130 R:R 5.3:1
+   - **Trade count:** 1/20 this week if taken
+2. **OKLO** — WATCH; require $50 reclaim + spread <1.5% + criticality announce OR $40 deep-support capitulation.
+3. **RKLB** — WATCH; base broken Thu; need 2+ session $65-70 base + reclaim.
+4. **ASTS** — **AVOID (thesis broken)**; -25% below Wed close.
+5. **NBIS** — borderline SKIP (bid $145 near $162 cutoff).
+
+### Macro & Geopolitical Assessment (Fri 7/17)
+- **HIGH:** **Chip selloff extending overnight** — NDX futures -1.66%, SPX -0.85%; AVGO Thu -13% still absorbing; NVDA -6% Thu; SOX -8% Thu. Broadcom gross margin guide 74% vs 77% ↓ + AI capex concerns. Semi sleeve GAP-DOWN scenario forces pullback structure BUT could be knife-catch risk.
+- **HIGH:** **NFLX -8% AH on Q3 guide down** = confirms tech sentiment strain; outside sleeve but read-across negative for growth/AI complex.
+- **HIGH:** **Iran-US war ACTIVE** — Wed 7/15 US strikes resumed; Hormuz partial disruption; oil at $79/$85. Any escalation news could compound risk-off.
+- **HIGH:** **Fri Weekly Review day** — Track A recalibration priority (14 consecutive chase-gate misses = structural gate failure; consider anchor upgrade $315-325 or Track A suspension).
+- **MEDIUM:** Fed hike odds Sept 68-70% = tech multiple headwind if hot data emerges Fri (UMich sentiment, Industrial Production).
+- **MEDIUM:** UMich Consumer Sentiment 05:30 PT + Industrial Production 06:15 PT.
+- **MEDIUM:** Regional bank earnings (TFC/FITB/RF) = credit health readthrough.
+- **LOW/PRICED-IN:** June CPI cooling (3.5% YoY) already digested; Iran conflict priced into oil.
+
+### Risk Factors (Fri 7/17)
+- **PRIMARY:** **Knife-catch risk on NVDA/AVGO gap-fill entries** — chip selloff momentum could extend Day 2 (Thu was Day 1 of -6/-13% moves); wait for seller exhaustion + volume confirmation, do not chase first hour reversal.
+- **SECONDARY:** AEHR Day 3 continuation — if spread stays wide or price fails $80 by 15-min close, no entry.
+- **TERTIARY:** AAPL divergence from chip sector = idiosyncratic; HSBC upgrade could be sell-the-news setup.
+- **QUATERNARY:** Fri EOD weekly review = flat book preserves flexibility; single entry OK if quality but no need to force pre-review.
+- Iran escalation risk always present; sizing DOWN if entering.
+- **26th under-deployed session extends** — deployment-floor policy activated but Fri risk-off + weekly review preference = quality gate DOMINATES.
+
+### Decision: **TRADE IF AEHR gate clears OR NVDA post-gap-fill confirms; else HOLD** — biased toward preserving flat-book into Weekly Review afternoon
+Rationale: (a) AEHR fresh analyst upgrade + Day 3 structural test = highest-conviction niche of the week; if gate clears at open, TAKE IT. (b) NVDA/AVGO gap-fill scenarios have pullback structure now (>-3% gate) but chip selloff momentum could extend Day 2 = knife-catch risk requires volume + tape confirmation; do not chase first hour. (c) AAPL Track A finally has pullback but R:R marginal + single-name divergence = WATCH. (d) NFLX guide-down + chip selloff + Iran war + hawkish Fed = risk-off tape favors quality-only entries. (e) 26th under-deployed session extends; deployment floor bias intact but Fri = Weekly Review day = flat-book preferred into recalibration decision.
+
+### Fri 7/17 Open Plan (bell 6:30 PT)
+1. **AEHR PRIMARY NICHE ENTRY:** if spread <2% + hold-of-$80 first 15 min + 15-min bar close ≥$82 + tape green: **BUY 13 sh @ market ~$82-88**; place -10% trailing stop GTC @ $76.50 on fill; log to TRADE-LOG.
+2. **NVDA Track B:** if post-open gap-fill establishes $190-195 base + spread <0.5% + volume reclaim (need >3x 5-min avg) + tape green: 5 sh @ ~$195 = 10.1% alpha; stop $176; target $215 R:R 1.9:1. **REQUIRE ≥30 min post-open confirmation — do NOT chase first-hour reversal.**
+3. **AVGO Track B:** if base at $350-360 + spread <0.5% + volume reclaim: 2 sh @ ~$358 = 7.4%; stop $322; target $400 R:R 1.7:1.
+4. **AAPL Track A:** if base $305-315 + spread <0.5%: 3 sh @ $312 = 9.6%; stop $281; target $360 R:R 1.7:1 (HSBC-anchored). Skip if $340 R:R stays <1.2:1.
+5. **OKLO:** WATCH; need $50 reclaim + spread <1.5% + criticality.
+6. **RKLB:** WATCH; need 2+ session $65-70 base + reclaim.
+7. **ASTS:** **DO NOT ENTER — thesis broken.**
+8. **INTC:** DEFER T-6 pre-earnings.
+9. **QCOM/MRVL/SMCI/ARM/GOOGL/AMZN/MSFT:** WATCH; no triggers armed.
+10. **Position cap check:** after AEHR entry = 1/12 ✓; after AEHR + 1 alpha = 2/12 ✓; trades this week ≤20 ✓; daytrade 0/5 ✓.
+11. **Bias:** **TRADE AEHR IF gate clears at open** — 26-session under-deployment = failure mode; fresh Craig-Hallum upgrade + A+ fundamentals + Day 3 structural test. Alpha triggers require gap-fill confirmation with volume + tape = knife-catch discipline. Flat-book preserves flexibility into Fri afternoon Weekly Review.
+
+### Discord Pre-Market Notification
+Silent — normal-day + explicit AEHR gate evaluation; chip selloff is macro news not an acute alert. (AEHR fresh upgrade + AVGO -13% + Iran-US war active are all pre-priced structural context, not urgent Discord.)
+
+### Re-Evaluation Windows
+- 5:30 PT: UMich Sentiment prelim → macro regime confirm
+- 6:15 PT: Industrial Production + Cap Utilization → hawkish/dovish tilt
+- 6:30 PT: bell → AEHR spread + gap-hold gate + NVDA/AVGO gap-fill check
+- 6:45 PT: 15-min bar close → AEHR entry decision if gate clears
+- 7:00-7:30 PT: NVDA/AVGO base + volume + tape confirmation window
+- 9:00 PT: midday scan → stop tightens on any fill + AAPL Track A re-evaluate
+- 13:00 PT: EOD snapshot + **Weekly Review** (Week 13 grade + Track A recalibration decision + Week 14 strategy adjustments)
