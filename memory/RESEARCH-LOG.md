@@ -7263,3 +7263,41 @@ Silent — normal-day + explicit AEHR gate evaluation; chip selloff is macro new
 - 7:00-7:30 PT: NVDA/AVGO base + volume + tape confirmation window
 - 9:00 PT: midday scan → stop tightens on any fill + AAPL Track A re-evaluate
 - 13:00 PT: EOD snapshot + **Weekly Review** (Week 13 grade + Track A recalibration decision + Week 14 strategy adjustments)
+
+### 2026-07-17 — Midday (9:11 AM PT) Snapshot — Chip-selloff Day 2 gap-fill / NVDA & AVGO pullback ✓ / spread + tape red hard-fail dual-gate / AAPL 15th chase-gate miss / AEHR spread 29.3% widened / all 7 triggers BLOCKED
+
+**Midday actions taken:** NONE.
+- No -7% manual cuts: book FLAT (0 positions).
+- No stop tightens: nothing to tighten.
+- No thesis breaks: nothing held (ASTS thesis-break already flagged in pre-market, no exposure).
+- No new entries: all 7 armed triggers **fail structural gates** (dual/triple-gate FAIL across NVDA/AVGO/AAPL/AEHR/OKLO/RKLB/ASTS).
+- No Perplexity pull: chip selloff macro-explained (AVGO -13% Q3 GM guide + NFLX guide-down + Iran-US war); no anomalous single-name behavior warranting research addendum.
+
+**Broker state (12:11 PM ET / 9:11 AM PT pull):** positions=[] orders=[] cash=$9,731.53 (100%) equity=$9,731.53 last_equity=$9,731.53 (flat zero-drift Day 26).
+
+**Armed-trigger status (midday quote pull, mid = (ap+bp)/2, spread = (ap-bp)/mid):**
+| Ticker | Mid | ap/bp | Spread | Reference | Verdict |
+|--------|-----|-------|--------|-----------|---------|
+| **AEHR** (niche PRIMARY) | $84.64 | 97.03/72.25 | **29.3%** ✗ | hold-of-$80 threshold | **FAIL spread 14.6x cap** — WIDENED from Thu midday 17.1%; institutional bid absent despite Craig-Hallum upgrade this AM |
+| **NVDA** (alpha Track B) | $205.54 | 206.20/204.87 | 0.65% ✗ | Wed HOD $212.36 = -3.21% | **PULLBACK ✓ / SPREAD FAIL + TAPE RED** — pullback gate finally cleared for first time; spread 0.65% > 0.5% cap; SPX -0.85% futures = tape-green gate fails |
+| **AVGO** (alpha Track B) | $372.76 | 375.00/370.51 | 1.20% ✗ | Wed HOD $386 = -3.43% | **PULLBACK ✓ / SPREAD FAIL** — spread 2.4x cap; tape red; dual-gate fail |
+| **AAPL** (alpha Track A) | $330.54 | 330.58/330.50 | 0.024% ✓ | Thu ATH $334.68 = -1.24% | **SPREAD ✓ / 15th CHASE-GATE MISS** — need ≥3% pullback (≤$324.64); HSBC upgrade holding despite chip selloff = idiosyncratic strength |
+| **OKLO** (niche) | $41.86 | 41.89/41.82 | 0.17% ✓ | $50 reclaim gate | **SPREAD ✓ / PRICE FAIL** — sub-$50 Day 14; NRC criticality silence 14 days late; $40 base tentative (Thu low $41.23 → today $41.82) |
+| **RKLB** (niche WATCH) | $69.53 | 70.06/69.00 | 1.52% ✓ | $70-75 base band | **SPREAD ✓ / BASE FAIL** — +5.0% recovery off Thu close $66.21 but below base band; needs Mon 7/20 close ≥$70 for 2-session base clock |
+| **ASTS** (niche) | $58.57 | 60.36/56.77 | 6.13% | THESIS BROKEN | **AVOID** — $1B convert + BB7 fail absorbed; -15.1% below Wed close; no re-entry until BB11 launch success + stabilization |
+
+**Chip-selloff Day 2 context (~09:11 AM PT):** SPX -0.85% futures held into open; VIX 17.96 +7.35%; NFLX -8% AH added tech-sentiment strain; Iran-US war ACTIVE (WTI $79/Brent $85). NVDA $205.54 = -3.21% below Wed HOD; AVGO $372.76 = -3.43% below Wed HOD — pullback structure NOW EXISTS for first time in 4+ sessions across both alpha Track B names. HOWEVER: tape red + spread wide + no volume-reclaim confirmation = KNIFE-CATCH RISK correctly filtered by 3-gate combo. Wait for late-session seller-exhaustion (11:00-13:00 PT window) to see if tape green + spread compress + volume reclaim clear simultaneously.
+
+**Discipline note:** Under-deployment Day 26. 7 armed triggers all structurally BLOCKED at midday. This is disciplined multi-gate hold, NOT reflexive HOLD — NVDA & AVGO pullback gates finally cleared (first time in 4+ sessions) which is meaningful signal that pullback structure is forming; but simultaneously requiring spread + tape + volume confirmation is exactly the "wait for base + reclaim" pattern the strategy calls for on Day 2 of a semi selloff. AAPL 15th chase-gate miss = Track A recalibration priority for today's Weekly Review (~13:00 PT). AEHR spread WIDENED despite Craig-Hallum upgrade = liquidity fragmentation dominating fundamentals; 90-day drift play deferred until spread compresses <5%.
+
+**Watch items into EOD Weekly Review (~13:00 PT):**
+- **NVDA:** watch for late-session tape green + spread compress <0.5% + volume reclaim — if all 3 clear together: 5 sh @ ~$205 = 10.5% alpha entry; stop $184.50; target $220 R:R 1.5:1.
+- **AVGO:** watch for -13% Thu seller-exhaustion confirmation via volume spike; needs spread compress + tape green.
+- **AAPL Track A recalibration** = Weekly Review core task (15 consecutive misses = structural gate failure; recalibrate anchor $315-325 zone OR abandon Track A for this rally leg).
+- **AEHR deep-value re-arm criteria** = spread <5% + $80 hold-of confirms; watch late session and Mon 7/20 pre-market.
+- **OKLO $40 base thesis document** = deferred to Weekly Review draft.
+- **NFLX post-print digest** = Q3 guide-down absorbed; readthrough to broader tech sentiment for Mon 7/20 pre-market.
+- **Trade slots:** 0/20 used this week; 0/12 positions; 0/5 daytrade rolling. Full capacity preserved into Week 14.
+- **EOD agent (1:00 PM PT):** log Fri close marks + full **Weekly Review Week 13** (Track A recalibration decision + Week 14 strategy adjustments).
+
+**Sleeve balance:** Alpha 0% / Niche 0% / Cash 100%. **26th consecutive under-deployed session**. All 7 primary triggers structurally BLOCKED at midday. Discipline held into Fri Weekly Review = flat-book preserves flexibility for Week 14 strategy recalibration decision. Chip-selloff Day 2 pullback structure is forming (NVDA/AVGO pullback gates cleared) but requires late-session confirmation of spread + tape + volume before entry gate opens.
