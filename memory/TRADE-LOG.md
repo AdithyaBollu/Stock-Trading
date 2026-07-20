@@ -2176,3 +2176,54 @@ Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none. Trades this we
 - AEHR SKIP — spread 27.05% (bid $76.07 / ask $99.87) vastly exceeds even relaxed <5% deep-value re-arm cap; liquidity fragmentation persists into Day 4; drift play deferred.
 
 **Notes:** First live application of Week-13-ratified pilot-entry rule (TRADING-STRATEGY.md line 141). NVDA gate cleared cleanly: (a) Day-5+ base above $200 ✓, (b) spread 0.11% < 0.5% cap ✓, (c) tape green — SPY +0.67% + NVDA +2.38% ✓, (d) session volume ≥ 20-day avg (7.88M in first ~7 min = ~440M implied full-day, ~2x normal ✓), (e) NVDA earnings ≥5 sessions away (Q2 fiscal ~late Aug) ✓, (f) chip-selloff Day 3 NOT extending — NVDA bouncing +2.38% = recovery scenario ✓. Sizing 2 sh × $207.475 = $414.95 = 4.26% respects 5% pilot cap. Remaining 5% deferred per rule until (i) real pullback structure develops OR (ii) pilot reaches +15%/+20% ladder trigger. AAPL 16th chase-gate miss on individual-stock-tape gate — strengthens case that AAPL Track A/B rule needs stock-tape green requirement built in even under pilot allowance; note for next weekly review. AEHR spread crisis persists — liquidity fragmentation dominates fundamentals, drift play deferred until spread <5% + $80 hold-of confirms. Trades this week: 1/20. Open positions: 1/12. Daytrade count: 0/5 rolling. Buying power: $38,097.85 (post-fill est). Alpha sleeve: $414.95 (4.26%). Niche sleeve: $0 (0%). Cash: ~$9,316.58 (95.7%). **Deployment lifted from 0% (27 consecutive under-deployed sessions) to 4.26%** — first alpha entry of the phase since 6/25 AAPL trail-out.
+
+
+## 2026-07-20 — Midday Scan (Week 14 Day 1, Monday — ~09:12 AM PT / T+2.7h into session / NVDA pilot HOLDING slight underwater / **NO-OP** — no cut trigger / no tighten trigger / thesis intact / discipline preserved)
+
+**Open positions:** 1 (NVDA). **Equity:** $9,729.01 | **Cash:** $9,316.58 (95.8%) | **Buying power:** $38,421.12 | **Trades this week:** 1/20 | **Positions:** 1/12 | **Broker confirmed: 1 position (NVDA 2 sh) + 1 open order (NVDA trail_stop id cbf1ef90..., stop $186.858, HWM $207.62).**
+
+### Position Status (~09:12 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Mid | Unrealized P&L | Trail Stop | HWM | Cut/Tighten? |
+|--------|--------|--------|-------|-----|---------------|-----------|-----|--------------|
+| **NVDA** | alpha (pilot) | 2 | $207.475 | $206.24 (ap 206.25 / bp 206.22, spread 0.015% ✓) | **-$2.45 / -0.59%** | $186.858 trail GTC | $207.62 | **HOLD** — above -7% cut threshold ✓ and below +15% tighten threshold ✓; HWM $207.62 barely above entry; stop tracked $186.86 = -9.9% below HWM per 10% trail |
+
+### Watchlist Midday Re-Evaluation (~09:12 AM PT)
+
+| Trigger | Gate | Midday Mid (ap/bp) | Spread | Verdict |
+|---------|------|---------------------|--------|---------|
+| **AAPL (alpha pilot)** | spread ≤0.5% + tape green + stock-tape green + base | mid $325.09 (ap 325.13 / bp 325.04) | **0.028% ✓** | **SPREAD ✓ / STOCK-TAPE FAIL** — AAPL -1.97% from pre-market plan reference ($331.62 → $325.09); pre-market plan already noted 16th consecutive chase/gate miss on tape-red divergence; midday deepens to -1.97% below open reference; SKIP consistent |
+| **AEHR (niche PRIMARY)** | spread <5% + hold-of-$80 + tape green | mid $76.60 (ap 87.40 / bp 65.79) | **32.7% ✗** | **FAIL — spread 6.5x cap** — WIDER than Fri midday (29.3% → 32.7%); mid $76.60 below $80 hold gate; liquidity fragmentation Day 4 confirmed; drift play deferred |
+| **RKLB (niche WATCH)** | Mon close ≥$70 needed to start base clock | mid $65.57 (ap 67.63 / bp 63.50) | **6.51% ✗** | **PRICE FAIL** — mid $65.57 well below $70 gate; base clock cannot start; SKIP |
+| **OKLO (niche WATCH)** | $50 reclaim + spread <1.5% + criticality OR $40 capitulation base | mid $40.34 (ap 41.46 / bp 39.21) | **5.74% ✗** | **PRICE/SPREAD FAIL** — mid $40.34 near $40 capitulation base zone (Fri $41.11 → today $40.34 = -1.9%); spread 5.74% > 1.5%; capitulation base still forming but no reclaim tape or criticality announce |
+| **AVGO (alpha Track B)** | spread <0.5% + tape green + pullback structure | mid $384.04 (ap 385.00 / bp 383.07) | **0.50% (at cap)** | **SPREAD BORDERLINE / STRUCTURE FAIL** — mid $384.04 recovering toward Wed HOD $386; -0.5% from Wed HOD = no pullback structure exists after Thu -13%; SKIP per pre-market SKIP rationale (no Day-3+ base) |
+| **NBIS (niche WATCH)** | 2-session base ≥$180 + spread <1% | mid $175.34 (ap 190.55 / bp 160.13) | **19.0% ✗** | **PRICE/SPREAD FAIL** — mid $175.34 below $180 base target; spread 19.0% = 19x cap; not tradeable |
+| **ASTS (niche WATCH)** | BB11 launch success + price stabilization | mid $59.75 (ap 61.04 / bp 58.46) | **4.42%** | **AVOID/WATCH** — Fri +5.07% recovery attempt continuing (Fri $58.57 → today $59.75 = +2.0%); still below Wed close $69.00 by -13.4%; no BB11 launch confirmation yet; SKIP |
+
+### Actions Taken (STEPS 3-7)
+- **STEP 3 cut losers (unrealized_plpc ≤ -0.07):** N/A — NVDA at -0.59% is well above -7% cut threshold. No position eligible for cut.
+- **STEP 4 tighten winners (+15/+20 ladder):** N/A — NVDA at -0.59% below +15% threshold. No position eligible for tightening.
+- **STEP 5 thesis check:** NVDA pilot thesis intact — mid $206.24 = still above $200 base gate (pilot entry criterion held); chip-selloff Day 3 recovery scenario continues but with modest fade from entry $207.48; no thesis break. HOLD.
+- **STEP 6 sleeve balance:** Alpha 4.24% (below 65-75% target = under-deployed by design under pilot rule; remaining 5% deferred per rule pending pullback structure OR +15%/+20% ladder trigger); Niche 0% (below 25-30% target — all 4 niche candidates gated out: AEHR spread crisis Day 4, RKLB $70 broken, OKLO sub-$50 Day 15 base forming, NBIS spread crisis, ASTS thesis broken); Total 1/12 positions ✓; deployment 4.24%.
+- **STEP 7 intraday research:** SKIP — no anomalous single-name move requires Perplexity pull; NVDA fade is normal noise within pilot entry drift; watchlist all trading per pre-market projections (AEHR spread widening consistent with Fri pattern, others gate-blocked per plan).
+- **STEP 8 Discord notification:** SKIP per routine ("only if action was taken"). No cut, no tighten, no exit.
+
+### Structural Signals — Midday Mon 7/20
+1. **NVDA pilot HOLDING at -0.59%** — well within pilot-entry noise range; HWM $207.62 barely $0.15 above entry $207.47 = trail stop tracking as designed at $186.86; no defensive action; monitor into EOD for chip-selloff Day 3 recovery confirmation OR fade continuation.
+2. **AEHR spread widening trend confirmed** — Fri 17.1% → 29.3% → today 32.7% = liquidity fragmentation Day 4 deepening despite Craig-Hallum upgrade last Fri; drift play deferred pending sustained <5% spread + $80 hold-of.
+3. **AAPL midday -1.97% from pre-market reference** — 16th chase/gate miss extending into midday; Track A/B stock-tape gate correctly rejected; no add attempt.
+4. **OKLO $40 capitulation base forming Day 15** — mid $40.34 (Fri $41.11 → today $40.34 = -1.9%); NRC criticality silence 15 days late; capitulation vol not confirmed; deep-support thesis document still deferred.
+5. **RKLB $70 base broken further** — mid $65.57 = -6.1% below Fri close $69.78; base rebuild attempt failing; needs multi-session recovery.
+6. **NBIS/ASTS both gated on spread/thesis** — no midday niche entries eligible.
+7. **Deployment 4.24% into midday** — pilot rule respected (5% cap); remaining niche sleeve empty by rule discipline; no forced trades.
+
+### Bias to EOD (~13:00 PT)
+- **NVDA:** HOLD — monitor for either continued base above $200 (thesis intact) OR break below $200 (thesis break trigger); no defensive action until either -7% (~$193) approaches OR +15% (~$238.60) tightens.
+- **AEHR:** SKIP — spread crisis Day 4; watch late-session for compression below 5% for potential Tue re-arm.
+- **AAPL:** SKIP — chase/gate miss extending; no pilot entry.
+- **OKLO:** WATCH — $40 base forming but no reclaim tape or catalyst.
+- **RKLB:** SKIP — $70 base broken further; multi-session recovery needed.
+- **AVGO:** SKIP — no pullback structure.
+- **NBIS/ASTS:** SKIP — spread/thesis gates fail.
+
+**Next scheduled routine:** Mon 7/20 EOD snapshot ~13:00 PM PT (NVDA position update + Week 14 Day 1 wrap + Tue 7/21 pre-market prep — GM/MMM BMO earnings + FOMC 7/29 T-8).
