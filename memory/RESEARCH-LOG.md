@@ -7301,3 +7301,180 @@ Silent — normal-day + explicit AEHR gate evaluation; chip selloff is macro new
 - **EOD agent (1:00 PM PT):** log Fri close marks + full **Weekly Review Week 13** (Track A recalibration decision + Week 14 strategy adjustments).
 
 **Sleeve balance:** Alpha 0% / Niche 0% / Cash 100%. **26th consecutive under-deployed session**. All 7 primary triggers structurally BLOCKED at midday. Discipline held into Fri Weekly Review = flat-book preserves flexibility for Week 14 strategy recalibration decision. Chip-selloff Day 2 pullback structure is forming (NVDA/AVGO pullback gates cleared) but requires late-session confirmation of spread + tape + volume before entry gate opens.
+
+
+## 2026-07-20 — Pre-market Research (Mon Week 14 Day 1 — FIRST live test of ratified Pilot-Entry rule)
+
+### Account Snapshot (~05:15 PT)
+- **Equity:** $9,731.53 | **Cash:** $9,731.53 (100%) | **Buying power:** $38,926.12 (4x margin unused) | **Non-marginable BP:** $9,731.53
+- **Positions:** 0/12 open (broker `positions=[]` confirmed) | **Orders:** 0 (broker `orders=[]` confirmed)
+- **Daytrade count:** 0/5 rolling | **Trades this week:** 0/20 (Week 14 fresh) | **Phase P&L:** -$268.47 (-2.685%) vs $10k baseline
+- **Balance_asof:** 2026-07-17 | **Day 27 all-cash** entering session (streak started 6/25 AAPL trail-out)
+
+### Sleeve Deployment
+- **Alpha:** $0 / 0% (target 65-75%) — 27th consecutive under-deployed session
+- **Niche:** $0 / 0% (target 25-30%) — 27th consecutive niche-empty session
+- **Cash:** $9,731.53 / 100%
+
+### Market Context (Mon 7/20 pre-market ~05:15 PT)
+- **S&P 500 futures:** ~7,496.50 (+0.02% to +0.3% modest bullish); Fri close 7,497.75
+- **Nasdaq 100 futures:** ~28,805 (+0.13%) — chip-selloff pause after Thu/Fri
+- **VIX:** 18.28-18.77 (elevated but below 19.5 vol trigger; Fri close 18.77 +12.19% from 16.73)
+- **WTI:** ~$81.81-$84.49 | **Brent:** ~$87.94-$90.00 (Iran-US diplomacy hint = OIL REVERSING early gains after touching $91 highs)
+- **Fed rate:** 3.50-3.75% hold; FOMC 7/29 = **T-9 sessions** — hold ~65-87%, **25bps HIKE odds 25-34%**, cut odds 0% (jobs report drove cut odds to zero)
+- **10y-2y spread:** +0.37pp (normal, positive, narrow); 10y 4.55% / 2y 4.18%
+- **June CPI (7/14):** **-0.4% MoM / 3.5% YoY** (down from 4.2%; biggest MoM drop since Apr 2020); Core CPI FLAT MoM / 2.6% YoY
+- **June PPI (7/15):** **-0.3% MoM / 5.5% YoY** (down from 6.0%); Core PPI +0.1% MoM / 5.1% YoY
+- **Today's data:** Leading Economic Indicators 07:00 PT + SCE Credit Access 08:00 PT (both LOW impact)
+
+### This Week's Earnings Calendar (Week 14 = MEGA-CAP EARNINGS WEEK)
+| Date | Ticker | Time | Consensus | Our Stance |
+|------|--------|------|-----------|-----------|
+| Mon BMO | **KO, SCHW, DPZ, DOW, FCX, SYF** | Pre | Various | Outside sleeve |
+| Tue BMO | **GM, MMM, PM (Tue)** | Pre | GM Q2 mix | Outside sleeve |
+| **Wed AMC** | **GOOGL** | AMC | EPS $2.87-$2.95 / Rev $116.5-120.2B (+12-21% YoY); Cloud ~63% growth; capex $175-185B FY26 | **DEFER T-2 pre-earnings block; potential post-print drift Thu 7/23 open on beat+guide-raise** |
+| **Wed AMC** | **TSLA** | AMC | EPS $0.48 / Rev $25.53B; Q2 deliveries RECORD 480,126 (+25% YoY beat 406K est); UBS expects +37% EPS beat | **DEFER T-2 pre-earnings block; watch post-print gap direction** |
+| Wed AMC | **IBM, NOW** | AMC | ServiceNow +2.7% avg post-print | Outside sleeve |
+| Wed BMO | **T, GE Vernova** | Pre | — | Outside sleeve |
+| **Thu AMC** | **INTC** | AMC | EPS Non-GAAP $0.20-$0.22 / Rev $14.33-14.67B (mgmt guide $13.8-14.8B); Q1 crushed +$0.29 vs $0.01 | **DEFER T-3 pre-earnings block; INTC bid $97.51 sizing 10 sh = 9.6%; watch post-print drift Fri 7/24** |
+| Fri BMO | **AXP, VZ, SLB** | Pre | — | Outside sleeve |
+
+### Tech/Semi Watchlist — Fri Close / Mon Pre-Market
+Sizing pre-filter alpha (5% pilot): $9,731.53 × 0.05 / 6 = **$81.10 min** for full-6-share pilot; but pilot is 1-3 shares of higher-priced mega-caps; standard 10% cap = **$162.19 cutoff for 6-share full-size**.
+
+| Ticker | Fri close (bid $) | Mon PM | 5-session base | Sizing @ Mon PM | Pilot-Entry Class |
+|--------|-------------------|--------|----------------|-----------------|-------------------|
+| **AAPL** | $333.74 (bid $314.75 4pm) | **$331.42-$333.80** (flat) | **Base $322-$334.68 Day-5+ hold above $315 ✓** | 1 sh @ $332 = 3.4% pilot (below 5% target); 2 sh = 6.8% (above pilot 5%) | **⚠️ PRIMARY PILOT-ENTRY CANDIDATE — first test of ratified rule** |
+| **NVDA** | $205.54 (bid $202.73) | Chip selloff Day 2 close; ~$205 area | **Base ≥$200 Week 13 Mon-Fri ✓** | 2 sh @ $205 = 4.2% pilot | **SECONDARY PILOT-ENTRY CANDIDATE if spread + tape + volume clear** |
+| **AVGO** | $372.76 (bid $354.78) | ~$373 pre-mkt | Thu $429→$372 chip selloff = base NOT ESTABLISHED (Day 2 fresh selloff) | 1 sh = 3.8% | **SKIP — no Day-3+ base above prior key level (fresh -13% Thu print + Fri continuation)** |
+| **MSFT** | ~$378 (bid $374.33) | ~$378 | **Base above $390 BROKEN — Fri $378** | 1 sh @ $378 = 3.9% | **SKIP — pilot rule requires Day-3+ base above prior key level; $390 broken** |
+| **GOOGL** | $328.07 bid | ~$328 | Base $320-330 Fri | 1 sh = 3.4% | **DEFER T-2 pre-earnings (Wed AMC)** |
+| **INTC** | $97.51 bid (fresh Mon 05:09 PT quote) | $97.51 (flat) | Range-bound $95-100 | 10 sh @ $97.51 = 10.0% | **DEFER T-3 pre-earnings (Thu AMC)** |
+| **META** | (SIZED-OUT >$487) | — | — | — | **SKIP sized-out** |
+| **AMD** | $472.04 bid (borderline) | ~$472 | Chip selloff Thu -9% | 1 sh @ $472 = 4.9% | **SKIP borderline; no post-selloff base** |
+| **MRVL** | $180.57 bid | ~$180 | Chip drift | 5 sh @ $180 = 9.3% | **WATCH no armed trigger** |
+| **QCOM** | $161.19 bid | ~$161 | Chip drift | 6 sh @ $161 = 9.9% | **WATCH — no armed trigger; borderline sized** |
+| **ARM** | $229.98 bid | ~$230 | Chip drift | 2 sh @ $230 = 4.7% | **WATCH** |
+| **SMCI** | $23.37 bid | ~$23 | Chip drift | 42 sh @ $23 = 9.9% | **WATCH** |
+| **TSM** | $397.37 bid (SIZED-OUT >$487 borderline) | ~$397 | Post-Q2 print settled | 1-2 sh borderline | **SKIP borderline** |
+| **MU** | $814.26 bid (SIZED-OUT permanent) | — | — | — | **SKIP** |
+| **NFLX** | (bid $64.86 stale) | Q2 -8% AH already absorbed; watching bounce | Outside sleeve | — | **SKIP outside sleeve** |
+| **ANET** | $160.68 bid (borderline) | — | — | 6 sh @ $161 = 9.9% | **WATCH borderline** |
+| **ASML** | (SIZED-OUT >$487 permanent) | — | — | — | **SKIP** |
+
+### Niche Radar (7-point research)
+Sizing pre-filter niche: equity × 0.12 / 6 = **$194.63 cutoff** for full-6-share 12% max sizing.
+
+| Ticker | Fri close | Mon PM | Class | EPS Trend | Analyst Tgt | Catalyst | Sentiment | Action |
+|--------|-----------|--------|-------|-----------|-------------|----------|-----------|--------|
+| **AEHR** | $81.05 (-3.74% Fri) | $79.94-$80.64 (-1% to -0.5%) | **WATCH — Day 4 continuation; spread compression pending** | Q4 beat +$0.11; FY27 guide $130-150M (2.6-3x); bookings $60.7M record | Craig-Hallum Buy $117.50 target (+45% upside) | Post-Craig-Hallum upgrade absorbed; watch spread compression <5% + $80 hold-of | Retail-flushed; institutional bid emerging pending 3-4 sessions | **✅ NICHE RE-ARM PRIMARY** — entry gate: spread <5% + hold-of-$80 first 15 min + tape green + 15-min bar close ≥$80. Sizing 13 sh @ $80 = $1,040 = 10.7% ✓; stop -10% = $72; target $110 R:R 3.0:1 |
+| **RKLB** | $67.62 (+0.40% Fri) | **$69.78-$70.39 (+3.2 to +4.1%)** | **⚠️ WATCH — approaching base band $70-75** | Q1 $110M rev; $2.2B+$5.6B backlog | Consensus $103-108 | Neutron Q4/Jul-2026 target | Positive; recovering | **WATCH — needs Mon close ≥$70 to START 2-session base clock; Tue re-arm consideration if Mon closes $70+** |
+| **OKLO** | $41.11 (-1.41% Fri) | $41.03-$41.71 (flat/slight bounce) | **WATCH — Day 15 sub-$50; $40 tentative base** | Pre-rev; DSA approved 7/1 | Median $85-93 | NRC criticality silence 15 days; DOE approved safety analysis for Groves Isotope Test Reactor (minor +4% catalyst prior week) | Neutral fading; forming tentative $40 base | **WATCH — require $50 reclaim + spread <1.5% + criticality announce OR $40 capitulation base with volume**; 24 sh @ $40 = 9.9%; stop $36; tgt $60 R:R 2.4:1 |
+| **ASTS** | **$57.80 (+5.07% Fri!)** | **$59.77 (+3.41%)** | **⚠️ THESIS RE-STRENGTHENING — WATCH** (upgrade from AVOID) | 2026 loss est $1.47/sh | Piper Sandler NEW Buy 7/17; B. Riley raised valuation post-selloff | $1B convert dilution absorbed; BB11 launch upcoming | Recovering; upgrades driving bounce +8% off Wed low | **WATCH — upgrade from strict AVOID given +8% recovery + fresh analyst upgrades; still need BB11 launch success confirm before re-entry**; not a Mon 7/20 trigger |
+| **NBIS** | $177.71 (+3.46% Fri) | **$185.30 (+4.27%)** | **⚠️ POTENTIAL BUY SETUP — sizing now feasible** | AI cloud growth; Reflection AI $1B compute deal push backlog to ~$50B | Consensus $203-244 (+14-37% upside) | $1B Reflection AI deal announced Mon | Bullish; 9 buys 0 sells | **NEW WATCH — sizing at $185 = 6 sh × $185 = $1,110 = 11.4% (fits 12% niche cap ✓)**; requires 7-point research before entry (see below); potential Tue arm if base holds |
+
+### 7-Point Research Draft — NBIS (new niche candidate, Mon 7/20)
+1. **Earnings/Fundamentals:** AI cloud (GPU compute rental); revenue accelerating; contracted backlog now ~$50B post-Reflection AI $1B deal Mon; P/E 50.6 (rich)
+2. **Analyst Coverage:** Consensus $203-244 target (+14-37%); 9 Buy 0 Sell across 16 analysts; recent upgrades post-Reflection deal
+3. **Institutional Activity:** Post-listing 2024 spinout from Yandex NV; institutional accumulation phase
+4. **News & Catalysts:** Mon 7/20 = fresh $1B Reflection AI deal → $50B backlog; Nvidia AI ecosystem tailwind
+5. **Community Sentiment:** Strong bullish; considered European AI infra leader
+6. **Technical Setup:** Fri +3.46%; Mon PM +4.27%; recovering from ~$164 low toward $186 high; RESISTANCE at $186.77 (Fri intraday high)
+7. **Thesis:** European AI GPU cloud with $50B contracted backlog; catalyst = $1B fresh Reflection AI deal Mon; asymmetric AI-infra play. However **INSUFFICIENT 2-session base at current level** — need Mon/Tue base above $180 with spread <1% before entry consideration. **Not a Mon 7/20 trigger; watch for Tue re-arm.**
+
+### Actionable Alpha Ideas (Mon 7/20)
+**FIRST LIVE TEST of the RATIFIED PILOT-ENTRY RULE (Week 13 review, TRADING-STRATEGY.md line 141):**
+- Requires: (a) Day-3+ session base-hold above prior key level, (b) tight spread <0.5%, (c) tape green ≥+0.3%, (d) session volume ≥ 20-day average.
+- Sizing: HALF-SIZE 5% of equity (~$487) — NOT the 10% full-cap.
+- Chase-gate (3%/1.5%-HOD) DOES NOT APPLY to pilot entries.
+- Remaining 5% deferred until (i) real pullback structure develops OR (ii) pilot reaches +15%/+20% trail-tighten trigger.
+
+1. **AAPL PILOT ENTRY — PRIMARY (Track A/B unified core-eligible universe)** — Day-5+ base $322-$334.68 above $315 ✓ (Mon 7/13 $322 → Tue $325 → Wed $327 → Thu $331 → Fri $334.68 ATH); Fri close $333.74; Mon PM $331.42-$333.80 = base intact. Entry gate at open: spread <0.5% + tape green ≥+0.3% + volume ≥ 20-day avg. Sizing 1 sh @ ~$332 = $332 = 3.4% (conservative below 5% pilot target due to sizing granularity); 2 sh @ $332 = $664 = 6.8% (slight overshoot of 5% pilot but respects intent). **RECOMMEND 1 SH pilot** to strictly respect 5% cap; add 1 more share ONLY if pullback structure develops OR pilot reaches +15%. Stop -10% GTC trail on fill @ $299 (or HWM × 0.90). Target: no explicit — trail defends; base-continuation drift into MSFT/GOOGL earnings week readthrough. **VERDICT: ARMED if spread + tape + volume clear at open.** Trade slot: 1/20.
+
+2. **NVDA PILOT ENTRY — SECONDARY** — Day-5+ base ≥$200 Week 13 (Mon-Fri all held above $200; Fri close ~$205 post-chip-selloff Day 2); Mon PM likely low $200s. Entry gate at open: spread <0.5% + tape green ≥+0.3% + volume ≥ 20-day avg. Sizing 2 sh @ $205 = $410 = 4.2% (below 5% pilot; 3 sh = $615 = 6.3% overshoot). **RECOMMEND 2 SH pilot**. Stop -10% GTC trail @ $184.50. **VERDICT: ARMED if spread + tape + volume clear at open AND chip selloff not extending Day 3.**
+
+3. **AVGO — SKIP** — Fresh -13% Thu print + Fri chip continuation = no Day-3+ base established. Re-check post-chip-complex stabilization mid-week.
+
+4. **MSFT — SKIP** — Base above $390 BROKEN (Fri $378 chip-sentiment spillover). Pilot rule requires Day-3+ base above prior key level; not met. Re-check if MSFT re-establishes $390+ base.
+
+5. **GOOGL — DEFER** — T-2 pre-earnings block (Wed 7/22 AMC). Post-print drift Thu 7/23 open eligible if beat + guide-raise + gap-hold + Track-B pilot criteria. Consensus EPS $2.87-$2.95 / Rev $116.5-120.2B / Cloud +63% growth = high bar but positive analyst skew (Strong Buy consensus).
+
+6. **INTC — DEFER** — T-3 pre-earnings block (Thu 7/23 AMC). Post-print drift Fri 7/24 open eligible if clean beat + guide-raise (Q1 crushed by +$0.28 beat).
+
+7. **TSLA — DEFER** — T-2 pre-earnings block (Wed 7/22 AMC). Not in core Sector Themes universe (auto, not pure semi/AI); not a pilot-entry candidate.
+
+### Actionable Niche Ideas (Mon 7/20)
+1. **AEHR NICHE RE-ARM** (7-point research, extending prior sessions):
+   - **Earnings/Fundamentals:** Q4 (7/14 AMC) EPS +$0.11 beat; bookings $60.7M RECORD; backlog $100.6M; FY27 guide $130-150M (2.6-3x)
+   - **Analyst:** Craig-Hallum UPGRADE to Buy 7/17 = ANCHOR CATALYST; consensus $117.50 target = +45% upside
+   - **Institutional:** post-print bookings validates business; CFO Siu May sale pre-drawdown noise
+   - **News:** Fri $81.05 close = 5% off Fri intraday high; sequential fade Wed→Thu→Fri absorbing post-print exuberance; institutional bid pending
+   - **Sentiment:** post-print exuberance flushed; drift-play thesis re-arming
+   - **Technical:** Wed $86-$110 range → Thu $79.69-$87.73 → Fri close $81.05 (near Thu low); support $80 hold-of; resistance $88 (Thu VWAP)
+   - **Thesis:** Same as Fri — fundamentals A+ + fresh Craig-Hallum upgrade + Day 4 structural test with hopefully compressed spread. Multi-day drift play.
+   - **Entry gate:** spread <5% + hold-of-$80 first 15 min + 15-min bar close ≥$80 + tape green (relaxed from <2% to <5% given liquidity pattern; deep-value re-arm criteria from Weekly Review)
+   - **Sizing:** 13 sh @ ~$80 = $1,040 = 10.7% ≤12% ✓
+   - **Stop:** -10% = $72 hard
+   - **Target:** $110 = R:R 3.0:1 ✓; stretch $130 R:R 6.2:1
+   - **Trade count:** 1/20 (or 2/20 if AAPL/NVDA pilots also placed)
+
+2. **RKLB WATCH** — Mon PM $69.78-$70.39 = **approaching base band $70-75 previously broken**. NEEDS Mon close ≥$70 to start 2-session base clock; Tue re-arm consideration only if Mon closes ≥$70 + spread <2%.
+
+3. **OKLO WATCH** — sub-$50 Day 15; tentative $40 base forming (Thu low $41.23 → Fri $41.11 → Mon PM $41.03-$41.71); NEED $50 reclaim + spread <1.5% + criticality announce OR full $40 capitulation base with volume spike + new thesis document.
+
+4. **ASTS UPGRADE TO WATCH from AVOID** — Fri +5.07% recovery + fresh Piper Sandler Buy + B. Riley raise post-selloff = thesis re-strengthening. Not a Mon trigger but no longer strict AVOID. Re-evaluate after BB11 launch success confirmation.
+
+5. **NBIS NEW WATCH** — sizing now feasible ($185 × 6 sh = 11.4%); Mon $1B Reflection AI deal is fresh catalyst; needs 2-session base at $180+ + spread <1% before entry. Tue re-arm consideration.
+
+### Macro & Geopolitical Assessment (Mon 7/20)
+- **HIGH:** **FOMC 7/29 = T-9 sessions** — hike odds 25-34% (cut 0%; hold 65-87%); hawkish surprise risk building given hot jobs data; event-risk sizing = 10% max per position that week.
+- **HIGH:** **Iran-US war ACTIVE Day 9+** — US strikes ongoing; Hormuz ~20% oil supply flowing at single-digit levels; Iran vows "not a single drop"; **BUT Mon 7/20 = Iran FM signaling talks with US could be pursued = oil reversing early gains (Brent $91 high → $87.94)**. Diplomacy hint is meaningful bull catalyst if it de-escalates.
+- **HIGH:** **Mega-cap earnings week Wed AMC (GOOGL/TSLA/IBM/NOW) + Thu AMC (INTC)** — event-risk cluster; T-2/T-3 defer applies; post-print drift opportunities Thu/Fri.
+- **MEDIUM:** **Chip-selloff Day 3 potential continuation** — Thu-Fri NVDA -6%/AVGO -13%/NFLX -8% AH sentiment; watching for exhaustion or extension; NVDA pilot entry contingent on non-extension.
+- **MEDIUM:** **VIX 18.28-18.77** = elevated but below 19.5 vol trigger; normal-vol regime just below defensive threshold.
+- **LOW/PRICED-IN:** June CPI cooling (3.5% YoY, from 4.2%; core FLAT MoM 2.6% YoY) and June PPI cooling (5.5% YoY, from 6.0%) = broad disinflation confirmed but PRE-July-oil-spike; next CPI (Aug 12) may re-accelerate.
+- **LOW:** 10y-2y +0.37pp normal; not signaling recession.
+- **LOW:** Today's Leading Indicators + SCE Credit Access = low market-moving.
+
+### Risk Factors (Mon 7/20)
+- **PRIMARY:** **Pilot-entry rule FIRST LIVE TEST** — risk of ratification hindsight if executed poorly OR of continued rejection if gate stays too tight; discipline: strictly respect spread + tape + volume conditions.
+- **SECONDARY:** **Mega-cap earnings T-2/T-3** for GOOGL/TSLA/INTC = event-cluster risk; DEFER those names; but AAPL/NVDA pilots not directly event-blocked (AAPL Q3 = end of Jul/early Aug typically).
+- **TERTIARY:** **FOMC 7/29 hike risk** = T-9 sessions; hawkish surprise could compress multiples; pilot sizing at 5% (not 10%) is CONSERVATIVE by rule + gives room for pullback add later.
+- **QUATERNARY:** Chip-selloff Day 3 knife-catch risk on NVDA entry — Fri showed pullback + spread + tape not all cleared; monitor Mon open pattern.
+- Iran escalation risk always present; Mon diplomacy hint could reverse.
+- **27th under-deployed session extends into Mon** — deployment-floor policy activated + pilot rule ratified = alpha bias TILTED TOWARD ACT.
+
+### Decision: **TRADE — Multi-candidate day with pilot-entry rule LIVE**
+Bias: TRADE if any of AAPL / NVDA / AEHR gate clears at open. Rationale:
+- (a) **AAPL PILOT is the marquee test** — 5-session base above $315 established; ratified rule specifically designed for this scenario; the failure mode for Week 14 to reject would ratify strategy-inadequacy not routine-rejection; TAKE the pilot if gate mechanics clear.
+- (b) NVDA PILOT secondary — same rule applies; base ≥$200 held; chip-selloff Day 3 risk requires ≥30-min post-open confirmation.
+- (c) AEHR NICHE RE-ARM — spread compression is the binding constraint; watch <5% threshold + $80 hold; if clear, take the primary niche position.
+- (d) GOOGL/TSLA/INTC DEFER pre-earnings — routine T-2/T-3 block preserves flexibility for post-print drift.
+- (e) 27 under-deployed sessions + Week 13 ratification of pilot-entry = deployment-floor bias inverted from HOLD-first to TRADE-first WHEN gates clear.
+
+### Mon 7/20 Open Plan (bell 6:30 PT)
+1. **AAPL PILOT PRIMARY:** at 6:31-6:35 PT check quote: spread ≤0.5% + tape green ≥+0.3% + first 5-min volume trending ≥20-day avg. If ALL clear: **BUY 1 sh @ market ~$332 = 3.4% pilot**; immediately place -10% trail GTC on fill @ $299 initial. Log to TRADE-LOG. Trade count: 1/20.
+2. **NVDA PILOT SECONDARY:** at 6:31-6:35 PT check: spread ≤0.5% + tape green + volume + chip-selloff Day 3 not extending (SOX green or flat). If ALL clear + NOT knife-catching: **BUY 2 sh @ market ~$205 = 4.2% pilot**; -10% trail GTC @ $184.50. Trade count: 2/20.
+3. **AEHR NICHE RE-ARM:** at 6:45 PT check spread <5% + $80 hold-of + 15-min bar close ≥$80 + tape green: **BUY 13 sh @ market ~$80 = 10.7%**; -10% trail GTC @ $72; target $110. Trade count: 3/20.
+4. **AVGO:** SKIP — no Day-3+ base post -13% Thu.
+5. **MSFT:** SKIP — $390 base broken.
+6. **GOOGL/TSLA/INTC:** DEFER T-2/T-3 pre-earnings block.
+7. **RKLB:** WATCH — Mon close ≥$70 starts base clock; Tue re-arm consideration.
+8. **OKLO:** WATCH — $50 reclaim + spread + criticality OR $40 capitulation base.
+9. **ASTS:** UPGRADED TO WATCH (from AVOID) but no Mon trigger; monitor BB11 launch.
+10. **NBIS:** NEW WATCH — sizing feasible ($185 × 6 = 11.4%); needs 2-session base; Tue re-arm consideration.
+11. **Position cap check:** after all 3 potential entries (AAPL + NVDA + AEHR) = 3/12 ✓; trades this week 3/20 ✓; daytrade 0/5 ✓.
+12. **Bias:** **TRADE the pilot-entry rule as ratified** — 27-session under-deployment + Week 13 rule ratification = today is the operational verification day. Discipline preserved via strict spread/tape/volume gates. Under-deployment = failure mode; pilot sizing at 5% respects both discipline and deployment mandate.
+
+### Discord Pre-Market Notification
+Silent — normal-day pre-market prep + explicit pilot-entry rule first live test (internal execution readiness; no acute pre-market alert warranted; AEHR still $80 area, no thesis shock; ASTS thesis re-strengthening but not urgent).
+
+### Re-Evaluation Windows
+- 5:30 PT: pre-market flow check (S&P futures + VIX + INTC bid confirming stability)
+- 6:30 PT: bell → **PILOT-ENTRY GATE CHECK PRIMARY (AAPL + NVDA)** + AEHR spread + gap-hold
+- 6:35 PT: 5-min bar close → AAPL/NVDA pilot entry decisions if gates clear
+- 6:45 PT: 15-min bar close → AEHR entry decision if gate clears
+- 7:00-7:30 PT: any add scenarios; monitor RKLB $70 hold
+- 9:00 PT: midday scan → stop tightens on any fills; NBIS 2nd session base assessment; post-INTC pre-earnings drift setup review
+- 13:00 PT: EOD snapshot + Tue prep (GM/MMM BMO); watch for GOOGL/TSLA pre-earnings drift Tue-Wed
+
