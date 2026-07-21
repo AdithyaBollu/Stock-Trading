@@ -2294,3 +2294,53 @@ Alpha sleeve: $405.28 (4.17%). Niche sleeve: $0 (0%). Trades today: 1 (NVDA pilo
 - **RKLB/OKLO/ASTS:** SKIP — respective thesis/timing gates unmet.
 
 **Next scheduled routine:** Tue 7/21 Midday Scan ~09:00 AM PT (NVDA pilot Day 2 update + AEHR spread compression watch + NBIS pullback structure watch).
+
+
+## 2026-07-21 — Midday Scan (Week 14 Day 2, Tuesday — NVDA pilot Day 2 HOLDING at -0.65% / **NO-OP** / AEHR spread RE-WIDENED 15.3% → 22.6% catalyst-day dispersion / NBIS $209 = +14.6% chase-gap extended / AAPL stock-tape flipped GREEN mid but no pullback structure / discipline preserved)
+
+**Portfolio (~09:00 AM PT / ~T+2.5h):** Equity $9,728.75 | Cash $9,316.57 (95.8%) | Day P&L +$5.62 (+0.058% vs prev-close $9,723.13) | Buying power $38,420.39 (4x margin) | **Open positions:** 1 (NVDA 2 sh) | **Open orders:** 1 (NVDA trail_stop cbf1ef90..., stop $187.776, HWM $208.64) | **Trades this week:** 1/20 | **Daytrade count:** 0/5 rolling.
+
+### Held Position Status (~09:00 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Mid | Unrealized P&L | Trail Stop | HWM | Action |
+|--------|--------|--------|-------|-----|----------------|-----------|-----|--------|
+| **NVDA** | alpha (pilot) | 2 | $207.475 | $206.10 (ap 206.11 / bp 206.08, spread 0.014% ✓) | **-$2.71 / -0.65%** (intraday +$5.68 / +1.40% vs prev close $203.28) | $187.776 trail GTC | $208.64 (unchanged from open) | **HOLD** — above -7% cut (~$193) ✓, below +15% tighten ($238.60) ✓; base $200 gate holding (+$6.10 buffer); chip-selloff Day 3 recovery scenario continuing but muted from open $206.87 → mid $206.10 (-0.37% fade); no thesis break |
+
+### Midday Watchlist Snapshot (~09:00 AM PT)
+
+| Ticker | Gate Requirement | Open Mid | Midday Mid | Δ vs Open | Spread | Structural Verdict |
+|--------|-----------------|----------|-----------|-----------|--------|--------------------|
+| **NVDA (held)** | pullback structure OR +15% ladder | $206.87 | $206.10 | **-0.37%** | 0.014% ✓ | **NO ADD TRIGGER — HOLD** — spread perfect; +1.40% intraday recovery vs prev-close continues but no pullback structure; +15% ladder ($238.60) still far off; sizing 2 sh / 4.24% deployment per pilot rule |
+| **AAPL (alpha 18th)** | spread ≤0.5% + SPY green + AAPL stock-tape green ≥+0.3% + pullback structure | $324.04 | $329.16 (ap 329.18 / bp 329.14) | **+1.58%** vs open; **+0.77%** vs prev close $326.65 | 0.012% ✓ | **STOCK-TAPE FLIPPED GREEN mid but NO PULLBACK STRUCTURE** — mid $329.16 recovered from red-open -0.73% to green +0.77% vs prev close = individual stock-tape now GREEN ✓; SPY ~$748 tape green ✓; spread perfect ✓; BUT no pullback structure (opened red, recovered green = no 3-5% pullback + volume reclaim) = pilot rule needs pullback OR chase-gate; chase-gate would require breaking new HOD which mid $329.16 has NOT done vs prev HOD ~$332 area; **SKIP — no structural add trigger even with stock-tape now green** |
+| **AEHR (niche PRIMARY re-arm)** | spread <5% + $80 hold-of + tape green | $95.24 (spread 15.3%) | $99.20 (ap 110.41 / bp 88.00) | **+4.2%** vs open | **22.59% ✗ (RE-WIDENED)** | **FAIL — spread RE-WIDENED 15.3% → 22.6%** — mid $99.20 continues to hold above $80 line ✓ (thesis intact via bp $88), price +4.2% higher intraday; BUT spread crisis Day 5 catalyst-day dispersion RE-INTENSIFIED from open compression (15.3%) back up to 22.6% = 4.5x cap; institutional bid emerging (bp $88 above $80 support) but retail cross-sellers creating dispersion; drift-play deferred; re-check EOD for late-session compression |
+| **NBIS (niche watch)** | 2-session ≥$180 base + spread <1% + tape green + R:R 2.5:1 min | $195.31 (+6.5%) | $209.41 (ap 210.00 / bp 208.82) | **+7.2%** vs open, **+14.6%** vs prev close $182.68 | 0.56% ✓ (borderline) | **FAIL — chase-gap EXTENDED further; R:R at $209 = $220 target +$11 / stop -10% -$20.94 = 0.53:1 ✗ collapsed** — Reflection AI + $50B backlog catalyst continuing to work aggressively; spread narrow ✓ but R:R math is now inverted (need $261+ target to clear 2.5:1 at $209 entry); niche has NO pilot allowance = respect discipline; **re-evaluate Wed at whatever price it settles; do not chase +14.6% gap** |
+| **SPY (broad tape reference)** | — | ~$745 | $748.18 | +0.42% | — | **Broad tape GREEN** (+0.42% vs prev close) = risk-on chip sentiment reversal continuing; supports NVDA held thesis; creates constructive backdrop for niche/alpha but does not override structural gates |
+
+### Actions Taken (STEPS 3-8)
+- **STEP 3 cut losers (unrealized_plpc ≤ -0.07):** N/A — NVDA at -0.65% comfortably above -7% cut threshold. No position eligible for cut.
+- **STEP 4 tighten winners (+15/+20 ladder):** N/A — NVDA at -0.65% below +15% ($238.60) tighten threshold. No position eligible for tightening. Trail stop remains $187.776 (HWM $208.64 auto-ratcheted overnight from $207.62).
+- **STEP 5 thesis check:** **NVDA pilot thesis INTACT** — mid $206.10 above $200 base gate (+$6.10 buffer); Day 2 recovery continuing off Mon EOD -2.33% into +1.40% intraday recovery vs prev close; no thesis break (would trigger below $200 base). HOLD.
+- **STEP 6 sleeve balance:** Alpha $412.24 (4.24%) — pilot rule discipline holds; below 65-75% target BY RULE (remaining 5% deferred pending pullback structure OR +15/+20 ladder); Niche $0 (0%) — below 25-30% target; all watchlist gated by spread (AEHR 22.6% re-widened) or chase-gap R:R fail (NBIS +14.6% collapsed R:R to 0.53:1) or thesis timing (RKLB/OKLO/ASTS/AVGO/MSFT); Total 1/12 positions ✓; deployment 4.24%.
+- **STEP 7 intraday research:** SKIP — no anomalous single-name move requires Perplexity pull; NVDA behavior within pilot Day 2 recovery projection; AEHR spread widening consistent with Day 5 catalyst-day dispersion pattern; NBIS continuation move validates Reflection AI + $50B backlog catalyst working (pre-market thesis intact); AAPL intraday recovery consistent with SPX tape strength; no new research angle needed.
+- **STEP 8 Discord notification:** SKIP per routine ("only if action was taken"). No cut, no tighten, no thesis exit, no fresh entries.
+
+### Structural Signals — Midday Tue 7/21
+1. **NVDA pilot Day 2 HOLDING** — mid $206.10 = -0.65% unrealized (+1.40% vs prev close intraday); $200 base gate held cleanly (+$6.10 buffer); HWM ratcheted overnight from $207.62 → $208.64 (auto-adjusted trail $187.776); no cut / tighten / add trigger; chip-selloff Day 3 recovery scenario ATTENUATED (opened +2.09% then faded to -0.37% intraday) but base intact.
+2. **AAPL stock-tape flipped GREEN mid** — Mon 16th miss, Tue open 17th miss on stock-tape red -0.73%, mid recovery to +0.77% vs prev close = individual tape now green ✓ but NO pullback structure exists (opened red, recovered green ≠ 3-5% pullback + volume reclaim); pilot rule requires pullback OR chase-gate breakout; chase-gate needs new HOD break which not yet met; **18th cumulative gate-miss continues** (broad-tape rule + stock-tape rule + pullback rule = compound gates all needed).
+3. **AEHR spread crisis Day 5 CATALYST-DAY DISPERSION** — spread compressed dramatically at open (32.7% Mon EOD → 15.3% Tue open) then re-widened to 22.6% by midday = catalyst-day (BIG-mover $8M SiC + Craig-Hallum upgrade) creating retail-cross-institutional dispersion; bp $88 confirms institutional bid returning above $80 support ✓; **thesis unchanged and STRONGEST of any niche candidate**; only structural gate (<5% spread) blocks re-arm; late-session compression watch remains critical.
+4. **NBIS chase-gap EXTENDED and R:R COLLAPSED** — open +6.5% → midday +14.6% cumulative vs Mon close; at $209 entry the $220 near-target = $11 upside / -10% stop = $20.94 downside = R:R 0.53:1 (needs $261 to clear 2.5:1 min); catalyst working aggressively but rule discipline demands cleaner entry structure; re-evaluate Wed at settle price with fresh R:R math.
+5. **AVGO/MSFT NO DAY-3+ BASE** (unchanged from open) — SKIP status maintained.
+6. **RKLB/OKLO/ASTS** — respective thesis/timing gates unchanged; no midday triggers.
+7. **Broad tape SPY +0.42%** = risk-on continuation supports NVDA held thesis + creates constructive backdrop; does not override structural gates.
+8. **Deployment 4.24% Day 28 pilot-rule discipline holds** — 28th under-deployed session extends; pilot rule caps remaining 5% alpha bucket + 25-30% niche bucket empty by rule; no forced trades; **first alpha exposure of the phase since 6/25 AAPL trail-out continues** (NVDA pilot Day 2 open still the only live position).
+
+### Bias to EOD (~13:00 PT)
+- **NVDA:** HOLD — monitor $200 base gate hold vs break; no defensive action until -7% (~$193) approaches OR +15% ($238.60) tightens; add trigger requires pullback structure OR +15/+20 ladder.
+- **AAPL:** SKIP — 18th cumulative gate miss (stock-tape now green mid but no pullback structure); monitor for late-session pullback into $322-325 zone that could create structure for Wed.
+- **AEHR:** WATCH — spread crisis Day 5 catalyst-day dispersion persistent; monitor EOD for late-session compression below 5% + $80 hold-of; primary niche candidate; thesis intact.
+- **NBIS:** WATCH — chase-gap +14.6% disqualifies today; re-evaluate Wed at settle price with fresh R:R math (need target reset to $261 for 2.5:1 at $209 entry).
+- **AVGO/MSFT:** SKIP — no Day-3+ base; re-evaluate Thu.
+- **RKLB/OKLO/ASTS:** SKIP — respective thesis/timing gates unmet.
+
+**Next scheduled routine:** Tue 7/21 EOD snapshot ~13:00 PM PT (NVDA pilot Day 2 close + AEHR spread compression EOD watch + NBIS Wed re-arm math + Wed 7/22 pre-market prep — GOOGL/TSLA Wed AMC T-1 preview).
+
