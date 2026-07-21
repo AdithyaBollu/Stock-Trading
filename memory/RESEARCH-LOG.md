@@ -7478,3 +7478,168 @@ Silent — normal-day pre-market prep + explicit pilot-entry rule first live tes
 - 9:00 PT: midday scan → stop tightens on any fills; NBIS 2nd session base assessment; post-INTC pre-earnings drift setup review
 - 13:00 PT: EOD snapshot + Tue prep (GM/MMM BMO); watch for GOOGL/TSLA pre-earnings drift Tue-Wed
 
+
+
+## 2026-07-21 — Pre-market Research (Week 14 Day 2, Tuesday — NVDA pilot Day 2 / AEHR SiC catalyst layered / Iran Day 11 / FOMC T-6)
+
+### Account snapshot (pre-open pull ~05:15 PT)
+- **Equity:** $9,728.27 | **Cash:** $9,316.57 (95.8%) | **BP:** $38,419.04 (4x margin) | **Daytrade count:** 0/5 rolling
+- **Open positions:** NVDA 2 sh @ $207.475 = mark $205.85 → **unrealized -$3.25 / -0.78%** (intraday +1.26% recovery vs Mon $203.28 last_price)
+- **Open orders:** NVDA trail_stop id cbf1ef90..., stop $186.858, HWM $207.62, trail 10%
+- **balance_asof:** 2026-07-20 (portfolio-history one-session lag; equity/cash lines current)
+
+### Sleeve status
+- **Alpha:** $411.70 (4.23%) — NVDA pilot only; below 65-75% target (rule-consistent under pilot policy)
+- **Niche:** $0 (0%) — all watchlist gated by spread/thesis; below 25-30% target
+- **Total deployed:** 4.23% / **positions:** 1/12 / **trades this week:** 1/20
+
+### Market context (pre-market ~05:15 PT)
+- **S&P 500 futures:** 7,515-7,526 = **+0.42% to +0.56%** ✓ tape green
+- **Nasdaq futures:** +1.4% (semi-led)
+- **VIX:** 18.65 (-0.64%) = elevated but below 19.5 defensive threshold
+- **Brent:** $88.87 (-0.4%) | **WTI:** $82.47 = softening on Iran mediation hopes DESPITE active war Day 11
+- **10y-2y spread:** +0.37pp normal (no recession signal)
+- **Today's US econ data:** State employment (10 AM ET) + Q2 usual weekly earnings only = LOW impact
+- **Iran-US war:** Day 11, no ceasefire; Hormuz shipping "reduced levels"; Houthi Red Sea blockade active; oil premium moderating on mediation hope
+- **FOMC 7/29 = T-6 sessions:** 0% cut / 65.7% hold / 34.3% hike (event-risk sizing 10% max applies to entries from Wed 7/22 onward)
+
+### This week's earnings calendar (Q2 2026)
+| Date | Ticker | Time | Consensus | Our Stance |
+|------|--------|------|-----------|-----------|
+| **Tue 7/21 BMO ✓** | **GM** | Pre | EPS $3.20 est | **BEAT — EPS $3.57 / rev $48.0B / +30% core profit / raised FY guide $12-14/sh — BULLISH auto tape read** |
+| Tue BMO | 3M (MMM), SCHW, DHR | Pre | Various | Outside sleeve |
+| **Wed AMC** | **GOOGL** | AMC | EPS $2.87-2.95 / Rev $116.5-120.2B / Cloud +63%; backlog >$460B | **DEFER T-1 pre-earnings; post-print drift Thu 7/23 open eligible on clean beat + guide-raise** |
+| **Wed AMC** | **TSLA** | AMC | EPS $0.47 non-GAAP / Rev $25.53B; Q2 deliveries RECORD 480K already known; UBS +37% beat call | **DEFER T-1 pre-earnings; post-print gap direction Thu 7/23 open** |
+| Wed AMC | IBM, NOW | AMC | ServiceNow +2.7% avg post-print | Outside sleeve |
+| Wed BMO | T, GE Vernova (GEV), PM | Pre | — | Outside sleeve |
+| **Thu AMC** | **INTC** | AMC | EPS $0.20-0.22 / Rev $14.33-14.67B | **DEFER T-2 pre-earnings; INTC bp $102.51 = 10 sh sizing 10.5%; post-print drift Fri 7/24 eligible** |
+| **Wed 7/29 AMC** | **NBIS** | AMC | EPS -$0.56 / Rev $580M; FY26 guide $3-3.4B / +40% EBITDA margin | **NICHE WATCH T-6 sessions — pilot-eligible if 2-session $180+ base + spread <1%** |
+| Fri BMO | AXP, VZ, SLB | Pre | — | Outside sleeve |
+
+### Tech/Semi Watchlist — Pre-market book (Mon 4:00 PM close; pre-open crossed until 6:30 PT)
+Sizing pre-filter: pilot 5% cap = $486 max; standard 10% cap = $972.
+
+| Ticker | Fri/Mon close (bp) | Pre-open bp | Structure | Pilot Class |
+|--------|-------------------|-------------|-----------|-------------|
+| **NVDA** ⭐ | $205.85 (close Mon $202.64) | $194.95 stale bp | **HELD PILOT** — Day 2 of pilot; base >$200 held Mon | **HOLD** — no add trigger (no pullback structure; +15% ladder $238 far) |
+| **AAPL** | $325 area | $308.92 stale bp | Base $322-334.68 Day-6+ ATH intact | **⚠️ PRIMARY 17TH GATE CHECK** — spread + tape + stock-tape green needed at 6:30 PT |
+| **AVGO** ⭐ | $372 area | $357.77 stale bp | **PRE-MKT +7.8% on $16.8B Q3 guide** — but only Day 1 of recovery post -13% Thu | **SKIP** — no Day-3+ base yet; require 2 more sessions of $370+ hold |
+| **AMD** | ~$530 area | $480.24 stale | Chip selloff Thu; no base | **WATCH** — no armed trigger |
+| **MRVL** | $180 area | $187.09 stale | Chip drift | **WATCH** — no armed trigger |
+| **MSFT** | ~$378 area | — | **Base $390 BROKEN** | **SKIP** — pilot rule requires Day-3+ base above prior key level |
+| **GOOGL** | ~$347 area | — | Base $340-350 | **DEFER T-1 pre-earnings** |
+| **INTC** | $97.51 → $102.51 (+5.1% pre) | $102.51 fresh 05:00 PT | Range-bound $95-105 | **DEFER T-2 pre-earnings** |
+| **QCOM/ARM/SMCI** | — | — | Chip drift | **WATCH** — no armed triggers; QCOM at $162 borderline sizing |
+
+### Niche Radar — 7-Point Research (Tue 7/21)
+Sizing pre-filter niche: **$194.63 cutoff** for 6-share 12% max sizing at equity $9,728.
+
+| Ticker | Fri/Mon | Pre bp | Class | EPS | Analyst | Catalyst | Sentiment | Action |
+|--------|---------|--------|-------|-----|---------|----------|-----------|--------|
+| **AEHR** ⭐⭐ | Mon $79.94-80.64 (-1% Mon) | $65.79 crossed | **⚠️ CATALYST LAYERED — Craig-Hallum Buy $117.50 (Fri) + $8M+ NEW SiC WLBI order (7/15) for major auto OEM EV programs** | Q4 beat +$0.11; FY27 guide $130-150M (2.6-3x) | Craig-Hallum $117.50 (+45%) | **NEW: FOX-NP SiC MOSFET system + FOX WaferPak follow-on production** | Retail flushed; institutional bid emerging | **✅ NICHE RE-ARM PRIMARY** — entry gate: **spread <5% + hold-of-$80 first 15 min + 15-min bar close ≥$80 + tape green**; sizing 12 sh @ $80 = $960 = 9.9%; stop -10% $72; target $110 = **R:R 3.0:1** ✓ |
+| **NBIS** ⭐ | Mon $185.30 (+4.27%) | $180.83 pre | **⚠️ POTENTIAL BUY SETUP** — 2-session $180+ base attempted | AI cloud +684% YoY Q1; Q2 rev $580M est | Consensus $203-244 (+14-37%) | **NEW: $1B Reflection AI deal → $50B backlog (7/20)**; Q2 earnings **7/29 AMC T-6** | Bullish; 9 buys 0 sells | **NEW WATCH — Day 2 of $180+ base attempt; gate: mid ≥$180 + spread <1% + tape green**; sizing 6 sh @ $180 = $1,080 = 11.1% ≤12% niche cap; stop -10% $162; target $224 = **R:R 2.44:1** (marginal below 2.5:1 min); WAIT for cleaner entry OR use ≥$185 breakout for better R:R |
+| **RKLB** | Mon $65.81 (-6.1%) | $65.81 close | **⚠️ THESIS PUSHED OUT** — Neutron Q4 2026 confirmed; NO Jul launch news | Q1 $110M rev; $2.2B+ backlog | Consensus $103-108 | Neutron Q4 target (delayed multiple times) | Recovering slowly; base broken further | **SKIP** — $70 gate broken; base rebuild needs multi-session; Neutron T-2+ months |
+| **OKLO** | Mon $40.34-41.71 | $39.21 pre | **⚠️ AURORA CRITICALITY MYTH BUSTED** — DOE approvals only; Groves test reactor July 4 target MISSED (Day 17 silence) | Pre-rev; Q3 -$36.3M loss | Median $85-93 | **NO NRC/DOE criticality announce; Aurora pre-construction phase; Groves criticality delayed** | Fading; $40 base uncertain | **SKIP/WATCH** — need $50 reclaim + criticality announce OR full capitulation base with vol spike; deep-value thesis document further deferred |
+| **ASTS** | Mon $59.75 (+2.0%) | $55.02 pre | **WATCH (upgraded from AVOID Fri)** — Piper Sandler Buy 7/17 | 2026 loss $1.47/sh | Piper Buy; B. Riley raise | **BB8-10 launched 6/17 SUCCESS**; **BB11-13 targeted first half August (T-2 wks)** | Recovering; awaiting BB11 confirm | **WATCH** — BB11 launch is the next binary; not a Tue trigger; still below Wed 7/15 close $69 by -13% |
+
+### 7-Point Deep Research Refresh — AEHR (niche primary, THESIS-STRENGTHENED)
+1. **Earnings/Fundamentals:** Q4 FY26 EPS beat +$0.11; **bookings $60.7M RECORD**; backlog $100.6M; FY27 guide $130-150M (2.6-3x). Post-print bookings validates business.
+2. **Analyst Coverage:** **Craig-Hallum UPGRADE to Buy 7/17 = ANCHOR CATALYST** — $117.50 target (+45% upside from $80). Only Buy rating post-print.
+3. **Institutional Activity:** Post-print institutional bid pending; CFO Siu May pre-drawdown sale is noise; capital-cycle rotation dynamic.
+4. **News & Catalysts:** ⭐ **NEW 7/15-7/21:** Aehr announced **>$8M in new SiC wafer-level burn-in orders** including (a) follow-on FOX WaferPak Contactors for lead SiC prod customer, (b) direct order from "one of world's largest automotive companies" for multiple WaferPaks for SiC device qualification, (c) FOX-NP multi-wafer test system for SiC MOSFETs. **This is FUNDAMENTAL CONFIRMATION of the FY27 guide trajectory.**
+5. **Community Sentiment:** Retail-flushed post-print; institutional bid emerging; drift-play thesis re-arming.
+6. **Technical Setup:** Wed 7/16 $86-110 range → Thu $79.69-87.73 → Fri close $81.05 → Mon $79.94-80.64 (near multi-day support). $80 hold-of is 15-min bar test; resistance $88 (Thu VWAP).
+7. **Thesis:** A+ fundamentals + fresh Craig-Hallum upgrade + **fresh $8M SiC order catalyst** + Day 5 structural test with hopefully compressed spread. Multi-day drift play with 45% analyst upside. **Only blocker is liquidity fragmentation (wide spread Day 5).**
+
+### 7-Point Deep Research — NBIS (niche NEW candidate)
+1. **Earnings/Fundamentals:** Q1 rev $399M (+684% YoY, +75% QoQ; beat consensus $375M); Q2 est $580M (+45% QoQ implied). FY26 guide $3.0-3.4B, run-rate $7-9B by year-end, adj EBITDA margin ~40%. Capex $2.0-2.5B FY (aggressive scaling).
+2. **Analyst Coverage:** Consensus $203-244 target (+14-37% from $180 area); 9 Buy / 0 Sell across 16 analysts.
+3. **Institutional Activity:** Post-Yandex spinout 2024; institutional accumulation phase; strong fund entry footprint.
+4. **News & Catalysts:** ⭐ **NEW 7/20:** **$1B Reflection AI compute deal → $50B contracted backlog**. Q2 earnings **Wed 7/29 AMC T-6 sessions**. Nvidia AI ecosystem tailwind.
+5. **Community Sentiment:** Strong bullish; considered European AI infra leader; deep institutional interest.
+6. **Technical Setup:** Mon $175.34 → $185.30 close (+4.27%); resistance $186.77 (Fri intraday high); base attempt $180+ Day 2 today; needs 2-session confirm.
+7. **Thesis:** European AI GPU cloud with $50B contracted backlog; catalyst = fresh Reflection AI deal (7/20) + pre-earnings drift into 7/29 print. Asymmetric AI-infra play. **INSUFFICIENT CONFIRMATION** — Day 2 of $180+ base is not yet ≥2 sessions; entry gate requires confirmation of base hold + spread compress <1% AT OPEN.
+
+### Actionable Alpha Ideas (Tue 7/21)
+
+1. **NVDA HELD PILOT — CONTINUE HOLDING** — Day 2 pilot; thesis validated by (a) **AWS +40K H100/H200 GPU order confirmed = 35% above original plan**, (b) **Barclays UPGRADE to Overweight**, (c) Melius $205 target, (d) Blackwell/Hopper "sold out" per Jefferies. Current $205.85 = still above $200 base gate; trail stop $186.86 tracked at 10% from HWM $207.62. **No add trigger** (no pullback structure yet; +15% ladder $238.60 far off). HOLD action; monitor for either continued base above $200 (thesis intact) OR break below $200 (thesis break trigger).
+
+2. **AAPL PILOT PRIMARY — 17TH GATE CHECK** — Base $322-334.68 Day-6+ hold above $315 intact; Mon closed with 16th consecutive chase-gate miss on stock-tape RED (-0.64%). Entry gate at 6:30 PT: **spread ≤0.5% + broad tape green ≥+0.3% + AAPL individual tape green ≥+0.3% (new rule inferred from Mon miss) + first 5-min volume ≥ 20-day avg**. Sizing 1 sh @ ~$333 = 3.4% pilot; 2 sh = 6.8% overshoots 5% pilot. RECOMMEND 1 SH pilot if gate clears. Stop -10% trail GTC on fill. Target: no explicit — trail defends. **VERDICT: ARMED if all gates clear at open.**
+
+3. **AVGO — SKIP THIS SESSION** — Pre-market +7.8% on $16.8B Q3 guide is bullish but only Day 1 of recovery from Thu -13% + Fri chip continuation. Pilot rule requires Day-3+ base above prior key level = NOT MET. Re-check Thu after 2 more base-hold sessions.
+
+4. **MSFT — SKIP** — $390 base still broken (mid ~$378 area). Pilot rule requires Day-3+ base above prior key level; NOT MET. Re-check if $390+ base re-establishes.
+
+5. **GOOGL/TSLA — DEFER T-1** — Wed AMC earnings; block applies. Post-print drift Thu 7/23 open eligible on clean beat + guide-raise + gap-hold + tape green.
+
+6. **INTC — DEFER T-2** — Thu AMC earnings; block applies. Post-print drift Fri 7/24 open eligible on clean beat.
+
+### Actionable Niche Ideas (Tue 7/21)
+
+1. **AEHR NICHE RE-ARM — PRIMARY** (thesis-strengthened by $8M SiC order overnight):
+   - **Entry gate:** spread <5% + hold-of-$80 first 15 min + 15-min bar close ≥$80 + tape green
+   - **Sizing:** 12 sh @ ~$80 = $960 = 9.9% ≤12% niche cap ✓
+   - **Stop:** -10% = $72 hard (strategy: hard -10% on niche, no exception)
+   - **Target:** $110 = R:R 3.0:1 ✓ (stretch $130 R:R 6.2:1)
+   - **Trade count:** 1/20 (or 2/20 if AAPL pilot also placed)
+   - **Blocker:** Day 5 spread crisis — Mon EOD spread was 27-32%; without <5% compression, entry impossible
+   - **Verdict:** ARMED if spread + hold-of-$80 clear at 6:45 PT check
+
+2. **NBIS NICHE WATCH — DEFERRED TO WED** — Day 2 of $180+ base attempt today; enter only if (i) mid holds ≥$180 through session end (2-session confirm), (ii) spread <1% at 6:30 open, (iii) tape green. R:R at $180 entry = 2.44:1 (marginal below 2.5:1 min). BETTER: wait for $185+ close today, then re-arm Wed for enhanced R:R. If Wed setup clears, entry sizing 6 sh @ ~$185 = $1,110 = 11.4% ≤12% niche cap.
+
+3. **RKLB — SKIP** — Neutron pushed to Q4 2026 (multiple delays); no Jul launch news; base broken further ($65 area).
+
+4. **OKLO — SKIP** — Aurora criticality myth busted (DOE approvals only); Groves July 4 target missed (Day 17 silence); need $50 reclaim + criticality OR full capitulation base with vol spike.
+
+5. **ASTS — WATCH** — BB11-13 launch first half August (T-2 wks) is next binary; not a Tue trigger.
+
+### Macro & Geopolitical Risk Assessment (Tue 7/21)
+- **HIGH:** **FOMC 7/29 T-6 sessions** — hike odds 34% (cut 0%); event-risk sizing 10% max applies to any entries Wed 7/22+; today Tue 7/21 entries still eligible at standard 5% pilot / 12% niche caps.
+- **HIGH:** **Iran-US war ACTIVE Day 11** — no ceasefire (broke 7/10 → Trump declared over); Hormuz "reduced levels"; Houthi Red Sea blockade; **BUT oil moderating on mediation hopes**: Brent $88.87 -0.4%, WTI $82.47 vs earlier $100+ peak; escalation risk always present but priced-in from current level.
+- **HIGH:** **Mega-cap earnings cluster Wed AMC + Thu AMC** (GOOGL/TSLA/INTC/IBM/NOW) — T-1/T-2 defer applies; post-print drift opportunities Thu-Fri.
+- **MEDIUM:** **Semi tape STRONG pre-market** — NVDA +6.2% / AVGO +7.8% / TSLA +3.2% = risk-on chip sentiment reversal from last week's selloff; supports NVDA held pilot thesis.
+- **MEDIUM:** **VIX 18.65** = elevated but below 19.5 defensive threshold; normal-vol regime.
+- **LOW/PRICED-IN:** June CPI cool (-0.4% MoM, +3.5% YoY, first decline in 5 months); June PPI cool (+5.5% YoY). Next CPI (Aug 12) key risk given July oil spike.
+- **LOW:** 10y-2y +0.37pp normal; no recession signal.
+
+### Risk Factors (Tue 7/21)
+- **PRIMARY:** **AEHR spread crisis Day 5** — if fails to compress <5%, primary niche re-arm blocked despite strengthening thesis; risk of another day of held-catalyst-with-no-execute.
+- **SECONDARY:** **Mega-cap earnings cluster** — Wed AMC + Thu AMC create binary event risk; pilot sizing 5% is CONSERVATIVE by rule; ADD gates keep dry powder for post-print drift.
+- **TERTIARY:** **FOMC 7/29 hike risk T-6** — hawkish surprise could compress multiples; pilot 5% + niche 12% caps provide cushion.
+- **NVDA thesis break risk** = break below $200 base gate; monitor into session.
+- **AAPL 17th gate miss risk** = if stock-tape stays red into open despite broad-tape green, 17th consecutive miss extending pattern.
+- Iran escalation reversal risk always present (mediation talks could break down again).
+- **28th under-deployed session** if no fresh entries today; deployment-floor bias TILTED TOWARD ACT on any clean setup.
+
+### Decision: **TRADE** — armed on multiple candidates
+Rationale:
+- (a) **AEHR is thesis-strongest niche candidate** with fresh $8M SiC order layered on Craig-Hallum upgrade = highest asymmetric R:R (3.0-6.2:1); only spread gate needs to clear.
+- (b) **AAPL 17th pilot gate check** — base structurally intact 6+ sessions; SPX/Nasdaq futures green favor stock-tape green likelihood.
+- (c) **NVDA held pilot working** — AWS + Barclays catalysts validate thesis; hold action.
+- (d) **NBIS deferred to Wed** — cleaner setup after 2-session base confirm.
+- (e) GOOGL/TSLA/INTC pre-earnings deferral preserves flexibility for post-print drift Thu-Fri.
+- (f) 27 under-deployed sessions + fresh catalysts = TRADE-first bias when gates clear; under-deployment is failure mode.
+
+### Tue 7/21 Open Plan (bell 6:30 PT)
+1. **AAPL PILOT 17TH GATE:** 6:31-6:35 PT check quote — spread ≤0.5% + tape green ≥+0.3% + **AAPL individual stock-tape green** + first 5-min volume ≥ 20-day avg. If ALL clear: BUY 1 sh @ market ~$333 = 3.4% pilot; place -10% trail GTC immediately on fill. Trade count 1/20.
+2. **NVDA HOLD:** monitor $200 base gate; no add trigger.
+3. **AEHR NICHE RE-ARM:** 6:45 PT check — spread <5% + $80 hold-of + 15-min bar close ≥$80 + tape green. If ALL clear: BUY 12 sh @ market ~$80 = 9.9%; -10% trail GTC @ $72; target $110. Trade count 1-2/20.
+4. **AVGO:** SKIP — no Day-3+ base post -13% Thu (only Day 1 of recovery).
+5. **MSFT:** SKIP — $390 base broken.
+6. **GOOGL/TSLA:** DEFER T-1; NBIS **WATCH** for potential Wed re-arm; INTC DEFER T-2.
+7. **RKLB/OKLO/ASTS:** SKIP — respective thesis/timing gates unmet.
+8. **Position cap check:** after potential AAPL + AEHR entries = 3/12 ✓; trades this week 3/20 ✓; daytrade 0/5 ✓.
+9. **Bias:** **TRADE gates as ratified** — deployment floor activated, catalysts fresh, quality setups exist.
+
+### Re-Evaluation Windows
+- 5:30 PT: pre-market flow check (S&P futures + VIX + NVDA quote confirming stability)
+- 6:30 PT: bell → PILOT-ENTRY GATE CHECK AAPL + AEHR spread check + gap-hold
+- 6:35 PT: 5-min bar close → AAPL pilot entry decision if gate clears
+- 6:45 PT: 15-min bar close → AEHR entry decision if gate clears
+- 7:00-7:30 PT: monitor NVDA behavior around $200; watch for AVGO Day 2 recovery pattern
+- 9:00 PT: midday scan → stop tightens on fills; NBIS 2nd session base assessment for Wed
+- 13:00 PT: EOD snapshot + Wed prep (GOOGL/TSLA AMC print positioning + Thu INTC AMC prep)
+
+### Discord Pre-Market Notification
+Silent — normal pre-market prep; NVDA pilot holding; AEHR catalyst strengthened but spread still gating; no acute alert warranted.
+
