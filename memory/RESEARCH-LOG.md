@@ -7756,3 +7756,43 @@ Silent — normal pre-market prep; NVDA pilot holding; AEHR catalyst strengthene
 
 ### Discord Pre-Market Notification
 NORMAL — pre-market prep; NBIS niche re-arm candidate + AAPL pilot re-arm watch; no acute alert warranted pre-open.
+
+
+## 2026-07-22 — Market Open Execution (Week 14 Day 3, Wednesday — **NO-OP** / NBIS spread crisis at open ap $250 / bp $186 = ~26% cap / AEHR spread crisis Day 6 ap $110 / bp $82 = 28.6% / AAPL pullback -0.9% vs prev close = NO structure / NVDA held Day 3 HOLD)
+
+**Portfolio (~06:37 AM PT / T+7min post-open):** Equity $9,730.33 | Cash $9,316.57 (95.75%) | Day P&L -$0.82 (-0.008%) | Buying power $38,424.81 (4x margin) | **Open positions:** 1 (NVDA 2 sh) | **Open orders:** 1 (NVDA trail_stop cbf1ef90..., stop $187.776, HWM $208.64) | **Trades this week:** 1/20 | **Daytrade count:** 0/5 rolling.
+
+### Open Gate Check (~06:37 PT / T+7min)
+
+| Ticker | Gate Requirement | Live ap / bp | Spread | Δ vs Prev | Verdict |
+|--------|-----------------|-------------|--------|-----------|---------|
+| **NVDA (held)** | pullback structure OR +15% ladder | $206.63 / $206.58 | 0.024% ✓ | -0.30% vs prev close $207.22 | **HOLD** — no add trigger; $200 base +$6.61 buffer; -0.30% intraday (essentially flat); Day 3 continuation muted; trail stop $187.776 unchanged (HWM $208.64) |
+| **NBIS (niche PRIMARY re-arm)** | bid ≥$185 + spread <1% + tape green ≥+0.3% + R:R 2.5:1 | $250.46 / $185.87 | **~26% ✗** (persistent Δ7min) | bp $185.87 near pre-mkt bid $186.86 | **FAIL — spread crisis at open** — bp $185.87 confirms pullback structure vs Tue chase-high $209 ✓ BUT ap dispersion $218-$250 across multiple polls = catastrophic spread (16-26x cap); indicative offer stuck at wide venue routing; **cannot enter** even with clean pullback structure; watch midday for spread compression |
+| **AAPL (alpha pilot re-arm)** | pullback -3 to -5% + spread <0.5% + tape green + 20-DMA reclaim | $327.59 / $327.33 | 0.08% ✓ | -0.5% vs prev close ~$329 (pre-mkt bid $307 evaporated) | **FAIL — no pullback structure** — pre-mkt -6.7% gap closed to -0.5% at open = pullback structure did NOT materialize; spread perfect ✓ but rule requires 3-5% pullback + volume reclaim = compound gate fails; **19th cumulative pilot gate miss**; monitor for late-morning fresh pullback into $315-322 zone |
+| **AEHR (niche secondary)** | spread <5% + $80 hold-of + tape green | $110.05 / $82.58 | **28.6% ✗** | bp $82.58 above $80 line ✓ | **FAIL — spread crisis Day 6 persistent** — bp $82.58 confirms institutional bid above $80 support ✓; thesis strongest of any niche ($8M SiC + Craig-Hallum + Q4 FY26 record + FY27 $130-150M guide) BUT spread cap 28.6% = 5.7x cap (worse than Tue midday 22.6%); cannot enter; watch midday for compression |
+| **SPY (broad tape)** | — | $747.27 / $747.24 | — | ~flat vs Tue close ~$747 | Broad tape ~flat = neutral tape (not green); does not veto entries but does not provide tailwind for chase-gate relaxation |
+
+### Actions Taken (STEPS 3-8)
+- **STEP 3 rule check:** All three candidates (NBIS, AAPL, AEHR) FAIL structural gates. No trade eligible under strategy rules.
+- **STEP 4 execute buys:** N/A — no trade cleared.
+- **STEP 5 trail stops:** N/A — no fill.
+- **STEP 6 TRADE-LOG append:** N/A — no fill.
+- **STEP 7 Discord notification:** SKIP per routine ("only if a trade was placed"). Under-deployment continuation is a pattern already tracked in daily EOD Discord.
+- **STEP 8 commit/push:** RESEARCH-LOG update only (no TRADE-LOG changes).
+
+### Structural Signals — Open Wed 7/22
+1. **NVDA pilot Day 3 HOLDING flat** — mid $206.605 = -0.30% vs prev close $207.22; $200 base gate intact (+$6.61 buffer); no add trigger, no cut, no tighten; HWM $208.64 unchanged; continuation vs fade watch → midday.
+2. **NBIS spread CRISIS at open** — bp $185.87 confirms Tue chase-gap unwound overnight (-11.1% from Tue midday $209.41) = pullback structure MATERIALIZED ✓, R:R math would clear at $186 entry ($233 target / $167.40 stop = $47 upside / $18.60 downside = 2.5:1 ✓); BUT ap dispersion $218-$250 = 16-26% spread across multiple polls at T+7min post-open = venue routing failure or catalyst-day dispersion analog to AEHR; **cannot enter with 16%+ spread even if pullback + R:R clear**; watch midday for spread compression; if <1% compression develops = re-arm eligible.
+3. **AAPL pre-mkt pullback COLLAPSED at open** — pre-mkt bid $307 (-6.7%) evaporated to open mid $326.72 (-0.5%) in 30 min = pullback structure did NOT materialize despite favorable pre-mkt setup; 19th cumulative pilot gate miss; watch late-morning for fresh pullback into $315-322 zone that could re-arm pilot re-arm.
+4. **AEHR spread crisis Day 6 PERSISTENT and WORSE** — spread 28.6% at open vs Tue midday 22.6% = catalyst-day dispersion re-widening; bp $82.58 above $80 support ✓ (institutional bid confirmed); thesis strongest of any niche; only spread cap blocks; watch midday for compression <5%.
+5. **AAPL / NBIS both gate-failing at open = pre-mkt plan's "HOLD default" trigger activated** — pre-mkt plan explicitly stated "HOLD only default if BOTH AAPL and NBIS gates fail at open" = pattern realized; deployment 4.25% Day 29 = 5-week under-deployment pattern extends; **remaining 5% alpha bucket + 25-30% niche bucket empty by rule + gate-fail**.
+6. **Broad tape SPY ~flat** = neutral backdrop; does not provide chase-gate relaxation via tape green; does not veto quality setups either — pure gate-fail decision.
+
+### Bias to Midday Scan (~09:00 AM PT)
+- **NVDA:** HOLD — continuation vs fade watch; no defensive action until -7% (~$193) OR +15% ($238.60); add trigger requires pullback structure OR +15/+20 ladder.
+- **AAPL:** WATCH — 19th gate miss; monitor for late-morning pullback into $315-322 zone that could re-arm pilot structure.
+- **NBIS:** WATCH — pullback structure materialized (-11% vs Tue chase-high) but spread crisis blocks; monitor midday for spread compression <1% + tape confirmation = re-arm eligible.
+- **AEHR:** WATCH — spread crisis Day 6 worsening; monitor midday for <5% compression + $80 hold-of.
+- **RKLB/OKLO/ASTS:** SKIP — respective thesis/timing gates unmet.
+
+**Next scheduled routine:** Wed 7/22 Midday Scan ~09:00 AM PT (NVDA pilot Day 3 update + NBIS spread compression watch + AAPL pullback structure watch + AEHR spread compression watch + GOOGL/TSLA/IBM AMC pre-print positioning).
