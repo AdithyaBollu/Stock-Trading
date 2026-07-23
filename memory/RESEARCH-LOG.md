@@ -8010,3 +8010,45 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 
 **Next scheduled routine:** Thu 7/23 Midday Scan ~09:00 AM PT (NVDA pilot Day 4 update + AEHR spread compression / bid-slippage watch + NBIS spread compression + INTC AMC pre-print positioning).
 
+
+
+## 2026-07-23 — Midday Scan (Week 14 Day 4, Thursday — ~09:11 AM PT / T+2.7h into session / **NO-OP** — NVDA pilot Day 4 holding +0.6% no add/tighten trigger / AAPL pullback insufficient (-1.42% ≠ 3-5% window) / AEHR spread crisis Day 7 institutional bid slipping further bp $76.23 (-$3.77 below $80 line) / NBIS spread + R:R compound fail / INTC AMC binary tonight)
+
+**Account (~09:11 AM PT):** Equity $9,734.12 | Cash $9,316.57 (95.71%) | Long $417.55 (NVDA only) | Buying power $9,316.57 | **Positions:** 1/12 | **Open orders:** 1 (NVDA trail_stop cbf1ef90…, stop $192.951, HWM $214.39) | Trades this week: 1/20 | Daytrade count: 0/5.
+
+### Midday Position + Watchlist Reads
+
+| Ticker | bp / ap | Spread | Δ vs Prev Close | Verdict |
+|--------|---------|--------|-----------------|---------|
+| **NVDA (held 2 sh)** | 208.76 / 208.98 | 0.11% ✓ | -1.56% ($212.06 → $208.87 mid) | **HOLD** — unrealized +$2.55 (+0.615%); well above -7% cut ($192.95); below +15% ladder ($238.60); $200 base +$8.87 buffer; HWM $214.39 unchanged; trail intact |
+| **AAPL** | 321.26 / 321.30 | 0.012% ✓ | **-1.42%** ($325.89 → $321.28) | **GATE FAIL** — pullback -1.42% ≠ 3-5% Track B window; SPY -1.18% RED tape ≠ ≥+0.3% green; 20th cumulative gate miss extending; pre-mkt bp $311.34 pullback structure re-evaporated same as open |
+| **AEHR** | 76.23 / 101.46 | **33.1% ✗** | bp $76.23 = -$3.77 below $80 support | **GATE FAIL — institutional bid Day 7 FURTHER slippage** — bp trajectory: pre-mkt $80.75 → open $79.91 → midday $76.23 = **-5.6% erosion below institutional line** in one session; spread cap 6.6x max (33.1% vs 5%); thesis intact (Craig-Hallum $117.50 + $8M SiC + FY27 $130-150M) but structural degradation accelerating; **Weekly Review flag** |
+| **NBIS** | 200.00 / 228.00 | **14.0% ✗** | bp $200 vs Tue high $209 = -4.3% | **GATE FAIL** — spread 14x cap; R:R at $200 = $220 target -$20 / -10% stop -$20 = 1.0:1 ✗ (2.5:1 min); would need $185 or lower to clear R:R; T-3 to Tue AMC = drift window narrowing; T-2 block starts Mon 7/27 |
+| **AVGO** | 389.49 / 390.00 | 0.13% ✓ | ~flat vs $390 area | Spread ✓ but no Day-3+ base clearance verified; no earnings this week; watch EOD |
+| **SPY (broad tape)** | 738.55 / 738.57 | — | **-1.18%** (Wed close $747.35 → $738.56) | RED tape confirming Iran-Houthi + GOOGL capex + INTC binary compound narrative; chase-gate relaxation UNAVAILABLE |
+| **INTC** | 101.54 / 101.57 | 0.03% ✓ | ~-3.4% ($105.15 → $101.55) | **T-0 pre-earnings BLOCK** AMC tonight — SKIP |
+
+### Actions Taken (STEPS 3-7)
+- **STEP 3 cut losers:** N/A — NVDA +0.615% only position, no candidate ≤-7%.
+- **STEP 4 tighten trails:** N/A — NVDA below +15% ladder ($238.60 needed); trail $192.951 (HWM $214.39) unchanged.
+- **STEP 5 thesis check:** NVDA thesis intact (BofA $350 target + Vera CPU + Spectrum-6 + GOOGL capex read-through bullish for supplier). No thesis break. HOLD.
+- **STEP 6 sleeve balance:** Alpha 4.29% (target 65-75% — under-deployed per pilot rule discipline); Niche 0% (all watchlist gate-blocked); Cash 95.71%; Positions 1/12 well under cap. Under-deployment noted as Day 30 of pilot-rule adherence; **no forced-trade violation of gates justified.**
+- **STEP 7 intraday research:** N/A — no ticker moving sharply without obvious cause. AEHR bid slippage is continuation of Day 7 structural degradation already documented pre-mkt/open; not a new sharp intraday move.
+- **STEP 8 notification:** SKIP — no action taken; routine specifies "only if action was taken."
+
+### Midday Structural Signals
+1. **NVDA pilot Day 4 midday CLEAN HOLD** — unrealized +0.615%; intraday -1.56% consistent with SPY -1.18% RED tape (correlation ~1.3x, moderate); $200 base gate +$8.87 buffer clean; no defensive action; INTC AMC read-through remains Fri-open risk.
+2. **AAPL 20th cumulative pilot gate miss confirmed at midday** — cash-session pullback -1.42% insufficient; pattern extension of pre-mkt-fails-into-cash-session structural evidence over 5 weeks continues; weekly review focus.
+3. **AEHR Day 7 institutional bid SLIPPAGE ACCELERATING** — bp trajectory pre-mkt $80.75 → open $79.91 → midday $76.23 = -5.6% erosion below the $80 institutional support line in <7 hours; spread 33.1% (higher than open 28.9% + pre-mkt 24.1%); thesis fundamentals (Craig-Hallum $117.50 Buy + $8M SiC + FY27 $130-150M guide) unchanged but structural gates degrading fast; **critical decision point** — if bp $75 or below at EOD → thesis revision required; if reclaims $80 + spread compresses <5% → primary niche re-arm eligible.
+4. **NBIS pullback structure ✓ but R:R math fails harder at midday** — bp $200 = 1.0:1 R:R (down from 1.68:1 pre-mkt at $188.29); ironically pullback has NOT deepened enough for R:R clearance — needs $185 or below; T-3 sessions to Tue AMC, T-2 block Mon; drift-play window closes.
+5. **Broad tape SPY -1.18% RED accelerating** vs pre-mkt SPX -0.4% futures = Iran-Houthi Red Sea tanker + GOOGL capex-fear + INTC binary compression compounding through cash session; VIX likely higher; risk-off tilt confirming caution.
+6. **Deployment 4.29% Day 30 discipline holds** — 30th consecutive under-deployed session; all three primary triggers (AAPL/AEHR/NBIS) structurally gated at midday; deployment floor bias exists but no gate-clearing setup available — forced-trade would violate rules.
+
+### Bias to EOD (~13:00 PT)
+- **NVDA:** HOLD — monitor $200 base gate hold vs break; INTC AMC positioning — Fri pre-mkt read-through exposure known; no defensive action needed today.
+- **AAPL:** SKIP EOD unless fresh cash-session pullback into $305-310 zone develops (unlikely with SPY red); 20th gate miss recorded.
+- **AEHR:** CRITICAL WATCH — if bp reclaims $80 + spread <5% in final hour → primary niche re-arm eligible; if bp bleeds toward $75 → Weekly Review thesis revision flag deepens; NO EOD trade unless full-gate clearance.
+- **NBIS:** SKIP EOD unless bp settles $180-185 range + spread <1% (R:R math clearance) — probable T-2 block Mon lockout otherwise.
+- **INTC AMC:** SKIP entry (T-0 block); document tonight's print + Fri open positioning notes at EOD; especially watch capex guide + DCG revenue for NVDA/AVGO order-flow read-through.
+
+**Next scheduled routine:** Thu 7/23 EOD snapshot ~13:00 PM PT (NVDA pilot Day 4 close + AEHR Day 7 EOD verdict + INTC AMC pre-print positioning notes).
