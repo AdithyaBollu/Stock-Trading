@@ -7966,3 +7966,47 @@ Under-deployment (4.3% Day 29 pilot-rule discipline) remains preserved by rule +
 ### Discord Pre-Market Notification
 NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure in 20 sessions + AEHR/NBIS niche re-arm watches; INTC AMC binary tonight; no acute pre-open alert warranted.
 
+
+## 2026-07-23 — Market Open Execution (Week 14 Day 4, Thursday — **NO-OP** / all three primary triggers gate-fail at open / AAPL pre-mkt pullback structure EVAPORATED again / AEHR spread crisis Day 7 persistent + bp slipped $80 support / NBIS spread + R:R compound fail / NVDA pilot Day 4 HOLD)
+
+**Account (~06:36 AM PT / T+6min post-open):** Equity $9,736.41 | Cash $9,316.57 (95.69%) | Buying power $9,316.57 | Long market value $419.84 (NVDA 2 sh only) | **Positions:** 1/12 | **Open orders:** 1 (NVDA trail_stop cbf1ef90…, stop $192.951, HWM $214.39) | **Trades this week:** 1/20 | **Daytrade count:** 0/5 rolling.
+
+### Open Gate Reads (T+6-7min post-open, ~06:36-06:37 AM PT)
+
+| Ticker | bp / ap | Spread | Δ vs Prev Close | Gate Verdict |
+|--------|---------|--------|-----------------|--------------|
+| **NVDA (held)** | 210.50 / 210.54 | 0.019% ✓ | -1.02% ($212.66 → $210.52) | **HOLD** — no add trigger; $200 base +$10.52 buffer; below +15% ladder ($238.60) by $28; -7% cut ($192.95) far below; sizing 2 sh / 4.31% deployment per pilot rule |
+| **AAPL (Track B pilot re-arm)** | 322.27 / 322.37 | 0.031% ✓ | **-1.11%** ($325.89 → $322.32) | **FAIL — pullback structure EVAPORATED again** — pre-mkt bp $311.34 (-4.47%) collapsed at open to -1.11% = same pattern as 4 prior sessions (pre-mkt pullback fails to hold into cash session); Track B requires 3-5% pullback + volume reclaim ≠ -1.11%; SPY tape -0.75% RED (not green ≥+0.3%) = compound gate fail; **20th cumulative pilot gate miss** |
+| **AEHR (niche PRIMARY)** | 79.91 / 106.90 | **28.9% ✗** | bp $79.91 borderline $80 | **FAIL — spread crisis Day 7 persistent + institutional bid slipping below $80 support** — spread 5.8x cap (28.9% vs 5% max); bp $79.91 = $0.09 below $80 line = institutional bid weakening vs Wed pre-mkt bp $80.75; compound structural block; thesis intact ($8M SiC + Craig-Hallum + FY27 $130-150M guide) but structural gates blocking Day 7 |
+| **NBIS (niche watch)** | 188.29 / 225.00 | **17.8% ✗** | bp $188.29 vs Wed AH $226 = -16.7% overnight cool-off | **FAIL — spread + R:R compound fail** — bp $188.29 confirms +14.6% Tue chase-gap unwound overnight (bp above $185 threshold ✓); BUT spread 17.8x cap + R:R at $188.29 = $220 target -$31.71 / -10% stop -$18.83 = 1.68:1 ✗ (2.5:1 min); would need $185 or lower to clear R:R math AND spread <1% compression |
+| **SPY (broad tape)** | 741.37 / 741.52 | — | **-0.75%** (Wed close $747 → $741.44) | Broad tape RED = does not clear "tape green ≥+0.3%" for chase-gate relaxation; supports Iran-Houthi + GOOGL capex + INTC binary compound-risk narrative |
+| **AVGO** | 393.05 / 402.00 | 2.25% ✗ | flat | Spread too wide + Day-3+ base still pending verification |
+
+### Actions Taken (STEPS 3-8)
+- **STEP 3 rule check:** ALL three primary triggers (AAPL Track B, AEHR niche, NBIS pre-earnings drift) FAIL structural gates at open. NVDA held — no cut trigger (+1.17% unrealized well above -7%), no tighten trigger (below +15% ladder). No trade eligible under strategy rules.
+- **STEP 4 execute buys:** N/A — no trade cleared.
+- **STEP 5 trail stops:** N/A — no fill. NVDA existing trail GTC intact at $192.951 (HWM $214.39, printed Wed).
+- **STEP 6 TRADE-LOG append:** N/A — no fill.
+- **STEP 7 Discord notification:** SKIP per routine ("only if a trade was placed"). No cut, no add, no exit, no thesis break.
+- **STEP 8 commit/push:** RESEARCH-LOG update only (no TRADE-LOG changes; commit for persistence in fresh-clone environment).
+
+### Structural Signals — Open Thu 7/23
+1. **NVDA pilot Day 4 HOLDING** — mid $210.52 = -1.02% vs Wed close $212.66; $200 base gate holding cleanly (+$10.52 buffer); HWM $214.39 unchanged (Wed print); trail $192.951 auto-adjusted Wed; no cut / tighten / add trigger; INTC AMC binary tonight = read-through risk to NVDA open Fri.
+2. **AAPL 20th cumulative pilot gate miss** — pre-mkt bp $311.34 (-4.47%) evaporated to open -1.11% = 5th consecutive session pattern of pre-mkt pullback structure failing to hold into cash session; SPX -0.75% RED tape adds compound-gate failure; note as consolidated 5-week evidence for weekly review — Track B pullback trigger is systematically ephemeral pre-mkt vs cash session.
+3. **AEHR spread crisis Day 7 STRUCTURAL DEGRADATION** — spread cap 28.9% = worse than open (Tue 15.3%) and matches Wed pre-mkt 24.1%; **bp $79.91 slipped $0.09 below $80 institutional support line** = first Day 7 signal of institutional bid weakening; thesis remains STRONGEST of any niche name but structural gates now failing on BOTH spread (5.8x cap) AND support-hold; deep-value re-arm risk elevated; **watch midday for either compression <5% + $80 reclaim OR further slippage → thesis revision**.
+4. **NBIS +14.6% Tue chase-gap UNWOUND overnight but spread + R:R gates still fail** — bp $188.29 confirms Tue high $209 cool-off (-9.9%); pullback structure now MATERIALIZED ✓ (satisfies pilot rule pullback criteria); BUT spread 17.8x cap + R:R math at $188.29 = 1.68:1 ✗ (need $185 or below + spread <1% for full clear); **T-3 sessions to Tue 7/28 AMC earnings, T-2 block starts Mon 7/27** = drift-play window narrowing; midday watch for spread compression + bp settling ≤$185.
+5. **INTC AMC tonight = binary chip catalyst** — semi-complex readthrough Fri open; NVDA held pilot Day 4 open exposed to negative-surprise gap; monitor tomorrow AM pre-mkt for INTC guide + capex signals affecting NVDA/AVGO order-flow read.
+6. **Broad tape SPY -0.75% RED** = risk-off tilt driven by (a) Iran-Houthi Red Sea tanker attacks + oil $88 WTI / $94-98 Brent, (b) GOOGL post-print capex raise ($195-205B) fueling AI infra hyperspend fears despite bullish supplier read-through, (c) INTC binary anxiety, (d) FOMC T-3 event-risk week begins Mon 7/27. Chase-gate relaxation via green tape UNAVAILABLE today.
+7. **Deployment 4.31% Day 30 pilot-rule discipline holds** — 30th consecutive under-deployed session; pilot rule caps remaining 5% alpha bucket + 25-30% niche bucket empty by rule + all gate-fails; **first alpha exposure of the phase since 6/25 AAPL trail-out continues** (NVDA pilot Day 4 open still only live position).
+8. **Weekly Review evidence accumulating** — AAPL 20th pilot gate miss over 5 weeks + AEHR spread crisis Day 7 institutional-bid slippage + NBIS chase-gap unwinding into structural block = weekly review will need to re-examine (a) Track B pullback-durability threshold (pre-mkt vs cash session), (b) AEHR deep-value spread relaxation viability given Day 7 institutional bid weakness, (c) niche pilot allowance policy question given repeat spread + R:R compound blocks.
+
+### Bias to Midday Scan (~09:00 AM PT)
+- **NVDA:** HOLD — monitor $200 base gate hold vs break; no defensive action until -7% (~$192.95) OR +15% ($238.60); add trigger requires pullback structure OR +15/+20 ladder.
+- **AAPL:** WATCH — 20th cumulative gate miss; monitor for late-morning fresh pullback into $310-315 zone that could re-arm pilot rule structure post cash-session settle.
+- **AEHR:** CRITICAL WATCH — spread crisis Day 7 + institutional bid slipping; if bp reclaims $80 + spread compresses <5% → primary niche re-arm eligible; if further slippage below $78 or continued spread persistence → thesis revision required for Weekly Review.
+- **NBIS:** HIGH-URGENCY WATCH — pullback structure ✓ / R:R gate fails at $188 / spread + R:R compound block; last full session before T-2 pre-earnings block Mon; monitor midday for spread compression <1% + bp settling ≤$185.
+- **AVGO/MSFT:** SKIP — no Day-3+ base clearance; MSFT enters pre-earnings block Mon 7/27.
+- **RKLB/OKLO/ASTS:** SKIP — respective thesis/timing gates unmet.
+
+**Next scheduled routine:** Thu 7/23 Midday Scan ~09:00 AM PT (NVDA pilot Day 4 update + AEHR spread compression / bid-slippage watch + NBIS spread compression + INTC AMC pre-print positioning).
+
