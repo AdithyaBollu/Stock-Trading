@@ -8052,3 +8052,93 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **INTC AMC:** SKIP entry (T-0 block); document tonight's print + Fri open positioning notes at EOD; especially watch capex guide + DCG revenue for NVDA/AVGO order-flow read-through.
 
 **Next scheduled routine:** Thu 7/23 EOD snapshot ~13:00 PM PT (NVDA pilot Day 4 close + AEHR Day 7 EOD verdict + INTC AMC pre-print positioning notes).
+
+
+## 2026-07-24 — Pre-Market Research (Day 31, Friday, Week 14 Day 5 — post-GOOGL/TSLA/INTC AMC earnings / **INTC blockbuster +9.9% AH beat / TSLA -12% AH margin collapse / GOOGL -4% AH on capex raise** / Section 122 tariff sunset today / Iran-Houthi Red Sea Day 9 oil 6-wk high / NVDA pilot Day 5 hold / weekly review afternoon)
+
+### Account snapshot (07:15 AM PT pre-mkt pull)
+- **Equity:** $9,733.27 | **Cash:** $9,316.57 (95.72%) | **Buying power:** $38,433.04 (4x margin) | **Long market value:** $416.70 (NVDA only) | Day P&L: -$0.82 (-0.008% vs Thu last_equity $9,734.09) | balance_asof 2026-07-23
+- **Positions:** 1/12 (NVDA 2 sh, avg $207.475, current $208.35, +$1.75 / +0.42%)
+- **Open orders:** 1 (NVDA trail_stop cbf1ef90…, stop $192.951, HWM $214.39, GTC to 2026-10-16)
+- **Trades this week:** 1/20 (Mon NVDA pilot) | **Daytrade count:** 0/5 rolling
+- **Sleeve status:** Alpha $416.70 (4.28% of equity — well below 65-75% target, pilot rule discipline holds); Niche $0 (0% — well below 25-30% target, all gates blocked)
+
+### Market context (pre-mkt reads, ~08:00 AM ET)
+- **Oil:** WTI ~$71 / Brent ~$74-75 area on live data feeds — **contradicts** overnight "6-week high" narrative from Wed; some feeds show Brent ~$100 pressure narrative from Iran-Houthi Red Sea escalation intact — data conflict; treat as MEDIUM WATCH pending 06:30 open oil quote
+- **SPY futures:** Markets Insider showed +0.05% (near flat), SPY pre-mkt $747.50 (+0.28% vs prev close $745 area) — slight risk-on tilt into open, bounce back from Thu -1.18% RED cash session
+- **VIX:** ~18.24 (up +13% from Thu 16.13 area) — elevated event-risk into FOMC Wed 7/29 + Section 122 sunset
+- **Section 122 tariff EXPIRES 12:01 AM EDT TODAY** — 10% global import surcharge sunsets; net win for import-intensive retailers/consumer electronics/apparel, though China still faces Section 301; sector-specific tape catalyst, not market-wide
+- **FOMC July 29 (T-3 sessions):** CME FedWatch = 74-86% HOLD, 0% cut priced anywhere in 2026; rate-hike tail risk from higher oil (~10-25% depending on tracker); Fed funds target 3.50-3.75%
+- **Inflation:** CPI June 3.5% YoY (down from 4.2% May), Core CPI 2.6%, PPI -0.3% MoM / +5.5% YoY (Core 5.1%) = consumer inflation easing, producer sticky
+- **Iran-Houthi Red Sea Day 9:** Houthi "maritime blockade" against Saudi Arabia (July 20 announcement), 4+ Saudi crude tankers reversed course this week; MEDIUM-HIGH WATCH — Bab el-Mandeb / Hormuz combo remains oil-supply risk
+
+### This week's earnings calendar (Q2 2026 tech/AI mag-7 kickoff)
+| Ticker | Date/Time | Actual EPS | Consensus | Result | Stance |
+|--------|-----------|-----------|-----------|--------|--------|
+| **GOOGL** | Wed 7/22 AMC | $9.11 | $2.88 | **BEAT rev $119.8B (+24%), Cloud +82% $24.8B, capex raised to $195-205B from $180-190B** | Shares -4% AH on capex fear — **BULLISH for NVDA/AVGO suppliers** ($1.5B Amkor deal announced today) |
+| **TSLA** | Wed 7/22 AMC | $0.33 | $0.51-0.53 | **MISS EPS -39%, rev $28.24B beat, op-margin 1.4% (vs 4.1%), FCF -$1.1B** | Shares -12% AH — SKIP, not in strategy universe |
+| **INTC** | Thu 7/23 AMC | $0.42 | $0.21 | **CRUSHED beat, rev $16.1B (+25% YoY = 15-yr high), DCAI +59% $6.3B, 18A yield 85%, Q3 guide $15.8-16.8B (above)** | **AH +9.9% gap (bp $111.59 vs Thu close $101.55)** — momentum candidate but T+0 post-earnings drift, wait for open structure |
+| RIVN | Fri 7/24 DMH | est 2.89 | — | Pending | not in universe |
+| AXP | Fri 7/24 BMO | $4.40 est | — | Pending | not in universe |
+| VZ | Fri 7/24 BMO | $1.27 est | — | Pending | not in universe |
+| **NBIS** | **Thu 8/6 BMO** | est -$0.64 | — | **T-9 sessions** (revised out from prior 7/29 assumption) | drift-play window LONGER than modeled — no urgency |
+
+### Tech/semi watchlist quote pull (Thu 7/23 close — pre-mkt not live yet at 08:00 ET)
+| Ticker | bp / ap | Spread | Δ vs Thu close | Setup Class |
+|--------|---------|--------|-----------------|-------------|
+| **INTC** | 111.59 / 111.79 | 0.18% ✓ | AH +9.9% (Thu close mid $101.55) | **POST-EARNINGS DRIFT candidate** — clean beat + guide raise + strongest rev growth in 15 yrs; wait for open structure + stock-tape read; monitor as potential pilot alpha entry per rule |
+| **NVDA (held)** | ap=0 / bp 198.95 | wide (stale close, offer missing) | AH bp -5.03% (vs Thu close $209.48) | HOLD pilot — bp reflects AH selloff correlated with mag-7 mixed prints; if open confirms -5% would push near $200 base gate; monitor $200 base defense at open |
+| **AVGO** | 371.45 / 411.83 | 9.79% ✗ (stale) | flat/pending | Spread too wide until cash open; GOOGL Cloud +82% read-through bullish; watch Day-3+ base clearance |
+| **MRVL** | 196.81 / 218.52 | 9.94% ✗ (stale) | pending | Wait for open real spread |
+| **TSM** | 357.29 / 474.74 | 24.7% ✗ (stale) | pending | Stale close; INTC beat = mixed read for foundry; wait for open |
+| **MU** | 927.39 / ap=0 | wide (stale) | pending | Memory selloff Day 3 continuation risk; wait for open |
+| **QCOM** | 151.87 / 179.39 | 15.2% ✗ (stale) | pending | Stale; wait for open |
+| **ARM** | 242.01 / 323.24 | 25.1% ✗ (stale) | pending | Stale; wait for open |
+| **SMCI** | 29.48 / 31.26 | 5.68% ✗ | pending | Stale; wait for open |
+| **ASML** | 1532.49 / 2069.01 | 25.9% ✗ (stale) | pending | Stale; wait for open |
+| **AMD** | ap=0 / bp 506.08 | wide (stale) | pending | AMD Helios launch (chip-industry news) creates competitive pressure vs NVDA data-center dominance; watch open |
+
+**Note on quotes:** All tech/semi and niche quotes above are **stale Thu 7/23 close (16:00 ET)** — Alpaca has not yet pushed live pre-mkt data at 08:00 ET. Wide bp/ap dispersions reflect closing-cross artifact + AH illiquidity, NOT true tradeable spreads. Real spread verification must happen at 06:30 PT open call.
+
+### Niche radar table (Thu 7/23 close quotes; all thesis reads intact)
+| Ticker | bp / ap (close) | Spread | Class | EPS Trend | Analyst Target | Key Catalyst | Short% | Action |
+|--------|----------------|--------|-------|-----------|----------------|--------------|--------|--------|
+| **AEHR** | 76.32 / 101.60 | **25.3% ✗** (stale close) | **AVOID (STRUCTURAL)** | Q4 FY26 record bookings, $100M effective backlog, FY27 guide $130-150M (~160-200% growth) | Craig-Hallum $117.50-125 | $8M SiC WLBI orders, FOX-XP silicon photonics AI ramp, EV recovery | high | **SPREAD CRISIS DAY 8** — Thu midday bp slipped to $76.23 (-$3.77 below $80 institutional line); thesis fundamentals STRONGEST of any niche but structural gates failing; open watch for $80 reclaim + spread compression <5% |
+| **NBIS** | 188.53 / 248.94 | **24.3% ✗** (stale close) | **WATCH** | Q1 revenue $399M actual (beat), Q2 est BMO 8/6 (T-9 sessions) | Various bulls $250+ | Reflection AI + $50B backlog, 1GW capacity secure by EOY, GOOGL Cloud +82% affirms hyperscaler AI demand | mod | Q2 date REVISED to **Aug 6** (T-9 sessions — 5 more sessions than modeled), drift-play window OPEN; R:R at $188 = 1.68:1 still fails 2.5:1; watch pullback into $180-185 zone for R:R clearance |
+| **OKLO** | ap=0 / bp 41.79 | wide (stale) | **WATCH (CATALYST WINDOW)** | Pre-revenue; SP-cash burn watch | Bullish thematic, $91 12-mo target from some retail | **Groves criticality target THIS MONTH** (July 2026); NRC PDC Aurora approved; Meta 1.2GW deal | high | Criticality slippage risk vs July 4 original target (now late July target = today or slipping); binary catalyst pending; base $40 gate holding (+$1.79 buffer); watch for criticality announcement any day |
+| **RKLB** | 66.08 / 73.27 | 9.83% ✗ (stale close) | **WATCH (CATALYST-DRIVEN)** | Q1 rev beat 34% price surge May 8; Q2 guide $225M | Morgan Stanley bull, various $80-100 | **NEW $266M USSF suborbital contract this week** (12 launches through 2028), NSSL Phase 3 Lane 1 inclusion, Iridium acquisition pending, Neutron progress | mod | Fresh contract catalyst = re-arm candidate if $70 base reclaims + spread <1%; monitor open for structural confirmation |
+| **ASTS** | 56.82 / 61.91 | 8.22% ✗ (stale close) | **WATCH** | Pre-revenue; SP-cash burn watch | Bullish thematic | BB11 satellite launch first-half August (T-2 weeks) | high | Approaching launch catalyst window; no new news; watch pullback + spread compression |
+
+### 2-3 alpha stock ideas (with catalyst + entry/stop/target)
+1. **INTC** — **POST-EARNINGS DRIFT SETUP** — AH bp $111.59 = +9.9% gap on blockbuster Q2 beat ($16.1B rev = 15-yr high, DCAI +59% $6.3B, non-GAAP EPS $0.42 vs $0.21, Q3 guide $15.8-16.8B above street, 18A yield 85%). Pilot alpha entry criteria = **post-earnings drift with clean beat + guide raise + confirmed technical breakout**. **CRITERIA**: at open, wait for real spread <0.5%, need pullback structure (3-5% intraday pullback + volume reclaim) OR breakout above $112 with hold. Entry $110-112 area, stop -7% ~$102, target $125 (Q3 guide extrapolation) = **R:R ~2.4:1** (borderline pilot rule; niche math would fail 2.5:1). Alpha sleeve room: $650 remaining before 10% cap on a $9.7k equity base (~5-6 sh at ~$110). Sizing 1% pilot ~$97 = ~1 sh initial. **PILOT-RULE ELIGIBLE** if open shows pullback structure OR breakout hold.
+2. **NVDA** — **HELD; no new add trigger** — Amkor $1.5B packaging deal announced today reinforces supply-chain thesis; GOOGL Cloud +82% affirms hyperscaler capex demand; base $200 gate at open must hold if AH -5% bp $198.95 materializes into cash. **Cut trigger $192.951 (unchanged trail); no add until pullback structure OR +15% ladder ($238.60)**.
+3. **AVGO** — **WATCH** — GOOGL capex raise to $195-205B = bullish read-through for AVGO custom ASIC / networking silicon; MRVL, ARM, MU also bull-read but AVGO cleanest. Requires Day-3+ base + spread <0.5% + stock-tape green ≥+0.3% + broad-tape green ≥+0.3% for alpha pilot entry. Wait for open — no add today unless full gate clearance.
+
+### 2-4 niche ideas (2.5:1 R:R required, hard -10% stop, ≤12% sizing)
+1. **RKLB (niche re-arm candidate)** — **Fresh $266M USSF suborbital contract this week** = concrete new backlog + NSSL Phase 3 Lane 1 inclusion ($17B ceiling). 7-point research: (1) Q1 rev beat 34% price surge May 8; (2) analysts MS bull $80-100; (3) institutional accumulation post-Nasdaq-100 inclusion 6/22; (4) news = USSF contract + Iridium deal + Synspective 10 launches success; (5) sentiment = insider selling caution vs contract euphoria; (6) technical = $70 base broken Wed, needs reclaim; (7) thesis = launch-services + satellite-services vertical integration. **R:R**: bp $66.08 entry, $80 near-term target = +$13.92 / -10% stop -$6.61 = **2.11:1** ✗ (below 2.5:1 min). Needs entry ≤$64 or target reset to $82+ for 2.5:1 clearance. **WATCH — not eligible today by R:R math**.
+2. **OKLO (catalyst-window WATCH)** — **Groves criticality target THIS MONTH** (July 2026, originally July 4). 7-point research: (1) pre-revenue; (2) 12-mo bullish targets $85-91; (3) Meta 1.2GW deal, NRC PDC Aurora approved, DOE Groves DSA approved; (4) news catalysts stacking; (5) sentiment high, 33% surge in a week on space-power catalyst; (6) technical $40 base holding; (7) thesis = SMR commercialization + AI power demand. **R:R**: bp $41.79 entry, $60 target = +$18.21 / -10% -$4.18 = **4.36:1** ✓. **ELIGIBLE by R:R math** but requires: (a) spread <1% at open confirmation, (b) $40 base hold, (c) niche pilot rule permits (pilot rule caps alpha bucket only; niche independent). Binary criticality catalyst = high-risk/reward setup consistent with niche thesis. **HIGH-PRIORITY OPEN WATCH**.
+3. **NBIS (drift-play deferred to Aug 6)** — Q2 date **revised out to 8/6 (T-9 sessions)** = drift-play window longer than modeled; R:R at bp $188 = 1.68:1 still fails 2.5:1; needs entry ≤$185 for math clearance; watch open. **WATCH — no entry today**.
+4. **AEHR (thesis intact, structural gate FAIL)** — Spread crisis Day 8 continuation likely at open; institutional bid slipping below $80 Thu; watch bp reclaim $80 + spread <5% for re-arm. **NO ENTRY unless full gate clearance**.
+
+### Risk factors for the day
+1. **INTC gap risk** — Post-earnings +9.9% AH gap has 40-50% historical fade risk in first 30 min; wait for cash-session confirmation before any pilot entry
+2. **NVDA base $200 gate defense** — AH bp $198.95 signal suggests -5% open possible; if breaks $200, thesis needs re-evaluation (trail stop $192.951 still absorbs -7% loss from entry)
+3. **Section 122 sunset** — 12:01 AM EDT today = 10% global import surcharge lifted; potential surprise catalyst for import-heavy names AND retail sector rotation; monitor XRT / RTH sector strength
+4. **Iran-Houthi Red Sea escalation Day 9** — Houthi Saudi blockade + Hormuz combo could spike oil to $80-90 WTI; VIX at 18.24 already elevated; risk-off tilt possible
+5. **TSLA -12% AH spillover** — Not held, but risk-off contagion to broader growth/momentum names into cash open
+6. **FOMC July 29 T-3 sessions** — Event-risk week begins Mon 7/27; MSFT + META + AMZN + AAPL earnings same week = mag-7 aggregation catalyst
+7. **AI capex "returns" narrative** — Wed selloff triggered by GOOGL $195-205B capex raise = investors questioning AI ROI; sensitivity to AVGO/NVDA/AMD supplier chains as beneficiaries
+8. **Weekly Review Fri afternoon** — Formal documentation of Track A AAPL deprecation + Track B reformulation + AEHR spread crisis Day 8 pattern; strategy adjustments pending
+
+### Decision: **HOLD OR TRADE at open** (bias TRADE if INTC gate clears)
+
+**Rationale:**
+- **NVDA held pilot Day 5** — no cut / tighten / add trigger; hold discipline holds
+- **INTC post-earnings drift setup** = FIRST clean pilot-rule alpha eligibility since NVDA pilot Mon; blockbuster beat + guide raise + technical gap = criteria potentially satisfied at cash open with (a) real spread <0.5%, (b) pullback structure OR breakout hold above $112. **If gate clears, PILOT ENTRY 1 sh (~1% position ~$110)**
+- **OKLO niche criticality WATCH** = binary catalyst window this month, R:R 4.36:1 CLEARS 2.5:1 min at $41.79 entry; requires spread + base confirmation at open — **HIGH-PRIORITY OPEN CANDIDATE if gates clear**
+- **RKLB, NBIS, AEHR** = structural gate failures at close quotes; wait for open real-spread reads
+- **AVGO/MSFT** = watch Day-3+ base + GOOGL Cloud read-through catalyst
+- **Under-deployment 4.28% Day 31** = pilot-rule discipline holds; NOT a forced trade justification; but INTC + OKLO both represent first quality setups since NVDA Mon and warrant open-scan attention
+- **Section 122 sunset + INTC AH beat** = constructive tape backdrop offsets TSLA / GOOGL capex fear; NVDA base $200 defense is key open tell
+
+**Next scheduled routine:** Fri 7/24 Market Open ~06:30 AM PT (INTC post-earnings drift gate scan + NVDA base $200 defense + OKLO niche criticality candidate + AEHR/NBIS/RKLB open spread reads + Weekly Review afternoon prep).
