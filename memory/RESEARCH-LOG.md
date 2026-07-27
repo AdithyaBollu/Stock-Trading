@@ -8339,3 +8339,54 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **AVOID CHASING NVDA/MSFT/AAPL/AMZN into mag-7 earnings week** — pre-earnings blocks + T-2 to FOMC = event-risk compression; wait for post-print structural entries later in week
 
 **Next scheduled routine:** Mon 7/27 Market Open ~06:30 AM PT (**OKLO niche primary entry gate scan + NVDA pilot Day 6 open verification + weekend catalyst read-through + durable goods 08:30 ET response + Iran pause continuation check**).
+
+
+## 2026-07-27 — Market Open Execution (Week 15 Day 1, Monday — **NO-OP** / OKLO spread 5.9% >>> 1% cap + chase-gap +4.5% (ap $43.50 sellers absent) / NVDA pilot Day 6 open -1.0% no add/cut / all other watchlist spread crises persistent / weekend Iran pause + NVDA catalyst stack DID NOT clear structural gates)
+
+**Account (~06:40 AM PT / T+10min post-open):** Equity $9,728.11 | Cash $9,316.57 (95.77%) | Buying power $38,418.59 (4x margin) | Long $411.54 (NVDA 2 sh only) | **Positions:** 1/12 | **Open orders:** 1 (NVDA trail_stop cbf1ef90…, stop $192.951, HWM $214.39) | **Trades this week:** 0/20 (Week 15 fresh) | **Daytrade count:** 0/5 rolling | Day P&L: -$2.14 (-0.022% vs Fri last_equity $9,730.25).
+
+### Open Gate Reads (T+10min post-open)
+
+| Ticker | bp / ap | Spread | Mid vs Prev Close | Gate Verdict |
+|--------|---------|--------|-------------------|--------------|
+| **NVDA (held)** | 204.78 / 204.82 | 0.020% ✓ | mid $204.80 vs Fri close $206.84 = **-0.99%** | **HOLD** — unrealized -$3.79 (-0.91%); $200 base +$4.80 buffer holds; well below +15% ladder ($238.60); -7% cut ($192.95) far below; trail intact; NO HWM new high (below $214.39 by $9.59); weekend $250B OpenAI/Naver/Korea catalyst stack did NOT gap open above HWM |
+| **OKLO (niche PRIMARY criticality)** | 41.00 / 43.50 | **5.9% ✗** (5.9x cap) | mid $42.25 vs Fri close $40.43 = **+4.5% (chase-gap)** | **GATE FAIL — spread crisis + chase-gap compound** — Fri close spread 0.42% ✓ evaporated at open; ask jumped $42.29 → $43.50 in 1min while bid stuck $41 = sellers absent / chase tape; even at bp $41 R:R = $60 target -$4.10 stop = 4.63:1 ✓ still clears 2.5:1 but structural gates block; binary criticality catalyst window remains this month; **HIGH-PRIORITY midday watch** for spread compression <1% + $40 base hold (bp $41 hovering exactly at threshold) |
+| **AAPL (Track B pre-earnings block)** | 335.81 / 336.36 | 0.16% ✓ | mid $336.08 vs Fri close $335.68 = +0.12% | **GATE FAIL — pre-earnings block Thu 7/30 AMC (T-3 sessions)** — spread clean ✓ but nearly-flat ≠ 3-5% Track B pullback window; **pre-earnings block starts today** per strategy (T-3 to AAPL Q2); **22nd cumulative pilot gate miss** |
+| **AVGO (alpha watch)** | 371.00 / 385.54 | **3.8% ✗** (7.6x cap) | mid $378.27 vs Fri close ~$389 = -2.8% | **GATE FAIL — spread cap** — spread 3.8x cap on wide bp/ap dispersion; no Day-3+ base structural verification post GOOGL/TSLA/INTC AMC volatility; skip |
+| **MSFT (pre-earnings block Wed AMC)** | 390.00 / 391.05 | 0.27% ✓ | mid $390.53 | **GATE FAIL — pre-earnings block Wed 7/29 AMC (T-2 sessions)** — pre-earnings block starts today per strategy; skip |
+| **NBIS (niche watch drift-play)** | 189.50 / 205.00 | **7.9% ✗** (7.9x cap) | mid $197.25 vs Fri close $187.51 = +5.2% | **GATE FAIL — spread + chase-gap compound** — spread 7.9x cap; bp $189.50 rebounded from Fri close $187.51 = above R:R threshold ($179 needed for 2.5:1); Q2 earnings T+8 to Thu 8/6 = drift-play window still open |
+| **AEHR (niche spread crisis Day 9)** | 74.27 / 87.27 | **16.1% ✗** (16x cap) | bp $74.27 = **-$5.73 / -7.2% below $80 institutional support** | **GATE FAIL — spread crisis Day 9 persistent** — bp $74.27 slight recovery vs Fri midday $69.42 but still -7.2% below $80; spread 16.1% remains 3x cap; deep-value thesis intact but structural degradation Day 9 confirmed; deep-value revision from Fri Weekly Review holds |
+| **RKLB (niche watch)** | 64.18 / 70.77 | **9.7% ✗** (9.7x cap) | mid $67.48 vs Fri close $60.64 = +11.3% | **GATE FAIL — spread cap** — bp $64.18 approach to $70 base but ap $70.77 stale/chase; USSF $266M contract catalyst intact but structural setup absent |
+| **ASTS (niche BB11 launch T-1wk)** | 58.00 / 62.06 | **6.8% ✗** (6.8x cap) | mid $60.03 vs Fri close $53.96 = +11.2% | **GATE FAIL — spread cap** — bp $58 recovery attempt but spread 6.8x cap; BB11 launch first-half Aug (T-1wk) window active; wait midday for spread compression |
+| **SPY (broad tape)** | 744.43 / 744.96 | 0.07% ✓ | $744.70 vs Fri close ~$739 = **+0.77% GREEN** | Broad tape GREEN confirms weekend Iran-pause risk-on tilt into cash open (ES futures +0.87% carried through); chase-gate relaxation available for compliant candidates BUT no candidate cleared spread + base + tape compound gates at open |
+
+### Actions Taken (STEPS 3-8)
+- **STEP 3 rule check:** ALL primary triggers FAIL structural gates at open. OKLO (primary niche criticality) spread 5.9% + chase-gap compound; NVDA held no add trigger (below HWM $214.39 by $9.59, no pullback structure); AAPL/MSFT pre-earnings blocks; AVGO/NBIS/AEHR/RKLB/ASTS spread crises. No trade eligible under strategy rules despite broad-tape GREEN backdrop.
+- **STEP 4 execute buys:** N/A — no trade cleared.
+- **STEP 5 trail stops:** N/A — no fill. NVDA existing trail GTC intact at $192.951 (HWM $214.39).
+- **STEP 6 TRADE-LOG append:** N/A — no fill.
+- **STEP 7 Discord notification:** SKIP per routine ("only if a trade was placed"). No cut, no add, no exit, no thesis break.
+- **STEP 8 commit/push:** RESEARCH-LOG update only (no TRADE-LOG changes; commit for persistence in fresh-clone environment).
+
+### Structural Signals — Open Mon 7/27
+1. **NVDA pilot Day 6 HOLDING under weekend catalyst stack** — mid $204.80 = -0.99% from Fri close $206.84 despite $250B OpenAI Ohio backstop + $1B Naver stake + 200MW Korea AI factory + SK Group; cash-open bp $204.78 confirmed weekend Fri close AH bp $197.07 was stale/cross artifact; base $200 gate +$4.80 buffer intact; NO HWM new high (would need >$214.39); pilot rule remaining 5% deferred still; pre-market thesis "cash open likely reclaims $210+" DID NOT materialize (opened lower not higher).
+2. **OKLO spread breakthrough EVAPORATED at open** — Fri close 0.42% → Mon open 5.9% (14x deterioration in ~T+10min); classic "clean-close, dirty-open" pattern; ap chase $42.29 → $43.50 in 1min while bid pinned $41 = sellers absent / retail chase tape; even with clean R:R math (4.63:1 at bp $41), structural gate blocks entry per niche pilot rule (<1% spread required); binary criticality catalyst window still LIVE this month; midday watch for compression is HIGH-PRIORITY per PRIMARY status.
+3. **AAPL 22nd cumulative pilot gate miss + pre-earnings block ACTIVE Mon 7/27** — Thu 7/30 AMC earnings = T-3 sessions puts today squarely in pre-earnings block window per strategy; even if Track B pullback develops, block precludes entry; document as consistent 5+ week pattern for weekly review.
+4. **MSFT pre-earnings block ACTIVE** — Wed 7/29 AMC = T-2 sessions; block precludes any pilot entry attempt.
+5. **AVGO/NBIS spread crises spread wider on open** — AVGO 3.8% + NBIS 7.9% = post-mag7-earnings-week dispersion tape; watch midday for compression.
+6. **AEHR spread crisis Day 9 slight bp recovery** — bp $74.27 vs Fri midday $69.42 = +7.0% intraday reprieve but still below $80 institutional line; spread 16.1% remains 3x cap; deep-value thesis intact but structural degradation trajectory unchanged Day 9.
+7. **ASTS BB11 launch window T-1wk** — bp $58 recovery attempt but spread 6.8x cap; monitor spread compression + launch tape for potential re-arm.
+8. **Broad tape SPY +0.77% GREEN confirms weekend Iran-pause risk-on** — but no compliant candidate cleared structural gates = **discipline preserved on quality bar despite constructive backdrop**; deployment 4.23% Day 32 = 32nd consecutive under-deployed session; under-deployment pattern continues but NOT force-fixable via bad-spread niche fill.
+
+### Bias to Midday Scan (~09:00 AM PT)
+- **NVDA:** HOLD — monitor $200 base gate defense; no defensive action until -7% (~$192.95) OR HWM new high above $214.39 (would auto-ratchet trail); pilot Day 6 continuation vs weekend-catalyst fade-into-earnings-week de-risking.
+- **OKLO:** HIGH-PRIORITY WATCH — if spread compresses <1% at midday + $40 base holds (bp ≥$40) + tape green ≥+0.3% → primary niche criticality entry eligible; monitor for binary criticality announce catalyst live this month.
+- **AAPL:** SKIP EOD — Track B pullback + pre-earnings block compound; 22nd miss.
+- **MSFT:** SKIP EOD — pre-earnings block Wed AMC.
+- **AVGO:** WATCH — midday spread compression + Day-3+ base verification; skip today.
+- **AEHR:** WATCH — Day 9 spread + bp $80 reclaim watch; deep-value revision continues.
+- **NBIS:** WATCH — spread compression + pullback zone $175-183 for R:R re-arm math ahead of Q2 8/6 drift-play window.
+- **ASTS:** WATCH — BB11 launch T-1wk + spread compression watch.
+- **RKLB:** WATCH — $70 base reclaim + spread compression watch.
+
+**Next scheduled routine:** Mon 7/27 Midday Scan ~09:00 AM PT (**NVDA pilot Day 6 status + OKLO spread compression watch + AEHR Day 9 bp trend + June durable goods 08:30 ET response + Iran pause continuation + Fed T-2 positioning + mag-7 pre-earnings block enforcement**).
