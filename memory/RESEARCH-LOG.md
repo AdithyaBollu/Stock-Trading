@@ -8390,3 +8390,104 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **RKLB:** WATCH — $70 base reclaim + spread compression watch.
 
 **Next scheduled routine:** Mon 7/27 Midday Scan ~09:00 AM PT (**NVDA pilot Day 6 status + OKLO spread compression watch + AEHR Day 9 bp trend + June durable goods 08:30 ET response + Iran pause continuation + Fed T-2 positioning + mag-7 pre-earnings block enforcement**).
+
+
+## 2026-07-28 — Pre-market Research (Week 15 Day 2, Tuesday — **FOMC T-1** / **NVDA trail-stop at HIGH TRIGGER RISK** / AI-semi selloff Day 4 deepening / OKLO primary niche criticality window LIVE)
+
+### Account snapshot (~05:15 AM PT pre-mkt pull)
+- **Equity:** $9,708.17 | **Cash:** $9,316.57 (95.97%) | **Buying power:** $38,362.76 (4x margin) | **Long market value:** $391.60 (NVDA only) | Day P&L: -$1.42 (-0.015% vs Mon last_equity $9,709.59) | balance_asof 2026-07-27
+- **Positions:** 1/12 (NVDA 2 sh, avg $207.475, current $195.80, **-$23.35 / -5.63% unrealized**)
+- **Open orders:** 1 (NVDA trail_stop cbf1ef90…, stop **$192.951**, HWM $214.39, GTC to 2026-10-16)
+- **Trades this week:** 0/20 (Week 15 Day 2) | **Daytrade count:** 0/5 rolling
+- **Sleeve status:** Alpha $391.60 (4.03% of equity — deeply under-deployed vs 65-75% target); Niche $0 (0% vs 25-30% target)
+
+### Market context (pre-mkt reads, ~08:00 AM ET)
+- **AI/SEMI SELLOFF DAY 4 — GLOBAL:** KOSPI -10% worst since March; PHLX Semi -2.2% third straight session; Meta $12.5B bond deal for data centers carried **higher yield** than last year = "rising borrowing costs for AI projects" flagged as core narrative; NVDA fell below $200 on $250B OpenAI circular-financing fears + China chip progress catalysts
+- **SPY/futures:** SPY $746.07 pre-mkt -0.30% (vs $748.28 Mon close); ES -0.09%, NQ **-0.5% to -0.69%**, DOW +0.19% at 04:27 AM ET — MIXED tape, chip weakness driving Nasdaq underperformance
+- **Oil:** WTI $80.71 (-2.3%), Brent $86.52 (-2.0%) on Iran pause continuation (Day 4 of pause per NPR/NYT/Al-Jazeera); NVDA/semi selloff not tied to oil, tied to AI-hardware narrative
+- **VIX:** ~18.24 (elevated on FOMC + mag-7 earnings week; feed dispersion 15-21)
+- **Yields:** 2Y ~3.47%, 10Y ~4.13-4.19% (spread +0.66-0.72% positive slope holds; 2Y climbed on hike-fear repricing but Fed hold still base case)
+- **FOMC Wed 7/29 (T-1 session) 2 PM ET:** CME FedWatch = **~65-70% HOLD, ~30-35% HIKE**, 0% cut priced. Target 3.50-3.75% expected 5th consecutive hold; hike tail = hawkish surprise risk if surprise materializes
+- **Economic data today:** 10 AM ET Conference Board Consumer Confidence; Case-Shiller + FHFA home prices; Fed 2-day meeting begins Tue (decision Wed 2 PM ET)
+- **Iran-US pause Day 4:** Trump 5-day hold on strikes for diplomacy; Strait of Hormuz talks progressing; naval blockade continues but no strikes = risk-on but fragile — MEDIUM WATCH
+
+### This week's earnings calendar (Q2 2026 mag-7 core week)
+| Ticker | Date/Time | Consensus | Stance |
+|--------|-----------|-----------|--------|
+| **Tue 7/28 BMO:** V, KO, BA, UPS, MDLZ, PYPL, PFE, NXPI, RTX, F, CNC | today | — | Not in Alpha universe; NXPI = semi read-through |
+| **BE (Bloom Energy)** | Tue AMC | — | Nuclear/hydrogen AI-power read-through for OKLO thesis |
+| **MSFT** | **Wed 7/29 AMC (T-1)** | est $3.66 rev $73.8B | **held Alpha universe** — pre-earnings block active |
+| **META** | **Wed 7/29 AMC (T-1)** | est $5.87 rev $44.6B | **held Alpha universe** — pre-earnings block active |
+| **QCOM** | Wed 7/29 AMC | est $2.65 rev $10.4B | tech watchlist — pre-earnings block active |
+| **AAPL** | **Thu 7/30 AMC (T-2)** | est $1.42 rev $89.3B | **held Alpha universe** — pre-earnings block active |
+| **AMZN** | **Thu 7/30 AMC (T-2)** | est $1.32 rev $162B | **held Alpha universe** — pre-earnings block active |
+| **NBIS** | Thu 8/6 BMO (T+8) | est -$0.64 | **niche watch** — drift-play window still open |
+| **OKLO** | Fri 8/7 (T+9) | Q2 pre-revenue call | **niche PRIMARY candidate** — Q2 earnings + criticality binary |
+
+### NVDA held-position — CRITICAL STATUS
+- **Price collapse:** Fri close $208.54 → Mon close $195.80 (-6.11% 1-session) → pre-mkt bp $189.51 (**-3.2% additional pre-mkt drop**)
+- **Trail stop $192.951 GTC (HWM $214.39) IS AT HIGH TRIGGER RISK** — if NVDA opens or dips below $192.951 at cash open, trail fires and exits at market. Current pre-mkt bp $189.51 is **-$3.44 / -1.78% BELOW trail** = would trigger immediately at open if that print holds
+- **Catalyst driver:** (1) $250B OpenAI Ohio financing guarantee reported WSJ Sun 7/26 = market interprets as "circular financing" = negative sentiment shift; (2) China chip progress reports (KOSPI -10%); (3) $410M insider selling past 90 days; (4) valuation concerns pre-FOMC
+- **Thesis check:** structural NVDA thesis (AI compute demand, GB200 sell-through, GB300 launch, buyback) intact per analyst commentary (Baird/Stifel raising targets, consensus $274-303 12-mo); but market is repricing on financing-side risks. Position is in **-7% manual-cut zone** territory (-5.63% unrealized vs -7% cut trigger at ~$193 = essentially at trail stop level)
+- **Action rule:** DO NOT preemptively cancel/adjust trail. Never move trail down. Let trail execute if triggered. If trail triggers → realize loss ~$29 (2 sh × ($207.475 - $192.951) = -$29.05); frees $386 cash back to pool
+
+### Tech/semi watchlist quote pull (Mon 7/27 close 16:00 ET — stale)
+| Ticker | bp / ap (close) | Spread | Setup Class |
+|--------|-----------------|--------|-------------|
+| **NVDA (held)** | 189.51 / 0 | wide (ap missing AH) | **HIGH TRAIL-TRIGGER RISK** — mid $189.51 below stop $192.951 |
+| **AVGO** | 362.17 / 401.85 | **10.9% ✗** stale | Pre-earnings block AVGO Q3 ~Sep; but AI-selloff drag; SKIP |
+| **AMD** | ap=0 / 470.19 | wide stale | AI-selloff drag; SKIP |
+| **MSFT** | 370.29 / 409.49 | **10.6% ✗** stale | **Pre-earnings block T-1 Wed AMC**; SKIP |
+| **META** | 564.94 / 626.30 | **10.9% ✗** stale | **Pre-earnings block T-1 Wed AMC**; SKIP |
+| **AAPL** | 0.01 / 0 | broken quote | **Pre-earnings block T-2 Thu AMC**; SKIP |
+| **AMZN** | 223.47 / 242.95 | **8.7% ✗** stale | **Pre-earnings block T-2 Thu AMC**; SKIP |
+| **GOOGL** | 308.63 / 341.37 | **10.6% ✗** stale | Post-earnings capex sell-off; not in pre-approved universe; SKIP |
+
+### Niche radar table (Mon 7/27 close)
+| Ticker | bp / ap | Spread | Class | EPS / Analyst | Catalyst | Action |
+|--------|---------|--------|-------|---------------|----------|--------|
+| **OKLO** | 39.60 / 0 stale | wide stale | **STRONG BUY** | Pre-rev, $60-91 targets | DOE Groves DSA approved 7/23, first-criticality target July-early Aug; Meta 1.2GW deal + X-Energy $200M program; Q2 call Aug 7; **Mon closed +4% to $41.87** | **PRIMARY NICHE CANDIDATE Tue open** — verify spread <1% + $40 base + tape green; sizing $807 (20 sh) = 8.3% niche |
+| **AEHR** | 65.87 / 87.07 | **32.2% ✗** | AVOID (structural broken) | Q4 record bookings, $100M backlog | Craig-Hallum $117.50-125; SiC WLBI + FOX-XP | Spread crisis Day 12; NO entry unless bp reclaims $80 + spread <5% |
+| **NBIS** | 161.68 / 217.52 | **34.5% ✗** | WATCH — drift-play | Q1 rev $399M +684%; Q2 8/6 (T+8) | Reflection AI + $50B backlog, $2B NVDA stake | **bp $161.68 = -13.8% below Fri $187 — major gap** (AI-selloff spillover); R:R at $161 = $220 target = 3.7:1 if setup clean, but spread crisis + AI overhang; WATCH midday spread compression |
+| **RKLB** | 62.86 / 69.48 | **10.5% ✗** stale | WATCH (catalyst) | Q1 rev beat 34% May 8 | $266M USSF suborbital + NSSL Phase 3 + Neutron progress | Spread cap; monitor open real spread + $70 base reclaim |
+| **ASTS** | 54.77 / 60.99 | **11.4% ✗** stale | WATCH (catalyst window) | Pre-revenue | **BB11 launch first-half Aug (T-1wk)** — arrived Cape Canaveral 7/10 | Spread cap; wait for open |
+
+### 2-3 alpha stock ideas
+1. **NVDA (HELD; trail-defensive posture)** — **NO ADD** into AI-selloff Day 4 + FOMC T-1 + pre-earnings-week de-risking. Trail $192.951 GTC intact. If trail triggers → realize -$29 loss; cash freed to niche/re-entry pool. Post-trail re-entry candidates require full pilot-rule reset (Day-3+ base above new post-selloff support). No add trigger available (no pullback structure that isn't a knife-catch).
+2. **MSFT/META/AAPL/AMZN — SKIP** — all in pre-earnings block T-1/T-2. Post-print structural entry candidates for Thu-Fri drift-play if beats + guide-raises.
+3. **AVGO/AMD/GOOGL — SKIP** — AI-selloff drag + wide stale spreads + no Day-3+ base. Wait for post-mag7 earnings selloff-or-relief structural read.
+
+### 2-4 niche ideas
+1. **OKLO (PRIMARY NICHE CANDIDATE Tue 7/28 open)** — **DOE Groves DSA approved 7/23; first-criticality target July-early Aug LIVE** (Groves in "final startup review process"); Mon closed +4% to $41.87 (reversal off 52-week low territory earlier in July); down 41% YTD offers deep-value/asymmetric setup at approval-cluster catalyst window.
+   - **7-point research (updated 7/28):** (1) Pre-revenue advanced nuclear; DOE Reactor Pilot + NRC PDC Aurora approved; **DOE Groves DSA approved 7/23 = final pre-criticality regulatory gate cleared**; Q2 call 8/7. (2) Analysts: bull $85-91, consensus mid-$60; some deep-value revisions post 52-wk low. (3) Institutional: Sam Altman stake vested; Meta 1.2GW deal signed; **X-Energy $200M Trump admin AI-data-center program** selection 7/21. (4) News: DOE DSA 7/23 (MAJOR), Meta deal, X-Energy program — three positive July catalysts. (5) Sentiment: bullish retail thematic; short interest elevated ~30%; deep-value revision on 41% YTD drawdown. (6) Technical: $40 base holding into Mon close $41.87 (+4% Mon session); prior high $175 Oct 2025 = long-term rerating potential if criticality clears. (7) Thesis: Groves criticality announcement any day = imminent binary catalyst; DOE pilot deployment path + Meta 1.2GW + AI-data-center demand = 50-100% rerating to $60-90 range.
+   - **R:R:** entry $41.87 (Mon close mid), near-term target $60 = +$18.13 upside / -10% hard stop $37.68 = -$4.19 downside = **4.33:1 ✓** clears 2.5:1
+   - **Sizing pre-filter (Week 8):** equity × 0.10 / 6 = $9,708.17 × 0.10 / 6 = **$161.80 cutoff** vs OKLO $41.87 = **PASS**
+   - **Position sizing:** 8% moderate first entry = 18 sh × $41.87 = $753.66 (7.76% equity); or 10% niche cap = 23 sh × $41.87 = $963.01 (9.92% equity). **Suggest 20 sh @ ~$41.87 = $837.40 (8.63% equity)** balancing conviction + Day 2 base confirmation
+   - **Entry criteria at open:** (a) spread <1%, (b) $40 base holds (bp ≥ $40), (c) tape green ≥+0.3% (SPY -0.30% pre-mkt = TAPE NEGATIVE = FAIL condition), (d) 3%-HOD chase-gate: mid ≤ ~$43 would clear
+   - **Stop:** -10% hard stop $37.68; 10% trail GTC placed after fill
+   - **BLOCKING FACTOR:** SPY pre-mkt -0.30% = tape green condition currently FAILS; must re-verify at 06:30 PT open; if tape flips green post-open + spread + base clear = eligible
+2. **NBIS (drift-play)** — bp $161.68 gap-down = 13.8% below Fri close; if this is real (not stale) R:R at $161 = $220 target = 3.66:1 ✓ clears, BUT spread crisis + AI-overhang + Q2 T+8 sessions ahead = wait for stability; **WATCH midday for spread compression + trend re-establishment**
+3. **AEHR (structural broken Day 12)** — spread crisis persistent; NO entry
+4. **ASTS (BB11 launch T-1wk)** — spread cap; monitor open
+
+### Risk factors for the day
+1. **NVDA TRAIL STOP AT HIGH RISK OF TRIGGER** — pre-mkt bp $189.51 below stop $192.951 by $3.44; if this holds at open, GTC fires; **PRIMARY RISK EVENT of the day**
+2. **AI-semi selloff DAY 4** — KOSPI -10%, PHLX Semi -2.2% third session; not resolved; NVDA/AVGO/AMD/MSFT all downside pressure through week
+3. **FOMC Wed 7/29 T-1** — ~30-35% hike probability = hawkish surprise tail risk; pre-decision positioning = de-risking Tue-Wed
+4. **MSFT + META Wed AMC + AAPL + AMZN Thu AMC** — mag-7 earnings-week aggregation; guide/capex reads critical vs GOOGL/TSLA capex-sell-off narrative last week
+5. **$250B OpenAI circular-financing story continues** — no closure, could accelerate NVDA/AI de-rating
+6. **Meta $12.5B bond deal at higher yield** = "rising borrowing costs for AI projects" narrative — new bear macro thesis for AI infra multiples
+7. **Iran-US pause = FRAGILE** ("5-day hold") — any restart flips oil + risk-off tilt
+8. **OKLO tape-green gate FAILS pre-mkt** (SPY -0.30%) — niche entry blocked unless tape flips green post-open
+9. **Under-deployment Day 33 continues** — pilot rule + spread crises + pre-earnings blocks compound; not force-fixable
+
+### Decision: **TRADE (defensive)** — bias to TRAIL-EXECUTE + POST-TRAIL RE-DEPLOY
+
+**Rationale:**
+- **NVDA trail defensive execution posture:** If trail fires at open (highly likely given bp $189.51 < stop $192.951), realize -$29 loss and free capital; DO NOT interfere with GTC. If NVDA opens ABOVE $192.951 unexpectedly (relief bounce), hold and monitor for further deterioration.
+- **OKLO primary niche candidate REMAINS eligible pending tape-green flip** at cash open; SPY futures -0.09%/pre-mkt -0.30% = current blocking condition; verify at 06:30 PT open. If tape flips green + spread <1% + $40 base holds → 20 sh @ ~$41.87 = $837 (8.6% niche entry). **Post-NVDA-trail cash would fund OKLO comfortably** with room to spare.
+- **All alpha universe (MSFT/META/AAPL/AMZN/AVGO) BLOCKED** — pre-earnings blocks OR AI-selloff. Post-mag7 print structural entries deferred to Thu-Fri drift-play window if fundamentals hold.
+- **Broad tape mixed-to-negative** on FOMC T-1 + AI-selloff + mag-7 earnings-week de-risking — **defensive discipline** overrides deployment floor pressure today.
+- **Under-deployment Day 33 continues** but OKLO fill would lift deployment to ~12.9% (still under target but meaningful niche activation); the AI-selloff-driven NVDA trail-out actually creates the capital rotation opportunity into the criticality-catalyst niche play.
+
+**Next scheduled routine:** Tue 7/28 Market Open ~06:30 AM PT (**NVDA trail-stop execution watch + OKLO tape-green gate verification + FOMC T-1 positioning + mag-7 pre-earnings block enforcement + Consumer Confidence 10 AM ET reaction**).
