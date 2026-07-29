@@ -8539,3 +8539,108 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **ASTS:** WATCH — BB11 launch T-1wk + spread compression.
 
 **Next scheduled routine:** Tue 7/28 Midday Scan ~09:00 AM PT (**NVDA pilot Day 7 status vs trail-stop $192.951 approach + OKLO spread compression + $40 reclaim watch + Consumer Confidence 10 AM ET reaction + FOMC T-1 positioning + full alpha universe pre-earnings block enforcement + AEHR Day 10 close + NBIS drift-play R:R re-arm math**).
+
+## 2026-07-29 — Pre-Market Research (Week 15 Day 3, Wednesday — **FOMC T-0 11 AM PT + MSFT/META Q2 AMC + Iran-US strikes oil spike**)
+
+**Account (pre-mkt ~05:07 AM PT):** Equity **$9,702.39** | Cash **$9,702.39 (100.00%)** | Buying power $38,809.56 (4x margin) | Daytrade count 0/5 rolling | `balance_asof` 2026-07-28 | `positions=[]` / `orders=[]` confirmed empty | **Alpha sleeve: $0 (0%)** vs 65-75% target | **Niche sleeve: $0 (0%)** vs 25-30% target | **34th consecutive under-deployed session** projected | Trades this week: 1/20 (NVDA exit Tue) | Phase P&L -$297.59 (-2.976%) baseline entering session.
+
+### Market Context — Wed 7/29
+| Metric | Value | Note |
+|--------|-------|------|
+| **WTI crude** | $82.09 (+3.58%) | Iran-US strikes RESUMED → supply-disruption bid |
+| **Brent** | $86.97 (+3.42%) | Strait of Hormuz risk elevated per Morgan Stanley |
+| **VIX** | ~20.95 spot (~19.22 fut) | Elevated ahead of FOMC + earnings |
+| **SPY (pre-mkt 05:09 PT)** | mid $741.79 | Flat vs Tue close $741.70 |
+| **FOMC decision** | 11 AM PT | **HOLD expected 3.50-3.75%**; futures imply **~0% cut prob**; hike risk 19-46% (per source) |
+
+### Today's Catalysts (Wed 7/29)
+- **11 AM PT — FOMC rate decision + press conference** = dominant tape-pivot event
+- **AMC — MSFT Q2 FY2026 earnings** (~$80.2-80.3B rev / $3.86-3.92 EPS est; Azure/AI capex focus)
+- **AMC — META Q2 2026 earnings** (guide + capex focus)
+- **Iran-US military strikes RESUMED** — oil +3-4%; energy sector bid; risk-off tape tilt
+
+### This Week's Earnings Calendar
+| Date | Ticker | Time | Our Stance |
+|------|--------|------|-----------|
+| Wed 7/29 AMC | MSFT | AMC | PRE-EARNINGS BLOCK; drift-play eligible Thu open if clean beat + guide raise |
+| Wed 7/29 AMC | META | AMC | PRE-EARNINGS BLOCK; drift-play eligible Thu open if clean beat + guide raise |
+| Thu 7/30 AMC | AAPL | AMC | PRE-EARNINGS BLOCK; **25th cumulative pilot gate miss** carries |
+| Thu 7/30 AMC | AMZN | AMC | PRE-EARNINGS BLOCK; drift-play eligible Fri if clean beat |
+| Thu 8/6 BMO | NBIS | BMO | T+8 sessions — niche drift-play watch (Q2 EPS ~-$0.50-0.60 est, AI cloud demand focus) |
+
+### Tech/Semi Watchlist (post-mkt Tue quotes; live spreads pending open)
+| Ticker | Bid | Ask | Mid | Setup |
+|--------|-----|-----|------|-------|
+| NVDA | 188.72 | 208.26 | ~$198.49 | Post-exit monitor; chase-gate blocks re-entry within 3% of $192.92 exit |
+| AMD | 433.85 | 480.88 | ~$457 | AI-selloff Day 5; sized-out at niche >$164 cutoff for pilot; SKIP |
+| AVGO | 362.97 | 401.63 | ~$382 | Pre-earnings block cluster + AI-selloff; SKIP |
+| MRVL | 166.82 | 185.74 | ~$176 | AI-selloff; sized-out (>$164 cutoff); SKIP |
+| SMCI | 27.10 | 29.53 | ~$28.32 | Sized-in but no catalyst; WATCH only |
+| ARM | 212.07 | 278.85 | ~$245 | Wide pre-mkt spread; sized-out; SKIP |
+| MU | 781.12 | 866.23 | ~$824 | Sized-out; SKIP |
+| TSM | 338.11 | — | — | Sized-out (>$164 cutoff); SKIP |
+| MSFT/META/AAPL/AMZN/GOOGL | — | — | — | **PRE-EARNINGS BLOCK ACTIVE** through Fri 7/31 |
+
+### Niche Radar (post-mkt Tue quotes; live open pending)
+| Ticker | Bid | Ask | Class | Key Catalyst | Action |
+|--------|-----|-----|-------|--------------|--------|
+| **OKLO** | 37.47 | 41.31 | **STRONG BUY SETUP** | **DOE Groves startup authorization Jul 23** = criticality catalyst imminent; binary window LIVE | **PRIMARY — spread <1% + $40 reclaim + tape green ≥+0.3% → entry-eligible** |
+| ASTS | 53.20 | 59.14 | WATCH | **BB11+12+13 launch CONFIRMED Wed 8/5 3:42 AM ET** (T+7 sessions) | Monitor spread compression + $60 reclaim into launch window |
+| RKLB | — | 60.02 | WATCH | USSF $266M contract intact; $70 base broken (-14.3% below) | Monitor $70 reclaim + spread |
+| AEHR | 60.36 | 79.69 | AVOID | Day 11 spread crisis; $80 institutional line broken -24.6% | NO entry pathway near-term |
+| NBIS | 143.40 | 190.68 | WATCH | **Q2 earnings Thu 8/6 BMO** (T+8); AI GPU cloud growth focus | Drift-play post-earnings if clean; spread crisis blocks entry now |
+
+### Macro/Geopolitical Risk Ranking
+- **HIGH — Iran-US strikes RESUMED**: Brent +3.4% / WTI +3.6%; energy sector bid; broad tape risk-off tilt; Strait of Hormuz disruption tail risk
+- **HIGH — FOMC decision 11 AM PT**: Hold ~100% priced; tape-pivot risk both sides on statement/Powell tone
+- **HIGH — MSFT + META AMC earnings**: Mag-7 concentration risk on any negative surprise
+- **MEDIUM — AI-semi selloff Day 5**: continuation into mag-7 print; sector rotation window opens Fri 7/31+
+- **LOW/PRICED IN — US-China trade, Russia/Ukraine**: no new catalysts
+
+### Trade Ideas / Entry Candidates
+
+**No entries eligible at pre-market snapshot. Live open (~06:30 AM PT) required.**
+
+**Alpha sleeve — ALL universe blocked:**
+- MSFT/META/AAPL/AMZN pre-earnings blocks active through Fri 7/31 post-print assessment
+- AMD/AVGO/MRVL AI-selloff Day 5 + no Day-3+ base + sized-out at niche cap
+- NVDA chase-gate blocks re-entry (mid ~$198 = +2.6% above exit $192.92, inside 3%-HOD gate)
+- GOOGL sized-in but no fresh catalyst; not on Day-3+ base
+
+**Niche sleeve — OKLO primary candidate:**
+- **OKLO** — **DOE Groves startup authorization Jul 23** = criticality binary window LIVE (target July 2026 slipping but authorization in hand). Entry gates: (a) spread <1% [pre-mkt 9.7%, fail], (b) bp reclaims $40 [pre-mkt $37.47, fail], (c) tape green ≥+0.3%. If all three clear intraday → **niche entry sized 8-10% cap = $776-970 = 19-25 sh at ~$40**, -10% hard stop $36.00, target $60 = 2.5:1 R:R ✓ (actually 5:1 at $40 entry). **Documented 7-point research:**
+  1. Fundamentals: Pre-revenue microreactor developer; Groves Isotope Test Reactor with DOE authorization Jul 23
+  2. Analyst: Speculative coverage; PT range wide
+  3. Institutional: Retail-heavy; some fund entries this year
+  4. News: **DOE Groves startup authorization Jul 23, 2026** = pre-criticality final step
+  5. Sentiment: High short interest / squeeze potential on criticality event
+  6. Technical: $40 psychological base; wide pre-mkt spread reflects illiquidity
+  7. Thesis: Binary catalyst (first criticality) = asymmetric event risk both ways; sizing pilot-scale (5% not 10%) may be prudent given binary
+- **ASTS** — BB11+12+13 launch CONFIRMED Wed 8/5 3:42 AM ET; watch spread compression this week for pre-launch drift entry at ≤$56 with $75+ target on constellation build progress
+- **NBIS** — Q2 earnings Thu 8/6 BMO; drift-play post-print eligible if clean; too early / spread crisis now
+
+### Risk Factors for Today
+- FOMC surprise (any hike hint = -1-2% tape move)
+- Iran escalation → oil >$90 → energy bid + tech drag
+- MSFT/META miss/guide-cut = post-close futures gap-down
+- AI capex commentary from MSFT = MRVL/AVGO/NVDA sympathy move
+- OKLO criticality event fires intraday = binary +/-30% move
+
+### Decision: **HOLD → TRADE-CANDIDATE (OKLO conditional on gate clearance at open)**
+
+**Bias:** Pre-earnings blocks freeze the alpha universe through Fri 7/31 close = 34th under-deployed session by structural gate. **OKLO is the only path to any deployment this week** — entry conditional on spread <1% + $40 reclaim + tape green at/after 06:30 AM PT open. All other watchlist names fail structural gates (spread crises, base breaks, pre-earnings blocks, AI-selloff drag).
+
+**If OKLO clears all 3 gates intraday** → execute niche entry: BUY 20 sh @ ~$40 = ~$800 = 8.24% of equity; place -10% hard stop $36.00 + 10% trail GTC; log per 7-point research; count 2/20 trades this week.
+
+**If OKLO fails gate** → HOLD (34th under-deployed session), cash preserved for Fri 7/31+ post-mag-7 rotation window or next-session OKLO gate breakthrough. Under-deployment is structural (not voluntary) — forced-bad-fill remains greater failure mode.
+
+### Bias to Open (~06:30 AM PT)
+- **OKLO:** PRIMARY WATCH — spread compression <1% + bp reclaim $40 + tape green = full entry trigger
+- **NVDA:** POST-EXIT MONITOR — chase-gate blocks; no re-entry today
+- **ASTS/RKLB:** WATCH — spread + base gates blocking; ASTS BB11 T+7 sessions to Aug 5
+- **AEHR:** SKIP — Day 11 spread crisis
+- **NBIS:** WATCH — Q2 T+8 to Thu 8/6 drift-play window
+- **AAPL/MSFT/META/AMZN:** SKIP through Fri 7/31 post-earnings assessment
+- **AVGO/AMD/MRVL/GOOGL:** SKIP — AI-selloff Day 5, no Day-3+ base
+
+**Next scheduled routine:** Wed 7/29 Market-Open ~06:30 AM PT (OKLO gate check at open + FOMC positioning + MSFT/META AMC prep + Week 15 Day 3 execution window).
