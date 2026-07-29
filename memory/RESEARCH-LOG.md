@@ -8644,3 +8644,33 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **AVGO/AMD/MRVL/GOOGL:** SKIP — AI-selloff Day 5, no Day-3+ base
 
 **Next scheduled routine:** Wed 7/29 Market-Open ~06:30 AM PT (OKLO gate check at open + FOMC positioning + MSFT/META AMC prep + Week 15 Day 3 execution window).
+
+## 2026-07-29 — Midday Scan (Week 15 Day 3, Wed — ~09:11 AM PT / FOMC T-1h49m / SPY -1.10% risk-off tape / OKLO gates all fail / flat account NO-OP)
+
+**Account:** Equity $9,702.39 | Cash $9,702.39 (100%) | Buying power $38,809.56 | `positions=[]` `orders=[]` | Trades this week: 1/20 | Daytrade 0/5 | Phase P&L -$297.61 (-2.976%) unchanged intraday (no positions to mark).
+
+**Midday tape (~09:11 AM PT):**
+| Ticker | Bid | Ask | Mid | Chg | Spread | Gate |
+|--------|-----|-----|------|-----|--------|------|
+| **SPY** | 732.63 | 732.65 | 732.64 | **-1.10%** | 0.00% | **TAPE RED — fails green ≥+0.3%** |
+| **OKLO** | 36.09 | 37.54 | 36.81 | -5.13% | **3.94%** | **FAIL all 3** (spread >1%, bp $36.09 < $40, tape red) |
+| NVDA | 191.38 | 192.00 | 191.69 | -2.88% | 0.32% | Chase-gate blocks (~-0.6% below exit $192.92 — near, but no re-entry setup) |
+| ASTS | 52.31 | 57.15 | 54.73 | -3.82% | 8.84% | Spread crisis; T+7 to BB11 launch 8/5 |
+| RKLB | 60.04 | 61.38 | 60.71 | -5.98% | 2.21% | Spread + no base; $70 broken |
+| AEHR | 55.45 | 64.35 | 59.90 | -8.32% | **14.86%** | Spread crisis Day 12 |
+| NBIS | 147.26 | 148.82 | 148.04 | **-12.98%** | 1.05% | **Sharp drop pre-print T+8** — spread near 1% cap; sized-out at $148 (>$164 pilot cutoff? actually $148 < $164 = feasible if we cared; but pre-earnings block + tape red = SKIP) |
+
+**Actions taken:** NONE.
+- STEP 3 (cut losers at -7%): N/A — no positions.
+- STEP 4 (tighten stops at +15/+20%): N/A — no positions.
+- STEP 5 (thesis check): N/A — no positions.
+- STEP 6 (sleeve balance): Alpha 0% / Niche 0% / Cash 100% — 34th under-deployed session, structural (pre-earnings blocks + AI-selloff Day 5 + FOMC T-1h49m + risk-off tape). Consistent with pre-market decision tree.
+- STEP 7 (research): NBIS -13.0% intraday note = pre-print de-risking + AI-selloff drag; Q2 earnings Thu 8/6 BMO = 8 sessions out; no thesis change; still WATCH for post-print drift.
+
+**OKLO status:** All 3 gates STILL failing at midday. Spread compressed from pre-mkt 9.7% → 3.94% (better but not clearing 1%). Bp $36.09 = 9.8% below $40 reclaim gate. Tape red -1.10%. Criticality catalyst binary window LIVE but structural entry blocked. Continue post-FOMC monitor.
+
+**FOMC T-1h49m:** Decision 11:00 AM PT + presser ~11:30 AM PT. Tape risk both directions; positioning as cash 100% is the safer stance into unknown pivot. No pre-decision entries.
+
+**Decision:** HOLD. No trades. No notifications. Cash preserved for post-FOMC/post-print rotation window Thu/Fri 7/30-31.
+
+**Next scheduled routine:** Wed 7/29 EOD summary ~13:15 PT (post-close snapshot + FOMC outcome + MSFT/META AMC prep).
