@@ -8800,3 +8800,137 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **META/MSFT:** SKIP (post-print / chase-gate)
 
 **Next scheduled routine:** Thu 7/30 Market-Open ~06:30 AM PT (ASTS $60 reclaim gate check + 8:30 AM ET GDP/PCE read + AAPL/AMZN AMC prep + Week 15 Day 4 execution window).
+
+## 2026-07-31 — Pre-Market Research (Week 15 Day 5, Friday, POST-AAPL/AMZN AMC / MSFT+AMZN AI-halo strong / AAPL guide-cut / OKLO Q2 date correction / month-end)
+
+### Account Snapshot
+- Equity **$9,702.39** | Cash **$9,702.39 (100.00%)** | Buying power $38,809.56 | `positions=[]` `orders=[]` | Trades this week 1/20 (Week 15) | Daytrade 0/5 rolling | Day P&L flat | Phase P&L **-$297.61 (-2.976%)** unchanged.
+- Alpha sleeve 0% / Niche sleeve 0% — **36th consecutive under-deployed session** projected.
+
+### Market Context (post-AAPL/AMZN AMC, month-end)
+- **AMZN post-print +12% pre-mkt** — Q2 net sales $200.6B (+20% YoY), EPS $5.75 vs $1.82 est, AWS revenue +37%, AI+chip units both crossed $25B ARR. Blowout beat.
+- **AAPL post-print -7% pre-mkt** — Beat Q3 (revenue $109.42B vs $108.65B est, EPS $2.02 vs $1.89), BUT **current-quarter guide disappointed** (memory-price surge + chip shortages). Stock was at all-time highs pre-print → high bar failed.
+- **MSFT post-print +9% AH continuation** — AI narrative reignited via strong cloud/Azure guidance.
+- **META post-print -8.8%** — remains guide-cut/FCF drag.
+- **SPX futures ~7,499 +0.35% / Dow +0.5% / NAS +1.1%** pre-mkt — Amazon lifting NAS futures, offsetting AAPL drag.
+- **VIX 17.09 close 7/30 (down from 18.91 W-o-W)** — declining volatility despite events.
+- **Oil: WTI $82-84 / Brent $85-88** (Hormuz de facto closed since Feb 28 2026; shipping risks now spreading to Red Sea/Bab el-Mandeb per NYT 7/29; Brent breached $95 on 7/22 during peak).
+- **Treasury yields:** 30Y ~5.11% (highest since 2007 post-Fed), 10Y ~4.62%, 2Y ~4.31% — post-FOMC hawkish spike; MSFT/AMZN halo could soften rate spike today.
+
+### Today's Economic Calendar (8:30 AM ET / 5:30 AM PT)
+- **Core PCE MoM June** — fcst +0.1% vs prior +0.3%; YoY 3.4% level. **Fed's preferred gauge** — soft print = relief on rates.
+- **Q2 Advance GDP** — fcst +2.3% vs prior +2.1%
+- **Initial Jobless Claims** — fcst 195K vs prior 187K
+- **9:45 AM ET Chicago PMI** (Jul)
+- **10:00 AM ET Final Michigan Sentiment** (Jul)
+- **BMO earnings today: CVX, XOM, ABBV, MRNA** (none on watchlist)
+
+### This Week's Earnings Calendar (final Friday update)
+| Ticker | Date | Time | Our Stance |
+|--------|------|------|------------|
+| MSFT | Wed 7/29 AMC | Printed | +9% AH; chase-gate blocks entry (no prescribed post-print rules) |
+| META | Wed 7/29 AMC | Printed | -8.8%; AVOID (guide-cut) |
+| AAPL | Thu 7/30 AMC | Printed | **-7% pre-mkt** on guide miss; NO entry (falling knife + guide-cut = same as META playbook) |
+| AMZN | Thu 7/30 AMC | Printed | **+12% pre-mkt** blowout beat; chase-gate active (no chase-into-strength entry rule) |
+| INTC | Thu 7/30 BMO | Printed | Not on core universe; N/A |
+| **OKLO** | **Q2 → Aug 10 AMC** (est) | **CORRECTION** | Prior log incorrectly stated Fri 7/31 BMO. Actual estimate is Aug 10 AMC (MarketBeat/Quartr) or 8/10-12 (MarketChameleon). **Pre-earnings block LIFTED for today.** |
+| NBIS | Wed 8/12 BMO | T+8 | Drift-play window extends |
+
+### Tech/Semi Watchlist Quotes (Wed close marks — pre-mkt live at open needed)
+| Ticker | Close bid | Close ask | Spread | Note |
+|--------|-----------|-----------|--------|------|
+| AAPL | 325.26 | 326.41 | 0.35% | Tight; pre-mkt gap -7% projected sub-$316 |
+| AMZN | 238.18 | 242.45 | 1.75% | Pre-mkt gap +12% projected to ~$275; chase-gate active |
+| NVDA | 183.60 | 203.18 | 10.65% | Wide close mark; AI-halo may lift; chase-gate ~$192.92 exit |
+| MSFT | 435.32 | 479.18 | 10.06% | Wide close; +9% AH continuation |
+| AMD | 465.54 | 513.29 | 10.26% | Wide; sized-out anyway |
+| AVGO | 368.54 | 408.13 | 10.74% | Wide; sized-out |
+| MRVL | 174.79 | 190.70 | 9.10% | Wide; sized-in possible if AI-halo carries |
+| GOOGL | 317.70 | 351.26 | 10.56% | Wide close |
+| META | 510.45 | 563.53 | 10.40% | Wide close; guide-cut carries |
+
+### Niche Radar (Wed close marks)
+| Ticker | Bid | Ask | Mid | Spread | Class | Key Catalyst | Analyst PT | Short% | Action |
+|--------|-----|-----|-----|--------|-------|--------------|------------|--------|--------|
+| **OKLO** | 38.90 | 43.41 | $41.16 | 11.60% | **WATCH → RE-ELIGIBLE** | Q2 now Aug 10 AMC (**NOT today**) + Groves criticality window LIVE | avg $84-101 (high $130-175) | ~19% short | **Pre-earnings block LIFTED (calendar corrected).** Structural entry gates: spread <1% + bp reclaim $40 + tape green ≥+0.3% |
+| **ASTS** | 54.63 | 60.59 | $57.61 | 10.90% | WATCH (PRIMARY) | **BB11+12+13 launch CONFIRMED Wed 8/5 3:42 AM ET** T-3 sessions | broad-buy | — | Spread needs compress <1%; $60 reclaim gate; pre-launch drift-play window active |
+| RKLB | 60.30 | 0 (nq) | — | — | WATCH | $266M USSF contract already priced in | broad-buy | — | No ask; illiquid quote; SKIP |
+| AEHR | 77.47 | 79.99 | $78.73 | 3.25% | WATCH (fundamentals bullish) | Q4 FY26 beat + FY27 guide $130-150M | Buy-tilted | — | **Spread improved from 42% → 3.25%** (Day 13); still >1% cap but massive compression; approaching viability |
+| NBIS | 162.28 | 212.46 | $187.37 | 30.9% | WATCH | Q2 now Wed 8/12 BMO | Buy avg $120 | — | Spread crisis persists |
+
+### 7-Point Research Refresh — ASTS (PRIMARY, unchanged)
+1. **Fundamentals:** Pre-revenue satellite operator; BB11-13 launch T-3 sessions.
+2. **Analysts:** Consensus buy; targets $70-95 range.
+3. **Institutional:** Retail-heavy; growing inflows.
+4. **News:** **BB11+12+13 launch CONFIRMED Wed 8/5 3:42 AM EDT** Cape Canaveral via Falcon 9 (BusinessWire Jul 28).
+5. **Sentiment:** Positive into launch drift-play window; T-3 sessions.
+6. **Technical:** $60 psychological base; spread needs verification at open (Wed intraday best was 0.68%).
+7. **Thesis:** Pre-catalyst drift entry ahead of Aug 5 launch; pilot size 5-8% (not full 12% cap); $75 target, $54 hard stop from $60 entry = 2.5:1 R:R ✓.
+
+### 7-Point Research Refresh — OKLO (RE-ELIGIBLE post-calendar correction)
+1. **Fundamentals:** Pre-revenue microreactor developer; $2.54B cash Q1; Q2 EPS est -$0.17 (Aug 10 AMC).
+2. **Analysts:** Wide range PT $14-175; avg $84-101; consensus buy on optionality.
+3. **Institutional:** ~85% inst ownership; some fund entries this year.
+4. **News:** **DOE Groves startup authorization Jul 23** = pre-criticality final step complete; criticality event live.
+5. **Sentiment:** **19.29% short of float** = squeeze potential on criticality.
+6. **Technical:** $40 psychological base; wide close spread reflects illiquidity; needs live intraday reading.
+7. **Thesis:** Binary catalyst path (criticality event + Q2 print in 10 days) = asymmetric risk both ways; pilot size 8-10% ($776-970), -10% hard stop, $60 target = 2.5:1 R:R ✓.
+
+### Macro & Geopolitical Risk Ranking
+- **HIGH — AAPL guide-cut spillover** vs **AMZN cloud-beat halo** = mixed mega-cap tape; AAPL drag on Dow-heavy indices, AMZN/MSFT lift NAS. Net effect likely NAS >> SPX >> Dow.
+- **HIGH — Iran/Hormuz standstill continuing** — de facto closed since Feb 28; NYT 7/29 confirms shipping risks now spreading to Red Sea/Bab el-Mandeb. Brent stays elevated; oil-services + energy YTD leader (+25-29%) sustained.
+- **HIGH — Post-FOMC hawkish rate spike** — 30Y at 5.11% highest since 2007; today's core PCE +0.1% MoM print (5:30 AM PT) = swing input; soft = relief rally on rates + tech; hot = re-hawkish drag.
+- **MEDIUM — Month-end rebalancing flow** — Fri 7/31 = final trading day of July; index re-weight flow could amplify moves both directions in final 30 min.
+- **MEDIUM — MSFT + AMZN AI-monetization narrative** — could reignite semis (MRVL/AVGO/NVDA) mid-session; watch for Day-3+ base setups.
+- **LOW/PRICED IN — US-China trade, Russia/Ukraine** — no fresh catalysts.
+
+### Actionable Trade Ideas / Entry Candidates
+
+**Alpha sleeve — mostly blocked; one conditional path:**
+- **AAPL** — post-print -7%; **AVOID** (guide-cut = falling knife; same playbook as META Wed print; no post-print entry rule for guide-cut names)
+- **AMZN** — post-print +12%; **chase-gate blocks entry** (no chase-into-strength rule); post-drift setup would need 3-5% pullback to rising 20-DMA + volume reclaim
+- **MSFT** — post-print +9% AH continuation; **chase-gate blocks entry** (same reasoning)
+- **NVDA** — chase-gate active (~$192.92 exit); Aug 26 earnings T+18; MSFT halo could lift Day-3+ but exit-anchor within 3% chase-gate for at least 2 more sessions
+- **META** — guide-cut = falling knife; AVOID
+- **AMD/AVGO/MRVL** — MSFT + AMZN AI-halo Day 1 of potential turn; **AI-selloff Day 7 → potentially the base-setup day**; if MRVL clears spread <0.5% + Day-3+ base + tape green intraday, becomes a **PILOT ENTRY CANDIDATE** under Week-13 half-size rule (5% of equity ~$485, next earnings verified ≥5 sessions away); however, MRVL earnings Aug 29 T+21 = confirmed clear, spread must compress from close 9.1%
+- **GOOGL** — no fresh catalyst; not on Day-3+ base
+
+**Niche sleeve — TWO conditional paths (OKLO re-eligible + ASTS drift-play):**
+- **OKLO** — Q2 earnings calendar correction moves date to Aug 10 = **pre-earnings block LIFTED** (T-6 sessions). Structural entry gates unchanged: spread <1% + bp reclaim $40 + tape green ≥+0.3%. If all clear intraday → BUY 20 sh @ ~$40 = ~$800 = 8.24% niche cap; -10% hard stop $36.00; 10% trail GTC; $60 target = 2.5:1 R:R ✓.
+- **ASTS** — PRIMARY drift-play. BB11+12+13 launch T-3 sessions (Wed 8/5). Structural entry gates: spread <1% + $60 reclaim + tape green ≥+0.3%. If all clear → BUY 9-13 sh @ ~$60 = ~$540-780 = 5.5-8% niche cap; -10% hard stop $54.00; 10% trail GTC; $75 target = 2.5:1 R:R ✓.
+- **RKLB** — no fresh; SKIP.
+- **AEHR** — spread compressed 42% → 3.25% (**Day 13 major improvement**); still >1% cap; fundamentals materially improved (Q4 beat, FY27 guide $130-150M); if spread crosses <1% and bp holds $77.47 base, becomes valid entry candidate. WATCH close.
+- **NBIS** — spread crisis; SKIP.
+
+### Risk Factors for Today
+- **5:30 AM PT Core PCE + GDP + Jobless Claims** — pre-open pivot window; hot core PCE = long-duration tech drag
+- **AAPL -7% gap open** — Dow-heavy drag; may or may not extend intraday
+- **AMZN +12% gap open** — NAS lift; potential AI-monetization rotation into semis
+- **Month-end index rebalancing** — final 30-min amplification risk both ways
+- **9:45 AM ET Chicago PMI + 10:00 AM ET Michigan Sentiment** — mid-session data pivots
+- **Iran/Hormuz escalation risk** — Brent > $95 = tech drag, energy rip
+- **Oil earnings CVX/XOM BMO** — energy sector move independent of tech tape
+
+### Decision: **HOLD → TRADE-CANDIDATE (ASTS or OKLO conditional on gates at open)**
+
+**Bias:** ASTS carries drift-play thesis T-3 sessions to Aug 5 launch. OKLO returns to eligibility with calendar correction; criticality catalyst live. AAPL/AMZN direct entries blocked (falling knife + chase-gate respectively). MSFT/AMZN AI-halo could re-open MRVL/AVGO Day-3+ base window mid-session but low-probability at open.
+
+**Priority order:**
+1. **ASTS gate check at open (~06:30 AM PT)** — if spread <1% + $60 reclaim + tape green → pilot entry primary
+2. **OKLO gate check at open** — if spread <1% + $40 reclaim + tape green → secondary entry candidate
+3. **MRVL Day-3+ base watch mid-session** — MSFT/AMZN halo scenario; check pilot entry rule (spread <0.5%, tape green, session vol ≥ 20d avg, earnings ≥5 sessions away confirmed)
+
+**If ASTS AND OKLO fail gates AND no MRVL setup develops** → HOLD (36th under-deployed session). Cash preserved for Mon 8/3 sector rotation + OKLO/ASTS re-evaluation. Under-deployment remains structural (spread crises + chase-gate) — forced-bad-fill still greater failure mode.
+
+### Bias to Open (~06:30 AM PT)
+- **ASTS:** PRIMARY WATCH — $60 reclaim + spread <1% + tape green = pilot entry ($540-780, -10% stop, target $75)
+- **OKLO:** SECONDARY WATCH — $40 reclaim + spread <1% + tape green = pilot entry ($800, -10% stop, target $60)
+- **MRVL:** MID-SESSION WATCH — if MSFT/AMZN AI-halo lifts + Day-3+ base holds + spread <0.5%
+- **AEHR:** WATCH — spread trajectory into <1% cap
+- **AAPL:** SKIP — guide-cut falling knife
+- **AMZN:** SKIP — chase-gate (blowout post-print)
+- **MSFT/NVDA:** SKIP — chase-gate blocks
+- **META/AMD/AVGO/GOOGL:** SKIP — no valid structural setup
+- **RKLB/NBIS:** WATCH — structural gates blocking
+
+**Next scheduled routine:** Fri 7/31 Market-Open ~06:30 AM PT (ASTS/OKLO gate check + core PCE tape read + Week 15 Day 5 final execution window + month-end EOD prep).
