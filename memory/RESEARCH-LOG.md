@@ -8934,3 +8934,37 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 - **RKLB/NBIS:** WATCH — structural gates blocking
 
 **Next scheduled routine:** Fri 7/31 Market-Open ~06:30 AM PT (ASTS/OKLO gate check + core PCE tape read + Week 15 Day 5 final execution window + month-end EOD prep).
+
+## 2026-07-31 — Midday Scan (Week 15 Day 5, Fri — ~09:12 AM PT / T+2.7h into session / month-end / SPY ~flat -0.16% intraday / ASTS+OKLO gates all fail / MRVL AI-halo failed to translate / flat account NO-OP — 36th under-deployed session)
+
+**Account:** Equity $9,702.39 | Cash $9,702.39 (100%) | Buying power $38,809.56 | `positions=[]` `orders=[]` | Trades this week: 1/20 | Daytrade 0/5 | Phase P&L -$297.61 (-2.976%) unchanged intraday (no positions to mark).
+
+**Midday tape (~09:12 AM PT):**
+| Ticker | Bid | Ask | Mid | Spread | Gate |
+|--------|-----|-----|------|--------|------|
+| **SPY** | 743.45 | 743.47 | 743.46 | 0.00% | Intraday **-0.16%** from open $744.68 = **tape flat/marginal red** — fails green ≥+0.3% |
+| **ASTS** | 56.01 | 60.68 | 58.35 | **8.00%** | **FAIL all 3** — spread 8x cap; bp $56.01 = -$3.99 / -6.65% below $60 reclaim; tape not green. BB11+12+13 launch T-3 sessions (Wed 8/5) intact but structural entry blocked |
+| **OKLO** | 37.16 | 39.17 | 38.17 | **5.27%** | **FAIL all 3** — spread 5.3x cap; bp $37.16 = -$2.84 / -7.10% below $40 reclaim; tape not green. Groves criticality window + Q2 8/10 AMC pre-earnings block LIFTED but spread blocks entry |
+| **MRVL** | 188.00 | 192.08 | 190.04 | **2.14%** | **FAIL** — spread 4.3x pilot cap (0.5%); intraday **-4.6% from open $199.375** = MSFT/AMZN AI-halo NOT translating to MRVL; sized-out at mid $190 (>$161.71 pilot cutoff at current equity); Day-3+ base premise broken |
+| **AEHR** | 68.10 | 92.13 | 80.12 | **30.0%** | **FAIL** — spread crisis DEEPENED (pre-mkt close mark was 3.25% → intraday 30%); bp $68.10 = -12.1% below $77.47 base; structural collapse Day 14 |
+| NBIS | 182.80 | 197.00 | 189.90 | 7.48% | Spread + sized-out (>$161.71 pilot cutoff at $190); pre-print Wed 8/12 window extends |
+| RKLB | 62.00 | 63.94 | 62.97 | 3.13% | Spread + $70 base broken; no fresh catalyst |
+| AAPL | 301.62 | 301.67 | 301.64 | 0.02% | Tight spread; -7.4% from Wed close $325.26 = guide-cut gap holding; **AVOID falling knife per playbook** |
+| AMZN | 269.91 | 270.46 | 270.19 | 0.20% | Tight; +11.4% gap from ask-close $242.45 holding = blowout post-print; **chase-gate blocks (no chase-into-strength rule)** |
+| MSFT | 461.64 | 463.00 | 462.32 | 0.29% | Tight; post-print +9% AH continuation; **chase-gate blocks** |
+| NVDA | 195.00 | 196.71 | 195.86 | 0.87% | Chase-gate blocks (bp $195 = +1.1% above prior exit-anchor $192.92, inside 3% window); Aug 26 earnings T+18 |
+
+**Actions taken:** NONE.
+- STEP 3 (cut losers at -7%): N/A — no positions.
+- STEP 4 (tighten stops at +15/+20%): N/A — no positions.
+- STEP 5 (thesis check): N/A — no positions.
+- STEP 6 (sleeve balance): Alpha 0% / Niche 0% / Cash 100% — **36th consecutive under-deployed session**. Total positions 0/12. Structural under-deployment (spread crises across all niche watchlist + chase-gates on all winning alphas + falling-knife blocks on AAPL/META). Consistent with pre-market decision tree.
+- STEP 7 (research): AEHR spread crisis re-widened from pre-mkt close 3.25% → intraday 30% — confirms Day 13 compression was a close-print artifact, not a structural liquidity improvement; watch-status regressed. MRVL intraday -4.6% off open despite MSFT/AMZN AI-halo pre-mkt lift confirms mid-session halo-rotation thesis has NOT materialized. No thesis breaks — book already flat.
+
+**ASTS status:** T-3 sessions to BB11+12+13 launch (Wed 8/5); spread compressed slightly from pre-mkt 10.9% → midday 8.0% but still 8x cap; bp $56.01 well below $60 reclaim gate. Drift-play window still open through Mon 8/3 + Tue 8/4 pre-launch sessions.
+
+**OKLO status:** Q2 earnings correction to 8/10 AMC removes pre-earnings block; Groves criticality catalyst live; spread compressed from pre-mkt 11.6% → midday 5.27% (halved but still 5x cap); bp $37.16 below $40 reclaim. Structural gates block despite thesis intact.
+
+**Decision:** HOLD. No trades. No notifications. Cash preserved for month-end final session (final 30-min index rebalance amplification risk both directions) + Mon 8/3 sector rotation + Tue-Wed 8/4-5 ASTS pre-launch drift window.
+
+**Next scheduled routine:** Fri 7/31 EOD summary ~13:15 PT (month-end close + Week 15 wrap + weekly review prep + Mon 8/3 setup + ASTS T-2 drift-play evaluation).
