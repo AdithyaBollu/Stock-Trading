@@ -8968,3 +8968,135 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 **Decision:** HOLD. No trades. No notifications. Cash preserved for month-end final session (final 30-min index rebalance amplification risk both directions) + Mon 8/3 sector rotation + Tue-Wed 8/4-5 ASTS pre-launch drift window.
 
 **Next scheduled routine:** Fri 7/31 EOD summary ~13:15 PT (month-end close + Week 15 wrap + weekly review prep + Mon 8/3 setup + ASTS T-2 drift-play evaluation).
+
+## 2026-08-03 — Pre-Market (Mon, Week 16 Day 1, PST ~05:15 AM PT / T-1.25h to open)
+
+### Account Snapshot
+- **Equity:** $9,702.39 | **Cash:** $9,702.39 (100%) | **Buying power:** $38,809.56 (4x margin)
+- **Positions:** 0/12 (empty book) | **Orders:** 0 | **Daytrade:** 0/5 rolling
+- **Trades this week:** 0/20 (Week 16 fresh) | **Phase P&L:** -$297.61 (-2.976%) unchanged from Fri close (`balance_asof` 2026-07-31 — weekend lag)
+- **Sleeve status:** Alpha 0% / Niche 0% / Cash 100% — **37th consecutive under-deployed session**
+
+### Market Context (pre-open ~05:15 AM PT)
+- **SPX futures:** +0.5% (ES ~7,549 vs Fri close ~7,519); **NAS futures:** +1.0%; **Dow:** +0.7% — positive first-day-of-week tape
+- **WTI:** ~$72.27/bbl | **Brent:** ~$76.46/bbl — both drifting; no oil spike
+- **VIX:** ~17.98 (WSJ) — mild
+- **10Y Treasury:** ~4.38-4.50% | **30Y:** ~4.94-5.00% | 10s30s spread +0.44 to +0.62 (normal, not inverted)
+- **Today's data:** 9:45 AM ET S&P Global Mfg PMI final (July); **10:00 AM ET ISM Mfg PMI (fcst 54 vs prior 53.3)**; 10:00 AM ET Construction Spending (June); Domestic Vehicle Sales
+- **Today's earnings AMC:** **PLTR** (est $0.35 EPS +119% YoY, rev ~$1.81B +81% YoY — high-multiple AI bellwether)
+- **BMO today:** MAR, ON, TSN, SATS, ENR (none on watchlist)
+
+### This Week's Earnings Calendar
+| Ticker | Date | Time | Our Stance |
+|--------|------|------|------------|
+| PLTR | Mon 8/3 AMC | Tonight | Not on universe; watch for AI sentiment tell |
+| **AMD** | **Tue 8/4 AMC** | **T-1 session** | **HARD PRE-EARNINGS BLOCK ACTIVE.** Consensus rev $11.3B, EPS $1.61, GM ~56%; watch MI350/MI400 commentary. Post-print reaction sets semi sleeve week 16 tape. |
+| Amgen, Booking, Pfizer, Merck, Arista, Gilead, Emerson | Tue 8/4 | | Not on core universe |
+| ASTS | Wed 8/5 | **BB11+12+13 launch 3:42 AM EDT / 12:42 AM PT** | Pre-launch drift-play PRIMARY WATCH |
+| Costco, Disney, CVS, Kraft Heinz | Wed 8/5 | | Not on universe |
+| **QCOM** | Thu 8/6 | (time unspec) | On alpha universe but sized-out possible; SKIP evaluation until quote refresh |
+| Home Depot, Medtronic, Keysight AMC, Palo Alto AMC | Thu 8/6 | | Not on core universe |
+| **NFP** | **Fri 8/7 8:30 AM ET** | Binary macro | Primary macro pivot of week |
+| Vistra BMO, PPL BMO, Constellation Energy | Fri 8/7 | | Not on universe |
+| **OKLO** | **Mon 8/10 AMC (est)** | **T+5 sessions** | Pre-earnings block window opens ~Thu 8/6; today still eligible |
+| **NBIS** | **Wed 8/12 BMO** | **T+7 sessions** | Sized-out at $164+ pilot cutoff anyway |
+| **NVDA** | **Wed 8/26 AMC** | T+16 | Chase-gate active (~$192.92) |
+
+### Tech/Semi Watchlist Quotes (pre-open ~05:15 AM PT)
+| Ticker | Bid | Ask | Spread | Note |
+|--------|-----|-----|--------|------|
+| **NVDA** | **197.96** | **198.20** | **0.12%** ✓ | **Fresh pre-mkt.** bp = +2.6% above exit-anchor $192.92 = **chase-gate ACTIVE** (inside 3% window) |
+| **AAPL** | **312.42** | **312.66** | **0.08%** ✓ | **Fresh pre-mkt.** +3.6% recovery from Fri midday $301.62 low; still -3.9% below Wed close $325.26; guide-cut base-forming — no post-print entry rule for guide-cut names → **SKIP** |
+| AMD | 455.43 | 506.91 | 10.16% | Fri close mark; **AMC earnings TUE = HARD BLOCK** |
+| MSFT | 436.98 | (0) | — | Fri close, no ask; chase-gate active |
+| AMZN | 257.09 | 283.97 | 9.47% | Fri close; chase-gate active |
+| META | 527.76 | 582.45 | 9.39% | Fri close; guide-cut = AVOID |
+| GOOGL | 338.38 | (0) | — | Fri close, no ask; no fresh catalyst |
+| MRVL | 178.00 | 198.35 | 10.26% | Fri close; sized-out (bp $178 > $161.71 pilot cutoff) |
+| AVGO | 367.46 | 407.14 | 9.75% | Fri close; sized-out |
+| QCOM | 142.32 | 154.96 | 8.15% | Fri close; earnings Thu 8/6 pre-earnings block imminent |
+| MU | 787.08 | 863.59 | 8.86% | Sized-out at $787+ |
+| ARM | 205.59 | (0) | — | Fri close, no ask; not on core universe |
+| INTC | 85.98 | (0) | — | Fri close, no ask |
+| TSM | 403.97 | (0) | — | Fri close, no ask; sized-out |
+
+### Niche Radar (pre-open ~05:15 AM PT — all Fri close marks pending open)
+| Ticker | Bid | Ask | Mid | Spread | Class | Key Catalyst | Analyst | Short% | Action |
+|--------|-----|-----|-----|--------|-------|--------------|---------|--------|--------|
+| **ASTS** | 56.42 | 61.87 | $59.15 | **8.79%** | **PRIMARY WATCH** | **BB11+12+13 launch Wed 8/5 3:42 AM ET T-2 sessions** | broad-buy $70-95 | — | Structural gates: spread <1% + $60 bp reclaim + tape green ≥+0.3% |
+| **OKLO** | 37.16 | 41.55 | $39.36 | **10.55%** | WATCH (fundamentals live) | Q2 Aug 10 AMC (T+5) + Groves criticality window LIVE (DOE DSA approval 7/1) | avg $84-101 | ~19% | Structural gates: spread <1% + $40 bp reclaim + tape green ≥+0.3% |
+| RKLB | 61.50 | 68.48 | $64.99 | 10.19% | WATCH | Neutron 1st flight Q4 2026 + 5-Neutron contract added; no fresh near-term catalyst | broad-buy | — | Spread + no fresh — SKIP |
+| AEHR | 69.75 | (0) | — | — | WATCH (fundamentals) | FY26 beat + FY27 $130-150M guide | Buy-tilted | — | No ask; structural collapse — SKIP |
+| NBIS | 164.52 | 217.61 | $191.06 | 30.9% | WATCH (fundamentals) | Q2 Wed 8/12 BMO (rev fcst $577M, EPS -$0.61); FY guide $3.0-3.4B | Buy avg $120 | — | Spread crisis + sized-out (bp $164.52 > $161.71 pilot cutoff at current equity) — SKIP |
+
+### 7-Point Research Refresh — ASTS (PRIMARY, T-2 sessions)
+1. **Fundamentals:** Pre-revenue satellite operator; BB11+12+13 launch confirmed Wed 8/5 3:42 AM EDT (Cape Canaveral, Falcon 9), backup window 5:10 AM EDT.
+2. **Analysts:** Consensus buy; targets $70-95 range.
+3. **Institutional:** Retail-heavy; growing inflows.
+4. **News:** Launch webcast 15 min prior; primary window firm; no delay announced Fri 7/31 or over weekend.
+5. **Sentiment:** Positive drift into T-2 pre-launch window.
+6. **Technical:** $60 psychological base; Fri close bid $56.42 = -5.97% below $60 reclaim gate; needs live intraday.
+7. **Thesis:** Pre-catalyst drift entry; pilot 9-13 sh @ ~$60 = ~$540-780 = 5.5-8% niche cap; -10% hard stop $54; $75 target = 2.5:1 R:R ✓.
+
+### 7-Point Research Refresh — OKLO (T+5 pre-earnings)
+1. **Fundamentals:** Pre-revenue microreactor developer; $2.54B cash Q1; Q2 EPS est -$0.17 (Mon 8/10 AMC est).
+2. **Analysts:** PT range $14-175; avg $84-101; consensus buy on optionality.
+3. **Institutional:** ~85% inst ownership; some fund entries YTD.
+4. **News:** DOE approved Groves Final Safety Analysis 7/1; targeting criticality July 2026 (not yet confirmed as of 8/3); no update announced over weekend.
+5. **Sentiment:** ~19% short interest = squeeze potential on criticality event.
+6. **Technical:** $40 psychological base; Fri close bid $37.16 = -7.10% below $40 reclaim; needs live intraday.
+7. **Thesis:** Binary catalyst path (potential criticality + Q2 print T+5); pilot 20 sh @ ~$40 = ~$800 = 8.24% niche cap; -10% hard stop $36; $60 target = 2.5:1 R:R ✓. **Pre-earnings window closes ~Thu 8/6 (T-1).**
+
+### Macro & Geopolitical Risk Ranking
+- **HIGH — Fed hawkish stance post-7/29:** Held 3.50-3.75% but 3 dissenters wanted HIKE; Sep meeting = ~60% HIKE probability (Reuters: rate cut has "almost no backing"). 30Y at 5.00% = long-duration tech drag.
+- **HIGH — AMD Tue 8/4 AMC earnings + NFP Fri 8/7:** Binary week for semi sleeve + broad tape. Cash preservation into AMD print rational; post-print MRVL/AVGO Day-1 base-hold window opens Wed 8/5 (also ASTS launch day = dual event).
+- **HIGH — Iran/Hormuz + Red Sea/Bab el-Mandeb tanker risk persistent:** WTI ~$72 quiet but Bab el-Mandeb closure = material oil spike; energy YTD leader (+23-29%) sustained.
+- **MEDIUM — ISM Mfg PMI 10 AM ET (fcst 54 vs 53.3):** Hot print = re-hawkish drag on tech + rate-sensitives; soft = relief rally.
+- **MEDIUM — Sector rotation entrenched:** Tech YTD -3.3% laggard vs Energy +23-29% / Materials +17% / Staples +15% / Industrials +14% leaders; strategy stays tech/semi-focused per rulebook but tape reflects out-of-favor sector.
+- **LOW/PRICED IN — US-China trade:** Tariff suspension until Nov 10 2026; rare earth/semi licenses being issued = de-escalation. No fresh catalyst.
+
+### Actionable Trade Ideas
+
+**Alpha sleeve — all conditional or blocked:**
+- **AAPL** — bp $312.42 fresh pre-mkt (+3.6% recovery from Fri low $301.62; still -3.9% below Wed close $325.26). Guide-cut post-print → no post-print entry rule for falling-knife names. If forms Day-3+ base above $310 later this week AND spread <0.5% → potential Week-13 pilot allowance candidate but not today. **SKIP.**
+- **NVDA** — bp $197.96 fresh pre-mkt. Exit-anchor $192.92 → bp +2.6% inside 3% chase-gate. Aug 26 earnings T+17 = clear from block. Needs either drop through $192.92 anchor (with reclaim) OR pullback structure to rising 20-DMA + volume reclaim. **BLOCK: chase-gate.**
+- **AMD** — **HARD PRE-EARNINGS BLOCK** (T-1 to Tue AMC print). No entry regardless of setup.
+- **MSFT / AMZN** — chase-gate blocks (post-print continuation, no chase-into-strength rule).
+- **META** — guide-cut falling knife = AVOID.
+- **GOOGL** — no fresh catalyst; awaiting live spread.
+- **MRVL / AVGO / MU** — sized-out at current equity (bp all >$161.71 pilot cutoff).
+
+**Niche sleeve — TWO conditional paths:**
+- **ASTS** — PRIMARY. T-2 to BB11+12+13 launch. Structural gates: spread <1% + $60 bp reclaim + tape green ≥+0.3%. If all clear at open → **BUY 9-13 sh @ ~$60 = ~$540-780 = 5.5-8% niche cap; -10% hard stop $54; $75 target = 2.5:1 R:R ✓; 10% trail GTC.**
+- **OKLO** — SECONDARY. T+5 pre-earnings window still eligible; Groves criticality catalyst pending. Structural gates: spread <1% + $40 bp reclaim + tape green ≥+0.3%. If all clear → **BUY 20 sh @ ~$40 = ~$800 = 8.24% niche cap; -10% hard stop $36; $60 target = 2.5:1 R:R ✓; 10% trail GTC.** Pre-earnings block activates ~Thu 8/6.
+- **RKLB / AEHR / NBIS** — structural or sizing blocks; SKIP.
+
+### Risk Factors for Today
+- **10:00 AM ET ISM Mfg PMI (fcst 54)** — mid-session data pivot; hot = re-hawkish tech drag; soft = relief lift
+- **9:45 AM ET S&P Global Mfg PMI final** — secondary data check
+- **PLTR AMC (est $0.35 EPS +119% / rev $1.81B)** — high-multiple AI bellwether; sets tone for AMD Tue AMC
+- **AMD Tue 8/4 AMC in T+1 session** — cash preservation rational; pre-earnings block blocks direct entry today per prior rule reading
+- **NFP Fri 8/7 8:30 AM ET** — primary macro pivot; positioning risk into Fri
+- **Iran/Hormuz + Bab el-Mandeb persistent risk** — oil spike would drag tech/lift energy
+- **Sector rotation into Energy/Materials/Staples continues** — SPX green futures may mask sub-sector weakness in tech
+
+### Decision: **HOLD → TRADE-CANDIDATE (ASTS / OKLO conditional on gates at open)**
+
+**Bias:** ASTS is PRIMARY drift-play at T-2 sessions to launch (highest-conviction niche entry of Week 16). OKLO SECONDARY on pre-earnings window (last 2-3 sessions before block). All alpha universe blocked (chase-gates on winners + pre-earnings on AMD + guide-cuts on META/AAPL + sized-out on MRVL/AVGO). Under-deployment structural; forced-bad-fill remains greater failure mode. **Do not chase pre-open green tape into stale-quote alpha universe.**
+
+**Priority order:**
+1. **ASTS gate check at open ~06:30 AM PT** — spread <1% + $60 bp reclaim + tape green ≥+0.3% → PILOT ENTRY primary
+2. **OKLO gate check at open** — spread <1% + $40 bp reclaim + tape green ≥+0.3% → PILOT ENTRY secondary
+3. **NVDA re-eval at open** — if bp drops through $192.92 anchor OR real pullback structure forms → clear from chase-gate; otherwise HOLD
+4. **AAPL base-formation watch** — Day-3+ base above $310 = future candidate (not today)
+
+**Fallback:** If ASTS AND OKLO fail gates → HOLD (37th under-deployed session). Cash preserved for (a) AMD Tue AMC post-print MRVL/AVGO Day-1 base-hold window Wed 8/5, (b) ASTS actual launch Wed 8/5 12:42 AM PT (post-launch drift-play secondary entry window), (c) OKLO final pre-earnings entry window through Thu 8/6.
+
+### Bias to Open (~06:30 AM PT)
+- **ASTS:** PRIMARY — $60 reclaim + spread <1% + tape green = pilot entry ($540-780, -10% stop $54, target $75)
+- **OKLO:** SECONDARY — $40 reclaim + spread <1% + tape green = pilot entry ($800, -10% stop $36, target $60)
+- **NVDA:** SKIP unless chase-gate resolves
+- **AAPL / MSFT / AMZN / META / MRVL / AVGO / AMD:** SKIP (blocks/blocks/blocks)
+- **RKLB / AEHR / NBIS:** SKIP (structural/sizing)
+
+**Next scheduled routine:** Mon 8/3 Market-Open ~06:30 AM PT (ASTS/OKLO gate check + ISM PMI pivot + Week 16 Day 1 execution window + PLTR post-print prep).
