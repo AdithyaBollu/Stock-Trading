@@ -15,20 +15,21 @@ Open these in order before doing anything:
 Defined in .claude/commands/ (local) and routines/ (cloud). Five scheduled
 runs per trading day plus two ad-hoc helpers.
 ## Strategy Hard Rules (quick reference)
-- NO OPTIONS, NO ETFs — ever. Individual stocks only.
-- Two sleeves: Alpha stocks (65–75%), Niche/speculative (25–30%).
-- Max 12 total positions.
-- Alpha: max 15% per position.
-- Niche: max 12% per position, 2.5:1 R:R required, hard -10% stop.
-- Core niche watchlist: ASTS, RKLB, OKLO, AEHR, NBIS — research every session.
-- Max 20 new trades per week (alpha + niche combined).
+- NO OPTIONS — ever, under any circumstances.
+- Index ETFs (VOO, SPY, QQQ) PERMITTED in long-term sleeve only.
+- Two sleeves: Long-term holds (50%), Short-term active trades (50%).
+- Cash ≤ 5% at all times. Cash > 5% = failure — buy VOO in long-term sleeve.
+- Max 15 total positions.
+- Long-term: max 20% per position. Quality stocks + VOO/SPY/QQQ.
+- Short-term: max 15% per trade. Cut losers at -7% manually.
+- Core niche watchlist (short-term): ASTS, RKLB, OKLO, AEHR, NBIS — research every session.
+- Max 25 new trades per week (both sleeves combined).
 - 10% trailing stop GTC on every position.
-- Cut losers at -7% manually.
 - Tighten trail to 7% at +15%, to 5% at +20%.
-- Never within 3% of current price. Never move a stop down.
-- Follow sector momentum. Exit a sector after 2 failed trades.
+- Never move a stop down.
+- Earnings calendar polled every Monday — classify each reporter as pre-entry, drift-watch, or avoid.
 - Niche entry requires full 7-point research (earnings, analysts, institutions, news, sentiment, technical, thesis).
-- Aggressive bias — deploy capital on quality setups. Under-deployment is a failure mode.
+- Deploy aggressively. If a setup exists, take it the same session. Under-deployment is always a failure.
 ## Git / Worktree Rules
 - **Never use worktree isolation.** Always work directly on the `main` branch
   in the repo root so all agents share the same `memory/` files in real time.

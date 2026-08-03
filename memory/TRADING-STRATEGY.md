@@ -1,155 +1,172 @@
 # Trading Strategy
 ## Mission
-Beat the S&P 500 over the challenge window through stock picking alone. Two sleeves: high-conviction alpha stocks + niche/asymmetric picks. Stocks only — no options, no ETFs, ever.
+Beat the S&P 500 over the challenge window through aggressive stock picking and disciplined capital deployment. Two sleeves: long-term holds (quality stocks + index ETFs) + short-term active trades (earnings plays, momentum, niche/speculative). Stocks and index ETFs only — no options, ever.
 
 ## Philosophy
-Concentrate in 8-12 high-conviction individual stocks across two sleeves. Alpha sleeve is the core engine; niche sleeve captures asymmetric upside in disruptive/under-the-radar names. Lean aggressive — deploy capital when a thesis clears the bar. Patience still trumps random activity, but "HOLD" is not a default dodge when real setups exist. Be willing to size up on high-conviction niche ideas with documented research.
+**Capital sitting in cash is a failure.** Deploy 95–100% of capital at all times. If no single-stock idea clears the bar, park excess in VOO/QQQ in the long-term sleeve — never let capital sit idle. The long-term sleeve provides a stable return baseline; the short-term sleeve generates alpha. Both must be fully deployed and actively managed. Be aggressive: size up on high-conviction, act on good setups the same session you find them.
 
 ## Capital & Constraints
 - Starting capital: ~$10,000
 - Platform: Alpaca
-- Instruments: Individual stocks ONLY — no options, no ETFs, ever
-- PDT limit: 3 day trades per 5 rolling business days (account < $25k)
+- Instruments: Individual stocks + index ETFs (VOO, SPY, QQQ) in long-term sleeve only — NO OPTIONS, EVER
+- PDT limit: 3 day trades per 5 rolling business days (account < $25k) — swing trades only
 - All times in PST (market opens 6:30 AM PST, closes 1:00 PM PST)
 
 ## Capital Allocation — Two Sleeves
 
-| Sleeve | Target | Max per position | Positions |
-|--------|--------|-----------------|-----------|
-| Alpha stocks | 65–75% | 15% per stock | 5–7 positions |
-| Niche/speculative | 25–30% | 12% per pick | 3–5 positions |
-| Cash buffer | 5–10% | — | For adds and opportunities |
+| Sleeve | Target | Max per position | Hold Period | Positions |
+|--------|--------|-----------------|-------------|-----------|
+| Long-term | 50% | 20% per stock/ETF | Weeks to months | 3–6 positions |
+| Short-term | 50% | 15% per trade | Days to weeks | 5–9 positions |
+| Cash buffer | ≤5% | — | Settlement only | — |
 
-Total deployed target: 90–95%. Max 12 total positions.
+Total deployed target: **95–100%.** Cash > 5% is a failure mode — find a setup or buy VOO.
+Max 15 total positions.
 
-## Sleeve 1 — Alpha Stocks (65–75%)
+---
 
-High-conviction, catalyst-driven positions in sector-momentum names or high-quality mean-reversion setups. Hold weeks to months.
+## Sleeve 1 — Long-Term (50%)
+
+Quality growth stocks and index ETFs held weeks to months. Core engine for stable capital growth.
+
+### Instruments Allowed
+- **Index ETFs**: VOO, SPY, QQQ — use as default parking when no better individual stock clears the bar
+- **Quality growth stocks**: sector leaders with durable competitive advantage, earnings growth trend
 
 ### Core Rules
-1. NO OPTIONS, NO ETFs — ever
-2. Max 15% of equity per alpha position
-3. Max 20 new trades per week (alpha + niche combined)
-4. 10% trailing stop GTC on every position (place immediately after fill)
-5. Cut losers at -7% manually — do not wait for the stop
+1. NO OPTIONS — ever, under any circumstances
+2. Index ETFs (VOO, SPY, QQQ) are PERMITTED in this sleeve only
+3. Max 20% of equity per position (stocks or ETFs)
+4. 10% trailing stop GTC on every position
+5. Cut if thesis fundamentally breaks — do not hold through broken fundamentals
 6. Tighten trail: 7% at +15%, 5% at +20%
-7. Never move stop within 3% of current price; never move a stop down
-8. Follow sector momentum OR take contrarian mean-reversion in oversold leaders with a documented catalyst
-9. Event-risk weeks (FOMC, mega-cap earnings) do NOT auto-veto entries — size down to 10% max per position that week and proceed if R:R clears the bar
-10. Default bias: if a setup clears the checklist, TAKE IT. Only HOLD when nothing clears the checklist — not as a reflex.
+7. If long-term sleeve < 50% deployed: buy more of existing winners or add VOO/QQQ immediately
+8. Hold through normal volatility — only exit on stop hit or broken thesis
 
-### Sector Themes (2025–2026) — prioritized
-- **AI / Semiconductors (core focus)** — NVDA, AMD, AVGO, MRVL, ANET, INTC, TSM, MU, QCOM, ARM, SMCI, ASML, KLAC, LRCX, AMAT
-- **Mega-cap Tech** — MSFT, GOOGL, META, AMZN, AAPL (earnings-driven entries OK)
-- **Defense & Aerospace** — LMT, RTX, NOC, PLTR
-- **Healthcare Innovation** — biotech catalysts, GLP-1 plays (LLY, NVO)
-- **Energy** — LNG, natural gas infrastructure, selective clean energy
-- **Infrastructure & Industrials** — CAT, DE, PWR, VST, CEG (data-center power)
+### Target Names — Long-Term Sleeve
+- **AI / Semiconductors**: NVDA, AMD, AVGO, MRVL, ANET, TSM, MU, SMCI, ASML
+- **Mega-cap Tech**: MSFT, GOOGL, META, AMZN, AAPL
+- **Disruptive / Niche (long-term thesis)**: ASTS, RKLB, OKLO — if 6–12 month thesis documented
+- **Defense & Infrastructure**: LMT, RTX, PLTR, VST, CEG
+- **Index fallback**: VOO (S&P 500), QQQ (Nasdaq 100) — always valid if no better idea
 
 ### Entry Checklist
-- Clear catalyst documented in today's RESEARCH-LOG?
-- Sector in momentum OR defensible mean-reversion thesis?
-- Position cost ≤ 15% of equity (≤ 10% during event-risk weeks)?
-- Stop defined 10% below entry?
-- Target ≥ **1.2:1 R:R**?
-- Total trades this week ≤ 20?
-- Total positions after trade ≤ 12?
+- Thesis documented (why this name, why now, target price)?
+- Position cost ≤ 20% of equity?
+- 10% trailing stop placed immediately after fill?
+- Total positions after trade ≤ 15?
+- Total trades this week ≤ 25?
+- For ETFs (VOO/SPY/QQQ): no additional checklist required — just buy if sleeve < 50%
 
 ### Exit Triggers
 - Trailing stop hit (automatic GTC)
-- -7% intraday — cut manually
-- Thesis broken intraday → cut immediately regardless of P&L
-- +20% → cancel old stop, place 5% trail
-- +15% → cancel old stop, place 7% trail
+- Thesis fundamentally broken (guidance cut, sector collapse, management change)
+- +20% → tighten trail to 5%
+- +15% → tighten trail to 7%
 
-## Sleeve 2 — Niche / Speculative (25–30%)
+---
 
-Asymmetric, high-conviction plays — binary catalysts, sector dislocations, small-cap breakouts, disruptive tech, space/nuclear/AI-infra, earnings setups. Hold days to weeks for breakout plays, weeks to months for thesis plays.
+## Sleeve 2 — Short-Term / Active (50%)
 
-### Core Niche Watchlist (always research these daily)
+Aggressive active trading: earnings plays, technical breakouts, sector rotations, niche/speculative. Hold 1–14 days.
+
+### Sub-categories
+- **Earnings plays**: pre-earnings setup OR post-earnings drift (beat + guide raise)
+- **Momentum/technical**: breakouts above resistance, sector rotation leaders
+- **Niche/speculative**: ASTS, RKLB, OKLO, AEHR, NBIS and similar disruptors — binary catalyst or thesis buildup
+
+### Core Niche Watchlist (always research these — niche sub-category)
 - **ASTS** — AST SpaceMobile (space-based mobile broadband; constellation buildout)
 - **RKLB** — Rocket Lab (launch services + satellite components; Neutron rocket)
 - **OKLO** — Oklo Inc. (advanced nuclear microreactors; data-center power demand)
 - **AEHR** — Aehr Test Systems (next-gen semiconductor test equipment; SiC/GaN wave)
 - **NBIS** — Nebius Group (European AI infrastructure / GPU cloud)
-- Scan for similar: early-stage disruptors in space, nuclear, AI infra, defense tech, next-gen semis
+- Scan for similar: space, nuclear, AI infra, defense tech, next-gen semis, biotech catalysts
 
-### Rules
-1. Max 12% of equity per niche position
-2. Max 3–5 niche positions open simultaneously
-3. Require minimum **2.5:1 R:R** thesis documented before entry
-4. Hard stop at -10%, no exceptions, no extensions
-5. Counts toward the 20-trade/week combined limit
-6. Deep pre-trade research required before any entry (see Entry Checklist below)
+### Core Rules
+1. Individual stocks ONLY in this sleeve — no ETFs
+2. Max 15% of equity per short-term position
+3. Hard cut at -7% — no exceptions, no holding through a loser
+4. 10% trailing stop GTC on every new position
+5. Tighten trail: 7% at +15%, 5% at +20%
+6. Earnings plays: size to 10% if taking binary event risk
+7. If short-term sleeve < 50% deployed: find an earnings play, momentum name, or niche setup — do not sit on cash
+8. Counts toward the 25-trade/week combined limit
+9. Minimum R:R: **1.5:1** (short-term), **2.5:1** (niche/speculative)
 
-### Entry Checklist
-- Asymmetric thesis written out (2.5:1 R:R minimum)?
-- Earnings/outlook researched: EPS trend, revenue growth, forward guidance?
-- Analyst ratings + recent upgrades/downgrades checked?
-- Institutional ownership / insider activity checked?
-- Recent news + community sentiment reviewed?
-- Position cost ≤ 12% of equity?
-- Hard stop at -10% defined?
-- Total trades this week ≤ 20?
+### Entry Checklist — Earnings Plays
+- Beat + guide raise (post-earnings drift) OR strong pre-earnings technical + bullish consensus trend
+- Sector tailwind confirmed?
+- Position ≤ 10% (binary event) or ≤ 15% (drift play after report)?
+- Stop at -7%?
 
-### Niche Research Requirements (per candidate, every session)
-Document all of the following in RESEARCH-LOG before entering:
-1. **Earnings/Fundamentals**: last 2 quarters EPS trend, revenue growth %, guidance raised/lowered, next earnings date
-2. **Analyst Coverage**: current price targets, recent upgrades/downgrades, consensus rating, highest/lowest target
-3. **Institutional Activity**: recent 13F changes, large fund entries or exits, notable insider buying/selling
-4. **News & Catalysts**: key news last 2 weeks, upcoming catalysts (earnings date, product launch, contract, regulatory)
-5. **Community Sentiment**: investor community outlook, short interest %, squeeze potential
-6. **Technical Setup**: support/resistance, trend (uptrend/base/breakdown), volume pattern
-7. **Thesis**: one paragraph — why this stock, why now, what is the asymmetric upside
+### Entry Checklist — Niche / Speculative
+- Full 7-point research documented in RESEARCH-LOG:
+  1. Earnings/Fundamentals: last 2 quarters EPS trend, revenue growth, guidance
+  2. Analyst Coverage: price targets, recent upgrades/downgrades
+  3. Institutional Activity: 13F changes, insider buying/selling
+  4. News & Catalysts: key news last 2 weeks, upcoming events
+  5. Sentiment: short interest %, squeeze potential, investor community view
+  6. Technical: support/resistance, trend, volume
+  7. Thesis: why now, what's the asymmetric upside, 2.5:1 R:R path
+- Position ≤ 15% of equity?
+- Hard stop at -7% defined?
+
+---
+
+## Earnings Calendar — Weekly Discipline (MANDATORY)
+Every Monday pre-market, poll the full week's earnings calendar. For each reporting company:
+
+**Research required per earnings ticker:**
+bash scripts/perplexity.sh "<TICKER> earnings preview consensus EPS revenue guidance analyst sentiment"
+bash scripts/perplexity.sh "<TICKER> options implied move earnings sentiment bull bear case"
+bash scripts/perplexity.sh "<TICKER> institutional positioning going into earnings $DATE"
+
+**Classify each as:**
+- **PRE-EARNINGS ENTRY**: strong technical base + bullish estimate trend + sector tailwind → enter before report, size to 10%
+- **POST-EARNINGS DRIFT WATCH**: wait for clean beat + guide raise → enter next morning
+- **HOLD CURRENT (if owned)**: document plan — hold/trim/exit before report
+- **AVOID**: weak setup, binary risk without edge, negative sentiment
+
+Refresh sentiment check each subsequent day that week for the ones on watch.
+
+---
 
 ## Macro & Geopolitical Monitoring (daily)
-Every pre-market routine must assess the following and log findings in RESEARCH-LOG:
+Every pre-market routine must assess the following and log in RESEARCH-LOG:
 - **Fed policy**: rate decision status, next FOMC date, FedWatch cut probability, Fed speakers
 - **Inflation**: latest CPI/PPI/PCE reading, trend direction, expectations vs actual
 - **Economic data**: jobs/unemployment, GDP revision, consumer confidence
-- **Treasury yields**: 2yr/10yr spread — inversion = recession signal; steep rise = multiple compression
-- **Geopolitical**: active conflicts affecting oil/commodities (Middle East, Russia/Ukraine), US-China trade/tariffs, sanctions
-- **Fiscal**: US debt ceiling, government spending bills, any sector-specific legislation
+- **Treasury yields**: 2yr/10yr spread — steep rise = multiple compression risk
+- **Geopolitical**: conflicts affecting oil/commodities (Middle East, Russia/Ukraine), US-China trade/tariffs
+- **Fiscal**: US debt ceiling, government spending, sector-specific legislation
 
-Impact classification for each active event:
-- **HIGH**: directly reprices sector today → reduce new position sizing, tighten existing stops
-- **MEDIUM**: developing — monitor intraday, no immediate action
+Impact classification:
+- **HIGH**: directly reprices sector today → size down to 10% max, tighten existing stops
+- **MEDIUM**: developing — monitor intraday
 - **LOW/PRICED IN**: noted, business as usual
 
-## Earnings Focus
-Every pre-market routine must surface companies reporting earnings this week and evaluate each as a potential entry/exit:
-- **Pre-earnings entry:** only if clear fundamental/technical setup + catalyst thesis. Size down to 10% max. Count toward weekly limit.
-- **Post-earnings entry (drift play):** preferred — enter morning after a clean beat + guide-raise with sector tailwind. Niche sleeve eligible.
-- **Currently-held ticker reporting:** document pre-earnings plan (hold/trim/stop adjust) in RESEARCH-LOG the day before.
+---
+
+## General Market Health Check (daily)
+- S&P 500, Nasdaq, Russell 2000 performance vs prior day
+- Sector rotation: which sectors leading, which lagging
+- Market breadth: advance/decline ratio
+- VIX level: <15 = low fear (lean aggressive), 15–25 = normal (standard sizing), >25 = elevated (reduce new positions to 10% max)
+- Put/call ratio
+
+---
 
 ## Weekly Rhythm
-- Monday: review all positions against thesis; assess adds; log this week's earnings calendar; refresh niche watchlist
-- Daily: track stops, thesis health, sector momentum, earnings calendar, niche watchlist pulse
-- Friday: full weekly review — grade the week, adjust strategy if 2+ weeks of evidence
-- Ongoing: tighten stops on winners per the schedule above
+- Monday: full earnings calendar pull + sentiment for each reporter; review all positions vs thesis; niche watchlist refresh
+- Daily pre-market: macro scan, geopolitical, Fed, general market health, niche radar, earnings sentiment update
+- Midday: cut losers, tighten stops on winners, check sleeve deployment — if cash > 5%, find a setup or buy VOO
+- Friday: full weekly review, grade the week, adjust strategy if 2+ weeks of evidence
 
-## Deployment & Niche Activation Policy (added 2026-05-22, Week 5 review)
-Five consecutive weeks ran at ~17–27% deployed vs the 70–75% alpha target with an empty niche sleeve. The held book worked every week, but the cash drag was the primary driver of benchmark underperformance in up-weeks. The no-chase gate is correct and stays; the fix is broadening *how* capital gets deployed, not lowering the quality bar.
+---
 
-### Counter-policy 1 — Core-eligible universe entry (rewritten 2026-07-03 Week 11; amended 2026-07-17 Week 13)
-
-**Track A (fixed-anchor trail-defended winner re-entry) is DEPRECATED as of 2026-07-17 Week 13 review.** 15 consecutive AAPL chase-gate misses across 5 sessions of Week 13 (with AAPL closing +17% above the trail-out anchor $285.82 by Fri 7/17 without a pullback structure ever forming) confirmed that a fixed anchor becomes stale in any continuation-tape leg. Track A collapses into the unified Core-eligible universe entry rule below.
-
-**Core-eligible universe (unified Track):**
-- Pre-approved universe: **AAPL, NVDA, MSFT, AMZN, META, AMD** (from the Sector Themes list), PLUS any alpha winner previously exited at the 10% trail GTC within the prior 30 trading days.
-- **Standard entry (unchanged from Week 11 Track B):** a normal 3–5% pullback to a **rising 20-DMA** with a **volume reclaim** off that level. Sizing ≤10% of equity, spread <0.5%, session volume ≥ 20-day average, tape green >+0.3%, next earnings date verified. 3%-HOD chase-gate relaxes to 1.5%-HOD for these entries satisfying ALL conditions.
-- **Pilot entry allowance (added Week 13 review — RATIFIED with second-event confirmation from Week 13's 15/15 AAPL gate-miss evidence):** For any core-eligible name satisfying (a) Day-3+ session base-hold above a prior key level, (b) spread <0.5%, (c) tape green ≥+0.3%, (d) session volume ≥ 20-day average, (e) next earnings date verified as ≥5 sessions away, a **HALF-SIZE (5% of equity, not 10%) pilot entry** may be initiated WITHOUT requiring a 3-5% pullback structure and WITHOUT clearance of the 3%/1.5%-HOD chase-gate. The remaining 5% sizing (up to the 10% cap) is deferred until either (i) a real pullback structure develops (3-5% pullback to rising 20-DMA + volume reclaim = full standard-entry criteria), OR (ii) the pilot position reaches the +15%/+20% trail-tighten trigger. Place 10% trail GTC immediately on the pilot fill per the standard rule.
-- Never add into a vertical/extended move with no pullback structure (rule unchanged).
-- Counts toward the 20-trade/week limit.
-
-Purpose: The Week 11 rewrite gave the policy a non-empty eligible universe. The Week 13 pilot-entry allowance directly addresses the 3%-HOD chase-gate's binding constraint on continuation-tape entries — allows gradual participation in validated Day-3+ base-hold candidates while limiting chase-fill downside via 5% sizing, and preserves optionality for a full 10% add on any real subsequent pullback.
-
-### Counter-policy 2 — Mandatory niche screen
-- The pre-market routine MUST produce an explicit niche-candidate list **every session**: core watchlist (ASTS, RKLB, OKLO, AEHR, NBIS), FDA calendar, small-cap breakout scan, mid-cap post-earnings drift.
-- **Step 0 (sizing pre-filter, added 2026-06-12 Week 8 review):** skip any candidate whose share-price exceeds `equity × 0.10 / 6` (so that ≥6-share lots are feasible at the niche 10% sizing cap). At current equity ~$9,845 the cutoff is ~$164. Re-evaluate sized-out names (CRWD, MSTR, $300+ tickers) only when equity grows enough to make them feasible — do not re-burn screen budget on the same arithmetic each week.
-- At least one screened candidate (post-pre-filter) must be logged with a take/skip reason — "no idea cleared" is only acceptable output AFTER the full screen has demonstrably run.
-- Niche entries still require the 2.5:1 R:R thesis + -10% hard stop + ≤12% sizing.
-- Deep research (7-point checklist) required for any new niche name before first entry.
-
-### Deployment floor (soft target, not a forced-trade mandate)
-- Target lifting alpha deployment toward 40%+ on the first qualifying core-add or A+ setup. This is a bias to act on quality, NOT a license to chase to hit a number — under-deployment is still preferable to a forced bad entry. The floor exists to counter the proven under-deployment pattern, not to override the no-chase gate.
+## Deployment Rules (Hard)
+- Cash > 5%: BUY. Find a setup immediately. If no single stock clears, buy VOO in long-term sleeve.
+- Long-term sleeve < 50%: add to existing long-term winners or buy VOO/QQQ
+- Short-term sleeve < 50%: find an earnings play, momentum name, or niche setup
+- Under-deployment is a failure mode every single time it occurs.
