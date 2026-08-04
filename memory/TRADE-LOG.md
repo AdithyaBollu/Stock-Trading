@@ -2652,3 +2652,45 @@ Alpha sleeve: $0 (0%). Niche sleeve: $0 (0%). Trades today: none (0 fills). Trad
 **Notes:** Tue 8/4 market open — **the 39-consecutive-session 100%-cash drought is over.** Deployment went 0.00% → **96.25%** in one session. Long-term sleeve $4,797.57 (49.2%) vs 50% target ✓ · short-term sleeve $4,592.88 (47.1%) vs 50% target ✓ · cash $365.52 (3.75%) vs ≤5% cap ✓. Root cause of the drought, identified in today's pre-market log: three self-invented gates — a "spread <1%" test computed from pre-market IEX odd-lot quotes (which read GOOGL at 10.6% when its real regular-hours spread is ~0.08%), a "chase-gate", and a "pilot rule" — none of which appear anywhere in TRADING-STRATEGY.md. All three are retired. The rulebook calls under-deployment a failure mode every single time it occurs; 39 sessions of it was self-inflicted, not structural. **Fill slippage vs pre-market marks:** AMAT filled $542.51 vs $518 planned (+4.7%) — this is the one degraded entry, R:R compressed from 2.3:1 to **1.59:1**, still above the 1.5:1 short-term floor but with no margin; if it fails to hold $520 it is the first trim candidate. MU filled $870.90 vs $865 (+0.7%), AEHR $96.37 vs $97 (-0.6%, better), PLTR $148.39 vs $145.40 (+2.1%). All other fills within 1% of plan. **Day P&L:** +$54.90 (+0.57%) vs last_equity $9,702.39 — PLTR +2.01%, AEHR +2.15% leading; GOOGL -0.14% and AMAT -0.61% the only red. **Phase P&L -$242.71 (-2.43%)** vs $10k baseline, improved from -$297.61. **Trades this week: 8/25** (17 remaining). **Open positions 8/15** (7 slots). **Daytrade count 0/5 rolling** — all entries are swings, PDT headroom fully intact. Buying power $27,756.22 (4x margin, unused). **Event posture:** AMD + ANET report AMC tonight — no pre-print exposure taken by design; both become Wednesday drift candidates on a beat + raise, and ANET's AI-networking read-through matters for the LT sleeve. Four niche catalysts land inside five sessions — ASTS BB11/12/13 launch 8/5 and earnings 8/10, NBIS earnings 8/6, RKLB SpaceX 911.5M-share unlock 8/6, OKLO earnings 8/10 — all WATCH, no entry; cash headroom is deliberately thin, so any of these gets funded by trimming, not by holding cash. Friday 8/7 BLS jobs print is the week's macro pivot. **Risk to the whole book:** every long is levered to the same disinflation + AI-capex impulse; a Hormuz re-escalation that reverses the oil collapse would hit all eight at once. The 10% trails are the only defense and they are all live. **Discord notification SENT.**
 
 **Next scheduled routine:** Tue 8/4 Midday Scan ~09:00 AM PT (−7% manual-cut scan on PLTR/AMAT/AEHR/MU · +15/+20% trail-tighten ladder check · sleeve balance · AMD/ANET pre-print posture hold).
+
+## 2026-08-04 — Midday Scan (Week 16 Day 2, Tuesday — **NO-OP / all 8 positions green** · zero cuts · zero tightens · sleeves balanced 48/48/3.6 · AEHR +12.6% is 2.1% from the +15% ladder)
+
+**Portfolio (~09:20 AM PT):** Equity **$10,056.94** | Cash $365.52 (**3.63%** ✓ ≤5%) | Long MV $9,691.42 (96.37%) | Day P&L **+$354.55 (+3.65%)** vs Mon last_equity $9,702.39 | Phase P&L **+$56.94 (+0.57%)** vs $10k baseline — **first green phase print since the drawdown** | Open positions 8/15 | Open orders 8 (all 10% trailing stops GTC, all ratcheting) | Trades this week 8/25 | Daytrade count 0/5 rolling.
+
+### Position Ledger (~09:20 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Mid | Unreal. % | Day % | MV | % Equity | Trail stop (live) | HWM | Verdict |
+|--------|--------|--------|-------|-----|-----------|-------|-----|----------|-------------------|-----|---------|
+| **AEHR** | short-term (niche) | 13 | $96.372 | $108.51 | **+12.60%** | **+18.32%** | $1,410.63 | 14.03% | $99.153 | $110.17 | **HOLD** — 2.1% from +15% tighten ($110.83); stop now above cost basis, trade is de-risked |
+| **PLTR** | short-term | 9 | $148.387 | $160.48 | **+8.15%** | **+27.72%** | $1,444.32 | 14.36% | $144.711 | $160.79 | **HOLD** — post-earnings drift working; +15% ladder at $170.64 |
+| **MU** | short-term | 1 | $870.90 | $893.22 | +2.56% | +7.68% | $893.22 | 8.88% | $809.136 | $899.04 | HOLD — memory cycle / Korea capex thesis confirming |
+| **AMAT** | short-term | 2 | $542.505 | $545.46 | +0.55% | +5.26% | $1,090.92 | 10.85% | $492.48 | $547.20 | **HOLD — trim-watch cleared.** Held $520 comfortably; the degraded 1.59:1 fill is now in the money |
+| **MSFT** | long-term | 1 | $485.84 | $496.94 | +2.28% | +1.91% | $496.94 | 4.94% | $449.406 | $499.34 | HOLD |
+| **QQQ** | long-term | 2 | $709.99 | $719.22 | +1.30% | +2.73% | $1,438.43 | 14.30% | $647.512 | $719.458 | HOLD |
+| **GOOGL** | long-term | 4 | $371.80 | $376.00 | +1.13% | +0.67% | $1,504.00 | 14.96% | $340.267 | $378.075 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $706.48 | +0.95% | +1.45% | $1,412.96 | 14.05% | $636.129 | $706.81 | HOLD |
+
+### Niche Watchlist — Not Held (research-every-session)
+
+| Ticker | Last | Day % | Catalyst | Verdict |
+|--------|------|-------|----------|---------|
+| **ASTS** | $69.42 | **+9.27%** | BB11/12/13 launch **tomorrow 8/5**; earnings 8/10 | **NO ENTRY** — already extended into a binary launch; funding it requires trimming a green position, and nothing is broken |
+| **NBIS** | $224.86 | +5.72% | Q2 earnings Thu 8/6 | NO ENTRY — pre-print, no cash |
+| **RKLB** | $74.22 | +5.33% | SpaceX 911.5M-share unlock 8/6 | NO ENTRY — supply overhang into the unlock |
+| **OKLO** | $43.33 | +5.12% | Earnings 8/10 | NO ENTRY — pre-print, no cash |
+| SPY (tape) | $768.58 | **+1.43%** | — | Broad tape strongly green; risk-on |
+
+### Actions Taken (STEPS 3–8)
+- **STEP 3 — cut losers (≤ -7%):** **NONE.** Every one of the 8 positions is green. Worst performer is AMAT at +0.55%. **No cuts.**
+- **STEP 4 — tighten trailing stops (+15% → 7%, +20% → 5%):** **NONE ELIGIBLE.** Best is AEHR at +12.60%, which is 2.40 points short of the +15% rung; PLTR +8.15% next. All 8 trails are ratcheting correctly on their own — every HWM printed today. **No stop modified. No stop moved down.**
+- **STEP 5 — thesis check:** **All 8 theses intact, none broken.** AEHR researched (sharpest mover, +18.3%): no single verifiable headline for today's move; Perplexity attributes it to follow-on FOX-XP production-order flow from an AI/hyperscale networking customer layered on the 7/17 print (Q4 rev +33.7% y/y, record $60.7M bookings, $100M backlog, FY27 guide $130–150M). **Thesis strengthening, not breaking — hold.** PLTR +27.7% is the beat-and-raise drift working exactly as the entry contemplated. MU +7.7% / AMAT +5.3% confirm the Korea $500B fab-capex read-through. LT sleeve tracking the tape.
+- **STEP 6 — sleeve balance & cash deployment:** **NO ACTION REQUIRED — all three tests pass.** Long-term $4,852.33 = **48.25%** (target 50%, floor 40% ✓). Short-term $4,839.09 = **48.12%** (target 50%, floor 40% ✓). Cash $365.52 = **3.63%** ✓ under the 5% cap. Nothing to deploy; buying more would breach the cash rule or use margin.
+- **STEP 7 — intraday research:** RUN on AEHR (sharpest mover). No new setup worth an addendum — the four niche names are all up 5–9% intraday and would be chases, and there is no cash to fund one without trimming a healthy green position. RESEARCH-LOG unchanged.
+- **STEP 8 — Discord notification:** **SKIP — no action taken.** Routine sends only on action.
+
+### Rule Compliance
+8 positions ≤ 15 ✓ · 8 trades this week ≤ 25 ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT position GOOGL 14.96% ≤ 20% ✓ · largest ST position PLTR 14.36% ≤ 15% ✓ (AEHR 14.03%) ✓ · cash 3.63% ≤ 5% ✓ · 10% trail GTC live on all 8 ✓ · no stop moved down ✓ · daytrade count 0/5 ✓ · no margin used ✓.
+
+**Notes:** Second session after the 39-session cash drought ended, and the book is working. Equity crossed back above the $10,000 baseline for the first time in the phase — **phase P&L +$56.94 (+0.57%)**, up from -$242.71 at this morning's open. The single most important structural fact at midday: **AEHR's trailing stop is at $99.15, which is $2.78 above its $96.37 cost basis** — that position can no longer lose money. PLTR's trail at $144.71 is still $3.68 below cost, so it is the one position where a full round-trip to a loss remains possible; its -7% hard cut sits at $137.99. AMAT, flagged this morning as the first trim candidate on a degraded 1.59:1 fill, held $520 and is now green — **trim-watch cleared, no action**. The whole book remains levered to one macro impulse (disinflation + AI capex); the eight live trails are the only defense and they all ratcheted higher today. **Event posture unchanged: AMD + ANET report AMC tonight — zero pre-print exposure held by design.** Four niche catalysts land inside five sessions (ASTS launch 8/5 + earnings 8/10, NBIS 8/6, RKLB unlock 8/6, OKLO 8/10) — all WATCH; every one is already extended intraday, and funding an entry means trimming a healthy winner, which no rule requires and no thesis justifies. Friday 8/7 BLS jobs print is the week's macro pivot.
+
+**Next scheduled routine:** Tue 8/4 EOD Snapshot ~13:00 PM PT (close marks · AEHR +15% ladder check into the bell · AMD/ANET AMC print posture · Week 16 Day 2 close).
