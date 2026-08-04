@@ -9159,3 +9159,107 @@ NORMAL — pre-market prep complete; AAPL Track B FIRST real pullback structure 
 **Decision:** HOLD. No trades. No notifications (no action taken per STEP 8). Cash preserved for (a) ASTS spread compression continuation into Wed 8/5 launch, (b) OKLO bid-depth stabilization Tue-Thu, (c) AMD Tue AMC print + post-print MRVL/AVGO Day-1 base-hold window Wed 8/5, (d) NFP Fri 8/7 macro pivot.
 
 **Next scheduled routine:** Mon 8/3 EOD summary ~13:15 PT (Week 16 Day 1 close + ASTS/OKLO EOD gate read + PLTR AMC print prep + AMD Tue AMC T-1 setup).
+---
+
+## 2026-08-04 — Pre-Market Research (Week 16 Day 2, Tuesday — **FULL DEPLOYMENT EXECUTED** / Korea $500B fab capex → semi breakout / oil collapse $126→$75 / PLTR beat+raise / AMD+ANET AMC)
+
+### Account Snapshot
+- Equity **$9,702.39** | Cash **$9,702.39 (100.00%)** at open of routine | Buying power $38,809.56 | `positions=[]` `orders=[]` | Trades this week 0/25 (Week 16) | Daytrade 0/5 rolling | Day P&L flat | Phase P&L **-$297.61 (-2.976%)**.
+- **Endpoint note:** `ALPACA_ENDPOINT=https://paper-api.alpaca.markets/v2` — this is a **paper** account, not live, despite CLAUDE.md framing. Flagged for user; execution unchanged.
+- **Local clone was stale at commit 1929385 (7/31 pre-market)** when this routine started; the 7/31 EOD, weekly review, 8/3 pre-market/market-open/midday entries and the strategy overhaul commit were fetched at push time and are preserved above. Research below was conducted independently — the Monday full earnings sweep was re-run today regardless. TRADING-STRATEGY.md verified byte-identical to origin/main, so all rule checks below are against the current rulebook.
+
+### Sleeve Status — **FAILURE STATE ON ENTRY, CORRECTED THIS SESSION**
+- Long-term 0% / Short-term 0% / **Cash 100.00%** = **39th consecutive under-deployed session** (8/3 midday logged the 38th). Cash cap is 5%. Breach = 95 percentage points.
+- **ROOT CAUSE IDENTIFIED — invalid self-imposed gate.** Sessions since ~6/25 blocked entries on a "spread <1%" gate computed from `latestQuote` pulled **pre-market**, when only IEX odd-lot quotes are live. Today's evidence: pre-market NVDA "spread" 10.7%, MSFT 10.1%, GOOGL 10.6%, AEHR 34%, AVGO ask=0 — while GOOGL's actual regular-hours spread is ~0.08% and VOO's is 0.013%. **The gate was measuring a data artifact, not liquidity.** It is not in TRADING-STRATEGY.md and is retired. Same for the invented "chase-gate", "Day-3+ base" and "pilot rule" — none appear in the rulebook, all three produced the 100%-cash state that the rulebook calls a failure mode every single time it occurs.
+- **Corrective action taken this session: 8 market orders queued for the open, 95.3% of equity.** Detail below.
+
+### Market Environment — **NEUTRAL / leaning RISK-ON → standard sizing (up to 15% short-term)**
+- **VIX ~16** (MarketWatch 15.99 7/31 close; YCharts 16.15; Investing 19.31 stale) — down hard from 18.9 mid-July. Below the 15–25 neutral band midpoint → standard sizing, no risk-off haircut.
+- **Breadth BULLISH** — CondorEdge S&P: A/D **1.88:1** (1,525 advancing), composite breadth 68.2/100, **52.3% above 50-DMA, 95% above 200-DMA** = healthy bull regime.
+- **Futures mixed-to-up** — ES 7,571–7,603 (+0.56% one source, -0.15% another); NQ 29,756–30,550; IWM +0.46%. Small-cap participation positive.
+- **Put/call:** total 1.03, equity 0.86 — neutral, no froth, no panic.
+- **Sector leaders/laggards:** Energy leading 1-day (+1.17% to +2.84%); Materials worst (-2.03%). 2026 YTD regime = energy/industrials leadership, tech the laggard — **but that is inverting today** on the semi-capex catalyst below.
+
+### Macro / Geopolitical
+| Event | Class | Read |
+|-------|-------|------|
+| **Oil collapse — WTI $74.40 / Brent $75.68** | **HIGH — RISK-ON** | Down from Brent's **$126 April peak** on US-Iran **de-escalation**. Hormuz risk premium draining. Major disinflationary impulse; supports multiple expansion in long-duration tech. This **reverses** the 7/31 log's "Brent stays elevated" assumption. |
+| **Korea $500B Samsung/SK Hynix chip hub** | **HIGH — RISK-ON, sector-specific** | ~₩800tn / 4 new fabs. Direct wafer-fab-equipment demand → AMAT/LRCX/KLAC; memory tightness → MU. Confirms AI capex cycle intact. Primary trade driver today. |
+| **Fed hawkish hold, 3.50–3.75%** | MEDIUM WATCH | Held 7/29 with hike dissents. June SEP median 3.8% (one cut); market pricing has drifted toward hold-or-hike. JPM baseline = on hold rest of 2026. Cooling oil is the release valve. |
+| **Inflation cooling** | LOW / PRICED IN | June CPI **3.5% y/y** (peaked 4.2% May, 3.8% April); **core 2.6% y/y, 0.0% m/m**. Clear disinflation with oil now $50 off the highs. |
+| **Jobs — BLS Fri 8/7** | MEDIUM WATCH | July +114k, u-rate 4.3%. Claims 233k (< 241k fcst), continuing claims 1.875M rising. Friday print is the week's macro pivot. |
+| **US-China tariffs** | LOW / PRICED IN | 10% reciprocal held, higher tranches suspended to **Nov 10 2026**; Sec 301 exclusions extended. Feb 2026 SCOTUS IEEPA ruling forced redesign. No fresh catalyst. |
+| **Russia/Ukraine** | LOW / PRICED IN | No fresh catalyst. |
+| **SpaceX first earnings AMC + lock-up 8/6** | MEDIUM WATCH | **911.5M shares** unlock two sessions after tonight's print. Sentiment overhang for the whole space complex (RKLB, ASTS) — no mechanical linkage, but supply-shock narrative risk. Direct reason RKLB/ASTS are WATCH not BUY today. |
+
+**Net: no HIGH-impact event forcing the 10% sizing cap.** The two HIGH items are both risk-*on*. Standard sizing applies.
+
+### Earnings Calendar — Week of Aug 3–7 (Monday sweep run today, one day late)
+| Ticker | Date | Time | Classification | Thesis |
+|--------|------|------|----------------|--------|
+| **PLTR** | Mon 8/3 | AMC | **POST-EARNINGS DRIFT — ENTER TODAY** | Rev $1.935B **+93% y/y**; US commercial $764M **+149% y/y**, +28% q/q; govt $990M +79%; adj FCF $1.22B (63% margin); GAAP NI $1.062B (55% margin). **FY26 guide RAISED to $8.15–8.158B (+82%)**, US commercial guide raised to >$3.424B (+134%). +12% AH. Textbook beat + guide raise. |
+| **AMD** | Tue 8/4 | **AMC** | **AVOID pre-print → DRIFT WATCH** | Already **+6.8% pre-market** ($476→$508.5) into a binary. Buying a gap into the print is negative R:R. Re-evaluate Wed on beat+raise. |
+| **ANET** | Tue 8/4 | **AMC** | **AVOID pre-print → DRIFT WATCH** | $180.32→$189.46 pre-mkt. Same logic as AMD. AI-networking read-through matters for the LT sleeve. |
+| CAT / MRK / MCD / PFE / TM / HSBC | Tue 8/4 | BMO | AVOID | Not on universe. |
+| AMGN / GILD / BKNG / SPOT | Tue 8/4 | AMC | AVOID | Not on universe. |
+| BP / EOG / MPC / SU / ET / DUK / SCCO / CMI / EMR / TDG | Tue 8/4 | — | AVOID | Energy/industrial complex; no sleeve fit. |
+| **NBIS** | **Thu 8/6** | est. | **AVOID pre-print → DRIFT WATCH** | Binary T+2. Q1 rev $399M **+684% y/y**, AI cloud +841%, FY26 guide $3.0–3.4B / ARR $7–9B intact. Already **+14.2%** today on the AI-capex halo — chasing into a binary two sessions out fails R:R. |
+| **AMAT** | **Thu 8/13** | AMC | **CLEAR — T+7 sessions** | Buffer confirmed ≥5 sessions. Entry eligible today. |
+| **ASTS** | **Mon 8/10** | — | **WATCH — double binary** | Earnings 8/10 *and* BB11/12/13 launch **tomorrow 8/5**. Two binaries in 4 sessions with a -7% hard cut = stop-out on noise. |
+| **OKLO** | **Mon 8/10** | AMC est. | **WATCH — binary T+4** | Nuclear/data-centre power thesis intact but print inside the hold window. |
+| **MU** | ~Sep 22–23 | — | **CLEAR — far** | No binary risk in the hold window. |
+
+### Long-Term Sleeve Candidates (target 50%)
+- **VOO** — sanctioned default, $696–698. Rulebook: buy whenever the sleeve is under 50% and nothing better clears. Sleeve was at **0%**. Buy. Trail 10%.
+- **QQQ** — $701–708. Nasdaq/AI tilt; the oil collapse + Korea capex both feed it directly. Trail 10%.
+- **GOOGL** — $373.51, +4.9%. Cheapest mega-cap multiple, durable months-horizon thesis, no earnings in the window. Trail 10%.
+- **MSFT** — $487.58, +4.9%. Azure/AI guidance strength from the 7/29 print carrying. Half-weight (5%) — added last, sleeve-balancing.
+
+### Short-Term Candidates (≥1.5:1 R:R; niche ≥2.5:1)
+| Name | Entry | Stop (-7%) | Target | R:R | Rationale |
+|------|-------|-----------|--------|-----|-----------|
+| **PLTR** | ~$145.4 | $135.2 | $170 | **2.4:1** | Post-earnings drift, beat + guide raise. The single cleanest rulebook-named setup on the board. |
+| **AMAT** | ~$518 | $481.7 | $603 | **2.3:1** | Purest listed play on Korea's $500B fab build. Consensus PT **$603** (Strong Buy), high $900. Earnings 8/13 = clear. |
+| **AEHR** | ~$97 | $90.2 | $115 | **2.6:1** ✓niche | FY27 guide **$130–150M vs FY26 ~$50M** (~+170%), 18–22% pre-tax margin, record backlog >$100M. Q4 beat ($0.11 EPS / $18.8M rev). Levered to the same fab wave. No earnings until ~late Sep. |
+| **MU** | ~$865 | $804.5 | $1,000 | **2.2:1** | HBM/DRAM tight, pricing power, HBM4E volume CY2027. Korea capex confirms the memory cycle. Earnings ~Sep 22 = clear. |
+
+### Niche Radar
+| Ticker | Price | Classification | EPS Trend | Analyst Target | Key Catalyst | Short% | Action |
+|--------|-------|----------------|-----------|----------------|--------------|--------|--------|
+| **ASTS** | $67.90 (+15%) | **WATCH** | Q1 miss; next -$0.21e | **$81–85** (hi $108, lo $41) | BB11/12/13 launch **8/5**; Q2 **8/10**; FY26 rev guide $150–200M reaffirmed; 45-sat target early-2027; BB7 launch failure overhang | Elevated | **No entry** — two binaries in 4 sessions + already +15%. Re-check post-launch 8/5. |
+| **RKLB** | $70.47 (+8.5%) | **WATCH** | — | — | Neutron; **SpaceX 911.5M-share unlock 8/6** = sector supply overhang | — | **No entry** — event risk 2 sessions out. |
+| **OKLO** | $41.22 (+6.2%) | **WATCH** | — | — | Q2 **8/10**; data-centre power demand | — | **No entry** — binary inside hold window. |
+| **AEHR** | $91.76–97.70 (+14.7%) | **BUY SETUP** | Q4 EPS $0.11 beat, rev $18.8M beat | Zacks #3; no clean consensus PT | FY27 guide $130–150M, backlog >$100M, SiC/GaN + Korea fab wave | — | **BUY 13 sh** |
+| **NBIS** | $217.37 (+14.2%) | **WATCH** | Q1 rev +684% y/y | 5 analysts, no clean PT | **Earnings 8/6**; FY26 $3.0–3.4B, ARR $7–9B | — | **No entry** — binary T+2 after a +14% gap. Drift-watch 8/6. |
+| **AMAT** *(new)* | $518.15 | **STRONG BUY SETUP** | — | **$603** avg, $900 hi, Strong Buy | Korea $500B / 4 fabs; earnings 8/13 clear | — | **BUY 2 sh** |
+| **MU** *(new)* | $865.26 (+7.2%) | **BUY SETUP** | — | — | HBM tight, DRAM pricing, Korea capex | — | **BUY 1 sh** |
+| LRCX / KLAC / WDC / STX / TER / MPWR / INTC | — | WATCH | — | — | Same Korea catalyst; AMAT chosen as the cleanest single expression | — | No entry — avoid stacking one theme. |
+
+### Decision — **TRADE. 8 orders placed, 95.3% deployed.**
+Market orders, `time_in_force=day`, queued pre-market for the 6:30 AM PT open. Sized off pre-market marks; fills will vary.
+
+| # | Sleeve | Ticker | Qty | ~Cost | % Equity | Cap | Order ID |
+|---|--------|--------|-----|-------|----------|-----|----------|
+| 1 | LT | **VOO** | 2 | $1,394 | 14.4% | ≤20% ✓ | 22f47088 |
+| 2 | LT | **QQQ** | 2 | $1,402 | 14.5% | ≤20% ✓ | 6b00e5b9 |
+| 3 | LT | **GOOGL** | 4 | $1,494 | 15.4% | ≤20% ✓ | 95e0e16b |
+| 4 | LT | **MSFT** | 1 | $488 | 5.0% | ≤20% ✓ | 9ebd5358 |
+| 5 | ST | **PLTR** | 9 | $1,309 | 13.5% | ≤15% ✓ | 9f842eeb |
+| 6 | ST | **AMAT** | 2 | $1,036 | 10.7% | ≤15% ✓ | e3c4f77b |
+| 7 | ST | **AEHR** | 13 | $1,261 | 13.0% | ≤15% ✓ | 18d7c978 |
+| 8 | ST | **MU** | 1 | $865 | 8.9% | ≤15% ✓ | 204fdbea |
+
+**Resulting sleeves:** Long-term **$4,778 / 49.2%** · Short-term **$4,471 / 46.1%** · **Deployed 95.3%** · **Cash $454 / 4.7% ✓ under the 5% cap.**
+
+**Rule check:** 8 positions ≤ 15 ✓ · 8 trades this week ≤ 25 ✓ · no options ✓ · ETFs long-term sleeve only ✓ · no position over its sleeve cap ✓ · every short-term name ≥1.5:1 R:R, AEHR ≥2.5:1 niche ✓ · 0 day trades used ✓ · no margin (cost $9,249 < cash $9,702) ✓.
+
+**MANDATORY FOLLOW-UP at market-open routine:** place **10% trailing-stop GTC on all 8 positions** once filled — cannot be submitted before fill. Hard -7% manual cut levels: PLTR $135.2 · AMAT $481.7 · AEHR $90.2 · MU $804.5.
+
+### Bias to Open (~06:30 AM PT)
+- **Fills first** — verify all 8, then place trails immediately. Top up to ~97% if fills land cheap.
+- **AMD + ANET AMC tonight** — no pre-print exposure. If both beat + raise, AMD becomes a Wed drift candidate; ANET read-through supports the AI-networking complex.
+- **NBIS 8/6, ASTS launch 8/5 + earnings 8/10, OKLO 8/10, RKLB SpaceX unlock 8/6** — four niche catalysts inside 5 sessions. Cash headroom is deliberately thin; fund any of these by trimming, not by holding cash.
+- **Friday 8/7 BLS jobs** — week's macro pivot.
+- **Watch:** oil re-escalation (Hormuz headlines) would reverse today's entire risk-on impulse.
+
+**Next scheduled routine:** Tue 8/4 Market-Open ~06:30 AM PT (fill verification + **trailing stops on 8 new positions** + AMD/ANET pre-print posture).
