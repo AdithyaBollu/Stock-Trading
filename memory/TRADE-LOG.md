@@ -2723,3 +2723,50 @@ Long-term sleeve: $4,871.17 (**48.31%**, target 50% ✓). Short-term sleeve: $4,
 **Tomorrow (Wed 8/5) plan:** AMD/ANET post-print read at the pre-market for a drift candidate and for LT-sleeve read-through; **AEHR +15% ladder check first thing** (tighten trail to 7% on a $110.83 reclaim); PLTR trail now at breakeven — hold and let it ratchet; monitor the ASTS launch as a watch-only event; no new entries unless a setup clears the rules and is funded by a trim, since cash is 3.63% and cannot go below the deployment floor without margin.
 
 **Next scheduled routine:** Wed 8/5 Pre-Market ~5:30 AM PT (AMD/ANET post-print read + AEHR ladder prep + ASTS launch-day watch + Week 16 Day 3 open plan).
+
+## 2026-08-05 — Market-Open Execution (Day 38, Wednesday — Week 16 Day 3) — **NO TRADES**
+
+**Portfolio:** $10,086.61 | **Cash:** $365.51 (3.62%) | **Day P&L:** −$26.39 (−0.26%) | **Phase P&L:** +$86.61 (+0.87%)
+
+| Ticker | Sleeve | Shares | Entry | Open px | Unreal. % | Today % | MV | % Equity | Trail stop (live) | HWM | Action |
+|--------|--------|--------|-------|---------|-----------|---------|-----|----------|-------------------|-----|--------|
+| **GOOGL** | long-term | 4 | $371.80 | $381.69 | +2.66% | +1.07% | $1,526.76 | 15.14% | $345.249 | $383.61 | HOLD |
+| **PLTR** | short-term | 9 | $148.387 | $163.90 | **+10.46%** | +0.76% | $1,475.10 | 14.62% | $149.328 | $165.92 | HOLD — trail now **$0.94 above cost**, breakeven-protected |
+| **QQQ** | long-term | 2 | $709.99 | $725.32 | +2.16% | +0.20% | $1,450.64 | 14.38% | $654.615 | $727.35 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $713.055 | +1.89% | +0.58% | $1,426.11 | 14.14% | $642.3525 | $713.725 | HOLD |
+| **AEHR** | short-term (niche) | 13 | $96.372 | $105.58 | +9.55% | **−3.92%** | $1,372.54 | 13.61% | $99.892 | $110.9915 | HOLD — **ladder trigger NOT hit** |
+| **AMAT** | short-term | 2 | $542.505 | $541.115 | −0.26% | −1.01% | $1,082.23 | 10.73% | $494.703 | $549.67 | HOLD — $520 line intact |
+| **MU** | short-term | 1 | $870.90 | $894.37 | +2.70% | +0.19% | $894.37 | 8.87% | $811.377 | $901.53 | HOLD |
+| **MSFT** | long-term | 1 | $485.84 | $491.895 | +1.25% | −0.19% | $491.895 | 4.88% | $449.406 | $499.34 | HOLD |
+
+### Actions Taken (STEPS 2–9)
+- **STEP 2 — live re-validation:** Equity $10,086.61, cash $365.51 = **3.62% ✓ under the 5% cap**. Long MV $9,721.10 = **96.38% deployed**. Buying power $28,681.12 (4x margin, unused). `balance_asof` 2026-08-04. **No cash flag — nothing to deploy without margin or a trim.**
+- **STEP 3 — rule hard-check:** No order proposed. Positions 8/15 ✓ · trades this week 8/25 ✓ (17 left) · largest LT GOOGL 15.14% ≤ 20% ✓ · largest ST PLTR 14.62% ≤ 15% ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · no margin ✓.
+- **STEP 4 — buys:** **NONE.** All eight pre-market rejections re-verified against live opening marks and all eight still fail: **ANET $212.73 ask** (still above the $210 street high; R:R < 1:1 — re-check only ≤$200), **AMD $487.95** (beat without a guide raise; flat 56% margin guide — fails the drift checklist regardless of the bounce off $473 pre-market), **ASTS / RKLB / OKLO / NBIS** (binary inside 1–3 sessions each), **LRCX / KLAC / TER / NVDA / AVGO / TSM** (would push a book already 33.2% semi deeper into the exact risk AMD just repriced). **No VOO top-up** — the trigger is cash > 5% and cash is 3.62%.
+- **STEP 5 — stops:** **All 8 trailing stops live, GTC, 10%, none modified, none moved down.** Every one ratcheted overnight (PLTR $148.068 → **$149.328**, GOOGL $342.468 → $345.249, VOO $639.783 → $642.3525, QQQ $653.094 → $654.615, MU $811.098 → $811.377). No new position → no new stop required.
+- **AEHR +15% ladder (the one armed action today): NOT TRIGGERED.** Trigger was a reclaim of **$110.83**; AEHR opened at **$105.58 = +9.55%**, −3.92% on the day, 5.4 points below the rung. **Trail left at 10%. No stop modified.** Re-arms at midday.
+- **−7% hard-cut scan:** **no candidates.** Worst position is AMAT at **−0.26%**. All 8 green or flat.
+- **STEP 6 — cash verification after trades:** unchanged at $365.51 = **3.62% ✓**. Long-term sleeve $4,895.41 = **48.53%**; short-term $4,824.24 = **47.83%**. All three tests pass.
+- **STEP 7 — TRADE-LOG:** this entry. No trade rows to add.
+- **STEP 8 — Discord:** **SKIP — no trade placed.** Routine notifies on execution only.
+- **STEP 9 — commit/push:** committed (log entry).
+
+### Niche Watchlist — Not Held (research-every-session)
+| Ticker | Ask/Bid | Catalyst | Verdict |
+|--------|---------|----------|---------|
+| **ASTS** | $70.08 / $64.31 (wide) | **BB11/12/13 Falcon 9 launched 03:42 ET today** — liftoff reported by space.com; **deployment success still not independently confirmed** (prior mission was confirmed ~4h post-liftoff). Earnings Mon 8/10. | **NO ENTRY** — unconfirmed binary outcome plus a second binary in 3 sessions, and no cash to fund it without trimming a healthy green position. Re-check at midday. |
+| **RKLB** | $76.00 / $72.01 | Earnings **tomorrow 8/6** + SpaceX 911.5M-share unlock **same day** | NO ENTRY — two events on one day |
+| **OKLO** | $45.44 / $40.85 | Earnings **Fri 8/7 BMO** (moved forward) | NO ENTRY — binary T+2 |
+| **NBIS** | $225.00 / $188.58 | Earnings date **8/6 vs 8/12 unresolved**; price at consensus PT $220–222 | NO ENTRY — unsizeable binary |
+| **ANET** | $212.73 / $188.72 | Beat + FY26 guide raise to $12.6B, op margin 48–49% | NO ENTRY — still above street-high $210. **Re-check ≤$200** |
+
+Niche quotes are opening-auction-wide on the IEX feed (ASTS 8.2% spread, NBIS 16.2%) — another independent reason not to touch them in the first minutes.
+
+### Rule Compliance
+8 positions ≤ 15 ✓ · 8 trades this week ≤ 25 ✓ · no options ✓ · ETFs in long-term sleeve only ✓ · largest LT 15.14% ≤ 20% ✓ · largest ST 14.62% ≤ 15% ✓ · cash 3.62% ≤ 5% ✓ · 10% trail GTC live on all 8 ✓ · **no stop moved down** ✓ · daytrade count 0/5 ✓ · no margin used ✓.
+
+**Notes:** A no-op open, and correctly so. The mandate is 95–100% deployment and the book is at **96.38%** — the only way to buy today is margin or selling a winner, and no rule requires either while every thesis is intact. The tape split exactly as the pre-market read predicted: **the three semis are the drag** (AEHR −3.92%, AMAT −1.01%, but MU turned green +0.19%) while the mega-caps hold (GOOGL +1.07%, QQQ +0.20%, VOO +0.58%) — an AMD-specific repricing, not broad de-risking. **AEHR is the day's story**: it gave back most of yesterday's FOX-XP spike, sitting +9.55% vs the +15.17% intraday HWM it printed Tuesday, so the armed trail-tighten never fired. Its stop at $99.89 is still **$3.52 above cost** — the position cannot lose money. **PLTR crossed the same line overnight**: its trail ratcheted to $149.328, now **$0.94 above the $148.387 cost basis**, so for the first time no position in the book can round-trip to a loss. **ANET remains the one that got away** — best fundamentals on the board, and the +16% gap took it above every published target; it has since faded to a $212.73 ask, still $2.73 above the street high. Watching for ≤$200.
+
+**Event posture:** ADP payrolls + ISM non-mfg + Fed speakers Cook/Daly today; **RKLB earnings AND the SpaceX 911.5M-share unlock tomorrow 8/6**; **OKLO earnings Fri 8/7 BMO**; **BLS jobs Fri 8/7** is the week's macro pivot; ASTS earnings Mon 8/10; AMAT earnings Thu 8/13 (trim-or-hold decision due ~8/11). Zero pre-print exposure by design. Bessent's Hormuz-deal headline ("today or tomorrow") remains the largest two-sided swing factor for a book entirely levered to disinflation + AI capex.
+
+**Next scheduled routine:** Wed 8/5 Midday Scan ~09:30 AM PT (AEHR $110.83 ladder re-check · ASTS deployment confirmation · AMAT $520 line · ADP/ISM reaction · −7% scan).
