@@ -9395,3 +9395,18 @@ Every candidate was evaluated and each fails an explicit rule, documented above:
 Unchanged and concentrated: all eight longs are levered to the same disinflation + AI-capex impulse, and **33.2% of equity now sits in three semiconductor names on the morning AMD demonstrated that a beat without margin expansion gets sold 9%.** The eight live 10% trailing stops are the only defense, and all eight ratcheted higher yesterday. Two new items enter the watch set: the **Hormuz deal headline risk in both directions** (Bessent: possible "today or tomorrow"), and the **debt-ceiling X-date (Aug 15 – Oct 3)**, which for the first time falls inside the hold window of every current position.
 
 **Next scheduled routine:** Wed 8/5 Market-Open ~06:30 AM PT (AEHR $110.83 trail-tighten trigger · −7% cut scan · AMAT $520 line · ASTS launch confirmation · ADP/ISM reaction).
+
+### Afternoon Addendum — Midday Scan (~09:20 AM PT, Wed 8/5)
+
+**Tape reversed. Book gave back the open.** Equity **$9,960.19** (−$152.81, −1.51% on the day) vs $10,086.61 at the open — the phase is back below the $10k baseline at **−$39.81 (−0.40%)**. Cash $365.51 = **3.67%** ✓. No rule triggered; no action taken.
+
+| Ticker | Move since open | Research pull | Read |
+|--------|-----------------|---------------|------|
+| **GOOGL** | $381.69 → **$361.49** (**−4.28% day**, −5.3% off the open) — flipped from best pre-market performer to worst position in the book | RUN | **AI-capex repricing, not a broken thesis.** Alphabet's FY26 capex guide was raised to **$195–205B** (third hike this year, from $175–185B → $180–190B), pushing **Q2 free cash flow to −$5.9B — negative for the first time in company history**. Today's tape is "sorting the AI trade into two piles: **AI suppliers bought, AI spenders sold**." GOOGL is the archetypal spender. Q2 itself was a beat (EPS $9.11, rev $119.8B +24% y/y, cloud +80%). **Spending through a demand cycle is not a fundamental break** — this is multiple compression on the same business. Long-term sleeve, 10% trail live at **$345.249**. **HOLD.** |
+| **AEHR** | $105.58 → **$104.43** (**−4.97% day**) | RUN | **No verifiable same-day catalyst.** Perplexity returned only a stale prior-quarter print; the current facts are unchanged from the 7/17 report ($41M FOX-XP production order, record $60.7M bookings, ~$100.6M backlog, FY27 guide $130–150M). Second straight session giving back the spike. **Thesis intact; stop $99.892 is $3.52 above cost. HOLD.** |
+| **MU** | **+2.88%** — the book's only strong green | — | The "AI supplier" side of the same rotation that is selling GOOGL. Memory pricing thesis confirming. HOLD. |
+| **ASTS** | — | RUN | **BB11/12/13 launched 03:42 ET today from Cape Canaveral on Falcon 9 — deployment success STILL NOT independently confirmed** at midday (only secondary reporting of the liftoff; no AST/SpaceX mission-success statement, no orbit-insertion confirmation). Earnings Mon 8/10. **NO ENTRY — unchanged.** The binary has still not resolved, and a second binary lands in 3 sessions. |
+
+**Rotation read:** this is not broad de-risking — **VIX ~16.5, flat**, and the split is clean along the AI capex axis (spenders down: GOOGL −4.3%, QQQ −0.4%; supplier up: MU +2.9%). Yesterday's session set record closes on both indices, so today is a give-back inside an uptrend, not a regime change.
+
+**No new setups. No entry funded.** Cash is 3.67% and the two names that moved sharply are both already held. Nothing added to the candidate list; every pre-market rejection (ANET >street-high $210, AMD no guide raise, RKLB/OKLO/NBIS/ASTS binaries) stands unchanged at midday.

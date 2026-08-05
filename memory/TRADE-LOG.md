@@ -2770,3 +2770,47 @@ Niche quotes are opening-auction-wide on the IEX feed (ASTS 8.2% spread, NBIS 16
 **Event posture:** ADP payrolls + ISM non-mfg + Fed speakers Cook/Daly today; **RKLB earnings AND the SpaceX 911.5M-share unlock tomorrow 8/6**; **OKLO earnings Fri 8/7 BMO**; **BLS jobs Fri 8/7** is the week's macro pivot; ASTS earnings Mon 8/10; AMAT earnings Thu 8/13 (trim-or-hold decision due ~8/11). Zero pre-print exposure by design. Bessent's Hormuz-deal headline ("today or tomorrow") remains the largest two-sided swing factor for a book entirely levered to disinflation + AI capex.
 
 **Next scheduled routine:** Wed 8/5 Midday Scan ~09:30 AM PT (AEHR $110.83 ladder re-check · ASTS deployment confirmation · AMAT $520 line · ADP/ISM reaction · −7% scan).
+
+## 2026-08-05 — Midday Scan (Week 16 Day 3, Wednesday — **NO-OP** · zero cuts · zero tightens · sleeves 48.1/48.2/3.7 · GOOGL −4.3% on the AI-capex rotation, thesis intact)
+
+**Portfolio (~09:20 AM PT):** Equity **$9,960.19** | Cash $365.51 (**3.67%** ✓ ≤5%) | Long MV $9,595.53 (96.34%) | Day P&L **−$152.81 (−1.51%)** vs last_equity $10,113.00 | Phase P&L **−$39.81 (−0.40%)** vs $10k baseline — back below the line after two green sessions | Open positions 8/15 | Open orders 8 (all 10% trailing stops GTC) | Trades this week 8/25 | Daytrade count 0/5 rolling | Buying power $28,327.13 (4x margin, unused) | `balance_asof` 2026-08-04.
+
+### Position Ledger (~09:20 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Mid | Unreal. % | Day % | MV | % Equity | Trail stop (live) | HWM | Verdict |
+|--------|--------|--------|-------|-----|-----------|-------|-----|----------|-------------------|-----|---------|
+| **AEHR** | short-term (niche) | 13 | $96.372 | $104.43 | **+8.36%** | **−4.97%** | $1,357.59 | 13.63% | $99.892 | $110.9915 | **HOLD** — ladder NOT hit ($110.83 trigger, 6.1% away); stop $3.52 above cost, cannot lose money |
+| **PLTR** | short-term | 9 | $148.387 | $160.30 | +8.03% | −1.45% | $1,442.70 | 14.48% | $149.472 | $166.08 | **HOLD** — trail ratcheted to **$1.085 above cost**, breakeven-protected |
+| **MU** | short-term | 1 | $870.90 | $918.41 | +5.46% | **+2.88%** | $918.41 | 9.22% | $833.482 | $926.0907 | HOLD — only strong green; "AI supplier" side of today's rotation |
+| **QQQ** | long-term | 2 | $709.99 | $720.70 | +1.51% | −0.43% | $1,441.40 | 14.47% | $655.673 | $728.525 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $708.66 | +1.26% | −0.04% | $1,417.32 | 14.23% | $642.636 | $714.0399 | HOLD |
+| **MSFT** | long-term | 1 | $485.84 | $488.50 | +0.55% | −0.87% | $488.50 | 4.90% | $449.406 | $499.34 | HOLD |
+| **AMAT** | short-term | 2 | $542.505 | $541.82 | −0.13% | −0.88% | $1,083.64 | 10.88% | $498.672 | $554.08 | HOLD — **$520 line intact** |
+| **GOOGL** | long-term | 4 | $371.80 | $361.49 | **−2.77%** | **−4.28%** | $1,445.97 | 14.52% | $345.249 | $383.61 | **HOLD** — capex de-rating, not a broken thesis (long-term sleeve gets room) |
+
+### Niche Watchlist — Not Held (research-every-session)
+
+| Ticker | Catalyst | Verdict |
+|--------|----------|---------|
+| **ASTS** | **BB11/12/13 launched 03:42 ET today — deployment success STILL UNCONFIRMED at midday**; earnings Mon 8/10 | **NO ENTRY** — the binary has not resolved, second binary in 3 sessions, and no cash to fund it without trimming a healthy position |
+| **RKLB** | Earnings **tomorrow 8/6** + SpaceX 911.5M-share unlock same day | NO ENTRY — two events on one day |
+| **OKLO** | Earnings **Fri 8/7 BMO** | NO ENTRY — binary T+2 |
+| **NBIS** | Earnings date 8/6 vs 8/12 still unresolved | NO ENTRY — unsizeable binary |
+| **ANET** | Beat + FY26 guide raise to $12.6B | NO ENTRY — still above street-high $210. **Re-check ≤$200** |
+
+### Actions Taken (STEPS 3–8)
+- **STEP 3 — cut losers (≤ −7%, short-term sleeve):** **NONE.** Worst short-term position is **AMAT at −0.13%**; PLTR +8.03%, AEHR +8.36%, MU +5.46% are all green. Not one name is within 6.8 points of the hard cut. **No cuts.**
+- **STEP 4 — tighten trailing stops (+15% → 7%, +20% → 5%):** **NONE ELIGIBLE.** Best position is AEHR at **+8.36%**, 6.64 points short of the +15% rung — the ladder that was armed at the open **de-armed further today** (AEHR fell from $105.58 to $104.43 vs the $110.83 trigger). PLTR +8.03% next. **No stop modified. No stop moved down.** Five of eight trails ratcheted higher intraday anyway (MU $811.377 → **$833.482**, AMAT $494.703 → $498.672, QQQ $654.615 → $655.673, VOO $642.353 → $642.636, PLTR $149.328 → $149.472).
+- **STEP 5 — thesis check: all 8 intact, none broken.** **GOOGL is the day's story** and was researched: it flipped from the book's best pre-market performer (+1.41%) to its worst position, −4.28% on the day and now −2.77% below cost. Cause is **AI-capex repricing, not a fundamental break** — Alphabet's FY26 capex guide is up to **$195–205B** (third raise this year) and **Q2 free cash flow went negative (−$5.9B) for the first time in company history**, against a quarter that beat on both lines (EPS $9.11, rev $119.8B +24% y/y, cloud +80%). Today's tape is sorting AI **spenders down / suppliers up** — the same impulse that has MU +2.88%. The rulebook cuts long-term positions on a *broken thesis*, not on a drawdown; spending into a demand cycle is not a break. **HOLD, defended by the 10% trail at $345.249.** AEHR researched (−4.97%, second straight give-back): **no verifiable same-day catalyst** — the 7/17 facts ($41M FOX-XP production order, record $60.7M bookings, ~$100.6M backlog, FY27 guide $130–150M) are unchanged. HOLD.
+- **STEP 6 — sleeve balance & cash deployment: NO ACTION — all three tests pass.** Long-term $4,793.19 = **48.12%** (target 50%, floor 40% ✓). Short-term $4,802.34 = **48.21%** (✓). Cash $365.51 = **3.67%** ✓ under the 5% cap. **No VOO top-up** — the trigger is cash > 5% and cash is 3.67%. Buying anything requires margin or trimming a position whose thesis is intact; no rule requires either.
+- **STEP 7 — intraday research:** RUN on GOOGL (sharpest mover), AEHR (second sharpest), ASTS (armed launch confirmation) and the broad tape. **Afternoon addendum appended to RESEARCH-LOG.** No new setup: the two sharp movers are both already held, the four niche names still carry unresolved binaries, and there is no cash to fund an entry.
+- **STEP 8 — Discord notification: SKIP — no action taken.** Routine sends on action only.
+
+### Rule Compliance
+8 positions ≤ 15 ✓ · 8 trades this week ≤ 25 ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT GOOGL 14.52% ≤ 20% ✓ · largest ST PLTR 14.48% ≤ 15% ✓ · cash 3.67% ≤ 5% ✓ · 10% trail GTC live on all 8 ✓ · **no stop moved down** ✓ · daytrade count 0/5 ✓ · no margin used ✓.
+
+**Notes:** First red session since the book was deployed, and it was orderly. Equity gave back **$152.81 (−1.51%)** and the phase slipped back under the baseline to **−$39.81 (−0.40%)**, but the give-back is concentrated in exactly two names — **GOOGL −4.28% and AEHR −4.97%** — and neither is a thesis event. The structural read is a clean **AI-capex rotation: spenders sold, suppliers bought.** GOOGL (the archetypal spender, capex guided to $195–205B with FCF now negative) is the book's worst name today; MU (the archetypal supplier) is the only strong green at +2.88%. That axis, not risk-off, explains the tape — **VIX ~16.5 and flat**, and both indices set record closes yesterday. **Two positions can no longer round-trip to a loss:** AEHR's trail sits $3.52 above cost and PLTR's is now $1.085 above it. GOOGL is the one position that has crossed back below cost, and it sits in the sleeve that is explicitly allowed to breathe. **AMAT held the $520 line again** — trim-watch stays cleared, but its 8/13 print forces a hold-or-trim decision by ~Tue 8/11. **ASTS remains the most frustrating watch on the board:** the BB11/12/13 launch happened this morning and deployment success is *still* unconfirmed at midday, so the binary has not actually resolved — no entry, unchanged.
+
+**Event posture:** ADP payrolls + ISM non-mfg + Fed speakers Cook/Daly today; **RKLB earnings AND the SpaceX 911.5M-share unlock tomorrow 8/6**; **OKLO earnings Fri 8/7 BMO**; **BLS jobs Fri 8/7 is the week's macro pivot**; ASTS earnings Mon 8/10; AMAT earnings Thu 8/13. Zero pre-print exposure by design. Bessent's Hormuz-deal headline ("today or tomorrow") is still the largest two-sided swing factor for a book levered to disinflation + AI capex.
+
+**Next scheduled routine:** Wed 8/5 EOD Snapshot ~13:00 PM PT (close marks · GOOGL capex de-rating follow-through · AEHR ladder re-check · ASTS deployment confirmation · Week 16 Day 3 close).
