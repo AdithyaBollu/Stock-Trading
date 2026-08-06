@@ -9410,3 +9410,161 @@ Unchanged and concentrated: all eight longs are levered to the same disinflation
 **Rotation read:** this is not broad de-risking — **VIX ~16.5, flat**, and the split is clean along the AI capex axis (spenders down: GOOGL −4.3%, QQQ −0.4%; supplier up: MU +2.9%). Yesterday's session set record closes on both indices, so today is a give-back inside an uptrend, not a regime change.
 
 **No new setups. No entry funded.** Cash is 3.67% and the two names that moved sharply are both already held. Nothing added to the candidate list; every pre-market rejection (ANET >street-high $210, AMD no guide raise, RKLB/OKLO/NBIS/ASTS binaries) stands unchanged at midday.
+
+## 2026-08-06 — Pre-Market Research (Week 16 Day 4, Thursday — **CASH BREACH DAY 2: 17.11% — MANDATORY DEPLOYMENT AT OPEN** · global semiconductor rout, SK Hynix −14% / Samsung −13% / SOX −5% · **RKLB earnings date CORRECTED to Mon 8/10 AMC** · **the "911.5M-share unlock" is SpaceX's own, NOT an RKLB event** · **NBIS confirmed Wed 8/12 BMO** · **ASTS BB11/12/13 deployment CONFIRMED SUCCESSFUL** · ANET price data corrected — it never traded above $210)
+
+### Account Snapshot
+- Equity **$9,730.02** | Cash **$1,665.07 (17.11%)** ⚠️ **BREACHES ≤5% — second consecutive session** | Long MV **$8,064.95 (82.89%)** | Buying power $29,242.14 (4x margin, unused) | Last equity $9,839.59 | Day P&L **−$109.57 (−1.11%)** pre-market | Phase P&L **−$269.98 (−2.70%)** vs $10k baseline.
+- Open positions **7/15** · Open orders **7** (all 10% trailing stops GTC) · Trades this week **9/25** (16 remaining) · Daytrade count 0/5 rolling · `balance_asof` 2026-08-05.
+- **Endpoint note:** `ALPACA_ENDPOINT` resolves to the paper API — paper account, not live, despite CLAUDE.md framing. Previously flagged; execution unchanged.
+
+### Sleeve Status — **CASH TEST FAILS. DEPLOYMENT IS MANDATORY THIS SESSION.**
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (GOOGL, QQQ, VOO, MSFT) | $4,765.99 | **48.98%** | 50% | ✓ at target |
+| Short-term (PLTR, AMAT, MU) | $3,299.41 | **33.91%** | 50% | ⚠️ **16.1 pts under — hole left by the 8/5 AEHR stop-out** |
+| Cash | $1,665.07 | **17.11%** | ≤5% | ⚠️ **FAIL — must deploy ≥$1,178.57 today** |
+
+**Position-cap headroom (20% of equity = $1,946.00) — this is the binding constraint today:**
+| Name | MV | % | Room to 20% | Whole shares that fit |
+|------|-----|---|-------------|----------------------|
+| VOO | $1,416.48 | 14.56% | $529.52 | **0** (1 sh = $708.24) — **ETF fallback is position-capped** |
+| QQQ | $1,424.32 | 14.64% | $521.68 | **0** (1 sh = $712.16) — **ETF fallback is position-capped** |
+| GOOGL | $1,441.68 | 14.82% | $504.32 | **1** (1 sh = $360.42) |
+| MSFT | $483.51 | 4.97% | $1,462.49 | **3** (1 sh = $483.51) |
+
+**⚠️ The EOD 8/5 pre-commitment ("buy 2 VOO ≈ $1,417 as the mandated fallback") CANNOT be executed as written.** 2 more VOO shares would take VOO to $2,832.96 = **29.11% of equity**, breaching the 20% single-position cap. Even 1 share breaches it (21.84%). Same for QQQ. **The ETF fallback is unavailable — VOO and QQQ are both maxed.** The compliant path is the long-term sleeve's other rule: *"buy more of existing winners or add VOO/QQQ."* Only MSFT and GOOGL have headroom.
+
+### Position Ledger (pre-market ~05:25 AM PT)
+| Ticker | Sleeve | Shares | Entry | Pre-mkt | Unreal. % | Today % | MV | % Equity | Trail stop (live) | HWM |
+|--------|--------|--------|-------|---------|-----------|---------|-----|----------|-------------------|-----|
+| **GOOGL** | long-term | 4 | $371.80 | $360.42 | **−3.06%** | −0.55% | $1,441.68 | 14.82% | $345.249 | $383.61 |
+| **PLTR** | short-term | 9 | $148.387 | $154.71 | +4.26% | **−2.35%** | $1,392.39 | 14.31% | $149.472 | $166.08 |
+| **QQQ** | long-term | 2 | $709.99 | $712.16 | +0.31% | −0.72% | $1,424.32 | 14.64% | $655.6725 | $728.525 |
+| **VOO** | long-term | 2 | $699.81 | $708.24 | +1.20% | +0.09% | $1,416.48 | 14.56% | $642.63591 | $714.0399 |
+| **AMAT** | short-term | 2 | $542.505 | $530.00 | −2.31% | −0.79% | $1,060.00 | 10.89% | $498.672 | $554.08 |
+| **MU** | short-term | 1 | $870.90 | $847.02 | −2.74% | **−5.17%** | $847.02 | 8.71% | $836.082 | $928.98 |
+| **MSFT** | long-term | 1 | $485.84 | $483.51 | −0.48% | −0.81% | $483.51 | 4.97% | $449.406 | $499.34 |
+
+**⚠️ MU IS 1.29% ABOVE ITS TRAILING STOP** ($847.02 vs $836.082). In a session where Korean memory names are down 13–14%, MU stopping out at the open is a live probability. That would return ~$836 to cash and re-open the breach — see the contingency ladder in the Decision section.
+
+### Market Environment — **NEUTRAL headline tape, SECTOR-LEVEL RISK-OFF in semis / AI hardware**
+- **VIX 17.98** — but the only retrievable print is timestamped **07/30/26**, i.e. stale by a week. Used with that caveat. Inside the 15–25 neutral band → the letter of the rule says standard sizing.
+- **Futures split, Nasdaq the outlier again:** ES 7,580.25 **−0.15%**; NQ 29,756.50 **−0.62%**; RTY 3,000.10 **+0.06%**. Small caps green, big tech red.
+- **THE session fact — a global semiconductor rout.** SK Hynix **−14%+**, Samsung Electronics **−13%+**, PHLX Semiconductor Index **−5%+**, and MU/SanDisk down >5%. The read across sources is an **unwind of the crowded AI-chip trade plus weaker memory-pricing expectations — not a company-specific Micron event.** This is the third consecutive session of the same impulse and the most violent.
+- **Prior session (8/5) closes, live Alpaca marks:** AMD **−8.39%**, LRCX −3.14%, KLAC −1.33%, SMH −1.00%, TSM −0.73%, AVGO +0.10%, NVDA +3.40%. **ANET +3.46%** (bounced). Mega-caps mixed: AAPL +0.52%, META +0.17%, MSFT −1.09%, AMZN −1.72%.
+- **Sectors:** Health Care +3.16%, Consumer Discretionary +1.55%, Real Estate +1.43% lead; **Information Technology −1.05%, Industrials −1.53%** lag. Defensives bid, tech sold.
+- **Put/call:** total 1.03, index 1.01, equity 0.86 — neutral, no froth.
+- **Breadth: NO US PRINT AGAIN** — the query returned Indian NSE data (A/D 3.31) for the **third consecutive session**. Discarded. Breadth treated as **unconfirmed**.
+- **Oil: WTI ~$74.40 / Brent ~$79.40**, spread ~$5. Still ~$47 below the April Brent peak. Disinflation impulse intact.
+
+**Sizing consequence:** by the VIX rule this is standard sizing, but the semiconductor tape is a live HIGH-impact repricing of the book's dominant factor. **No new short-term or niche risk is taken into this unwind.** The checklist independently rejected every short-term candidate anyway — see below.
+
+### Macro / Geopolitical
+| Event | Class | Read |
+|-------|-------|------|
+| **Global AI-hardware / memory unwind** | **HIGH IMPACT** | SK Hynix −14%, Samsung −13%, SOX −5%. Directly reprices AMAT, MU and, by correlation, PLTR/QQQ/GOOGL. **Consequence: new position sizing capped at 10%, zero new short-term/niche entries, MU stop-watch armed.** |
+| **US–Iran / Strait of Hormuz** | **MEDIUM WATCH** (downgraded from HIGH) | De-escalation/peace-progress headlines are today's stated risk-on catalyst and crude is soft (WTI $74.40). No finalized deal confirmed in any source. The Dallas Fed tail case (prolonged closure → WTI ~$98, −2.9pp global GDP) remains the downside, but the direction of travel is toward a deal → further disinflation tailwind to this book. |
+| **Fed policy** | **MEDIUM WATCH** | Target range **3.50–3.75%**, held at the June FOMC. June SEP median end-2026 **3.8%** — i.e. the committee's own median implies a **hike**, not a cut. Survey paths: no change through early 2027, or one cut in Q2 2027. **No near-term cut is priced.** FedWatch meeting-level probability was not retrievable this session. |
+| **Treasury yields** | **MEDIUM WATCH** | 2yr **3.84%**, 10yr **4.33%**, spread **+46bp** and positively sloped. 10yr at 4.33% is the multiple-compression channel that hit mega-cap tech on 8/5. |
+| **Inflation** | **LOW / PRICED-IN** | June CPI **+3.5% y/y** (from +4.2% May); **core CPI +2.6%** (from +2.9%); headline **−0.4% m/m**. Sharp June moderation — the disinflation leg of the book's thesis is confirming. |
+| **US–China trade** | **MEDIUM WATCH** | **New Chinese countermeasures announced Aug 5** against six US entities, plus tightened export controls on drones/components and a security review of imported office equipment. US replacement tariff level cited at **12.5%** with a stated **20% ceiling**. Supply-chain risk sits in exactly the hardware complex being sold today. |
+| **Jobs / growth** | **MEDIUM WATCH** | Initial claims 215k (wk ending 6/27), 4wk avg 219k. Q1 GDP revised up to **2.1%**; Q2 advance **1.5%**. **BLS jobs report Fri 8/7 is the week's macro pivot.** |
+| **US fiscal / debt** | **LOW / PRICED-IN** | FY26 deficit projected **$1.9T (5.8% of GDP)**; outlays +6% to $7.4T; FRA discretionary caps no longer binding for FY26. Debt-ceiling X-date (Aug 15 – Oct 3 per prior sessions) got no fresh update — kept on watch. |
+| **Russia / Ukraine** | **LOW** | No material new development retrieved. Energy transmission channel unchanged. |
+
+### Earnings Calendar — Thursday refresh (**three date errors corrected this session**)
+| Ticker | Date | BMO/AMC | Classification | Key thesis / correction |
+|--------|------|---------|----------------|-------------------------|
+| **OKLO** | **Fri 8/7** | **BMO** | **AVOID** | Confirmed by company (call 8:30 AM ET). Cons EPS −$0.16 to −$0.17, revenue ~$84k. Avg PT $88 (Moderate Buy) vs price $42.50. Binary inside **T+1** — unsizeable. |
+| **RKLB** | **Mon 8/10** | **AMC** | **POST-EARNINGS DRIFT WATCH** | **⚠️ CORRECTION — earnings are NOT today.** Company IR confirms Mon 8/10 after the close, call 5:00 PM ET. The last three logs carried 8/6. |
+| **ASTS** | **Mon 8/10** | — | **POST-EARNINGS DRIFT WATCH** | **⚠️ BINARY RESOLVED — BB11/12/13 launch CONFIRMED SUCCESSFUL**, Falcon 9 from Cape Canaveral 03:42 EDT 8/5 (company Business Wire post-launch release). The three-session "unconfirmed" watch is closed. Remaining binary is the 8/10 print. |
+| **NBIS** | **Wed 8/12** | **BMO** | **POST-EARNINGS DRIFT WATCH** | **⚠️ DATE RESOLVED — company press release confirms Aug 12 BMO**, call 8:00 AM ET. The 8/6 date carried in prior logs came from algorithmic aggregators that flag themselves as unconfirmed. Cons −$0.61 to −$0.77 EPS, $576–583M rev. |
+| **AMAT** *(held)* | **Thu 8/13** | AMC | **HOLD CURRENT** | Cons $3.35–3.39 EPS / $8.94–9.00B rev. **$520 line held on 8/5 at $530.00 — but by only $10.** Trim-or-hold decision due ~Tue 8/11. A break of $520 in this semi tape re-opens the trim question early. |
+| **ANET** | reported 8/4 AMC | — | **AVOID (R:R)** | Beat + raise confirmed, but price now sits at/above consensus. See correction below. |
+
+### ⚠️ Data Corrections — five errors in the prior record, fixed here
+1. **RKLB earnings is Mon 8/10 AMC, not Thu 8/6.** Carried wrong for three sessions.
+2. **The "SpaceX 911.5M-share unlock" is SpaceX's OWN lockup expiry (Aug 6), with no connection to Rocket Lab.** Prior logs treated it as an RKLB overhang and used it as half of the "two events on one day" rejection. **That rejection rationale was invalid.**
+3. **NBIS earnings is Wed 8/12 BMO** — resolved by the company's own release; the 8/6 estimate was algorithmic.
+4. **ANET price data was wrong.** Prior logs quoted ANET at **$221** and **$212.73** and rejected it as "above the street-high $210." Those were **wide/stale IEX ask quotes**, not trades. Actual traded closes: **8/4 $190.53, 8/5 $197.13 (+3.46%)**. **ANET never traded above $210 — the standing "re-check ≤$200" trigger was already satisfied on 8/4.** The rejection stands today, but on R:R, not on price-vs-target-high.
+5. **ASTS BB11/12/13 deployment is confirmed successful** — the three-session "unconfirmed" flag is cleared.
+
+### Long-Term Sleeve Candidates
+| Candidate | Price | Read | Verdict |
+|-----------|-------|------|---------|
+| **MSFT** *(held, 4.97%)* | $483.51 | Sell-side consensus PT **$561–$633** (Moderate/Strong Buy; range $400–$870) → **~16–31% upside from spot**. Azure growth cited near **39–40%**. Only **4.97% of equity** with **$1,462 of headroom** to the 20% cap — by far the largest compliant slot in the book. | **BUY — top up 2 shares** |
+| **GOOGL** *(held, 14.82%)* | $360.42 | −3.06% below cost after a two-session AI-capex de-rating (FY26 capex $195–205B, Q2 FCF −$5.9B) against a quarter that beat on both lines (rev $119.8B +24%, cloud +82%, EPS $9.11) and a $0.22 dividend declared. Adjudicated twice already: **multiple compression, not a broken thesis.** Room for exactly **1 share** under the cap. | **BUY — top up 1 share** |
+| **VOO / QQQ** | $708.24 / $712.16 | The rulebook's designated cash fallback. **Both are position-capped at 14.56% / 14.64% with <1 share of headroom each.** Cannot be used. | **BLOCKED — 20% cap** |
+| NVDA / AVGO / TSM / KLA / CDNS | — | Cited as 2026 quality-compounder picks. All are semiconductors, on the morning SOX is down 5% and Korean memory is down 13–14%, into a book already 19.6% semi (AMAT + MU). | **REJECT — adds to the exact factor being repriced** |
+
+### Short-Term Candidates — **every one evaluated, every one fails**
+| Candidate | Price | R:R math | Verdict |
+|-----------|-------|----------|---------|
+| **ANET** | **$197.13** | Post-earnings drift checklist **PASSES**: Q2 rev $3.036B **+37.7% y/y**, non-GAAP EPS $1.02 vs $0.73, op margin 49.9%; FY26 guide raised to **$12.6B** (third raise, ~$2.1B above the analyst-day target); Q3 guide ~$3.3B at 48–49% op margin. **Fails on R:R.** Entry $197.13, −7% stop $183.33 (risk $13.80) → 1.5:1 needs **$217.83**. Street mean target **$188.20** (30 analysts) / median **$190** (15 analysts) — **below spot**. Post-print raise table: Needham $260, BofA $240, JPM $200, Evercore $200, TD Cowen $200, MS $180, GS $175, Wolfe $175, UBS $155, Piper $143 (Neutral), Rosenblatt $140 → **median $180**. Only the two highest outliers clear 1.5:1. | **REJECT — R:R 0.2:1 on central tendency.** Buying an AI-networking name during a global AI-hardware unwind with a −7% hard cut is a stop-out on noise. **Re-check on a pullback to ≤$180, or on a consensus target reset above $218.** |
+| **RKLB** | $74.27 | R:R **passes easily**: −7% stop $69.07 (risk $5.20) vs avg PT **$108.24** (21 an.) / $112.73 (17 an.) → **6.5:1**. Recent raises: Citizens JMP $130, Roth $130, Stifel $132, BofA $115; Piper initiated Neutral $83; MS bull case $293. Institutional **71.78%**; Geode added 825,158 sh. Catalysts: **$816M SDA Tranche 3**, Golden Dome SBI with Raytheon, largest-ever contract (5 Neutron + 3 Electron through 2029), Neutron first launch reaffirmed for later this year. Short interest: no dated figure retrievable. | **REJECT — earnings binary at T+2 (Mon 8/10 AMC), on a risk-off morning, with a −7% hard cut.** But note the **prior rejection reason was factually wrong** and this is now the **strongest short-term candidate on the board** for a post-print entry. **Armed for Tue 8/11 on a beat.** |
+| **ASTS** | $68.36 | Launch binary resolved successfully, but earnings **Mon 8/10** = T+2. Bid/ask $64.37/$71.56 = **11.2% spread** on the IEX feed. | **REJECT — binary T+2 + untradeable spread.** |
+| **NBIS** | $216.60 | Earnings now firmly **Wed 8/12 BMO** = T+4. Price $216.60 vs avg PT **$220–222** → ~2% to target, no R:R. Spread $188.77/$251.60 = **33%**. | **REJECT — no upside to consensus, unusable quote.** |
+| **OKLO** | $42.50 | Earnings **tomorrow BMO**. | **REJECT — binary T+1.** |
+| **AEHR** | $98.86 | Stopped out 8/5 at $99.97 (+$46.77 realized). Fell **−10.11%** on 8/5 on **profit-taking + chip-sector weakness, no new company catalyst**; the $60M ATM overhang and a $2.17M insider sale are the standing negatives. Niche re-entry needs **2.5:1**: entry $98.86, stop $91.94 (risk $6.92) → target **$116.16** required, above the $110.99 HWM, and no clean consensus PT exists to underwrite it. | **REJECT — cannot construct 2.5:1; re-entering a name that just stopped out into a worsening semi rout.** |
+| LRCX / KLAC / AMD / NVDA / TSM / AVGO | — | Would add semiconductor exposure to a book already 19.6% semi on the morning SOX is −5% and Korean memory is −13/−14%. | **REJECT.** |
+| Energy / defensive rotation names | — | Perplexity called Energy the momentum leader; **live 8/5 marks contradict it — XLE −2.10%, CVX −2.10%, XOM −1.54%.** No researched thesis, no entry checklist satisfied. | **REJECT — unverified, and no documented thesis.** |
+
+### Niche Radar
+| Ticker | Price | Classification | EPS Trend | Analyst Target | Key Catalyst | Short% | Action |
+|--------|-------|----------------|-----------|----------------|--------------|--------|--------|
+| **ASTS** | $68.36 (8/5 close, −2.7%) | **WATCH** | Q1 miss; FY26 rev guide $150–200M reaffirmed | $81–85 (hi $108, lo $41) | **BB11/12/13 launch CONFIRMED SUCCESSFUL 8/5 03:42 EDT** — binary resolved positively. **Earnings Mon 8/10.** | Elevated, no dated figure | **NO ENTRY** — earnings T+2; 11.2% quote spread |
+| **RKLB** | $74.27 | **WATCH → strongest ST candidate** | Q2 guide $225–240M rev, adj EBITDA −$20–26M | **$108.24 / $112.73** avg; hi $150, MS bull $293 | **Earnings Mon 8/10 AMC (corrected).** $816M SDA Tranche 3; Golden Dome w/ Raytheon; 5 Neutron + 3 Electron through 2029; Neutron first launch reaffirmed 2026 | no dated figure | **NO ENTRY today — armed for post-print Tue 8/11 on a beat** |
+| **OKLO** | $42.50 (−1.9%) | **WATCH** | Q2 cons −$0.16 to −$0.17 | **$88** avg (Moderate Buy) | **Earnings Fri 8/7 BMO — confirmed** | no dated figure | **NO ENTRY** — binary T+1 |
+| **AEHR** | $98.86 (**−10.11%** on 8/5) | **WATCH** | Q4 EPS $0.11; record $60.7M bookings; ~$100.6M backlog; FY27 guide $130–150M | no clean consensus PT | **Stopped out 8/5 at $99.97, +$46.77 realized.** Drop = profit-taking + chip weakness, **no new company catalyst**. $60M ATM overhang; $2.17M insider sale | — | **NO RE-ENTRY** — cannot build 2.5:1 |
+| **NBIS** | $216.60 (−4.1%) | **WATCH** | Q1 rev $399M +684% y/y; Q2 cons −$0.61/−$0.77, $576–583M rev | $220–222 avg | **Earnings Wed 8/12 BMO — resolved** | no dated figure | **NO ENTRY** — at consensus PT, 33% spread |
+| **ANET** | $197.13 (**+3.46%** on 8/5) | **WATCH** | Q2 rev $3.036B +37.7%; nonGAAP EPS $1.02 vs $0.73; FY26 guide $12.6B | mean **$188.20**, post-print median **$180**, hi $260 | Beat + third FY guide raise; op margin 48–49% | — | **NO ENTRY** — price ≥ consensus. **Re-check ≤$180** |
+| **AMAT** *(held)* | $530.00 | **HOLD — weakest link** | Cons $3.35–3.39 EPS / $8.94–9.00B rev for 8/13 | $603 avg (Strong Buy), hi $900 | **$520 line held by $10 only.** Earnings 8/13 | — | **HOLD** — trim decision due ~8/11; break of $520 re-opens it early |
+| **MU** *(held)* | $847.02 (**−5.17%**) | **HOLD — STOP-WATCH** | DRAM +low-60% range; ~$100B contracts locked; BofA Buy PT $1,550 | — | **Global memory rout: SK Hynix −14%, Samsung −13%.** No MU-specific warning | — | **HOLD — trail at $836.082, only 1.29% below spot. Likely stop-out at the open.** |
+
+### New Idea Scan — nothing actionable
+- **Pre-market movers board unusable again.** Perplexity returned AMZN +11.30%, INTC +5.29%, MRVL +7.11% as today's premarket gainers; live Alpaca marks have AMZN's 8/5 close at **−1.72%**. Same stale-board failure as 8/5. **Discarded.**
+- **"Breakout with volume" screen returned Indian equities** (Kalyan Jewellers, TCI Express, etc.) — not the US tape. Discarded.
+- **"Energy is the momentum leader" contradicted by live marks** (XLE −2.10%). Discarded.
+- **Four of six research queries this session returned unusable or non-US data.** Live Alpaca prices used throughout; Perplexity price data discarded wherever it conflicts. Third consecutive session logging this trap.
+- No new name added to the radar.
+
+### Decision — **DEPLOY. Two long-term top-ups at the open. Cash 17.11% → 3.47%.**
+
+**Trades planned for market open (6:30 AM PT):**
+| # | Action | Symbol | Qty | Est. price | Est. cost | Sleeve | Post-trade position | % Equity |
+|---|--------|--------|-----|-----------|-----------|--------|--------------------|----------|
+| 1 | **BUY market** | **MSFT** | **2** | ~$483.51 | ~$967.02 | long-term | 3 shares, avg cost $484.29 | **14.91%** ✓ |
+| 2 | **BUY market** | **GOOGL** | **1** | ~$360.42 | ~$360.42 | long-term | 5 shares, avg cost $369.52 | **18.52%** ✓ |
+| | | | | **Total** | **~$1,327.44** | | | |
+
+**Post-trade state:** cash **$337.63 = 3.47%** ✓ under the 5% cap · long-term **$6,093.43 = 62.63%** · short-term **$3,299.41 = 33.91%** · positions **7/15** ✓ · trades this week **11/25** ✓ · largest LT position GOOGL **18.52% ≤ 20%** ✓ · no options ✓ · ETFs in long-term sleeve only ✓ · no margin ✓.
+
+**Stop placement (critical):** the existing trailing stops on MSFT ($449.406, HWM $499.34) and GOOGL ($345.249, HWM $383.61) **must NOT be cancelled and re-issued at full quantity.** A fresh 10% trail from spot would set GOOGL at ~$324.38 — **below** the live $345.249 — which is moving a stop down and is forbidden. **Instead: leave both existing orders untouched and place a SEPARATE 10% trailing stop GTC covering only the newly purchased shares** (2 MSFT, 1 GOOGL). Each symbol will then show two trailing-stop orders; total sell qty stays ≤ position qty.
+
+**Why not the short-term sleeve, where the hole actually is:** every short-term candidate was evaluated individually above and each fails an explicit rule — ANET on R:R (price at/above consensus), RKLB/ASTS on an earnings binary at T+2, OKLO at T+1, NBIS at T+4 with no upside to target, AEHR on an unbuildable 2.5:1, and the semi complex on adding to the exact factor being repriced today. **Short-term is 33.91% and stays there today.** Refilling it is scheduled, not abandoned: **RKLB post-print Tue 8/11** is the leading candidate, then ASTS 8/11 and NBIS 8/13.
+
+**Why not the ETF fallback:** VOO and QQQ are the rulebook's designated parking, and **both are blocked by the 20% single-position cap** with less than one share of headroom each. This is the first session the cash rule and the position-cap rule have collided. The long-term sleeve's alternative instruction — *"buy more of existing winners or add VOO/QQQ"* — resolves it to MSFT and GOOGL.
+
+**Accepted trade-off, stated plainly:** these buys push the long-term sleeve to **62.63%**, well above its 50% target, while short-term sits at 33.91%. **That is deliberate.** Cash ≤5% is a hard rule; the 50/50 sleeve split is a target. Given VOO/QQQ are capped and no short-term name clears its checklist, an over-weighted long-term sleeve is the only compliant outcome available today. It rebalances as short-term names clear their prints next week.
+
+**⚠️ CONTINGENCY — MU stop-out.** MU trades **1.29% above its $836.082 trail** into a session where Korean memory is down 13–14%. If it fills, ~$836 returns to cash and post-trade cash goes to ~**$1,174 = 12.1%** — the breach re-opens the same day. Ladder, in order:
+1. **MSFT +1 share** (~$484) — remaining headroom after trade #1 is $495.47. Takes cash to ~$690 = **7.1%**. Still short.
+2. GOOGL, VOO, QQQ all have **zero** headroom after trade #2. No ETF path exists.
+3. **Therefore a genuine short-term entry becomes mandatory at midday.** The best available under a −7% stop would be **ANET at ≤$180** if the tape hands it over, otherwise a new name must clear the full checklist intraday. **This is the one scenario where the routine cannot reach compliance with existing names — flag it loudly at the midday scan.**
+
+**Market-open actions (execution routine):**
+- **BUY 2 MSFT + 1 GOOGL at market. This is mandatory, not discretionary — it is day 2 of the cash breach.**
+- Place **separate** 10% trailing stops GTC on the 3 new shares. **Do not touch the 7 existing stop orders.**
+- **MU: watch for a stop fill at $836.082.** If filled, run the contingency ladder above immediately, not at midday.
+- **−7% hard-cut scan:** no current candidates — worst short-term position is MU at −2.74%. But MU is the live risk in a −5% SOX tape.
+- **AMAT $520 line** — closed 8/5 at $530.00, only $10 above. A break re-opens the trim question ahead of the 8/13 print.
+- **+15%/+20% trail-tighten ladder: none eligible.** Best position is PLTR at +4.26%.
+- **No niche entries.** All five have an unresolved binary or an unusable spread.
+
+### Risk Posture
+The book's single risk factor — **disinflation plus the AI-capex cycle** — is being repriced for a third consecutive session, and today is the most violent leg: a global memory rout with Korea down 13–14% and SOX down 5%. Equity is **−2.70% below the $10k baseline**, its worst level of the phase. The two planned buys **add to that same factor** (MSFT and GOOGL are both AI-capex spenders) — that is the honest cost of a rulebook that forbids cash and caps the index fallback, and it is stated here rather than buried. The defense is unchanged and intact: **seven live 10% trailing stops, none moved down, one (PLTR at $149.472) still above its cost basis.** The offsetting macro facts are real: **core CPI cooled to 2.6%**, oil sits at $74.40 with Hormuz de-escalation headlines as today's stated risk-on catalyst, and small caps are green while big tech is red — this is rotation, not a solvency event. **BLS jobs Friday 8/7 is the week's pivot** and the largest scheduled two-sided risk in the hold window.
+
+**Event posture:** OKLO earnings Fri 8/7 BMO · **BLS jobs Fri 8/7** · RKLB earnings Mon 8/10 AMC · ASTS earnings Mon 8/10 · NBIS earnings Wed 8/12 BMO · AMAT earnings Thu 8/13 (trim-or-hold due ~8/11) · debt-ceiling X-date Aug 15 – Oct 3. Zero pre-print exposure by design.
+
+**Next scheduled routine:** Thu 8/6 Market-Open ~06:30 AM PT (**execute the 2 MSFT + 1 GOOGL buys — mandatory** · separate trailing stops on new shares only · MU $836.082 stop-watch · AMAT $520 line · −7% scan).
