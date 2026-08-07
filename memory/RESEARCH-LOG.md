@@ -9584,3 +9584,72 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 **Binding constraint, stated plainly:** with **$246.45 of cash (2.53%)**, the maximum new position is ~2.5% of equity, and **every existing short-term name is capped out to the whole share** — PLTR headroom $64.43, RKLB headroom to the 10% binary cap $54.30, AMAT affordable-share cost $528.19 > cash. **Even a setup that cleared its checklist could not have been sized meaningfully today.** The short-term sleeve's 5.4-point gap to its floor is a consequence of the MU stop-out plus the 20% cap on VOO/QQQ, not of a missed idea. **No entry. No cuts. No stop changes.**
 
 **Standing triggers carried forward:** ANET ≤$180 (spot $191.30, 5.9% away) · NBIS ≈$180 · AMAT $520 line (reclaimed at $528.46) · RKLB hard cut $69.544 with the live trail already tighter at $72.173 · AEHR and ASTS blocked on 27.3% / 4.44% spreads · OKLO prints tomorrow BMO.
+
+## 2026-08-07 — Pre-Market Research, RUN INLINE AT THE OPEN (Week 16 Day 5, Friday — **no pre-market entry existed; market-open routine STEP 1 fallback executed** · **BLS JULY PAYROLLS −23k vs +80/88k expected — the week's pivot landed weak** · **OKLO MISSED on EPS** · tape is risk-ON, not risk-off · cash **2.48% ✓ compliant**, no deployment mandate)
+
+### Account Snapshot
+- Equity **$9,939.77** | Cash **$246.41 (2.48%)** ✓ ≤5% | Long MV **$9,693.44 (97.52% deployed)** | Buying power $28,048.36 (4x margin, **unused**) | Last equity $9,743.12 | Day P&L **+$196.65 (+2.02%)** | Phase P&L **−$60.23 (−0.60%)** vs $10k baseline.
+- Open positions **7/15** · Open orders **9** (all 10% trailing stops GTC; MSFT and GOOGL each carry two orders covering split lots — total sell qty = position qty on all 7 names) · Trades this week **13/25** (12 remaining) · Daytrade count 0/5 rolling · `balance_asof` 2026-08-06.
+- **Endpoint note:** `ALPACA_ENDPOINT` still resolves to the paper API. Previously flagged; execution unchanged.
+
+### Sleeve Status — **cash test PASSES; short-term floor still FAILS on a position-cap technicality**
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (GOOGL, MSFT, QQQ, VOO) | $6,151.14 | **61.88%** | 50% | over-weight (VOO/QQQ position-capped — carried from 8/6) |
+| Short-term (PLTR, AMAT, RKLB) | $3,542.30 | **35.64%** | 50% | under floor — **$246 of cash buys nothing on this board** |
+| Cash | $246.41 | **2.48%** | ≤5% | **✓ PASS — no deployment mandate today** |
+
+### Macro — **the BLS print is the session's only fact that matters**
+| Event | Class | Read |
+|-------|-------|------|
+| **BLS July jobs (released 05:30 PT)** | **HIGH IMPACT — resolved** | **Nonfarm payrolls −23,000** vs consensus **+80k to +88k**; **June revised to +20k**; May/June both revised down. **Unemployment 4.1%** (down from 4.2%). **AHE $37.62, +3.2% y/y.** A genuinely weak labour print with a *lower* unemployment rate — participation-driven, not a demand shock. |
+| **Rate path repricing** | **MEDIUM → the direction flipped** | FedWatch reads retrieved this session **conflict badly** (one source: September **hike** odds cut to 44%, October 58.3%; another: **87% odds of a 25bp cut**). Different timestamps, opposite framings. **Not usable as a number.** What *is* usable: the June SEP median implied a hike, and this print pushes hard the other way. Treated as **easing-bias restored, magnitude unknown.** |
+| **Treasury yields** | **MEDIUM — supportive** | 10yr fell to ~**4.21–4.22%** (from 4.33% on 8/6); 2yr ~**3.68%**. Both down. That is the multiple-compression channel that hit GOOGL/MSFT for four sessions **releasing**. |
+| **Inflation** | **LOW / PRICED-IN** | June core CPI 2.6%, headline 3.5% y/y. Unchanged. Wage growth 3.2% is not an inflation problem. |
+| US–China trade · Hormuz · fiscal · Russia/Ukraine | **LOW–MEDIUM, unchanged** | No fresh material development retrieved. Debt-ceiling X-date Aug 15 – Oct 3 stays on watch. |
+
+### Market Environment — **RISK-ON. Perplexity's tape narrative was discarded; live marks used.**
+Live Alpaca marks ~06:45 PT: **SPY 771.46 +0.34%** · **QQQ 721.15 +0.76%** · **IWM 301.02 +0.96%** · **SMH 583.73 +1.98%** · XLK 187.98 **+1.22%** · ITA 250.60 +0.22% · **XLE 57.28 −1.62%**.
+→ Small caps and semis lead, energy lags — the textbook lower-rates response. **SMH +1.98% is the second consecutive session the AI-hardware unwind has failed to extend**, after the three-session rout that cost this book MU and AEHR.
+
+**⚠️ Research-source failure, fourth consecutive session.** Perplexity's macro query returned an internally contradictory tape — it described a "risk-off move", a "later selloff", and "**Nasdaq Composite falling 2.2% to 2.4% by the close**" for a session that is two hours old and currently **+0.76%**. It also quoted three different 10yr levels (4.21 / 4.22 / **4.62**) and three 2yr levels in one answer. **The entire tape narrative was discarded; only the BLS figures and the yield direction were retained**, and only because they are consistent across sources. Live Alpaca marks are authoritative throughout this entry, as they have been all week.
+**VIX: no verified print retrievable this session.** Treated as unconfirmed; with the book taking no new risk today the sizing rule is not binding.
+
+### Earnings — Friday refresh
+| Ticker | Date | Classification | Read |
+|--------|------|----------------|------|
+| **OKLO** | **reported 8/7 BMO** | **AVOID — binary resolved NEGATIVE on the line that matters** | **EPS −$0.28 vs −$0.16/−0.17 consensus = MISS.** Revenue $1.21M vs ~$0.08–0.13M est (a beat on a trivial base). **Net loss $48.5M.** No updated FY guidance retrievable from the release. Stock **+6.43% to $45.17** anyway. Zacks Rank **#4 (Sell)** into the print. |
+| **RKLB** *(held 9.80%)* | **Mon 8/10 AMC** | **HOLD THROUGH THE PRINT — plan documented below** | Company-confirmed, call 5:00 PM ET. |
+| **ASTS** | **Mon 8/10** | **POST-EARNINGS DRIFT WATCH** | Q2 date confirmed. BB11/12/13 deployment success confirmed 8/5. |
+| **NBIS** | **Wed 8/12 BMO** | **POST-EARNINGS DRIFT WATCH** | Company-confirmed. |
+| **AMAT** *(held 10.93%)* | **Thu 8/13 AMC** | **HOLD CURRENT** | **$520 line reclaimed decisively — $543.34, +3.01% today.** Trim-watch stays cleared; hold-or-trim decision due ~Tue 8/11. |
+
+### Niche Watchlist — all five researched, **none entered**
+| Ticker | Price | Spread (bid/ask) | 7-point / R:R read | Verdict |
+|--------|-------|------------------|--------------------|---------|
+| **OKLO** | **$45.17 (+6.43%)** | $42.73 / $47.43 = **10.4%** | Niche bar is **2.5:1**. On targets alone it passes easily (stop $42.01, risk $3.16; avg PT $88–90 → 13.6:1). **It fails on everything else:** the print was an **EPS miss**, not the "beat + guide raise" the drift checklist requires; no confirmed guidance; **no institutional or short-interest data retrievable = 7-point research incomplete**; and a **10.4% quote spread** makes a market order a guaranteed give-up. $246 of cash buys 5 shares = **2.3% of equity** — an immaterial position consuming a slot and a stop. | **NO ENTRY — the one genuinely unblocked binary this week resolved the wrong way.** Re-check on a confirmed guidance read and a tradeable spread. |
+| **ASTS** | $69.60 (+2.76%) | $67.40 / $71.00 = 5.3% | Roth **$108** (Buy, raised); Piper OW $100; B. Riley $85; Scotiabank $50.80. Consensus muddled — one source avg $47.24 (8 an., hi $64), another implies ~50% upside. Short interest **>19% of float, ~59M shares** (written source; a 76.9M video claim discarded). Constellation catalyst confirmed 8/5. | **NO ENTRY — earnings binary at T+1 (Mon 8/10).** Genuine drift candidate for Tue 8/11 on a clean print. |
+| **RKLB** *(held)* | $81.17 (**+7.27%**) | $81.30 / $81.41 = 0.1% | Best position on the board today. Held at **9.80%**, deliberately under the 10% binary cap. | **HOLD — no add.** An add would breach the 10% earnings-binary cap. |
+| **NBIS** | $189.26 (−0.51%) | $188.00 / $201.00 = **6.9%** | Entry $189.26 → −7% stop $176.01 (risk $13.25) vs avg PT ~$220 → **2.32:1**, still short of the 2.5:1 niche bar, and earnings **Wed 8/12 = T+2**. Down from $216.60 on 8/6, so the standing ≈$180 re-check is close but not hit. | **NO ENTRY — R:R 2.32:1 < 2.5:1, plus a T+2 binary.** |
+| **AEHR** | $104.10 (+3.59%) | $88.58 / **$119.48** = **35.1%** | Stopped out 8/5 at $99.97 (+$46.77 realized) and has since traded back above the exit. **Quote is untradeable.** | **NO RE-ENTRY — 35% spread. Unchanged.** |
+| **ANET** *(standing trigger)* | $195.25 (+1.62%) | $187.62 / $204.47 | Trigger is **≤$180**. Spot is **8.5% above it** and moving away. | **NO ENTRY — trigger not hit.** |
+
+### Decision — **NO TRADES. The book is compliant and there is nothing to buy.**
+Three independent facts settle it:
+1. **Cash is 2.48% — the deployment mandate is already satisfied.** The rulebook's buy trigger is cash > 5%. It is not fired. The book is **97.52% invested**.
+2. **$246.41 is the entire war chest**, and every name on the board that clears a checklist costs more than that or fails one outright. The only affordable candidate is OKLO at 5 shares (2.3% of equity) — and OKLO missed.
+3. **Every alternative path requires either margin (forbidden by the rulebook's own "no margin" posture, buying power logged unused all phase) or trimming an intact-thesis winner** — and every share in the book is pledged to a live GTC trail (`qty_available` 0 on all 7 names), so a trim means cancelling a stop and standing unprotected. **Declined, as on 8/5 and 8/6.**
+
+**RKLB into Monday's print — the one position decision that needed making today.** Held at **9.80% of equity, under the 10% binary cap ✓**. Up **+8.55%** on entry. Its trail has ratcheted to **$73.395 (HWM $81.55)** — that is **−1.85% from the $74.778 cost basis**, far tighter than the −7% hard cut, so the downside through the print is bounded at roughly one-quarter of a normal loser. Consensus targets $108–113 against $81.17 spot. **Plan: HOLD THROUGH THE PRINT.** The size is already at the cap the rulebook sets for binary risk, the defense is tighter than the rulebook requires, and the R:R that justified the 8/6 entry is unchanged. The live risk is the mirror image: a tight trail into an event is the setup most likely to be shaken out on pre-print noise. Accepted.
+
+**Short-term sleeve at 35.64% — same position-cap trap, third session.** Closing the gap needs ~$430. PLTR headroom to the 15% cap is $9.38 = 0 shares. RKLB headroom to the 10% binary cap is $20.00 = 0 shares. AMAT's headroom is $404 but one share costs $543 > cash. **Not a missed idea — an arithmetic dead end.** It self-corrects as the binaries clear: **ASTS and RKLB print Mon 8/10, NBIS Wed 8/12.**
+
+### Rule Compliance
+7 positions ≤ 15 ✓ · 13 trades this week ≤ 25 ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT GOOGL 17.89% ≤ 20% ✓ · largest ST PLTR 14.91% ≤ 15% ✓ · cash 2.48% ≤ 5% ✓ · 10% trail GTC live on all 7 ✓ · **no stop moved down** ✓ · daytrade count 0/5 ✓ · no margin ✓.
+
+### Risk Posture
+**The macro pivot the book was braced for landed on the helpful side of two-sided.** A −23k payroll print with downward revisions pulls the 10yr from 4.33% to ~4.21% and re-arms the easing bias that the June SEP had removed — and this book is levered to exactly that: disinflation plus AI capex. The response in the tape is textbook (IWM +0.96%, SMH +1.98%, XLE −1.62%) and the book is **+2.02% on the day, its best session of the phase**, cutting phase drawdown from −2.47% to **−0.60%**. The honest counterweight: a *negative* payroll print is also the first hard evidence of labour-demand contraction, and if the next print confirms it the market re-reads today's rally as the last risk-on session before a growth scare. **Nothing in the defense changes on that view** — seven 10% trails, none moved down, and PLTR's ($149.472) and RKLB's ($73.395) both sit close enough to cost that neither can round-trip badly.
+
+**Event posture:** **RKLB earnings Mon 8/10 AMC — held through at 9.80%, the phase's only pre-print exposure** · ASTS earnings Mon 8/10 · NBIS earnings Wed 8/12 BMO · **AMAT earnings Thu 8/13** (trim-or-hold due ~Tue 8/11; $520 line reclaimed at $543.34) · debt-ceiling X-date Aug 15 – Oct 3.
+
+**Next scheduled routine:** Fri 8/7 Midday Scan ~09:30 AM PT (−7% scan · **PLTR +10.94%, 4.1 pts from the +15% trail rung — the first live ladder candidate in three sessions** · RKLB into the 8/10 binary · post-jobs tape follow-through) — then **Friday Weekly Review**.
