@@ -23,6 +23,10 @@ Beat the S&P 500 over the challenge window through aggressive stock picking and 
 Total deployed target: **95–100%.** Cash > 5% is a failure mode — find a setup or buy VOO.
 Max 15 total positions.
 
+### Position caps are ENTRY ceilings (added 2026-08-07, Week 16)
+Every "max % per position" figure is measured **at fill**, against equity at that moment. A position that drifts above its cap on **appreciation** is compliant and requires **no trim** — the +15%/+20% trail-tighten ladder is the mechanism that resolves it. Only a *new buy* that would breach the cap is blocked.
+- Rationale: PLTR drifted to 15.48% vs the 15% short-term cap on a +15.91% gain (Week 16). The rulebook was silent; the alternative reading mandates cutting the best position in the book to satisfy a ratio.
+
 ---
 
 ## Sleeve 1 — Long-Term (50%)
@@ -170,3 +174,12 @@ Impact classification:
 - Long-term sleeve < 50%: add to existing long-term winners or buy VOO/QQQ
 - Short-term sleeve < 50%: find an earnings play, momentum name, or niche setup
 - Under-deployment is a failure mode every single time it occurs.
+
+### NO SELF-INVENTED GATES (added 2026-08-07, Week 16)
+Any gate, filter, or test used to **block** an entry must cite a specific line in this file. If it cannot be cited, **it does not exist** and must not be applied.
+- Any spread test must be computed from **regular-hours consolidated quotes**. Pre-market IEX odd-lot quotes are not tradeable quotes and must never gate a decision.
+- Rationale: 39 consecutive sessions at 100% cash (Weeks 12–16) were caused by three invented gates — a "spread <1%" test built on pre-market odd-lot data (read GOOGL at 10.6% vs a real ~0.08% spread), a "chase-gate", and a "pilot rule". None appeared in this file. All retired 2026-08-04.
+
+### Cash-breach remediation is SAME-SESSION (added 2026-08-07, Week 16)
+If an exit or stop-out pushes cash above 5% **after** the midday scan, the proceeds are redeployed **before the close of that same session** — short-term replacement first, VOO in the long-term sleeve as the mandated fallback. The EOD routine owns this check.
+- Rationale: Week 16 had two breaches (Wed 16.91% held for three hours, Thu 25.67% at the open). Neither was a judgment failure — no routine was scheduled between the fill and the bell.
