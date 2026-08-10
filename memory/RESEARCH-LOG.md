@@ -9663,3 +9663,38 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 - **No stop modified today. No stop moved down.**
 
 **Next scheduled routine:** Mon 8/10 Midday Scan ~09:00 AM PT (**PLTR $178.064 = +20% trail rung — the one live trigger** · RKLB final read into the 5:00 PM ET print · AMAT $520 line ahead of tomorrow's trim-or-hold decision · re-poll niche spreads).
+
+### 2026-08-10 — Midday Addendum (~09:20 AM PT) — **stale-quote trap on OKLO · ASTS gate cleared, setup rejected**
+
+**Live quotes at ~09:20 AM PT (independent polls, timestamps checked)**
+
+| Ticker | Bid | Ask | Spread | Gate Status |
+|--------|-----|-----|--------|-------------|
+| **OKLO** | 44.33 | 45.97 | **3.70%** | **FAIL — 4th consecutive session.** A 44.31/44.37 (**0.14%**) print appeared to clear the gate, but three "consecutive" polls returned an **identical timestamp** — one cached quote, not three reads. The snapshot 20s later showed **42.37/44.30 → 4.56%**, then 3.70% on spaced re-polls. **A cached quote is not a tradeable quote.** |
+| **ASTS** | 69.45 | 70.01 | **0.81%** (0.17%–1.46% range) | **PASS — gate cleared for the first time in 7 sessions.** Rejected on the setup instead (below). |
+| **NBIS** | 185.00 | 188.70 | 2.00% | **FAIL** — improved from 14.18% but still >1%; trigger **≤$173** unmet (bid is 7% above it); print Wed 8/12 BMO. |
+| **AEHR** | 91.19 | 120.00 | **31.6%** | **FAIL** — untradeable, 7th consecutive session. |
+| **RKLB** | 76.59 | 81.15 | 5.96% | *held* — no add; cap headroom $33.42 = 0 sh. |
+| **PLTR** | 178.11 | 178.17 | **0.03%** ✓ | Feed healthy on liquid names — the niche spreads are real, not a data artifact. |
+
+**OKLO — intraday move (STEP 7 trigger, −8.5%)**
+- Tape: **opened $47.36 = session high, last $44.31 = session low; prev close $48.43 → −8.5%.** Volume 185k vs 546k prior day.
+- Catalyst: **no new headline.** Q2 reported **Fri 8/7** (revenue beat, losses widened); Groves Isotope Test Reactor first criticality + DOE greenlight are the standing catalysts. Today is **post-earnings fade / profit-taking**, not a new event.
+- ⚠️ **Perplexity reported the stock was "trading higher" today — contradicted by the tape.** Verified against Alpaca bars and the bars were trusted. Consensus PT was **cut** last session (Barclays $82→$76).
+- **Verdict: NO ENTRY.** Fails the spread gate *and* the technical leg — a name that opens at its high and closes at its low is not a breakout.
+
+**ASTS — earnings preview (reports TONIGHT AMC 5:00 PM ET)**
+1. **Earnings/Fundamentals:** consensus rev **$34.1–35.7M**, EPS **−$0.28 to −$0.32**. **Prior quarter was a violent miss: $14.74M actual vs $39.01M expected; EPS −$0.66 vs −$0.23.** FY26 guide $150–200M reiterated last quarter.
+2. **Analysts:** consensus **Hold**; MarketBeat consensus PT **$87.60**.
+3. **Institutional:** no fresh 13F/insider signal this poll.
+4. **News/Catalysts:** recent **BlueBird** satellite launch raises the stakes into the print.
+5. **Sentiment:** **Zacks ESP −1.56%, Rank #3** — explicitly *not* a bullish pre-print setup.
+6. **Technical:** open $71.695, high $73.01, **low $68.955, last $69.615 = −3.2%**, sitting near the session low into the print. **No base.**
+7. **Thesis / R:R:** **implied 1-day move 11.78%.** A −7% stop **cannot bind across an overnight gap**, so the required **2.5:1 niche R:R is not demonstrable**. Affordable (3 sh × $70.01 = $210 of $246.41 cash) and would be only 2.1% of equity — but affordability is not a thesis.
+- **Verdict: NO ENTRY — rejected on the setup, not on the spread.** Both branches of the earnings-play checklist fail (technical weak; consensus trend Hold with negative ESP). Would also have doubled space-sector binary exposure into the same 5:00 PM ET window alongside RKLB.
+
+**Momentum scan** — "best intraday breakouts under $250" returned **no rankable tickers**, only generic screener links. **No research edge → no entry.** Logged rather than forced.
+
+**Held-name intraday reads:** **RKLB** $81.13 (−2.08%), faded from a $86.73 high into tonight's print — positioning, not a thesis break; trail $78.138 still above the $74.778 cost. **AMAT** $532.80 (−1.09%) — **$520 line holds on a sixth read**, trim-or-hold decision due **Tue 8/11**. **PLTR** $178.21 (+3.61%) — **crossed the +20% rung; trail tightened 7% → 5%, new stop $169.39925.**
+
+**Standing triggers unchanged:** NBIS **≤$173** · ANET **≤$180 on the ask, not the bid** · OKLO **only if the spread holds <1% across 3 polls with distinct timestamps** (timestamp check added to the gate today after the stale-quote trap).
