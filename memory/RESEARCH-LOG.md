@@ -9610,3 +9610,56 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 **Macro / tape.** The **BLS jobs report** — flagged all week as the largest scheduled two-sided risk in the hold window — released today, but the headline payroll figure and its market reaction were **not retrievable from research**. The tape's verdict is unambiguous regardless: **SPY $773.00, QQQ $722.25, SMH $581.56, ITA $249.64** all firm, and the book **+2.61%**. The AI-hardware unwind that cost this phase MU and AEHR earlier in the week is fully arrested — **AMAT +2.20% and holding the $520 line for a third consecutive read** ahead of its 8/13 print.
 
 **Standing triggers carried forward:** **PLTR ≥ $170.645 → tighten trail to 7%** (0.47% away, the one live action item) · RKLB ≥ $85.995 → tighten to 7% · **NBIS ≤ $173** (recalibrated from ~$180 on the PT reset) · ANET ≤ $180 · **OKLO — spread <1% on three consecutive polls** · AMAT $520 line, trim-or-hold decision due ~Tue 8/11 · RKLB hard cut $69.544, live trail already tighter at $74.88 and above cost · ASTS/AEHR blocked on 7.90%/25.47% spreads.
+
+## 2026-08-10 — Market Open Execution (Week 17 Day 1, Monday — **NO-OP** · cash 2.44% ✓ · **no 8/10 pre-market entry existed — pre-market STEPS 1–7 run inline here** · Monday earnings-calendar poll DONE · **RKLB held into tonight's AMC print at 9.97%, trail above cost** · every niche name fails its spread gate for a 4th–7th session)
+
+### Macro & Market Health (~06:45 AM PT)
+- **Tape:** S&P 500 closed Friday at a **new all-time high** (7,757.64, +0.62%); Nasdaq +1.30%. Monday futures **ES +0.14%, NQ +0.4%**, Dow −0.04% — mixed-to-firm, tech leading.
+- **Fed / rates:** weaker-than-expected NFP (Fri 8/7) eased rate-**hike** fears; fed funds futures now price **<50% odds of any 25bp hike by end-2026**. S&P closed at a record on the print; DXY at a 2-month low. VIX and 10yr not retrievable this poll.
+- **Inflation — the week's pivot:** **July CPI Wed 8/12** (est. 3.4% y/y vs 3.5% June), **PPI Thu 8/13**. Largest scheduled two-sided risk in the hold window. **Impact: MEDIUM** — monitor, no pre-CPI adds.
+- **Geopolitical:** Middle East / **Strait of Hormuz reopening** is the tape's focus; **Brent ~$84**, oil firm and the reason Dow futures lag. **Impact: MEDIUM** — no energy exposure in the book; watch for input-cost read-through only.
+- **Sector leadership:** Nasdaq/tech > Dow — growth leading into the open. Book is tech-heavy and correctly positioned.
+
+### Monday Earnings-Calendar Poll (MANDATORY — week of Aug 10–14)
+| Ticker | Date/Time | Held? | Classification |
+|--------|-----------|-------|----------------|
+| **RKLB** | **Mon 8/10 AMC** (call 5:00 PM ET, company-confirmed) | **YES — 9.97%** | **HOLD CURRENT.** Consensus rev **$231.6M** (guide $225–240M), EPS **−$0.03 to −$0.08**; **implied 1-day move 11.52%**. 12 analysts **Strong Buy**, avg PT **$108.75** (low $69 / high $130), backlog $2.2B. **Hold through the print** — sized under the 10% binary cap and the trail at $78.138 sits **+4.49% above the $74.778 entry**, so the name cannot round-trip to a loss. No add (headroom to cap = $3 = 0 sh). |
+| **ASTS** | **Mon 8/10 AMC** | no | **AVOID** — binary tonight, and spread **6.68% → 6.47% → 6.47%** across 3 polls. Untradeable regardless of thesis. |
+| **NBIS** | **Wed 8/12 BMO** | no | **AVOID** — spread **11.38% → 14.18% → 14.18%**. Standing trigger stays **≤$173**; bid $191.04 is 10% above it and the print is T+2. |
+| **AMAT** | **Thu 8/13 AMC** | **YES — 10.77%** | **HOLD CURRENT — trim-or-hold decision due TOMORROW (Tue 8/11).** $543.04, **fifth consecutive read above the $520 line**; trim-watch stays cleared today. |
+| CRWV, SMCI, CSCO, FERG | Tue–Thu | no | **AVOID** — not in the universe; no research edge, no capital available. |
+
+### Live Quotes at ~06:49 AM PT / T+19min post-open (3 consecutive polls)
+| Ticker | Bid | Ask | Spread (p1 → p2 → p3) | Gate Status |
+|--------|-----|-----|------------------------|-------------|
+| **OKLO** | 44.92 | 47.53 | **5.41% → 5.43% → 5.49%** | **FAIL** — the <1%-across-3-polls gate set 8/7 is not met; stable-*wide*, not stable-tight. Also PT **cut**: Barclays $82→**$76** (OW), consensus reset to **$78–88** (was $84.20 avg). 5 sh = $237.65 affordable, but a −7% stop is unenforceable on a 5.5% spread. **NO ENTRY — 3rd consecutive session.** |
+| **ASTS** | 66.40 | 70.99 | **6.68% → 6.47% → 6.47%** | **FAIL** — spread + binary AMC tonight. **NO ENTRY.** |
+| **NBIS** | 185.00 | 215.58 | **11.38% → 14.18% → 14.18%** | **FAIL** — worst spread on the board ex-AEHR; widened from 0.31% on 8/7. Trigger ≤$173 unmet. **NO ENTRY.** |
+| **ANET** | 180.02 | 197.58 | **8.89%** | **FAIL** — bid $180.02 is *at* the ≤$180 trigger but the ask is $197.58; the trigger was never a bid-side test. **NO ENTRY.** |
+| **AEHR** | 93.63 | 120.00 | **21.98%** | **FAIL** — untradeable, 6th consecutive session. |
+| **RKLB** | 79.90 | 85.00 | 6.00% | *held* — no add; cap headroom $3. |
+| PLTR | 176.47 | 176.57 | **0.06%** ✓ | Feed is healthy — tight quotes print on liquid names. The niche spreads are real, not a data artifact. |
+| AMAT | 544.68 | 547.04 | 0.43% ✓ | Held; $520 line intact. |
+
+### Account State (~06:45 AM PT)
+- **Equity:** $10,080.05 | **Cash:** $246.41 (**2.44%** ✓ ≤5%) | **Long MV:** $9,833.64 (**97.56%**)
+- **Day P&L:** **+$74.36 (+0.74%)** vs last_equity $10,005.69 | **Phase P&L:** **+$80.05 (+0.80%)** vs $10k baseline
+- **Positions:** 7/15 | **Open orders:** 9 (7/7 covered by GTC trails) | **Trades this week: 0/25** (new week) | **Daytrades:** 0/5 rolling | `balance_asof` 2026-08-07
+- **Sleeves:** Long-term **$6,151.52 = 61.03%** (target 50%) · Short-term **$3,678.30 = 36.49%** (below the 40% floor — 7th session) · Cash 2.44% ✓
+
+### Decision Rationale — why zero orders
+- **STEP 2 cash test PASSES at 2.44%.** The routine's deployment mandate (cash ≤5%, deploy 95–100%) is **met at 97.56% deployed**. No VOO buy is triggered — and $246.41 could not buy one share of VOO ($710.48) anyway.
+- **Every add path is blocked by a position cap or a spread gate, not by hesitation:**
+  - **PLTR** — 15.75%, already past its own 15% cap on appreciation. 0 shares.
+  - **RKLB** — 9.97% vs the 10% binary cap; headroom **$3 = 0 shares**. Correctly sized into tonight's print.
+  - **AMAT** — headroom to 15% is $426, but **one share costs $547.04 > $246.41 cash = 0 shares.**
+  - **Niche board** — all five names fail their own gate (see quote table). The only one affordable at 5 shares (OKLO) fails the spread test it failed on 8/3 and 8/7, and its consensus PT was **cut** since the last read.
+- **The only remaining lever is trimming an intact-thesis long-term position.** No rule requires it; `qty_available` is **0 across all 7 names** (every share pledged to a live GTC trail), so a trim means cancelling a stop and standing unprotected during the session. **Declined — 7th session.**
+- **BIAS check (STEP 3):** this is not a "hesitation" NO-OP. Nothing was ALL CLEAR. Each rejection names the specific rule that failed.
+
+### Live Action Item for Midday
+- **PLTR at +18.87% is 1.13 points from the +20% rung.** Trigger price **$178.064** (entry $148.387 × 1.20); last $176.38, HWM $177.38. On a cross, tighten the trail **7% → 5%**. Current stop $164.9634 (7%, +11.2% above cost).
+- RKLB's +15% rung is $85.995 (last $83.73). Nothing else is within 6 points of a rung.
+- **No stop modified today. No stop moved down.**
+
+**Next scheduled routine:** Mon 8/10 Midday Scan ~09:00 AM PT (**PLTR $178.064 = +20% trail rung — the one live trigger** · RKLB final read into the 5:00 PM ET print · AMAT $520 line ahead of tomorrow's trim-or-hold decision · re-poll niche spreads).

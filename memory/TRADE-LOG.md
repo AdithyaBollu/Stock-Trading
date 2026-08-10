@@ -3040,3 +3040,51 @@ Long-term sleeve: $6,138.84 (**61.38%**, target 50% — over-weight). Short-term
 **Monday (8/10) plan:** full weekly earnings-calendar pull and classification (pre-entry / drift-watch / avoid) per the Monday discipline; re-check the recalibrated niche triggers (**NBIS ≤$173, ANET ≤$180, OKLO only if the spread holds <1% across 3 polls**); RKLB position review ahead of its AMC print; keep cash ≤5%; re-test whether any short-term add fits as prices move.
 
 **Next scheduled routine:** **Fri 8/7 Weekly Review** (this afternoon — Week 16 grade; carry forward the *entry-cap vs mark-to-market-cap* question and the six-session short-term-floor miss), then **Mon 8/10 Pre-Market ~5:30 AM PT.** **Discord notification SENT.**
+
+## 2026-08-10 — Market Open Execution (Week 17 Day 1, Monday — **NO-OP** · zero orders · cash 2.44% ✓ · **pre-market STEPS 1–7 run inline (no 8/10 pre-market entry existed)** · Monday earnings-calendar poll DONE · RKLB held into tonight's AMC print)
+
+**Portfolio (~06:45 AM PT):** Equity **$10,080.05** | Cash $246.41 (**2.44%** ✓ ≤5%) | Long MV $9,833.64 (97.56%) | Day P&L **+$74.36 (+0.74%)** vs last_equity $10,005.69 | Phase P&L **+$80.05 (+0.80%)** vs $10k baseline | Open positions 7/15 | Open orders 9 (all GTC trails; MSFT and GOOGL each carry two, covering split lots) | **Trades this week 0/25** (new week) | Daytrade count 0/5 rolling | Buying power $28,519.82 (4x margin, unused) | `balance_asof` 2026-08-07.
+
+### Position Ledger (~06:45 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Last | Unreal. % | Day % | MV | % Equity | Trail stop (live) | HWM | Verdict |
+|--------|--------|--------|-------|------|-----------|-------|-----|----------|-------------------|-----|---------|
+| **PLTR** | short-term | 9 | $148.387 | $176.38 | **+18.87%** | +2.54% | $1,587.46 | **15.75%** | **$164.9634 (7%)** | $177.38 | **HOLD** — **1.13 pts from the +20% rung ($178.064)**; stop is +11.2% above cost |
+| **RKLB** | short-term (niche) | 12 | $74.778 | $83.73 | **+11.97%** | +1.09% | $1,004.76 | **9.97%** | $78.138 — **above cost** | $86.82 | **HOLD THROUGH THE PRINT** — earnings tonight AMC 5:00 PM ET; implied move 11.52%; avg PT $108.75 |
+| **GOOGL** | long-term | 5 | $369.89 | $353.20 | **−4.51%** | −0.31% | $1,766.01 | 17.52% | $345.249 (4 sh) · $327.033 (1 sh) | $383.61 / $363.37 | **HOLD** — capex de-rating, thesis intact; adjudicated 8 times |
+| **MSFT** | long-term | 3 | $491.19 | $506.60 | +3.14% | **+1.32%** | $1,519.79 | 15.08% | $457.992 (both lots) | $508.88 | HOLD |
+| **QQQ** | long-term | 2 | $709.99 | $722.38 | +1.75% | −0.09% | $1,444.76 | 14.33% | $655.6725 | $728.525 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $710.48 | +1.52% | −0.03% | $1,420.96 | 14.10% | $642.63591 | $714.0399 | HOLD |
+| **AMAT** | short-term | 2 | $542.505 | $543.04 | +0.10% | +0.72% | $1,086.08 | 10.77% | $499.788 | $555.32 | **HOLD** — **$520 line held, 5th read**; trim-or-hold decision due **Tue 8/11** ahead of the 8/13 AMC print |
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail, RESEARCH-LOG. **No 8/10 pre-market entry existed** → pre-market STEPS 1–7 executed inline (macro scan, Monday earnings-calendar poll, niche watchlist research, 3-poll spread gates). Full detail in RESEARCH-LOG.
+- **STEP 2 — live re-validation.** Account, positions, orders, and 3 consecutive quote polls on OKLO / ASTS / NBIS / ANET / AEHR / RKLB. **Cash 2.44% — the deployment test PASSES**; 97.56% deployed. No VOO buy triggered (and $246.41 < one VOO share at $710.48).
+- **STEP 3 — rule hard-check: NO ORDER CLEARED.** Each rejection names a specific failed rule, not hesitation: **PLTR 15.75%** already past its own 15% cap on appreciation (0 sh) · **RKLB headroom to the 10% binary cap = $3** (0 sh) · **AMAT headroom $426 but one share is $547.04 > $246.41 cash** (0 sh) · **OKLO spread 5.41%→5.43%→5.49%**, failing the <1%-across-3-polls gate for the third session, with its consensus PT **cut** (Barclays $82→$76; consensus $78–88, down from $84.20) · **ASTS 6.47% spread + binary AMC tonight** · **NBIS 11.4–14.2% spread**, trigger ≤$173 vs bid $191.04 · **ANET 8.89% spread** (bid touched the $180 trigger, ask $197.58) · **AEHR 21.98%**, untradeable a sixth session. PLTR's 0.06% spread confirms the feed is healthy — the niche spreads are real.
+- **STEP 4 — buys: NONE.** No setup cleared STEP 3.
+- **STEP 5 — stops: no new positions, so no new stops. All 7/7 existing positions remain covered by GTC trails across 9 orders. No stop modified. No stop moved down.** Trails that ratcheted higher on their own since Friday's close: **PLTR $159.6252 → $164.9634** (HWM $171.64 → $177.38), **RKLB $74.925 → $78.138** (HWM $83.25 → $86.82, now **+4.49% above the $74.778 entry**), **MSFT $454.662 → $457.992** on both lots, **AMAT $498.672 → $499.788**. GOOGL unchanged.
+- **STEP 6 — cash verification: PASSES.** $246.41 = **2.44% ≤ 5%** ✓. No remedial buy required or possible.
+- **STEP 7 — this log entry.**
+- **STEP 8 — Discord: SKIP.** Routine sends on trade only; zero trades placed.
+- **STEP 9 — commit and push:** research + trade log committed.
+
+### Rule Compliance
+7 positions ≤ 15 ✓ · **0 trades this week ≤ 25** ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **GOOGL 17.52% ≤ 20%** ✓ (MSFT 15.08%, QQQ 14.33%, VOO 14.10%) · **PLTR 15.75% — 0.75 pts above the 15% short-term cap on appreciation drift** ⚠️ · **RKLB 9.97% ≤ 10% binary cap** ✓ · cash **2.44% ≤ 5%** ✓ · trailing stops GTC covering **7/7 positions** ✓ · **no stop moved down** ✓ · **Monday earnings-calendar poll completed with all four names classified** ✓ · daytrade count 0/5 ✓ · no margin used ✓. ⚠️ **Short-term sleeve 36.49% < 40% floor — FAILS, no compliant remedy (see STEP 3).**
+
+**On the PLTR cap drift:** unchanged from 8/7 — 15.75% vs a 15% *entry-sizing* cap ("Position cost ≤ 15% of equity"). PLTR was entered compliant and drifted there on a **+18.87% gain**; no trade was placed to exceed it, and trimming would mean cancelling the book's tightest trail on its best position. The 7% trail set Friday is the mechanism that resolves it. **The entry-cap-vs-mark-to-market-cap question is carried forward for the next weekly review — it was flagged 8/7 and remains open in the rulebook.**
+
+**Notes:** **A genuinely clean open — the first in this phase where the book required nothing.** Equity **$10,080.05**, phase P&L **+0.80%**, and the drawdown that defined the last two weeks is now fully behind it. The book is **97.56% deployed** with **7/7 positions trail-protected**, and **three positions can no longer round-trip to a loss** (PLTR's stop is +11.2% above cost, RKLB's +4.49%, and both sit in the short-term sleeve where the risk is concentrated).
+
+**Tonight is the week's first real event.** **RKLB reports AMC at 5:00 PM ET with an implied 1-day move of 11.52%** — the single largest scheduled risk in the book. It is held deliberately: 9.97% against the 10% binary cap, consensus revenue $231.6M against a $225–240M guide, 12 analysts at Strong Buy with a **$108.75 average target** (low $69), $2.2B backlog, and a trail already above cost. A downside gap is bounded by the stop; an upside gap is uncapped. **The correct action was to hold, not to add** — the cap headroom of $3 makes that mechanical anyway.
+
+**The niche board got worse, not better, and the discipline held.** OKLO was the only affordable name on the board ($47.53 × 5 = $237.65 against $246.41 cash) and it was rejected for the third straight session on the same 5.4–5.5% spread — and this time its **consensus target was cut** (Barclays $82→$76; consensus reset from $84.20 to $78–88), so the R:R deteriorated on both sides of the ratio while the price fell. **ANET is the sharper lesson:** its bid printed **$180.02**, touching the ≤$180 standing trigger exactly — but the ask was **$197.58**, a 8.89% spread. A trigger met on the bid is not a trigger met at the fill. **No trade was taken on a price nobody could transact at.**
+
+**Short-term sleeve 36.49% — seventh consecutive session under the 40% floor, still self-healing.** It has moved 34.55% → 36.01% → 36.19% → **36.49%** across four sessions on appreciation alone, with **zero trades**. Every add is blocked by a position cap or a spread gate. **$246.41 of cash buys nothing on this board.** This is a *target* miss inside a 97.56%-deployed book, not the under-deployment failure mode the rulebook punishes — and tonight's RKLB print is the event most likely to close the gap on its own.
+
+**Risk posture:** Tech-heavy and correctly aligned with Monday's leadership (Nasdaq futures +0.4% vs Dow −0.04%). The book carries **no energy exposure**, which matters with Brent at ~$84 on Strait of Hormuz headlines. GOOGL (−4.51%) remains the only meaningfully red name and lives in the sleeve explicitly allowed to breathe.
+
+**Event posture:** **RKLB earnings TONIGHT 8/10 AMC 5:00 PM ET — held at 9.97%, trail above cost, implied move 11.52%** · **ASTS earnings tonight AMC** (not held; 6.47% spread) · **July CPI Wed 8/12 — the week's macro pivot** (est. 3.4% y/y vs 3.5%) · **PPI Thu 8/13** · **NBIS earnings Wed 8/12 BMO** (not held; trigger ≤$173) · **AMAT earnings Thu 8/13 AMC — trim-or-hold decision due TOMORROW, Tue 8/11; $520 line held for a fifth read** · debt-ceiling X-date Aug 15 – Oct 3.
+
+**Today's plan:** hold the book into the RKLB print; **the one live action item is PLTR crossing $178.064 (+20%), which tightens its trail 7% → 5%**; re-poll niche spreads at midday; keep cash ≤5%; no pre-CPI or pre-print adds.
+
+**Next scheduled routine:** Mon 8/10 Midday Scan ~09:00 AM PT (**PLTR $178.064 = +20% trail rung, 1.13 pts away — the one live trigger** · RKLB final read into 5:00 PM ET · AMAT $520 line · niche spread re-poll · Week 17 Day 1).
