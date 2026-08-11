@@ -3228,3 +3228,49 @@ Long-term sleeve: $6,164.94 (**61.90%**, target 50% — over-weight). Short-term
 **Event posture:** **July CPI TOMORROW Wed 8/12 — the week's macro pivot** (est. 3.4% y/y vs 3.5%) · **NBIS earnings Wed 8/12 BMO** (not held; trigger ≤$173, bid $188) · **PPI Thu 8/13** · **AMAT earnings Thu 8/13 AMC — held at 10.58%; final trim-or-hold call at Thursday midday, the last routine before the print** · debt-ceiling X-date Aug 15 – Oct 3.
 
 **Next scheduled routine:** Tue 8/11 EOD Summary ~1:15 PM PT (**PLTR 2.09% and GOOGL 1.32% from their trails — two live stop risks** · ANET's first close against the $193 fill · AMAT $520 line into Thursday · CPI eve positioning).
+
+## 2026-08-11 — EOD Snapshot (Day 42, Tuesday — Week 17 Day 2) — **GOOGL 4-SHARE TRAILING STOP FIRED MIDDAY** · 3 trades on the day · **cash 14.34% — OVER THE 5% CEILING, FIRST BREACH OF THE PHASE**
+
+**Portfolio:** $9,935.54 | **Cash:** $1,425.09 (**14.34%** ⚠️ **>5% — FAILS**) | **Day P&L:** **−$61.48 (−0.61%)** | **Phase P&L:** **−$64.46 (−0.64%)**
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| PLTR | short-term | 9 | $148.387 | $174.01 | −0.70% | **+$230.61 (+17.27%)** | **$169.552675 trail 5% GTC** (HWM $178.4765) — **+14.26% above cost**; close is **2.56%** from the stop |
+| ANET | short-term | 6 | $193.00 | $197.68 | **+3.22%** | +$28.08 (+2.43%) | $179.028 trail 10% GTC (HWM $198.92) |
+| AMAT | short-term | 2 | $542.505 | $526.00 | +0.74% | −$33.01 (−3.04%) | $499.788 trail 10% GTC (HWM $555.32) |
+| MSFT | long-term | 3 | $491.19 | $502.50 | −0.70% | +$33.93 (+2.30%) | $462.357 trail 10% GTC (1 sh + 2 sh, both HWM $513.73) |
+| QQQ | long-term | 2 | $709.99 | $718.69 | −0.30% | +$17.40 (+1.23%) | $655.6725 trail 10% GTC (HWM $728.525) |
+| VOO | long-term | 2 | $699.81 | $708.43 | −0.31% | +$17.24 (+1.23%) | $642.63591 trail 10% GTC (HWM $714.0399) |
+| GOOGL | long-term | **1** (was 5) | $369.89 | $344.19 | **−3.73%** | −$25.70 (−6.95%) | $327.033 trail 10% GTC (HWM $363.37) — 4.98% from the stop |
+
+### Closed Today
+
+| Ticker | Sleeve | Shares | Entry | Exit | Realized P&L | Reason |
+|--------|--------|--------|-------|------|--------------|--------|
+| **RKLB** | short-term (niche) | 12 | $74.778 | $79.64 | **+$58.34 (+6.50%)** | Trailing stop `d4ab15cf` fired at the open 06:31 PT after the AMC print (logged at midday) |
+| **GOOGL** | long-term | **4** | $369.89 | **$345.25** | **−$98.56 (−6.66%)** | **Trailing stop `7b5929dc` (10% GTC, HWM $383.61, stop $345.249) fired 11:43 AM PT** on GOOGL's −3.73% session — exactly the lot flagged at midday as "one ordinary range from firing" |
+
+**Net realized today: −$40.22** (RKLB +$58.34, GOOGL −$98.56). **Trades today: 3** (RKLB exit, ANET buy 6 @ $193, GOOGL 4-sh exit). **Trades this week: 3/25** (22 unused).
+
+Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the first time in the phase). Short-term sleeve: $3,804.17 (**38.29%** — 11th session under the 40% floor). Cash $1,425.09 (**14.34%** ⚠️). Open positions **7/15**. Open orders: **8** (**7/7 positions covered**; PLTR at 5%, the other six at 10%). Daytrade count 0/5 rolling. Buying power $29,529.62 (4x margin, unused). `balance_asof` 2026-08-10. Cash reconciles exactly: $44.09 + $1,381.00 GOOGL proceeds = $1,425.09.
+
+**Notes:** **The stop ladder fired twice today at opposite ends of its range, and the second one is why cash is now out of compliance.** RKLB's stop sold above every price it has traded since the print (+6.50% realized). GOOGL's 4-share lot — flagged at midday as sitting **1.32% above its trail** — hit $345.249 at **11:43 AM PT** and sold for **−$98.56 (−6.66%)**, a bounded, by-design loss on a lot bought before the capex re-rating. Both exits were correct by rule. Neither was a decision; both were the mechanism working.
+
+**Cash 14.34% — the 5% ceiling is breached and there is no excuse to dress it up.** The GOOGL proceeds landed at 11:43 AM PT with **77 minutes of market left, and no routine was scheduled in that window** — midday had already run at 09:25, and EOD is snapshot-only with the market shut. This is a **coverage gap in the routine schedule**, not an arithmetic block: unlike the last ten sessions, the money to deploy genuinely exists. **It is the first cash-test failure of the phase after 41 straight passes.**
+
+**The redeployment is not a simple "buy VOO."** The rulebook's default parking instruction collides with the 20% per-position cap: **VOO at 3 shares would be 21.39% and QQQ at 3 shares 21.70% — both over the cap.** The compliant paths, in order, are (a) **ANET +1 share ~$197.68 → 13.93% ≤15%**, which also lifts the short-term sleeve to **40.28% — through the 40% floor for the first time in eleven sessions**; and (b) a researched new name for the remaining ~$1,227 — **VRT's 7-point research was already assigned to tomorrow's pre-market** at midday. AMAT is blocked (a 3rd share = 15.88% > 15% cap) and MSFT nearly so (a 4th share = 20.2% > 20%).
+
+**EOD checks:** (a) **−7% hard-cut scan — no candidates.** Worst short-term is **AMAT −3.04%**, 3.96 pts clear. GOOGL's remaining single share is −6.95%, but it is a **long-term** position — the −7% hard cut is a short-term-sleeve rule, and its exit trigger is the $327.033 trail, 4.98% below. **No cuts.** (b) **+15%/+20% ladder — nothing eligible.** PLTR **+17.27%** is in the +15% band but **already carries a 5% trail** set at Monday's +20% rung; the 7% rung would move a stop **down** and is forbidden. Nothing else is within 12 points. **No stop modified, no stop moved down.** (c) **Thesis check — all 7 intact.** AMAT closed **$526.00 — the $520 line held for a ninth read**, and is now +0.74% on a red tape into Thursday's AMC print; the final trim-or-hold call stands at **Thursday midday**. ANET printed **+3.22%, its first full session and the book's best mover**, closing above the $193 fill. GOOGL's thesis is unchanged — the stopped lot was a sizing decision made by the trail, not a thesis exit; the surviving share stays. (d) **Sleeve balance — cash test FAILS (14.34%), short-term floor FAILS (38.29%), long-term now UNDER target (47.36%).** (e) No entries — EOD is snapshot-only and the market is closed.
+
+**Benchmark check.** VOO **−0.31%**, QQQ **−0.30%**; the book **−0.61%** — **0.30 pts behind VOO**. Attribution is entirely GOOGL: its −3.73% cost roughly 0.30 pts of equity between the mark-down and the realized exit. Every other name moved less than 1% except ANET, which was the day's only real contributor at +3.22%.
+
+### Rule Compliance
+7 positions ≤ 15 ✓ · **3 trades this week ≤ 25** ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **MSFT 15.17% ≤ 20%** ✓ (QQQ 14.47%, VOO 14.26%, GOOGL 3.46%) · **ANET 11.94% ≤ 15%** ✓ · **AMAT 10.59% ≤ 15%** ✓ · trailing stops GTC covering **7/7 positions across 8 orders** ✓ · **no stop moved down** ✓ · daytrade count 0/5 ✓ · no margin used ✓. ⚠️ **CASH 14.34% > 5% — FAILS.** Cause: stop proceeds landed 11:43 AM PT into an unscheduled window; remedy queued for tomorrow's pre-market (see above). ⚠️ **PLTR 15.76% — 0.76 pts above the 15% short-term cap on appreciation drift** (open rulebook question, carried to weekly review). ⚠️ **Short-term sleeve 38.29% < 40% floor — FAILS**, but for the first time the remedy is affordable. ⚠️ **ANET's $193 entry against its own ≤$180 trigger** remains logged as a process breach (8/11 midday), carried to Friday.
+
+**Risk posture:** Lighter and better defended. The book carries **one live stop risk — PLTR at 2.56% above its 5% trail**, an exit that would realize **+14.26%**, not a loss. GOOGL's remaining share is a 3.46% rump. **14.34% in cash is itself a drag rather than a danger going into tomorrow's CPI** — awkward on rule compliance, but it means the book sits under-exposed rather than over-exposed to the week's macro pivot.
+
+**Event posture:** **July CPI TOMORROW Wed 8/12, 5:30 AM PT — the week's macro pivot** (est. 3.4% y/y vs 3.5%) · **NBIS earnings Wed 8/12 BMO** (not held; trigger ≤$173) · **PPI Thu 8/13** · **AMAT earnings Thu 8/13 AMC — held at 10.59%; final trim-or-hold call Thursday midday, the last routine before the print** · debt-ceiling X-date Aug 15 – Oct 3.
+
+**Tomorrow (8/12) plan:** **deploy the $1,425.09 — this is the session's only mandatory task.** Read CPI first, then: **ANET +1 share** (clears the short-term floor, stays inside the 15% cap), then **complete VRT's 7-point research** and size the remainder, falling back to a second ANET/quality-name add if VRT fails its checklist. **VOO and QQQ are NOT the answer here — a third share of either breaches the 20% cap.** Re-verify the PLTR 5% trail and place a stop on any new fill the same session.
+
+**Next scheduled routine:** **Wed 8/12 Pre-Market ~5:30 AM PT** (**CPI print · cash-remedy deployment is mandatory · VRT 7-point research due** · Week 17 Day 3). **Discord notification SENT.**
