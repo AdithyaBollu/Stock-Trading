@@ -9698,3 +9698,82 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 **Held-name intraday reads:** **RKLB** $81.13 (−2.08%), faded from a $86.73 high into tonight's print — positioning, not a thesis break; trail $78.138 still above the $74.778 cost. **AMAT** $532.80 (−1.09%) — **$520 line holds on a sixth read**, trim-or-hold decision due **Tue 8/11**. **PLTR** $178.21 (+3.61%) — **crossed the +20% rung; trail tightened 7% → 5%, new stop $169.39925.**
 
 **Standing triggers unchanged:** NBIS **≤$173** · ANET **≤$180 on the ask, not the bid** · OKLO **only if the spread holds <1% across 3 polls with distinct timestamps** (timestamp check added to the gate today after the stale-quote trap).
+
+## 2026-08-11 — Market Open Execution (Week 17 Day 2, Tuesday — **RKLB TRAILING STOP FIRED AT THE OPEN, +6.50% REALIZED** · cash spiked to **12.05% — hard breach** · **1 BUY: ANET 6 sh @ $193.00, short-term post-earnings drift** · cash restored to **0.44%** · **no 8/11 pre-market entry existed — pre-market STEPS 1–7 run inline here**)
+
+### Account (~06:45 AM PT)
+- Equity: $9,973.77 → **$9,947.85** after execution
+- Cash: **$1,202.09 (12.05% — BREACH)** → **$44.09 (0.44%)** ✓
+- Buying power: $29,369.05 (4x margin, unused) · non-marginable $5,110.08
+- Daytrade count: 0/5 rolling
+- Open positions 6/15 → **7/15** · Open orders 8 → **9** (7/7 covered)
+- Trades this week: **2/25** (RKLB stop exit + ANET buy)
+
+### Overnight Event — RKLB Q2 print and the stop that worked
+- **Result: mixed.** Record revenue **$234.0M, +62% YoY**, beating the $231.6M consensus by ~$2M. **Adj EPS −$0.08** vs −$0.06 consensus (a $0.02 miss on most tapes; some show an in-line −$0.08). Q3 guide **$250–265M** — above the street. **Backlog $2.36B, +137%.** Net loss narrowed to $49.26M.
+- **The unpriced item was M&A, not the print: RKLB announced an acquisition of Iridium Communications.** That, plus continued Neutron spend, is what the tape sold.
+- **Tape:** closed the regular session $80.04 (−3.37%), fell ~6.8% AH to $74.60, then recovered to ~$78.93.
+- **Execution: the GTC 10% trail (`d4ab15cf`, HWM $86.82, stop $78.138) filled 12 sh @ $79.64 at 06:31:53 AM PT** — the first minutes of the session, exactly as the 8/10 EOD entry said it was armed to do. Entry $74.778334 → **realized +$58.34 (+6.50%)**. The position could not round-trip to a loss and did not.
+- **No re-entry.** RKLB spread was **5.68% across three polls** (72.63 / 77.00) — fails the <1% gate — and a same-session sell-then-buy is a round trip. The thesis is intact but the price is not transactable.
+
+### Market Context
+- **S&P 500 futures** ES ~7,784–7,789 (**+0.15%**); **Nasdaq futures +0.4%** — tech-led, matching the book's tilt
+- Monday's close: S&P 7,753.11 (−0.06%), Nasdaq 26,605.36 (−0.32%), Dow 53,975.98 (−0.11%); 6 of 11 sectors green
+- **VIX 15.46** — **low-fear band (<15–25): standard-to-aggressive sizing permitted**, no forced downsize
+- **10yr Treasury ~4.70%**, up Monday alongside oil — watch for multiple compression if it runs
+- **Oil elevated:** WTI ~$82–84, Brent ~$88–90 — inflation-side pressure into tomorrow's CPI. Book carries **no energy exposure**
+- **Labor:** July payrolls **−23,000** — soft; kills near-term hike odds and shifts the debate back to cuts
+- **Today's catalysts:** none first-tier. The week's pivot is **July CPI Wed 8/12**, then **PPI Thu 8/13**
+- Sector momentum: semis and AI infrastructure leading the earnings tape; beat rate running above normal
+
+### Macro & Geopolitical Impact Classification
+- **Fed:** no meeting today; hike odds fading on the −23k payroll print — **LOW / priced in**
+- **Inflation:** **July CPI Wed 8/12 — MEDIUM**, the one thing that can reprice the whole book this week. Not a reason to hold cash at 12%, but a reason not to over-size a binary
+- **Yields:** 10yr 4.70% — **MEDIUM**, monitor
+- **Oil/Geopolitical:** Brent high-$80s on supply headlines — **LOW** for this book (zero energy, zero transport)
+- **Fiscal:** debt-ceiling X-date Aug 15 – Oct 3 — **MEDIUM**, developing
+
+### Niche Watchlist — 3-poll spread gate (06:46 AM PT, timestamps independently verified)
+| Ticker | Bid / Ask | Poll 1 | Poll 2 | Poll 3 | Verdict |
+|--------|-----------|--------|--------|--------|---------|
+| **AEHR** | 93.40 / 107.71 | 13.32% | 13.45% | 13.29% | **REJECT — untradeable, 7th consecutive session** |
+| **OKLO** | 44.00 / 47.41 | 7.19% | 6.37% | 7.19% | **REJECT — 5th consecutive session**; PT cut still standing |
+| **ASTS** | 67.10 / 70.00 | 3.57% | 4.14% | 4.14% | **REJECT — spread**; also reported AMC 8/10 |
+| **NBIS** | 185.00 / 196.00 | 5.61% | 5.61% | 5.61% | **REJECT — spread**, and **binary tomorrow (Wed 8/12 BMO)** |
+| **RKLB** | 72.63 / 77.00 | 5.68% | 5.68% | 5.68% | **REJECT — spread**; just exited on the stop |
+| **ANET** | 191.57 / 192.11 | **0.28%** | **0.28%** | **0.41%** | **PASS — gate cleared on three independent timestamps** |
+| VOO (control) | 710.34 / 710.79 | 0.11% | 0.06% | 0.06% | Feed healthy — the wide spreads above are real |
+
+**AEHR 7-point research run anyway (it is a core watchlist name):** FQ4'26 adj EPS **$0.11** vs −$0.01 consensus, revenue **$18.8M** vs ~$17.9–18.7M — a clean beat; **FY27 guide $130–150M** against ~$50M FY26 revenue, gross margin to ~45%, record bookings, ~$100M effective backlog; director **Howard Slayen bought 20,000 shares on 8/5 at $108.30** (real insider buying). **The fundamentals are the best on the niche board and it is still un-buyable: a 13.3% spread means a market order gives back a year of edge on entry.** No short interest or technical levels sourced. **NO ENTRY — rejected on execution, not on thesis.** Carried forward.
+
+### Trade Ideas
+1. **ANET — Arista Networks — TAKEN. Short-term sleeve (post-earnings drift).** Entry $193.00, stop −7% $179.49 (10% GTC trail placed at $173.826), targets $214.89 (52wk high) / $226.05 (consensus). **R:R 1.62:1 to the conservative target, 2.45:1 to consensus.**
+2. RKLB re-entry — **rejected** (5.68% spread + same-session round trip).
+3. AEHR — **rejected** (13.3% spread).
+4. OKLO / ASTS / NBIS — **rejected** (spread; NBIS also binary tomorrow).
+5. VOO fallback — **not needed**, a single-stock setup cleared. Long-term sleeve is already 61% and over target, so VOO was the worse of the two compliant deployments.
+
+### ANET — the case, and why the old ≤$180 trigger no longer binds
+- **Earnings (8/5):** non-GAAP EPS **$1.02** vs $0.88–0.90 consensus; revenue **$3.036B**, first quarter above $3B, **+37.7% YoY**. **FY26 guidance raised to $12.6B (+40% growth)** with an **operating margin target of 48–49%**. Textbook beat-and-raise.
+- **Analyst reset — this is the decisive fact.** Twelve post-earnings target raises, **zero downgrades**: Barclays **$195→$289**, Rosenblatt $210→$280, Wells Fargo $200→$255, J.P. Morgan $220→$250, Evercore $200→$250, Jefferies $250, BofA $200→$240, Truist **$175→$234**, Goldman $196→$225, Citi **$173→$215**, TD Cowen $200→$210, Needham $185→$200. **Consensus average now $226.05 (25 analysts) to $241.82 (30 analysts).** Ratings Strong Buy.
+- **The ≤$180 standing trigger was built on a pre-earnings consensus of $188.71.** That number has been reset ~20% higher by the raise. ANET at **$192 now trades below every one of the twelve raised targets** — including the lowest (Needham $200) and Citi's, which came up from $173. Recalibrating a stale trigger against a repriced target set is the same correction already made for NBIS on 8/7; it is not a chase.
+- **Technical:** today o $194.565 / h $195.86 / l $190.48 / last $192.75, consolidating in the low $190s after the report rather than extending. 52-week range $114.52–$214.89. Volume normal.
+- **Sector:** AI networking/infrastructure is the leading pocket of this earnings tape, and the book's semis exposure (AMAT) is the one name it already owns there.
+- **Institutional / short interest:** not sourced post-report — logged as a gap, not as a positive.
+- **Thesis:** the market has recognized the beat and has not yet repriced the forward raise. 40% revenue growth guided with 48–49% operating margins, at a price below every published target. **Hold weeks, not days; exit on the trail or a broken guide.**
+
+### Risk Factors
+- **July CPI tomorrow (Wed 8/12)** — a hot print compresses multiples across the whole book, ANET included. Sized at 11.6%, inside the 15% short-term cap, deliberately not at the cap.
+- **AMAT reports Thu 8/13 AMC** — the book's second event, and AMAT sits at **10.68% of equity against a 10% binary-event cap** (entry-cap drift, see below).
+- **PLTR 15.86%** — same entry-cap-vs-mark-to-market drift, unresolved in the rulebook since 8/7.
+- **GOOGL −5.48%** — the only meaningfully red name, seven-plus sessions of underperformance; long-term sleeve, thesis intact, trail wide.
+- Oil in the high-$80s feeding the inflation print; 10yr at 4.70%.
+- **Cash 0.44% leaves no dry powder.** A setup found later this week cannot be taken without selling something. Accepted: the rulebook punishes idle cash, not the absence of it.
+
+### AMAT — trim-or-hold decision, DUE TODAY (resolved: **HOLD**)
+The **$520 line was the pre-committed arbiter** and it held on the eighth consecutive read — AMAT opened $537.48 and trades $530.87, **+1.67% on the day**, unrealized −2.15%, well clear of the −7% cut. No thesis break: no guidance cut, no adverse news, semis leading the tape. **HOLD into Thursday's AMC print, trail unchanged at $499.788.** The 10.68% weight against the 10% binary cap is *drift on a position entered compliant on 8/4 as a technical/drift trade*, not a binary sized above the cap at entry — the identical open question already flagged for PLTR. **Carried to the weekly review; no stop moved, no share sold.**
+
+### Decision
+**TRADE — ANET 6 sh @ $193.00, short-term sleeve.** Cash went to **12.05% on the RKLB stop fill — a hard breach of the ≤5% rule** and the mandatory action of the session. One name on the entire board cleared the spread gate, and it cleared it with a beat-and-raise, a twelve-firm target reset, and a price below every one of those targets. **Cash restored to 0.44%, 99.56% deployed, short-term sleeve repaired from 26.57% to 38.15%.** No VOO fallback needed. No stop touched. No pre-CPI over-sizing.
+
+**Next scheduled routine:** Tue 8/11 Midday Scan ~09:00 AM PT (**ANET first-day behaviour vs the $193.00 entry** · AMAT into Thursday's print · GOOGL weakness · PLTR trail · niche spread re-poll · Week 17 Day 2).

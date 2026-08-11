@@ -3173,3 +3173,58 @@ Long-term sleeve: $6,164.94 (**61.90%**, target 50% — over-weight). Short-term
 **Tomorrow (8/11) plan:** **first action of pre-market is to re-read order `d4ab15cf` and the RKLB position** — if the stop filled at the open, log the exit, book the realized gain, and free the sleeve capacity; if RKLB gapped up through $78.138, re-verify the trail ratcheted. Then the **AMAT trim-or-hold decision** ahead of Thursday's print, using the $520 line as the arbiter. Keep cash ≤5%; re-test the niche triggers (NBIS ≤$173, ANET ≤$180, OKLO only on three genuinely independent polls under 1%); no pre-CPI adds.
 
 **Next scheduled routine:** **Tue 8/11 Pre-Market ~5:30 AM PT** (**RKLB post-earnings gap and stop status — the first thing to check** · **AMAT trim-or-hold decision due** · niche trigger re-poll · Week 17 Day 2). **Discord notification SENT.**
+
+## 2026-08-11 — Market Open Execution (Week 17 Day 2, Tuesday — **2 ACTIONS** · **RKLB trailing stop FILLED at the open, 12 sh @ $79.64, +6.50% realized** · cash spiked to **12.05% — hard breach** · **BUY ANET 6 sh @ $193.00 (short-term, post-earnings drift)** · cash restored to **0.44%** · short-term sleeve repaired 26.57% → 38.15%)
+
+**Portfolio (~06:55 AM PT):** Equity **$9,947.85** | Cash **$44.09 (0.44% ✓ ≤5%)** | Long MV $9,903.76 (99.56%) | Day P&L −$49.17 (−0.49%) vs last_equity $9,997.02 | Phase P&L −$52.15 (−0.52%) vs $10k baseline | Open positions **7/15** | Open orders **9 (7/7 covered)** | **Trades this week 2/25** | Daytrade count 0/5 rolling | `balance_asof` 2026-08-10.
+
+### Trades Executed
+
+| Date | Ticker | Sleeve | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-11 | **RKLB** | short-term (niche) | **SELL** (trail stop `d4ab15cf`) | 12 | **$79.64** | — (stop executed; HWM $86.82, stop $78.138) | **Exit, not a decision.** 10% GTC trail placed 8/6 fired at 06:31:53 AM PT after the Q2 print. Record rev $234.0M (+62% YoY, beat by ~$2M), Q3 guide $250–265M above street, backlog $2.36B (+137%) — but **adj EPS −$0.08 missed by $0.02 and the unpriced item was the Iridium acquisition**, which the tape sold alongside Neutron spend. Entry $74.778334. | — | **Realized +$58.34 (+6.50%)** |
+| 2026-08-11 | **ANET** | short-term (post-earnings drift) | **BUY** | 6 | **$193.00** | **$173.826** — 10% trailing stop GTC `4717e836` (hard cut −7% = $179.49) | Q2 beat-and-raise: EPS **$1.02** vs $0.88–0.90, revenue **$3.036B (+37.7% YoY)**, **FY26 guide raised to $12.6B (+40%)** with 48–49% op margins. **Twelve post-earnings PT raises, zero downgrades** (Barclays $195→$289, Truist $175→$234, Citi $173→$215, Needham $185→$200 …); **consensus reset $188.71 → $226.05–$241.82**. At $193 ANET trades **below every one of the twelve raised targets** while consolidating in the low $190s. The stale ≤$180 trigger was priced off the pre-raise consensus and no longer binds. | **$214.89** (52wk high) / **$226.05** (consensus) | **1.62:1** conservative · **2.45:1** to consensus |
+
+### Position Ledger (~06:55 AM PT)
+
+| Ticker | Sleeve | Shares | Entry | Last | Unreal. % | MV | % Equity | Trail stop (live) | HWM | Verdict |
+|--------|--------|--------|-------|------|-----------|-----|----------|-------------------|-----|---------|
+| **PLTR** | short-term | 9 | $148.387 | $175.26 | **+18.11%** | $1,577.34 | **15.86%** | $169.552675 (5%) | $178.4765 | HOLD — stop **+14.26% above cost** |
+| **ANET** | short-term | 6 | **$193.00** | $192.75 | −0.13% | $1,156.50 | 11.63% | **$173.826 (10%)** ← new | $193.14 | **NEW** — drift thesis, exit on trail or broken guide |
+| **AMAT** | short-term | 2 | $542.505 | $530.87 | −2.15% | $1,061.73 | 10.67% | $499.788 | $555.32 | **HOLD** — **$520 line held, 8th read**; trim-or-hold decision **RESOLVED HOLD** into the 8/13 AMC print |
+| **GOOGL** | long-term | 5 | $369.89 | $349.62 | −5.48% | $1,748.12 | 17.57% | $345.249 (4 sh) · $327.033 (1 sh) | $383.61 / $363.37 | HOLD — thesis intact |
+| **MSFT** | long-term | 3 | $491.19 | $500.71 | +1.94% | $1,502.14 | 15.10% | $462.357 (both lots) | $513.73 | HOLD |
+| **QQQ** | long-term | 2 | $709.99 | $718.89 | +1.25% | $1,437.78 | 14.45% | $655.6725 | $728.525 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $710.26 | +1.49% | $1,420.52 | 14.28% | $642.63591 | $714.0399 | HOLD |
+
+**Sleeves:** Long-term **$6,108.57 = 61.41%** (target 50%) · Short-term **$3,795.57 = 38.15%** (target 50%; repaired from 26.57% post-exit) · Cash **0.44%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail, RESEARCH-LOG. **No 8/11 pre-market entry existed** → pre-market STEPS 1–7 executed inline (macro scan, RKLB earnings post-mortem, full niche 3-poll spread gate, AEHR 7-point research, ANET analyst reset). Full detail in RESEARCH-LOG.
+- **STEP 2 — live re-validation.** Account, positions, orders, closed orders. **First action of the session was re-reading order `d4ab15cf` exactly as the 8/10 EOD entry instructed** — it had **filled 12 sh @ $79.64**, freeing $955.68 and lifting cash to **$1,202.09 = 12.05%. HARD BREACH of the ≤5% rule → mandatory deployment.**
+- **STEP 3 — rule hard-check.** Spread gate run on three independent timestamps for six niche names plus a VOO control. **Only ANET cleared (0.28% / 0.28% / 0.41%).** Rejections: AEHR 13.3% (7th session), OKLO 6.4–7.2% (5th), NBIS 5.61% + binary tomorrow, RKLB 5.68% + same-session round trip, ASTS 3.6–4.1%. VOO's 0.06% control confirms the feed is healthy and the wide spreads are real. **ANET cleared every gate:** 7 positions ≤15 ✓, 2 trades this week ≤25 ✓, 11.63% ≤ 15% short-term cap ✓, R:R 1.62:1 ≥ 1.5:1 ✓, no earnings in the window ✓, thesis documented ✓, daytrade room 0/5 ✓.
+- **STEP 4 — buys: ANET 6 sh, market, day.** Order `c8bf9031` filled 6 @ **$193.00** ($1,158.00). No long-term entry: that sleeve is **61.41%, already over its 50% target**, so the VOO fallback would have made the sleeve imbalance worse — it was not needed because a single-stock setup cleared.
+- **STEP 5 — stop placed immediately on fill.** `4717e836`, ANET 6 sh, **10% trailing stop GTC, stop $173.826**, no PDT rejection. **All 7/7 positions now covered across 9 GTC orders. No existing stop modified. No stop moved down.**
+- **STEP 6 — cash verification: PASSES.** $44.09 = **0.44% ≤ 5%** ✓, **99.56% deployed**. No remedial VOO buy required.
+- **STEP 7 — this log entry.**
+- **STEP 8 — Discord: SENT** (trades placed).
+- **STEP 9 — committed and pushed.**
+
+### Rule Compliance
+7 positions ≤ 15 ✓ · **2 trades this week ≤ 25** ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **GOOGL 17.57% ≤ 20%** ✓ (MSFT 15.10%, QQQ 14.45%, VOO 14.28%) · **ANET 11.63% ≤ 15% short-term cap** ✓ · **cash 0.44% ≤ 5%** ✓ (breach opened and closed in the same session) · trailing stops GTC covering **7/7 positions across 9 orders** ✓ · **no stop moved down** ✓ · new position stopped within seconds of fill ✓ · niche entry standard applied and every niche name rejected on it ✓ · daytrade count 0/5 ✓ · no margin used ✓. ⚠️ **PLTR 15.86%** and ⚠️ **AMAT 10.67% vs the 10% binary cap** — both entry-cap-vs-mark-to-market drift on positions entered compliant; open rulebook question, carried to the weekly review. ⚠️ **Short-term sleeve 38.15% < 40% floor** — improved 11.6 pts this session, still short.
+
+**Notes:** **The stop did its job and the routine did the rest.** RKLB was held deliberately into a print with an 11.5% implied move because its trail already sat above cost; the print came in mixed — record revenue and a raised Q3 guide against a 2-cent EPS miss and an unbudgeted Iridium acquisition — and the stop converted at 06:31:53 AM PT into a **+6.50% realized gain on a name that fell**. A position that cannot round-trip to a loss is the whole point of the ratchet, and this is the first session where that design paid out in cash.
+
+**The breach it created was the session's real work.** $955.68 of proceeds put cash at **12.05%**, the largest violation of the ≤5% rule since 8/6. It was closed inside twenty minutes without reaching for the VOO fallback, which matters: the long-term sleeve is already **61.41%** against a 50% target, so parking in VOO would have fixed the cash rule by deepening the sleeve imbalance. **A single-stock entry fixed both at once.**
+
+**ANET is the trigger-recalibration case, not a chase.** The ≤$180 standing trigger was set against a pre-earnings consensus of **$188.71**. The 8/5 beat-and-raise reset that consensus to **$226.05–$241.82** across twelve target hikes with zero downgrades, and the stock has since consolidated back into the low $190s — **below every single one of those twelve raised targets, including the lowest.** The old trigger was measuring against a number that no longer exists. The same correction was made for NBIS on 8/7 and is now precedent.
+
+**Every other name on the board was rejected on execution, not conviction — and AEHR is the sharpest example.** Its fundamentals are the best on the niche list: a clean FQ4 beat ($0.11 vs −$0.01), an FY27 guide of **$130–150M against ~$50M of FY26 revenue**, record bookings, and a director buying **20,000 shares at $108.30 on 8/5**. It has now been un-buyable for **seven consecutive sessions** at a 13.3% spread. **The best thesis on the board still loses to a market order that gives back a year of edge at entry.**
+
+**Risk posture:** 99.56% deployed with **7/7 positions trail-protected** and **two positions that can no longer round-trip to a loss** (PLTR's stop is +14.26% above cost). The book is tech-and-semis concentrated into a **CPI print tomorrow** and an **AMAT report Thursday** — ANET was sized at 11.63%, deliberately short of the 15% cap, for exactly that reason. **Cash at 0.44% leaves no dry powder**: any setup found later this week requires a sale first. That is the accepted cost of the deployment mandate.
+
+**Event posture:** **July CPI Wed 8/12 — the week's macro pivot** · **NBIS earnings Wed 8/12 BMO** (not held; rejected on 5.61% spread) · **AMAT earnings Thu 8/13 AMC — held 10.67%, trim-or-hold RESOLVED HOLD on the eighth consecutive $520-line read** · **PPI Thu 8/13** · debt-ceiling X-date Aug 15 – Oct 3.
+
+**Today's plan:** watch ANET's first session against the $193.00 entry; no adds ahead of CPI (and none possible at 0.44% cash); re-poll niche spreads at midday; PLTR's next rung is academic — its 5% trail is already set and a stop is never moved down.
+
+**Next scheduled routine:** Tue 8/11 Midday Scan ~09:00 AM PT (**ANET day-1 vs $193.00** · AMAT into Thursday's print · GOOGL −5.48% · niche spread re-poll · Week 17 Day 2).
