@@ -9698,3 +9698,66 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 **Held-name intraday reads:** **RKLB** $81.13 (−2.08%), faded from a $86.73 high into tonight's print — positioning, not a thesis break; trail $78.138 still above the $74.778 cost. **AMAT** $532.80 (−1.09%) — **$520 line holds on a sixth read**, trim-or-hold decision due **Tue 8/11**. **PLTR** $178.21 (+3.61%) — **crossed the +20% rung; trail tightened 7% → 5%, new stop $169.39925.**
 
 **Standing triggers unchanged:** NBIS **≤$173** · ANET **≤$180 on the ask, not the bid** · OKLO **only if the spread holds <1% across 3 polls with distinct timestamps** (timestamp check added to the gate today after the stale-quote trap).
+
+## 2026-08-11 — Midday Intraday Research (Week 17 Day 2, Tuesday — ~09:25 AM PT / **first RESEARCH-LOG entry of the day — no 8/11 pre-market or market-open entry was logged anywhere**, so today's two fills are reconstructed here from the broker record / **RKLB stopped out at the open, +6.50% realized** / **ANET entered at $193 — 7.2% ABOVE its own ≤$180 standing trigger** / OKLO's tight quote is a stale-feed artifact for the 2nd straight session)
+
+### Reconstruction — today's fills were never committed to memory
+No `2026-08-11` entry exists in RESEARCH-LOG or TRADE-LOG, and **no remote branch carries a commit newer than 8/10** (all 100+ `claude/*` refs checked). Two fills nonetheless happened this morning and are recovered from the closed-orders endpoint:
+
+| Time (UTC) | Symbol | Side | Qty | Fill | Order id | Note |
+|---|---|---|---|---|---|---|
+| 13:31:53 | **RKLB** | sell (trailing_stop) | 12 | **$79.64** | `d4ab15cf` | The stop armed above Monday's close **fired at the open exactly as forecast**. Entry $74.778 → **+$58.34 realized (+6.50%)**. |
+| 13:48:45 | **ANET** | buy (market) | 6 | **$193.00** | `c8bf9031` | $1,158 deployed. Trail `4717e836` (10% GTC) placed 15s later. |
+
+Cash reconciles to the penny: $246.41 + $955.68 (RKLB) − $1,158.00 (ANET) = **$44.09** ✓
+
+⚠️ **Process finding — the ANET fill breached its own standing trigger.** ANET carried a documented, twice-restated trigger: **"≤$180 on the ask, not the bid"** (set 8/5 on an R:R rejection at $197.13; restated 8/7 and 8/10). It was bought at **$193.00 — 7.2% above the trigger** — with no logged research and no logged rationale. The R:R arithmetic that produced the $180 trigger still fails at $193: entry $193, −7% stop $179.49 (risk $13.51) → 1.5:1 needs **$213.27**, against a street mean target of **$188.20** and a post-print median of **$180**. **The position is not being cut** (see thesis check below), but this is the second time in five sessions that a trigger was met on the wrong side of the quote or ignored outright. **Carried to Friday's weekly review as a process item, alongside the open PLTR entry-cap question.**
+
+### Niche board — live quotes (~09:23–09:24 AM PT, spaced polls, timestamps verified)
+
+| Ticker | Bid | Ask | Spread | Gate Status |
+|--------|-----|-----|--------|-------------|
+| **OKLO** | 44.64 | 46.71 | **4.53%** | **FAIL — 5th consecutive session.** A **46.75/46.80 (0.11%)** print appeared again to clear the gate. Three spaced polls with **distinct** timestamps: **3.74% → 4.68% → 4.60%**, snapshot 4.53%. **Same trap as 8/10, caught by the same timestamp check.** Tape is constructive (+5.10%, $44.29 low → $47.02 high, 145.8k vs 290.8k prior vol) — **the setup is not the problem; the book is.** |
+| **ASTS** | 66.13 | 69.84 | **5.46%** | **FAIL** — post-print, spread re-widened from Monday's 0.81%. The one session its gate cleared, the setup was rejected; now the gate is shut again. |
+| **NBIS** | 188.00 | 196.00 | **4.17%** | **FAIL** — and the trigger (**≤$173**) is unmet by 8.7% on the bid. Reports **tomorrow 8/12 BMO**. |
+| **AEHR** | 101.63 | 120.00 | **16.58%** | **FAIL — 8th consecutive session.** Untradeable. |
+| **RKLB** | 76.34 | 78.42 | **2.69%** | **No re-entry** — fails the <1% gate, and $44.09 buys 0 shares. See post-print read below. |
+| **ANET** | 194.91 | 195.12 | **0.11%** | *held* — no add; already 11.76%. |
+| **PLTR** | 173.09 | 173.14 | **0.03%** | Feed healthy on liquid names — the niche spreads are real, not a data artifact. |
+
+### RKLB — post-print read (exited this morning; niche watchlist name, researched per rulebook)
+- **Q2 revenue $234.06M** — record, **+62% y/y**, above the ~$232.06M consensus.
+- **GAAP EPS −$0.08** vs −$0.06 consensus — **miss**.
+- **Adj. EBITDA −$8.8M** vs guided −$20M to −$26M — **materially better than guided**.
+- **Q3 guide $250–265M** — above the quarter just delivered; a genuine **guide raise**.
+- Tape: closed regular $80.04 (−3.37%), then **−6.8% after hours to ~$74.60**; now $76.34/$78.42.
+- **Read: the print was good and the stock sold it.** Revenue beat + guide raise satisfies the post-earnings-drift branch of the short-term checklist; the small EPS miss is the stated reason for the fade. **The trailing stop sold at $79.64 — above where the stock has traded all session — which is the best available outcome from a −9.9% post-print gap.** A re-entry is blocked on **liquidity (2.69% spread)** and **cash ($44.09 = 0 shares)**, not on thesis. **Re-check trigger: RKLB on a spread <1% across 3 spaced polls, with funding available.**
+
+### GOOGL — intraday move (−2.14%, STEP 7 trigger)
+- **No 8/11-specific headline is retrievable.** Coverage points to the standing themes: 2026 capex guided to **$195–205B** (up from $180–185B), negative free cash flow in Q2 for the first time, the AI-unit leadership shakeup (8/5), and ongoing regulatory/legal risk.
+- Q2 fundamentals remain a large beat: **EPS $9.11 vs $2.88 est., revenue $119.8B (+24% y/y)**, cloud +80%.
+- **Verdict: thesis INTACT — no guidance cut, no new event.** This is multiple compression on a known capex story, which is what the long-term sleeve exists to absorb. **HOLD.**
+- ⚠️ **But the mechanics are now tight: the 4-share lot's trail sits at $345.249 and GOOGL bid is $349.86 — 1.32% away.** A normal session's range fires it. That is the stop doing its job, not a reason to move it (and it cannot be moved down).
+
+### Momentum scan — no rankable entry
+"Best intraday breakouts under $250" returned **screener output, not a live gainer feed** — and most named tickers (BILZ, CLOZ, CGDV) are **ETFs, which are forbidden in the short-term sleeve**. Three plausible names were pulled to the tape independently rather than taken on trust:
+
+| Ticker | Last | Day | Spread | Verdict |
+|---|---|---|---|---|
+| **VRT** | $278.87 | **+3.18%** | 0.58% | **The only real candidate on the board.** AI data-center power; liquid; genuine move. **NOT TAKEN** — no 7-point research exists, it has faded off a $284.60 high, and funding it (5 sh = $1,394) would require **liquidating the entire VOO position the day before CPI**. **Assigned for tomorrow's post-CPI pre-market research.** |
+| **STX** | $818.34 | +2.22% | **4.26%** | **FAIL** — spread, and one share is 8.2% of equity. |
+| **FIX** | $1,697.18 | +1.40% | **4.01%** | **FAIL** — spread, and **one share is 17.1% of equity, over the 15% cap**. |
+
+### Decision rationale — why zero orders this session
+- **Cash test PASSES decisively: $44.09 = 0.44% ≤ 5%. The book is 99.56% deployed** — the most deployed it has been in this phase. No VOO buy is triggered or possible.
+- **No cut candidates**: worst short-term name is AMAT at **−3.15%**, 3.85 pts clear of the −7% line.
+- **No trail eligible to tighten**: PLTR at **+16.71%** sits in the +15% band but **already carries a 5% trail** (tightened Monday at the +20% rung); moving it to 7% would be **moving a stop down** and is forbidden. Nothing else is within 13 points of a rung.
+- **Short-term sleeve 38.03% < 40% floor — but it is healing, not stagnant** (35.63% → **38.03%**, the largest single-session gain in ten sessions, on the ANET add). The only remaining lever is trimming an intact-thesis long-term holding to fund a purchase, and **no candidate cleared its gate to fund into** — VRT is unresearched, every niche name failed on liquidity, and CPI prints tomorrow.
+
+### Standing triggers carried forward
+- **VRT — 7-point research due at tomorrow's post-CPI pre-market.** First real short-term candidate in two weeks.
+- **AMAT — final trim-or-hold call is Thu 8/13 midday**, the last routine before the AMC print. $520 line held today on an 8th read ($525.40).
+- **NBIS ≤$173** (reports 8/12 BMO) · **ANET ≤$180 on the ask** (breached today — see above) · **OKLO only on <1% across 3 polls with distinct timestamps** (failed 5th session) · **RKLB re-entry on <1% spread + funding** · AEHR/ASTS blocked on 16.58%/5.46% spreads.
+- **Watch, not action: PLTR is 2.09% above its 5% trail and GOOGL's 4-share lot is 1.32% above its 10% trail.** Either can fire on an ordinary session. Both exits would be profitable or capped by design.
+
+**Next scheduled routine:** Tue 8/11 EOD Summary ~1:15 PM PT (**PLTR and GOOGL trail proximity — two live stop risks** · ANET first-day close vs the $193 fill · AMAT $520 line ahead of Thursday's decision · **July CPI tomorrow 8/12 = the week's macro pivot**).
