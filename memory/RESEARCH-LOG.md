@@ -9698,3 +9698,145 @@ The book's single risk factor — **disinflation plus the AI-capex cycle** — i
 **Held-name intraday reads:** **RKLB** $81.13 (−2.08%), faded from a $86.73 high into tonight's print — positioning, not a thesis break; trail $78.138 still above the $74.778 cost. **AMAT** $532.80 (−1.09%) — **$520 line holds on a sixth read**, trim-or-hold decision due **Tue 8/11**. **PLTR** $178.21 (+3.61%) — **crossed the +20% rung; trail tightened 7% → 5%, new stop $169.39925.**
 
 **Standing triggers unchanged:** NBIS **≤$173** · ANET **≤$180 on the ask, not the bid** · OKLO **only if the spread holds <1% across 3 polls with distinct timestamps** (timestamp check added to the gate today after the stale-quote trap).
+
+## 2026-08-11 — Pre-Market Research (Week 17 Day 2, Tuesday — **RKLB REPORTED AND GAPPED BELOW ITS STOP — THE TRAIL FIRES AT THE OPEN** · revenue beat / EPS miss / Q3 guide raised / backlog $2.36B · **the resulting cash breach (~11.5%) is mandatory to clear this session** · **all four long-term names are capped at 0 whole shares — the ETF fallback is unavailable for the second time** · **AMAT trim-or-hold decision DUE TODAY → HOLD** · CPI T-1)
+
+### Account Snapshot (pre-market ~05:25 AM PT)
+- Equity **$9,951.67** | Cash **$246.41 (2.48%)** ✓ ≤5% *(pre-open — see the breach projection below)* | Long MV **$9,705.26 (97.52%)** | Buying power $28,160.38 (4x margin, unused) | Last equity $9,997.02 | Day P&L **−$45.35 (−0.45%)** pre-market | Phase P&L **−$48.33 (−0.48%)** vs $10k baseline.
+- Open positions **7/15** · Open orders **9** (7/7 positions covered by GTC trails) · Trades this week **0/25** (25 remaining) · Daytrade count 0/5 rolling · `balance_asof` 2026-08-10.
+
+### Sleeve Status
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (GOOGL, MSFT, QQQ, VOO) | $6,163.72 | **61.94%** | 50% | over target |
+| Short-term (PLTR, AMAT, RKLB) | $3,541.62 | **35.59%** | 50% | ⚠️ **10th session under the 40% floor** |
+| Cash | $246.41 | **2.48%** | ≤5% | ✓ **passes at the open — breaks the moment RKLB fills** |
+
+### Position Ledger (pre-market ~05:25 AM PT)
+| Ticker | Sleeve | Shares | Entry | Pre-mkt | Unreal. % | Today % | MV | % Equity | Trail stop (live) | HWM |
+|--------|--------|--------|-------|---------|-----------|---------|-----|----------|-------------------|-----|
+| **RKLB** | short-term (niche) | 12 | $74.7783 | **$76.5838** | **+2.41%** | **−4.32%** | $919.01 | 9.23% | **$78.138 (10%) — $1.55 ABOVE the mark** | $86.82 |
+| **PLTR** | short-term | 9 | $148.3867 | $172.8454 | **+16.48%** | −1.36% | $1,555.61 | **15.63%** | $169.552675 (5%) — **+14.26% above cost** | $178.4765 |
+| **AMAT** | short-term | 2 | $542.505 | $533.50 | −1.66% | **+2.18%** | $1,067.00 | **10.72%** | $499.788 (10%) | $555.32 |
+| **GOOGL** | long-term | 5 | $369.89 | $356.50 | −3.62% | −0.29% | $1,782.50 | **17.91%** | $345.249 (4 sh) · $327.033 (1 sh) | $383.61 / $363.37 |
+| **MSFT** | long-term | 3 | $491.19 | $504.12 | +2.63% | −0.38% | $1,512.36 | 15.20% | $462.357 (2 sh + 1 sh) | $513.73 |
+| **QQQ** | long-term | 2 | $709.99 | $722.97 | +1.83% | +0.29% | $1,445.94 | 14.53% | $655.6725 | $728.525 |
+| **VOO** | long-term | 2 | $699.81 | $711.46 | +1.67% | +0.11% | $1,422.92 | 14.30% | $642.63591 | $714.0399 |
+
+### ⚠️ THE SESSION'S DEFINING FACT — RKLB's trail is armed above the market and fires at the bell
+Order `d4ab15cf` (12 sh, 10% trail, HWM $86.82, stop **$78.138**) still shows status `new`. RKLB's pre-market mark is **$76.5838** and quoted pre-market prints range **$73.94–$76.95**. The stop price sits **above** every one of those. **A trailing stop converts to a MARKET order on trigger, so this sells at the open at whatever the book pays — not at $78.138.**
+
+**Correction to the prior record — the "cannot round-trip to a loss" claim is wrong in the gap case.** It was true for an orderly decline; it is not true for a market-order gap fill. Entry is $74.7783, and the low of the quoted pre-market range is **$73.94 — below cost**:
+
+| Fill | Proceeds | Realized P&L | Cash after | Cash % |
+|------|----------|--------------|------------|--------|
+| $73.94 | $887.28 | **−$10.06 (−1.12%)** | $1,133.69 | **11.39%** ⚠️ |
+| $75.00 | $900.00 | +$2.66 (+0.30%) | $1,146.41 | **11.52%** ⚠️ |
+| $76.00 | $912.00 | +$14.66 (+1.63%) | $1,158.41 | **11.64%** ⚠️ |
+| $76.95 | $923.40 | +$26.06 (+2.90%) | $1,169.81 | **11.75%** ⚠️ |
+
+**No action is taken on the stop.** Cancelling it to dodge the exit is not in the rulebook — a 10% GTC trail on every position is a hard rule, and cancelling is strictly worse than moving a stop down, which is forbidden outright. **The stop does what it was placed to do. The consequence — a cash breach — is what this session must solve.**
+
+### Market Environment — **NEUTRAL**
+- **VIX 15.51** (Cboe, 8/11) — the bottom of the 15–25 band → **standard sizing** by the VIX rule.
+- **Futures:** ES **+0.1%**, NQ **+0.3% to +0.4%**, IWM proxy **+0.20%** — mixed-to-firm, tech leading again.
+- **Rates:** 10yr **4.69%–4.71%**, 2yr **4.224%** → **~+47bp spread**, positively sloped. No inversion signal.
+- **Sectors:** **Energy leads** (+4.6%) on the oil move; **Real Estate (−1.3%) and Utilities (−1.1%) lag.** Tech reads inconsistently across sources (heat-map +1.42% vs Zacks recap −1.1%) — logged as unresolved, not used for a decision.
+- **Breadth:** 6 of 11 sectors positive on the close-based read. No reliable NYSE/Nasdaq A/D line in this poll.
+
+### Macro / Geopolitical
+| Event | Classification | Read |
+|-------|---------------|------|
+| **July CPI — Wed 8/12, 8:30 AM ET** | **HIGH** | The week's pivot, now **T-1**. Consensus **3.4% headline / 2.5% core y/y**; Cleveland Fed nowcast 3.42% / 2.52%; monthly +0.1–0.2% headline, +0.2–0.3% core. **Sizing consequence: all new positions capped at 10% of equity today.** |
+| **Oil / Strait of Hormuz** | **MEDIUM-HIGH** | Brent **$83 → $87.72** as US-Iran talks dim. Reporting ties the move directly to renewed **rate-hike** worry — the transmission into this book is the rates channel *into tomorrow's CPI*, not direct energy exposure (the book has none). |
+| **PPI — Thu 8/13** | MEDIUM | Second leg of the inflation read, same week. |
+| **US-China tariffs** | **LOW / PRICED IN** | Tariff ceasefire **extended 90 days** (Reuters) — de-escalation, but temporary. |
+| **Russia-Ukraine** | MEDIUM WATCH | Trump-Putin meeting scheduled; energy-price relevance only. |
+| **Debt ceiling (X-date Aug 15 – Oct 3)** | **LOW** | Explicitly *not* surfacing as a market driver in today's poll. Carried, not acted on. |
+
+**Combined sizing rule for today: 10% max on anything new.** VIX says standard sizing; CPI at T-1 with oil pushing rate-hike talk overrides to the tighter number.
+
+### Earnings Calendar — Tuesday refresh (week of Aug 10–14)
+| Ticker | Date/Time | Held? | Classification |
+|--------|-----------|-------|----------------|
+| **RKLB** | **Mon 8/10 AMC — REPORTED** | **YES — 9.23%** | **STOP FIRES AT THE OPEN (see above).** Revenue **$234.06M beat** ($232.06M consensus); **EPS −$0.08 missed** (−$0.06); **Q3 guide $250–265M — a raise**; backlog **$2.36B** (from $2.2B), launch ~40% / Space Systems ~60%; adj. EBITDA −$8.8M; Q3 adj. EBITDA guided **−$17M to −$23M**. Neutron **on track for pad delivery Q4 2026** (no confirmed launch date). Stock **−5% to −9.9% AH**; pre-market $73.94–$76.95. **Analysts did not blink: Citizens maintained Buy $130 and Stifel maintained Buy $132, both dated 8/11**; consensus avg PT **$111.31** (high $150 / low $64). **The thesis survived the print; the stop is mechanical, not a thesis call.** → **DRIFT WATCH** (re-entry terms below). |
+| **ASTS** | **Mon 8/10 AMC — REPORTED** | no | **AVOID — confirmed by the print.** Revenue **$31.52M**, EPS **−$0.77**; both missed. −4.42% to $68.76 in the session, then lower AH (~$67.55). **This is the second consecutive violent miss.** Monday's rejection-on-setup was correct. |
+| **CRWV** | Tue 8/11 AMC | no | **AVOID** — consensus EPS −$1.17, revenue $2.5–2.56B. Not in the universe; no research edge. |
+| **NBIS** | **Wed 8/12 BMO** | no | **DRIFT WATCH — no pre-print entry.** Consensus revenue **$574.65M** (range $427M–$632.6M), EPS **−$0.61 to −$0.67**, **+450% y/y**; FY26 guide **$3.0–3.4B** at ~40% adj. EBITDA margin. MarketBeat **Moderate Buy**, avg PT **$222.15** (Citi $278, BofA $280, Piper $224, Northland $410). Last mark **$159.38 — now BELOW the standing ≤$173 trigger.** **The trigger is met and the entry is still refused**: the print is T+1, and a −7% stop cannot bind across an overnight gap, so the 2.5:1 niche R:R is not demonstrable. Identical logic to the ASTS rejection on 8/10. **Post-print entry only, on a beat + guide hold.** |
+| **CSCO** | Wed 8/12 | no | **AVOID** — not in the universe. |
+| **AMAT** | **Thu 8/13 AMC — company-confirmed** (4:30 PM ET; the weekly calendar listing it Wednesday is wrong) | **YES — 10.72%** | **HOLD CURRENT — NO TRIM.** Full reasoning below. |
+
+### AMAT — trim-or-hold decision (DUE TODAY) → **HOLD**
+1. **Setup:** consensus **EPS $3.36–3.39** on **~$9.0B** revenue, against guidance of **$8.95B ±$500M / $3.36 ±$0.20** — implying **+23% revenue** and **+35–36% EPS** growth y/y.
+2. **Analysts:** **32 of 39 at Buy/Strong Buy**; consensus Moderate-to-Strong Buy; average PT **$603–$635** against a $533.50 mark (**+13% to +19%**). One downgrade to Hold on valuation is noted.
+3. **Implied move ~11%**, versus a **~6%** average one-day move across the prior four quarters — the options market is pricing more than history.
+4. **The $520 line held on an eighth consecutive read** — $533.50 pre-market, **+2.18% today**, and recovering off Monday's $522.12 close, which had been the thinnest margin of the sequence ($2.12).
+5. **The cap question:** 10.72% against a 10% binary-event cap. That 0.72 pts is **appreciation drift on a position entered at ~10%**, not an oversized entry — the same category as PLTR's 15.63%, and the rulebook's cap is written as an *entry-sizing* rule.
+6. **What a trim would actually cost:** `qty_available` is **0** (both shares pledged to the live GTC trail), so trimming means **cancelling the stop and standing unprotected mid-session** — and it would realize a **−1.66% loss on an intact, improving thesis**.
+7. **Downside is already bounded.** A full 11% down-gap fills below the $499.788 trail, capping the loss near **−8% on 10.7% of equity ≈ −0.9% of the book**. That is a risk this account can carry.
+
+**Verdict: HOLD through Thursday's print. No trim, no stop change.** **Reversal condition, stated in advance: if AMAT closes below $520 on Tue or Wed, the trim executes at the next routine** — the $520 line is the arbiter and it has not broken.
+
+### Long-Term Sleeve Candidates
+**The binding constraint first — the 20% single-position cap (= $1,990.33) blocks every existing long-term name:**
+| Name | MV | % Equity | Room to 20% | Whole shares that fit |
+|------|-----|----------|-------------|----------------------|
+| GOOGL | $1,782.50 | 17.91% | $207.83 | **0** (1 sh = $356.50) |
+| MSFT | $1,512.36 | 15.20% | $477.97 | **0** (1 sh = $504.12) |
+| QQQ | $1,445.94 | 14.53% | $544.39 | **0** (1 sh = $722.97) |
+| VOO | $1,422.92 | 14.30% | $567.41 | **0** (1 sh = $711.46) |
+
+**⚠️ The rulebook's designated ETF parking is unavailable — VOO and QQQ are both capped with less than one share of headroom.** This is the **second** time the cash rule and the position-cap rule have collided (first was 8/6). On 8/6 the resolution was topping up MSFT and GOOGL; **today even that is closed — all four are at 0 whole shares.** The only compliant deployment path left is **a new position.**
+
+**Primary: NVDA — 4 shares ≈ $870.20 (8.74% of equity).**
+- On the strategy's own long-term target list (AI/Semiconductors, first name).
+- Last close **$217.55** (−2.79% on the day). Consensus PT **$302.83–$304.26 = +39–40%**; **64 ratings: 95% buy / 3% hold / 2% sell**.
+- **Earnings Aug 26** — eleven trading days out, **outside this week's CPI/PPI window**. No binary in the immediate hold window; the date is logged for future management.
+- Technical: IBD describes it as **"in base ahead of earnings"** — constructive, not extended.
+- **R:R:** entry ~$217.55, 10% trail ≈ $195.80 (risk $21.76), consensus target $304 (reward $86.45) → **3.97:1**.
+- **Bear case, logged honestly:** Rosenblatt's low target is **$180 (−17%)**, and TradingEconomics' one-year model projects **$205.56 — below spot.** The 95%-buy consensus is not unanimous conviction on price.
+- **Prior-history disclosure:** NVDA was a *short-term* pilot in this book with a $192.92 chase-gate anchor; $217.55 is **+12.8% above it.** That gate was a short-term-sleeve construct and **does not apply to a long-term entry** — the LT checklist has no chase gate. Stating it rather than quietly ignoring it.
+- Sizing: 8.74% clears **both** the 10% macro cap set by CPI **and** the 20% LT position cap.
+
+**Alternate (if NVDA's spread fails the gate): AVGO — 2 sh ≈ $811.02 (8.15%).** Consensus PT **$506.50–$529.43** vs a $405.51 mark; earnings **Sep 2** — also outside the window.
+**Second alternate: KLAC — 4 sh ≈ $745.00 (7.49%).** Named in the "Top 6 for '26" quality-semi screen.
+
+### Short-Term Candidates — every one evaluated, every one fails
+- **PLTR — 15.63%, already past its own 15% cap** on appreciation. **0 shares.**
+- **AMAT — 10.72%, already past the 10% binary cap** into Thursday's print. **0 shares.**
+- **NBIS — trigger MET at $159.38 (≤$173) and refused anyway** on the T+1 binary; see the earnings table. **The legitimate window is Wed/Thu post-print.**
+- **RKLB — being sold at the open by its own stop.** A same-session buy-back is refused on two grounds: it is a knife-catch on an EPS miss rather than a drift entry (drift plays enter on *strength*, and this name is down 5–10%), and the realistic swing target — the pre-print **$80–86** zone — gives roughly **2.1:1** against a −7% stop, **short of the 2.5:1 niche bar**. **Re-entry terms, set now: a reclaim of $80 on a spread under 1% across three independently-timestamped polls.**
+- **OKLO — AVOID, 5th consecutive session, and the case got worse.** **Four target cuts in a week**: Truist $55→$51, Canaccord **$125→$100**, Citi $31→$30, Craig-Hallum $44→$43. Mark ~$44.5. Short interest **27.9M shares = 17.8% of float, +14.7%** on the period. Q2 revenue $1.2M vs $83.8K expected but a wider loss and higher 2026 cash burn; Groves first criticality achieved and DOE approved the Aurora-INL safety analysis. **MarketBeat's $85.03 consensus is stale against the individual cuts.** Last quote 42.37/47.59 = **10.97% spread.**
+- **AEHR — AVOID.** FY27 guide **$130–150M** revenue at 18–22% non-GAAP pretax, record **$100.6M** backlog, AI ~70% of mix, Craig-Hallum upgraded to Buy — **at a $68 target, and the stock is ~$91.** **Price above the only fresh target is negative R:R.** Next report ~Oct 5.
+- **ANET — FAIL.** Bid $183.92 / **ask $201.88 (8.90% spread)**. The standing trigger is **≤$180 on the ask**; the ask is $201.88. Unchanged from 8/10.
+- **Momentum screen — nothing entered.** DOCS **+89.6%**, TEAM **+32.5%**, TWLO **+21.5%**, AEE +10.9%, SJM +7.5%, FSLR +3.4%. The top three are **earnings gaps** — chasing a +89% pre-market print is not a setup, it is the absence of one. None has a documented thesis, 7-point research, or a computed R:R. The source itself flags the list as "a premarket momentum filter, not a confirmed breakout signal." **Logged, not traded.**
+
+### ⚠️ Quote-feed status — every poll this session was STALE
+Three spaced polls returned **identical timestamps** on every symbol (20:00:00Z–20:44Z = yesterday's close and after-hours), so the spreads printed above are **last-quote artifacts, not tradeable markets** — VOO showing 5.83% and MSFT 11.36% is the tell. **This is exactly the trap that produced the false OKLO signal on 8/10.** Consequence: **no entry decision in this session rests on a pre-market spread.** The <1%-across-3-independently-timestamped-polls gate must be re-run live at the open before any order is sent.
+
+### Decision — **LET THE STOP FIRE, THEN DEPLOY. Cash ~11.5% → ~2.8%.**
+
+**Branch A (expected — RKLB opens below $78.138):**
+1. **RKLB stop `d4ab15cf` fills at the open.** No action taken on the order. Log the actual fill and realized P&L.
+2. **Cash breaches to ~11.4–11.8%. Deploy ≥ ~$650 the same session** (5% of equity = $497.58).
+3. **BUY NVDA 4 shares ≈ $870.20 (8.74%) — long-term sleeve.** Gate first: spread **<1% across 3 polls with distinct timestamps**. Ladder if it fails: **AVGO 2 sh ($811.02)** → **KLAC 4 sh ($745.00)** → whichever prints tightest, sized to bring cash ≤5%.
+4. **Place a fresh 10% trailing stop GTC on the full 4 NVDA shares immediately after fill.** New position, so no interaction with any existing order — nothing to cancel, no stop moved down.
+5. **AMAT: HOLD.** No trim, no stop change.
+6. **No other adds.** Nothing else clears, and it is CPI eve.
+
+**Post-trade state (RKLB @ $75, NVDA 4 sh):** cash **$276.21 = 2.78%** ✓ · long-term **$7,033.92 = 70.68%** · short-term **$2,622.61 = 26.35%** · positions **7/15** ✓ · trades this week **2/25** ✓ · largest LT position GOOGL **17.91% ≤ 20%** ✓ · NVDA 8.74% ≤ 10% macro cap ✓ · no options ✓ · ETFs long-term only ✓ · no margin ✓.
+
+**Branch B (RKLB gaps up through $78.138):** the stop is untouched and the HWM ratchets. **No cash is freed, cash stays 2.48% ✓, and there is no mandated trade.** Hold the book, re-check the trail, and take nothing into CPI.
+
+**The trade-off, stated plainly:** Branch A pushes the long-term sleeve to **70.68%** against a 50% target while short-term falls to **26.35%** — the widest imbalance of the phase. **That is deliberate and it is the only compliant outcome available.** Cash ≤5% is a hard rule; the 50/50 split is a target. Every short-term candidate was individually rejected against a named rule above, and every long-term name including both ETFs is capped at zero whole shares. The imbalance rebalances through NBIS post-print (Wed/Thu) and RKLB on an $80 reclaim — both scheduled, neither forced today.
+
+**This is not the under-deployment failure mode.** The book ends the session ~97% deployed. What it is, honestly, is a short-term sleeve that has now spent ten sessions under its floor and is about to lose a third of what remains of it to a stop.
+
+### Risk Posture
+Six of seven positions are trail-protected and unchanged into CPI; the seventh sells at the open. **PLTR's stop is +14.26% above cost** and cannot round-trip. The book carries **no energy exposure** with Brent at $83–87.72. Post-trade, the largest single event risk is **AMAT's 8/13 print at 10.72%** with an 11% implied move, bounded near −0.9% of the book by its trail. NVDA, if filled, enters with **no earnings inside the hold window** (Aug 26).
+
+**Event posture:** **RKLB reported 8/10 — stop fires at today's open** · **ASTS reported 8/10, missed badly — AVOID confirmed** · **CRWV tonight AMC** (not held) · **July CPI Wed 8/12 8:30 AM ET — HIGH, sizing capped at 10% today** · **NBIS Wed 8/12 BMO — drift watch, trigger met but refused pre-print** · **CSCO Wed 8/12** · **AMAT Thu 8/13 AMC — HELD, hold decision made today, $520 reversal line set** · **PPI Thu 8/13** · debt-ceiling X-date Aug 15 – Oct 3.
+
+**Standing triggers carried forward:** **RKLB re-entry ≥$80 reclaim, spread <1% × 3 timestamped polls** · **NBIS post-print only, on a beat + guide hold** · **ANET ≤$180 on the ask** (ask $201.88) · **OKLO only on 3 genuinely independent sub-1% polls** (10.97% now, 5th session failing) · **AMAT $520 line — trim triggers on a close below it** · AEHR blocked on price-above-target.
+
+**Next scheduled routine:** **Tue 8/11 Market-Open ~06:30 AM PT** — **(1) read order `d4ab15cf` before anything else and log the RKLB fill · (2) execute the NVDA buy and its trailing stop — mandatory if the breach opens · (3) AMAT hold confirmed, no action · (4) re-run every spread gate live, the pre-market feed was stale.**
