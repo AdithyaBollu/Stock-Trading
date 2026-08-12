@@ -9761,3 +9761,160 @@ Cash reconciles to the penny: $246.41 + $955.68 (RKLB) − $1,158.00 (ANET) = **
 - **Watch, not action: PLTR is 2.09% above its 5% trail and GOOGL's 4-share lot is 1.32% above its 10% trail.** Either can fire on an ordinary session. Both exits would be profitable or capped by design.
 
 **Next scheduled routine:** Tue 8/11 EOD Summary ~1:15 PM PT (**PLTR and GOOGL trail proximity — two live stop risks** · ANET first-day close vs the $193 fill · AMAT $520 line ahead of Thursday's decision · **July CPI tomorrow 8/12 = the week's macro pivot**).
+
+## 2026-08-12 — Pre-Market Research (Week 17 Day 3, Wednesday — **CASH BREACH 14.28% — DEPLOYMENT IS THE SESSION'S ONE MANDATORY TASK** · **July CPI prints 5:30 AM PT, AFTER this routine's window — plan is written CPI-conditional** · **VRT 7-point research COMPLETE → BUY SETUP, first new short-term name in two weeks** · **the ANET ≤$180 trigger is RETIRED — the $188.20 street mean that produced it is obsolete; post-Q2 consensus is $226–242** · Strait of Hormuz still shut, oil $84/$89.70 · every core niche name blocked)
+
+### Account Snapshot
+- Equity **$9,980.63** | Cash **$1,425.02 (14.28%)** ⚠️ **BREACHES ≤5% — second consecutive session** | Long MV **$8,555.61 (85.72%)** | Buying power $29,655.79 (4x margin, unused) | Last equity $9,946.77 | Day P&L **+$33.86 (+0.34%)** pre-market | Phase P&L **−$19.37 (−0.19%)** vs $10k baseline.
+- Open positions **7/15** · Open orders **8** (all trailing stops GTC, **7/7 positions covered**) · Trades this week **3/25** (22 remaining) · Daytrade count 0/5 rolling · `balance_asof` 2026-08-11.
+- **Branch note:** session opened on `claude/bold-franklin-i5tkmn`, **0 ahead / 0 behind `origin/main`** — nothing was stranded. Reset to `main` before any work; all commits go to main.
+- **Basis note:** Alpaca has recomputed GOOGL's average entry to **$362.25** (was $369.89) after yesterday's 4-share partial stop-out. The single remaining share is **−4.45%**, not −6.95%.
+
+### Sleeve Status — **CASH TEST FAILS. DEPLOYMENT IS MANDATORY AND, UNLIKE THE LAST TWELVE SESSIONS, AFFORDABLE.**
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (MSFT, QQQ, VOO, GOOGL) | $4,717.28 | **47.26%** | 50% | ⚠️ 2.7 pts under target |
+| Short-term (PLTR, ANET, AMAT) | $3,838.21 | **38.46%** | 50% | ⚠️ **12th consecutive session under the 40% floor** |
+| Cash | $1,425.02 | **14.28%** | ≤5% | ⚠️ **FAIL — must deploy ≥$925.99 today** |
+
+**Position-cap headroom — this is again the binding constraint, and it is why "just buy VOO" is not the answer.**
+| Name | Sleeve | MV | % | Cap | Room | Whole shares that fit |
+|------|--------|-----|---|-----|------|----------------------|
+| **VOO** | LT | $1,420.24 | 14.23% | 20% ($1,996.13) | $575.89 | **0** (1 sh = $710.12 → 21.35%) ⚠️ **ETF fallback position-capped** |
+| **QQQ** | LT | $1,446.12 | 14.49% | 20% | $550.01 | **0** (1 sh = $723.06 → 21.74%) ⚠️ **ETF fallback position-capped** |
+| **MSFT** | LT | $1,504.80 | 15.08% | 20% | $491.33 | **0** (1 sh = $501.60 → 20.10%, misses by 0.10 pt) |
+| **GOOGL** | LT | $346.12 | 3.47% | 20% | $1,650.01 | 4 ($1,384.48) — *available, declined; see Decision* |
+| **PLTR** | ST | $1,550.61 | 15.54% | 15% ($1,497.09) | **−$53.52 (over)** | **0** |
+| **AMAT** | ST | $1,080.00 | 10.82% | 15% | $417.09 | **0** (1 sh = $540.00 → 16.23%) — *and it reports tomorrow AMC* |
+| **ANET** | ST | $1,207.60 | 12.10% | 15% | $289.49 | **1** ($201.27 → 14.12%) ✓ |
+| *new short-term name* | ST | — | — | 15% | $1,497.09 | — |
+
+**⚠️ For the second session running, the rulebook's default parking instruction ("buy VOO") is unexecutable.** A third share of VOO is **21.35%** and of QQQ **21.74%** — both breach the 20% single-position cap. MSFT misses by 0.10 of a point. **The compliant path runs through the short-term sleeve, which is also the sleeve that is 11.5 pts under target.** That is a fortunate alignment, not a coincidence to lean on.
+
+### Position Ledger (pre-market ~05:25 AM PT)
+| Ticker | Sleeve | Shares | Entry | Pre-mkt | Unreal. % | Today % | MV | % Equity | Trail stop (live) | To stop | HWM |
+|--------|--------|--------|-------|---------|-----------|---------|-----|----------|-------------------|---------|-----|
+| **PLTR** | short-term | 9 | $148.387 | $172.29 | **+16.11%** | −1.52% | $1,550.61 | **15.54%** | $169.552675 (**5%**) | **1.59%** | $178.4765 |
+| **QQQ** | long-term | 2 | $709.99 | $723.06 | +1.84% | +0.64% | $1,446.12 | 14.49% | $655.6725 | 9.32% | $728.525 |
+| **VOO** | long-term | 2 | $699.81 | $710.12 | +1.47% | +0.24% | $1,420.24 | 14.23% | $642.63591 | 9.50% | $714.0399 |
+| **MSFT** | long-term | 3 | $491.19 | $501.60 | +2.12% | −0.44% | $1,504.80 | 15.08% | $462.357 (2 sh + 1 sh) | 7.82% | $513.73 |
+| **ANET** | short-term | 6 | $193.00 | $201.27 | **+4.28%** | +1.73% | $1,207.60 | 12.10% | $179.028 | 11.05% | $198.92 |
+| **AMAT** | short-term | 2 | $542.505 | $540.00 | −0.46% | **+2.74%** | $1,080.00 | 10.82% | $499.788 | 7.45% | $555.32 |
+| **GOOGL** | long-term | 1 | $362.25 | $346.12 | −4.45% | +0.68% | $346.12 | 3.47% | $327.033 | 5.51% | $363.37 |
+
+**PLTR sits 1.59% above its 5% trail — the tightest proximity in the book, and an exit there realizes +14.26%, not a loss.** Nothing else is inside 5%. **ANET has recovered its $193 entry decisively: +4.28% and $8.27 above the fill on its second session.**
+
+### Market Environment — **NEUTRAL, at the calm edge of the band**
+- **VIX 15.28–15.55** (Cboe spot $15.29 8/11; live quotes 15.28/15.37/15.55). Inside the 15–25 neutral band, **at its low edge** → standard sizing by the letter of the rule.
+- **Futures mildly positive:** ES **+0.22%** (7,764.25 / 7,766.50 CME 06:03 CT); NQ **+0.02% to +0.62%** (~29,744–29,810); RTY **+0.08%** (3,037.90). SPY pre-market +0.27%, IWM +0.27%.
+- **Prior close (8/11):** S&P 500 7,728.20 **−0.32%**, Nasdaq 26,445.45 **−0.60%**, Russell 2000 3,031.46 −0.47%. Pre-CPI de-risking, mild.
+- **Sectors — the leadership is the macro story:** **Utilities +1.85% and Energy +0.78–1.25% lead**; Industrials +0.60%, Materials +0.11% positive. **Communication Services −0.50% and Consumer Staples −0.55% lag**; Real Estate −0.22%. A separate momentum map puts **Staples, Industrials, Materials, Energy in the Leading quadrant and Technology, Communications, Discretionary, Financials in Lagging.** **Energy leading while tech lags is the Hormuz trade, and this book is 100% on the wrong side of it by construction.**
+- **Put/call — no froth:** CBOE total **0.81**, equity **0.63**, index **0.90**. SPX volume PCR 1.04.
+- **Breadth: NO US PRINT — the query returned Indian NSE/BSE data (A/D 0.80) for the FOURTH consecutive session.** Discarded. **Breadth is unconfirmed and is being treated as unavailable, not as neutral.** This query has now failed four sessions running and should be reworded at the weekly review.
+- **Oil: WTI ~$83.96 / Brent ~$89.69**, spread ~$5.73. Up from $78.18/$83.55 on 8/7 — **still rising, not stabilising.**
+
+**Environment call: NEUTRAL → standard sizing (15% short-term cap available).** The VIX at 15.3 is the decisive tell and it is honoured below, but the sizing actually taken is deliberately under the cap — see Decision.
+
+### Macro / Geopolitical
+| Event | Class | Read |
+|-------|-------|------|
+| **July CPI — TODAY 5:30 AM PT** | **HIGH IMPACT, UNRESOLVED AT WRITE TIME** | **The print lands AFTER this routine's window and is NOT in this entry.** Consensus: headline **+0.1% m/m / 3.4% y/y** (from 3.5%), core **+0.17% m/m / 2.4–2.5% y/y** (from 2.6%). MUFG models 0.12%/3.4% and 0.17%/2.4%. CNBC reports **prediction markets lean tamer than consensus.** BLS confirms 8:30 ET. **Three independent attempts to retrieve the actual print (Perplexity ×2, WebSearch ×2, direct fetch of bls.gov/news.release/cpi.nr0.htm) all returned the JUNE release** — the page had not rolled at 05:29 PT. **One Perplexity answer claimed "+0.2% m/m / 2.7% y/y headline, +0.3% / 3.1% core" — that is the JULY 2025 print bleeding through, not this year's, and it is rejected.** **Market-open MUST read the actual before executing.** |
+| **Strait of Hormuz closed / Iran** | **MEDIUM WATCH — escalating** | Described in sourcing as the **largest supply shock in the history of the oil market**: ~1/5 of global oil flows normally transit the strait; ~11 mb/d still offline after rerouting via the Saudi East-West and UAE Habshan-Fujairah pipelines, leaving a **~9 mb/d shortfall**. Brent $83.55 (8/7) → ~$88 (8/9) → **$89.69 now**; WTI $78.18 → ~$82 → **$83.96**. Named today as a top market-moving catalyst and the reason Energy/Utilities lead. **Why MEDIUM and not HIGH, stated plainly so it can be checked:** the rulebook's HIGH tier is "directly reprices sector today." This is a *standing, weeks-old* condition, not a same-day repricing, and **a VIX of 15.3 with S&P futures green is not what a live HIGH-impact shock looks like.** The counter-argument is real and is recorded: oil is still *rising* session over session, and the transmission channel to this book (oil → inflation → Fed hike risk → multiple compression on AI/tech) is exactly the channel that hurt GOOGL and the semis this month. **Escalation trigger, set now: Brent >$95 OR VIX >20 flips this to HIGH and caps all new sizing at 10%.** |
+| **Fed policy** | **MEDIUM WATCH** | Target range **3.50–3.75%**, held at the July FOMC. **Next meeting Sept 16.** FedWatch: **cut probability just 3.8–4.3%**; the live debate is **hold (~50%) vs HIKE (~25%)**. June SEP median end-2026 **3.8%** (central tendency 3.6–4.1%); the July Monetary Policy Report cites futures near **4% by year-end**. **No cut is priced anywhere on the curve — the risk in this book is a hike, and CPI is the input that decides it.** |
+| **Treasury yields** | **MEDIUM WATCH** | 10yr **~4.71%**, 2yr **~4.24%**, spread **+46bp**, positively sloped. **The 10yr at 4.71% is ~38bp higher than the 4.33% logged on 8/6** — that repricing is the mechanical driver of the multiple compression that took GOOGL down this month. Directly relevant to the four long-duration names in the long-term sleeve. |
+| **US–China trade** | **MEDIUM WATCH** | The additional **10% tariff runs to Nov 10, 2026**; a **12.5% forced-labor-linked duty** took effect 7/24/26; **15% + price floors on polysilicon-derived products**; truce extended 90 days; rare-earth and Nvidia-to-China licensing partially resumed. CRS puts effective average rates at **~34% on US imports from China**. **Semis and AI hardware sit in the blast radius — AMAT (reports tomorrow) most directly.** |
+| **Russia–Ukraine** | **MEDIUM WATCH** | World Bank projects energy prices **+24% in 2026** to the highest since 2022 and commodities **+16%**. Strikes on Russian refineries are driving diesel volatility with US spillover. **Compounds Hormuz rather than offsetting it** — the two together are the inflation risk to the whole book. |
+| **Debt ceiling / fiscal** | **MEDIUM WATCH** | Limit **$41.1T**; FY26 deficit **$1.9T**. Bessent has warned of a "reasonable probability" of hitting the ceiling **in August while Congress is in recess**. **X-date window Aug 15 – early Oct — the near edge is three days away.** |
+| **Labour market** | **LOW / PRICED-IN** | Initial claims **199k** (w/e Aug 1), 4-wk avg **198,750**; continuing claims **1.801M**. Sub-200k for a third straight week — stable, no Fed forcing function. |
+| **Growth** | **LOW / PRICED-IN** | Q2 2026 advance real GDP **+1.5%** annualised (Q1 third estimate 2.1%). Atlanta Fed **GDPNow Q3 at 5.8%** (8/6) — implausibly hot and treated as noise this early in the quarter. Q2 second estimate **Aug 26**. |
+
+**Sizing consequence: MEDIUM across the board → standard 15% short-term sizing is permitted. It is not being used in full.** Two unresolved HIGH-adjacent items (an unread CPI print and an oil shock still moving the wrong way) argue for taking the compliant deployment at the low end of the band rather than the cap.
+
+### Earnings Calendar — Week of Aug 10 (daily refresh, Wed)
+| Ticker | Date | BMO/AMC | Held? | Classification | Key thesis / action |
+|--------|------|---------|-------|----------------|---------------------|
+| **AMAT** | **Thu 8/13** | **AMC** | **YES — 10.82%** | **HOLD CURRENT** | Fiscal Q3. Consensus **EPS $3.36–3.39** on **~$9.0B**; company guided **$8.95B ±$500M** and **$3.36 ±$0.20** — i.e. the Street is sitting exactly on the guide midpoint, ~**+23% revenue / +36% EPS** y/y. Street **Strong Buy** (39 analysts), avg PT **$603–633** (+14–23%); recent raises from KeyBanc, Wells Fargo, UBS, TD Cowen, Mizuho; target dispersion is wide ($150–900). **No options-derived implied move is retrievable and none is inferred.** **$520 line held for a 10th read ($540.00, +2.74% pre-market) — the strongest read of the sequence.** **Final trim-or-hold call stands at Thursday midday, the last routine before the print.** No add today: a 3rd share is 16.23% > 15% cap, and adding into a binary would breach the ≤10% event-sizing rule regardless. |
+| **NBIS** | **TODAY 8/12** | **BMO** (call 8:00 ET) | no | **AVOID** | Consensus **EPS −$0.67 to −$0.72** on **$574–578M**. Closed **$193.23**, **+7.87% after hours to $208.44** *pre*-print. **Standing trigger ≤$173 is unmet by 12–21%** and the gap is widening, not closing. **DA Davidson CUT to $175 from $250, Neutral (8/8–8/10)** — the most recent action on the name is a downgrade of price expectation. Consensus PT dispersion is extreme ($120–410; averages $216 / $251 / $263 depending on source). **No entry. Re-evaluate post-print at midday.** |
+| ASTS | Mon 8/10 | AMC | no | **AVOID — reported, missed** | See niche table. |
+| RKLB | Mon 8/10 | AMC | **exited 8/11 +6.50%** | **POST-EARNINGS DRIFT WATCH** | See niche table. |
+| CSCO, COHR, SPG, LITE, CRWV, SE, BN, FERG, B | Mon 8/10 | mixed | no | **AVOID** | Not researched to the 7-point standard, no sleeve capacity that a researched name doesn't use better. Documented as evaluated and declined. |
+
+### Long-Term Sleeve Candidates
+Sleeve is **47.26%**, 2.7 pts under its 50% target — but **every existing long-term name is position-capped except GOOGL**, and the ETF fallback is unexecutable (see headroom table). Screens for quality AI/semi compounders returned **NVDA, TSM, AVGO, MSFT, MU, AMZN**; MSFT is already held and capped.
+| Candidate | Entry | Stop | Target | Verdict |
+|-----------|-------|------|--------|---------|
+| **GOOGL +4 sh** | ~$346.12 ($1,384.48 → 17.31%) | 10% trail | thesis intact; Q2 EPS $9.11 vs $2.88 est., rev $119.8B +24%, cloud +80% | **DECLINED.** Thesis is intact and the room exists — but its trail fired on 4 of 5 shares **yesterday** on the capex re-rating ($195–205B guide, first negative FCF quarter). **Buying back today what the mechanism sold yesterday, into a 4.71% 10-year, is fighting the stop ladder rather than using it.** Held as the **fallback** if a planned trade fails at open. |
+| **NVDA / TSM / AVGO** | — | — | — | **DECLINED — no 7-point research, and no capacity to fund a 4th long-term name without trimming an intact-thesis holding.** The long-term sleeve's 2.7-pt shortfall is smaller than the short-term sleeve's 11.5-pt shortfall; capital goes where the larger gap is. |
+| **VOO / QQQ (rulebook default)** | — | — | — | **UNEXECUTABLE — 21.35% and 21.74% respectively, both breach the 20% cap.** Second consecutive session. |
+
+### Short-Term Candidates
+| Candidate | Entry | −7% cut | 1.5:1 line | Street target | R:R | Verdict |
+|-----------|-------|---------|------------|---------------|-----|---------|
+| **VRT** | **~$280** | $260.40 | $309.40 | **$340.67 avg / $345 median** | **~3.1:1** ✓ | **BUY SETUP — 7-point research complete below** |
+| **ANET +1** | **~$201.27** | $187.18 | $222.41 | **$226.05–241.82 avg, $245 median, $289 high** | **1.8–2.9:1** ✓ | **BUY — and the ≤$180 trigger is formally retired, see below** |
+| AMAT +1 | $540.00 | — | — | $603–633 | — | **BLOCKED** — 16.23% > 15% cap; binary tomorrow. |
+| DOCS / TEAM / TWLO / HTZ / DV / QMCO | — | — | — | — | — | **DECLINED.** The pre-market momentum screen returned pure gap-and-go earnings reactors (**DOCS +89.59%, TEAM +32.47%, QMCO +26.23%, TWLO +21.51%, HTZ +19.31%, DV +12.98%**). **Every one is a same-day chase with no 7-point research, on the day of a CPI print.** This is the third consecutive session the momentum scan has produced a screener dump rather than a rankable setup. |
+
+**⚠️ RETIRING THE ANET ≤$180 TRIGGER — and the honest reason why.** The trigger was set 8/5 on an R:R rejection and restated 8/7 and 8/10, built on a **street mean of $188.20**. That number is now stale: **post-Q2 consensus is $226.05–$241.82 average, $245 median, $289 high**, after target raises from **TD Cowen ($210→$250), Needham ($200→$260), BofA ($200→$240), Citi ($173→$215), Barclays ($119→$151)**. At **$201.27** the R:R is **1.8:1 to 2.9:1 — it clears the 1.5:1 minimum on current data.** Two things follow, and both are said out loud: **(a) the trigger is retired because its input is obsolete, not because it is inconvenient**; **(b) this does NOT retroactively excuse yesterday's fill.** That buy was made at $193 with no research and no logged rationale against a live trigger — **it was a process breach when it happened and it stays on the record for Friday's review.** Being right by luck is not the same as being right by process. Fundamentals underwriting the add: Q2 revenue **$3.036B +37.7% y/y**, non-GAAP EPS **$1.02 vs $0.73**, op margin **49.9%**, FY26 guide raised a third time to **$12.6B**.
+
+### VRT — Full 7-Point Research (assigned 8/11 midday, completed here)
+1. **Earnings / fundamentals.** Q2 2026 (reported 7/29): **adj. EPS $1.52, +60% y/y, beat $1.43** · GAAP diluted EPS $1.27 (+53%) · **revenue $3.27B, +24% y/y, but MISSED the $3.38–3.39B Street** on supply-chain timing. **FY26 guidance RAISED**: sales **$13.8–14.2B**, adj. EPS **$6.65–6.75**, adj. op margin **23.3–24.3%**, adj. FCF **$2.4–2.6B**. Q3 guide **$3.65–3.85B** and **EPS $1.77–1.83** — above the quarter just delivered.
+2. **Analyst coverage.** Consensus **Buy / Overweight**. Avg PT **$340.67**, median **$345**, range **$236–427**. **GLJ Research upgraded to Buy, $381 (8/7)**; Argus maintained bullish (8/5); Roth →$355 Buy; Oppenheimer →$353 Outperform.
+3. **Institutional activity.** ~**90%** institutional ownership (67.1% on a 13F-only basis). Q1 2026 13F: **1,011 buyers vs 617 sellers**, 158 unchanged, across 1,786 filers. Top holders BlackRock, Vanguard, State Street, Geode; largest buyers Vanguard, T. Rowe, State Street, BlackRock; largest sellers Jane Street, Marshall Wace, Millennium, FMR, Nuveen. **No clean 2026 Form 4 insider data is retrievable — recorded as unknown, not as neutral.**
+4. **News & catalysts (2 weeks).** Q2 print + guide raise (7/29) · **Bitzero Holdings** collaboration for AI/HPC data-center power and liquid cooling · **800V DC architecture** roadmap validated with customers, first deployments 2027 / data-hall scale 2028 · **NVIDIA + VisionBay AI** collaboration on Taiwan's first GB300 AI data center · chiller capacity expansion in Italy + new cooling test lab · multiple post-print PT raises.
+5. **Sentiment.** Short interest **11.21M shares = 2.95% of float** (as of 7/15), **DOWN 22.57%** from the prior report. Days to cover **1.61–2.38**. **Not a crowded short and no squeeze thesis** — the case here is fundamental, not positioning. Barron's sentiment 8.16/10 positive.
+6. **Technical — and this is the weak leg, stated as such.** Closed **$279.52** on 8/11 (range $274.00–$284.68); 8/6 close $275.17. **50-DMA ~$300.71 sits ABOVE the price — VRT is below its 50-day and this is NOT a breakout entry.** 200-DMA **~$248.69** is well below and intact. Near-term support **~$270**, resistance band **$286–300**. **The setup is a pullback-in-an-uptrend after a guide raise, not a momentum continuation — and the 1.5:1 target of $309.40 requires reclaiming the 50-DMA to get there.** That is the single biggest thing that can go wrong with this trade.
+7. **Thesis.** VRT is the pure-play arms dealer for AI data-center **power and thermal** — the one physical bottleneck the hyperscaler capex cycle cannot design around, and the same capex line (GOOGL $195–205B) that is *compressing* the multiple on the buyers is *revenue* here. The Q2 selloff was a **revenue-timing** miss against a **raised full-year guide and expanding margins** — the market sold the quarter and ignored the year. Entry ~$280 against a **$260.40 hard cut (risk $19.60)** and a **$340.67 street mean (reward $60.67) = 3.1:1**, with the 200-DMA at $248.69 sitting just under the 10% trail as a second line. **Asymmetry: the bear case is a supply-chain timing slip already disclosed and already sold; the bull case is a guide the company raised while missing.**
+
+### Niche Radar
+| Ticker | Price | Classification | EPS Trend | Analyst Target | Key Catalyst | Short% | Action |
+|--------|-------|----------------|-----------|----------------|--------------|--------|--------|
+| **ASTS** | $68.76 close (−4.42%), $67.55 AH | **AVOID** | **Q2 MISS both lines: EPS −$0.77 vs −$0.26/−0.32 est.; rev $31.5M vs $35.0M est.** Rev $1.2M→$31.5M y/y, $15.8M→$31.5M q/q. Net loss $230.9M incl. a **$125.9M loss on involuntary conversion** | $79.66–87.87 avg (median $85), range $42.50–108. **Rating mix is HOLD: 4 Buy / 6 Hold / 2 Sell** | FY26 guide **reaffirmed $150–200M**; next legs are satellite deployments + service commercialisation | n/a — not retrievable | **NO ENTRY.** Missed both lines and the sell-side consensus is Hold, not Buy. |
+| **RKLB** | $75.83/$85.32 (stale close quote) | **POST-EARNINGS DRIFT WATCH** | Q2 rev **$234.06M, +62% y/y**, record, beat ~$232.06M; **GAAP EPS −$0.08 vs −$0.06 miss**; adj. EBITDA **−$8.8M vs −$20/−26M guided**; **Q3 guide $250–265M = a raise** | Avg **$110.29–116.59**, median $120, range $60–150. **Cantor →$122 Overweight; Citizens $130 reiterated (8/11); KGI upgrade to Outperform (7/27); Roth CUT $130→$110, kept Buy** | Neutron; stopped out 8/11 at $79.64 **above every price since** | n/a | **NO RE-ENTRY TODAY.** Beat + guide raise satisfies the drift branch, but the spread gate cannot be evaluated pre-market (see below) and capital is committed. **Re-check trigger unchanged: <1% spread across 3 spaced polls with distinct timestamps.** |
+| **OKLO** | $44.64/$49.29 (stale close quote) | **WATCH — best fundamental news on the board** | First revenue ~**$1.21M**; still pre-commercial | Consensus **$84.10–88.74**; bulls $90/$100/$130; bear $51 Hold. **A consensus at ~$86 against a ~$46 price is a ~87% gap — that dispersion ($51–130) is itself the warning, and it is read as an unresolved split, not as free upside** | **Groves reactor achieved FIRST CRITICALITY 8/6** — a genuine operational milestone. Q2 update 8/7. ~$3.0B liquidity. Meta prepayment, DOE involvement | n/a — **not retrievable** | **NO ENTRY. And a new negative:** insiders sold **483,629 shares / $29.86M in 90 days** (Cochran 7,151 sh 8/3; CFO Bealmear 5,644 sh 8/4) — **into the criticality milestone.** Institutional ownership is unreconciled across sources (85% vs 51–52%). **Gate unevaluable pre-market; failed 5 straight sessions on spread.** |
+| **AEHR** | $100.55/$133.20 (stale close quote) | **WATCH — fundamentals improved sharply** | **Fiscal Q4 BEAT: adj. EPS $0.11 vs −$0.01 est. on rev $18.8M vs $17.92M.** **FY27 guide $130–150M rev at 18–22% non-GAAP pre-tax margin**, on a **record $100.6M effective backlog**, and the guide **excludes** memory and the completed AI benchmark customer | **No aggregate consensus rating retrievable** — coverage is Craig-Hallum, Freedom Broker, Lake Street, William Blair. Recorded as unknown | Backlog + FY27 guide | n/a | **NO ENTRY.** The fundamental turn is real and this is the best AEHR news in months — **but the name has failed its spread gate 8 consecutive sessions (24.51% on the last close quote) and is functionally untradeable at this account size.** |
+| **NBIS** | $193.23 close, **$208.44 AH (+7.87%)** | **AVOID** | Q2 due **TODAY BMO**; consensus EPS **−$0.67/−$0.72** on **$574–578M** | Avg $216.29 / $250.75 / $262.63 by source; range **$120–410**. **DA Davidson CUT $250→$175, Neutral (8/8–8/10)** | Earnings today 8:00 ET call | n/a | **NO ENTRY — trigger ≤$173 unmet by 12–21% and widening.** Institutional ownership only **21.90%**. Re-evaluate post-print at midday. |
+| **VRT** *(new)* | **$279.52** | **BUY SETUP** | **Adj. EPS $1.52 +60% BEAT; rev $3.27B +24% MISS; FY26 guide RAISED** | **$340.67 avg / $345 median**, range $236–427 | AI data-center power/cooling; NVIDIA GB300 Taiwan; 800V DC; Bitzero | **2.95% of float, −22.57%** | **BUY 4 sh at open** (see Decision) |
+| **ANET** *(held)* | **$201.27** | **BUY (add)** | Q2 rev **$3.036B +37.7%**, EPS **$1.02 vs $0.73**, op margin **49.9%**, FY26 guide raised to **$12.6B** | **$226.05–241.82 avg, $245 median, $289 high** | AI networking; five PT raises post-print | n/a | **ADD +1 sh at open** — ≤$180 trigger retired as obsolete |
+
+**⚠️ THE SPREAD GATE CANNOT BE EVALUATED THIS SESSION, AND THAT IS A DATA LIMITATION, NOT A PASS OR A FAIL.** Every niche quote returned **`t=2026-08-11T20:00:00`** — yesterday's 1:00 PM PT closing auction, not a live pre-market book. The apparent spreads (**ASTS 9.44%, RKLB 11.12%, OKLO 9.43%, AEHR 24.51%, NBIS 24.47%, VRT 9.97%, ANET 8.79%, AMAT 10.22%, PLTR 9.54%**) are closing-auction artifacts — **PLTR does not trade at a 9.5% spread.** The control that proves it: **QQQ returned `t=2026-08-12T12:29:22` with a 0.25% spread**, i.e. the feed is live for names that have actually traded pre-market and stale for those that have not. **Consequence: no niche entry can be gated on spread before the open, and none is being taken on one. The <1% gate must be re-run live at market-open for any niche name, and VRT's and ANET's own spreads must be verified live before their orders go in.** This is the same stale-feed trap that produced the false OKLO reads on 8/10 and 8/11, caught by the same timestamp check.
+
+### Decision — **TWO TRADES AT MARKET OPEN. THE CASH BREACH GETS CLOSED TODAY.**
+
+**Base case (execute unless the CPI branch below overrides):**
+
+| # | Action | Shares | Est. price | Est. cost | Resulting position | % Equity | Cap | Stop to place |
+|---|--------|--------|-----------|-----------|--------------------|----------|-----|---------------|
+| 1 | **BUY ANET** | **+1** (6→7) | ~$201.27 | **~$201** | $1,408.89 | **14.12%** | ≤15% ✓ | already covered by trail `4717e836`; **verify it re-sizes to 7 sh, else place a 10% GTC trail on the new share** |
+| 2 | **BUY VRT** | **4** (new) | ~$280 | **~$1,120** | $1,120 | **11.22%** | ≤15% ✓ | **10% trailing stop GTC, same session, mandatory** |
+
+**Post-trade arithmetic:** cash **$1,425.02 − ~$1,321 = ~$104 = 1.04%** ✓ · deployed **98.96%** · positions **8/15** ✓ · trades this week **5/25** ✓ · **long-term $4,717.28 = 47.26%** · **short-term $5,167.50 = 51.77% — through the 40% floor for the first time in twelve sessions and at its 50% target.**
+
+**CPI-conditional override — the print lands at 5:30 AM PT, one hour before the open, and MUST be read first:**
+- **CPI in line or cooler** (headline ≤3.4% y/y, core ≤2.5% y/y) → **execute the base case as written.**
+- **CPI hotter** (headline >3.4% y/y **or** core >2.5% y/y) → **VRT 3 shares instead of 4** (~$840, **8.42%**). Cash lands at **~$384 = 3.85%** — **still inside the ≤5% ceiling, so the cash breach is closed on either branch.** ANET +1 executes in both. Rationale: a hot print reprices the Fed toward the hike that is already 25% priced, and VRT is the un-seasoned position.
+- **CPI materially hotter** (core ≥2.8% y/y) **or Brent >$95 / VIX >20 at the open** → **HIGH-impact regime: all new sizing capped at 10%.** VRT 3 sh (8.42%) only; **defer the ANET add**, and take **GOOGL +1 (~$346, 3.47%→6.94%)** to bring cash to **~$239 = 2.40%** ✓. Every branch closes the breach.
+
+**Why VRT and not the alternatives — each declined name documented, per the rulebook:**
+- **VOO / QQQ (the rulebook's own default):** unexecutable. 3rd share = **21.35% / 21.74% > 20% cap.** Second straight session the ETF fallback is blocked.
+- **MSFT +1:** **20.10% > 20% cap.** Misses by 0.10 of a point. Blocked.
+- **AMAT +1:** **16.23% > 15% cap**, and it reports **tomorrow AMC** — the ≤10% binary-event sizing rule blocks it independently.
+- **PLTR:** already **15.54%**, above its own 15% cap on appreciation drift. No add possible.
+- **GOOGL +4:** room exists (17.31%) and the thesis is intact — **declined as a first choice** because its trail fired on 4 of 5 shares *yesterday* on the capex re-rating, and re-buying into a 4.71% 10-year is fighting the ladder. **Retained as the fallback** if VRT or ANET fails its live spread check at the open.
+- **Every core niche name (ASTS, RKLB, OKLO, AEHR, NBIS):** rejected above on its own checklist — ASTS on a double miss and a Hold consensus, RKLB on an unevaluable gate, OKLO on $29.86M of 90-day insider selling into its own milestone plus an unevaluable gate, AEHR on 8 sessions of untradeable spreads, NBIS on a trigger unmet by 12–21% and a fresh PT cut. **None is rejected on nerve; four of five are rejected on liquidity or price, one on fundamentals.**
+- **Momentum screen (DOCS, TEAM, TWLO, HTZ, DV, QMCO):** rejected as un-researched same-day chases on a CPI day.
+
+**This is NOT a HOLD session.** Cash at 14.28% is the second consecutive failure of the deployment test, and unlike the eleven sessions before yesterday, **the money to fix it exists.** The remedy was pre-committed at last night's EOD and it is being executed with the sizing set at the low end of a permitted band rather than at the cap.
+
+### Standing Triggers Carried Forward
+- **CPI actual must be read at market-open before any order is placed.** This entry was written before the print propagated; three retrieval attempts returned June data and one returned contaminated July-2025 figures.
+- **Live spread re-check at the open is mandatory for VRT and ANET before their orders go in** — every pre-market quote in this entry except QQQ is a stale closing-auction print.
+- **AMAT — final trim-or-hold call Thu 8/13 midday**, the last routine before the AMC print. **$520 line held on a 10th read ($540.00).**
+- **ANET ≤$180 trigger: RETIRED** (input obsolete; post-Q2 consensus $226–242). **The 8/11 process breach stands on the record regardless** — carried to Friday.
+- **PLTR entry-cap-vs-mark-to-market question — still open, flagged 8/7, unanswered five sessions running.** Carried to Friday.
+- **Breadth query has failed 4 consecutive sessions** (returns Indian NSE/BSE). Reword at the weekly review.
+- **NBIS post-print re-evaluation at midday today.** · **RKLB re-entry on <1% spread across 3 spaced polls + funding.** · **OKLO gate unchanged, now with insider-selling as a second negative.** · **AEHR blocked on spread.**
+- **Hormuz escalation trigger: Brent >$95 or VIX >20 flips MEDIUM → HIGH and caps new sizing at 10%.**
+- **Watch, not action: PLTR is 1.59% above its 5% trail.** An exit there realizes **+14.26%**, not a loss.
+
+**Next scheduled routine:** **Wed 8/12 Market Open ~6:30 AM PT** (**read CPI first · execute ANET +1 and VRT 4 (or the CPI-conditional variant) · place the VRT 10% GTC trail same session · verify the ANET trail covers 7 shares · live spread check before both orders**).
