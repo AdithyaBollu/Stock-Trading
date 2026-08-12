@@ -3274,3 +3274,53 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 **Tomorrow (8/12) plan:** **deploy the $1,425.09 — this is the session's only mandatory task.** Read CPI first, then: **ANET +1 share** (clears the short-term floor, stays inside the 15% cap), then **complete VRT's 7-point research** and size the remainder, falling back to a second ANET/quality-name add if VRT fails its checklist. **VOO and QQQ are NOT the answer here — a third share of either breaches the 20% cap.** Re-verify the PLTR 5% trail and place a stop on any new fill the same session.
 
 **Next scheduled routine:** **Wed 8/12 Pre-Market ~5:30 AM PT** (**CPI print · cash-remedy deployment is mandatory · VRT 7-point research due** · Week 17 Day 3). **Discord notification SENT.**
+
+## 2026-08-12 — Market Open Execution (Week 17 Day 3, Wednesday — **2 BUYS, THE CASH BREACH IS CLOSED** · cash **14.23% → 0.37%** · **VRT 4 sh — first new short-term name in two weeks** · **ANET +1 → 7 sh** · **short-term sleeve 52.58% — through the 40% floor for the first time in thirteen sessions** · July CPI landed **in line, base case executed**)
+
+**Portfolio (~06:45 AM PT):** Equity **$10,004.73** | Cash **$37.43 (0.37%** ✓ ≤5%) | Long MV **$9,967.30 (99.63%)** | Day P&L **+$57.96 (+0.58%)** vs last_equity $9,946.77 | Phase P&L **+$4.73 (+0.05%)** vs $10k baseline — **back above the $10,000 line** | Open positions **8/15** | Open orders **10 (8/8 positions covered)** | **Trades this week 5/25** (20 unused) | Daytrade count 0/5 rolling | `balance_asof` 2026-08-11.
+
+### Executed Today
+
+| Date | Ticker | Sleeve | Side | Shares | Fill | Cost | % Equity | Stop placed | Thesis | Target | R:R |
+|------|--------|--------|------|--------|------|------|----------|-------------|--------|--------|-----|
+| 2026-08-12 | **ANET** | short-term | BUY | **+1** (6→7) | **$205.99** | $205.99 | **14.41%** (7 sh) | **`da8c0d89` 10% trail GTC, stop $185.40, HWM $206.00** (new share; existing `4717e836` still covers 6 sh at stop $187.38) | Q2 revenue $3.036B **+37.7% y/y**, non-GAAP EPS $1.02 vs $0.73, op margin 49.9%, FY26 guide raised a third time to $12.6B; post-Q2 street consensus **$226–242** | $226–242 | ~1.9:1 vs −7% cut $191.57 |
+| 2026-08-12 | **VRT** | short-term | BUY | **4** (new) | **$295.40** | **$1,181.60** | **11.79%** | **`1e7dca19` 10% trail GTC, stop $265.95, HWM $295.50** | AI data-center **power and thermal** — the physical bottleneck hyperscaler capex cannot design around. Q2 adj. EPS $1.52 **+60% BEAT**, revenue $3.27B +24% miss on **timing**, **FY26 guide RAISED** while missing. Full 7-point research completed in today's pre-market entry | **$340.67 street mean / $345 median** | **2.19:1** vs −7% cut $274.72 |
+
+**Cash reconciles exactly:** $1,425.02 − $205.99 − $1,181.60 = **$37.43** ✓ No margin used.
+
+### Position Ledger (post-execution)
+
+| Ticker | Sleeve | Shares | Avg entry | Last | Unreal. % | MV | % Equity | Trail stop (live) |
+|--------|--------|--------|-----------|------|-----------|-----|----------|-------------------|
+| **PLTR** | short-term | 9 | $148.387 | $170.87 | **+15.15%** | $1,537.79 | **15.37%** | $169.552675 (5%, HWM $178.4765) |
+| **MSFT** | long-term | 3 | $491.19 | $497.70 | +1.33% | $1,493.12 | 14.92% | $462.357 (2 sh + 1 sh) |
+| **QQQ** | long-term | 2 | $709.99 | $724.78 | +2.08% | $1,449.56 | 14.48% | $655.6725 |
+| **ANET** | short-term | **7** | **$194.86** | $206.09 | **+5.76%** | $1,442.63 | **14.41%** | $187.38 (6 sh) · **$185.40 (1 sh)** |
+| **VOO** | long-term | 2 | $699.81 | $710.47 | +1.52% | $1,420.94 | 14.20% | $642.63591 |
+| **VRT** *(new)* | short-term | **4** | **$295.40** | $295.06 | −0.12% | $1,180.22 | **11.79%** | **$265.95 (10%, HWM $295.50)** |
+| **AMAT** | short-term | 2 | $542.505 | $549.70 | +1.33% | $1,099.40 | 10.99% | $499.788 (10%, HWM $555.32) |
+| **GOOGL** | long-term | 1 | $362.25 | $343.62 | −5.14% | $343.62 | 3.43% | $327.033 |
+
+**Sleeves:** Long-term **$4,707.24 = 47.05%** (target 50%, 2.95 pts under) · Short-term **$5,260.04 = 52.58%** — **above the 50% target and through the 40% floor for the first time in thirteen sessions** · Cash **0.37%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 0 — branch enforcement.** Session opened on `claude/nifty-pascal-to2nyp`, **0 ahead / 0 behind `origin/main`** — nothing stranded. Reset to `main` before any work; all commits go to main.
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail, today's RESEARCH-LOG entry (present and complete, including VRT's full 7-point research).
+- **STEP 2 — live re-validation.** Account, positions, open orders, spaced quote polls on VRT/ANET/GOOGL/VOO/QQQ. **Cash $1,425.02 = 14.23% — second consecutive breach of the ≤5% ceiling. Deployment was the session's one mandatory task.**
+- **STEP 3 — the CPI gate was read FIRST, as the plan required.** **July CPI: headline 3.4% y/y (est. 3.4%, prior 3.5%), core 2.5% y/y (est. 2.5%); +0.1% / +0.2% m/m, all in line.** Second consecutive month of cooling. → **"CPI in line or cooler" branch → execute the base case as written.** Regime gate re-checked and also clear: **VIX 15.1–15.4 (<20)** and **Brent $88.78 (<$95)** — the Hormuz HIGH-impact trigger did **not** fire, so the 10%-sizing cap did not apply.
+- **STEP 3b — live spread re-check, mandatory before both orders.** Three spaced polls with **distinct timestamps**. The displayed quotes were again single-venue artifacts (**VRT 7.01% / 7.01% / 2.63%**, **ANET 10.44% × 3**), but unlike the niche board these were **falsified by the tape**: both names printed continuous trades inside the band every few seconds (VRT $293.23 → $293.59 → $295.21 on a $290.62–$297.01 day range; ANET $204.38 → $204.01 → $205.19 on $203.80–$207.92). **A $250B and a $115B large cap do not trade at a 10% spread.** Both orders were routed to the consolidated NBBO and **filled inside the day's range** — ANET at $205.99 and VRT at $295.40, confirming the real market, not the artifact. This is the same stale/single-venue trap that has blocked the niche names for eight sessions; here it was tested rather than trusted.
+- **STEP 4 — buys executed.** ANET +1 @ $205.99 (`f1e8efe6`), then VRT 4 @ $295.40 (`d6fc9940`), sized against **actual post-ANET cash** rather than the estimate. Both market/day, filled in seconds.
+- **STEP 5 — stops placed the same session, as mandated.** VRT `1e7dca19` (10% GTC, stop $265.95) and ANET's 7th share `da8c0d89` (10% GTC, stop $185.40). **No PDT rejection.** ANET's stop coverage verified at **7 of 7 shares across two orders** — the pre-existing `4717e836` did not re-size, and the gap was closed with a second order rather than assumed away.
+- **STEP 6 — cash verified after all trades: $37.43 = 0.37% ✓.** The breach is closed with a **13.86-point** move. No further buy mandated; none possible.
+- **STEP 7 — logged here.** **STEP 8 — Discord SENT.** **STEP 9 — committed and pushed to main.**
+
+### Rule Compliance
+**8 positions ≤ 15** ✓ · **5 trades this week ≤ 25** ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **MSFT 14.92% ≤ 20%** ✓ (QQQ 14.48%, VOO 14.20%, GOOGL 3.43%) · **ANET 14.41% ≤ 15%** ✓ · **VRT 11.79% ≤ 15%** ✓ · **AMAT 10.99% ≤ 15%** ✓ · **cash 0.37% ≤ 5%** ✓ · **VRT R:R 2.19:1 ≥ 1.5:1** ✓ · 7-point research on file for VRT ✓ · trailing stops GTC covering **8/8 positions across 10 orders** ✓ · **no stop moved down** ✓ · niche watchlist researched ✓ · daytrade count 0/5 ✓ · **no margin used** ✓. ⚠️ **PLTR 15.37% — 0.37 pts above the 15% short-term cap on appreciation drift** (open rulebook question, sixth session, carried to Friday). ⚠️ **Long-term sleeve 47.05% — 2.95 pts under its 50% target**, a consequence of funding both buys into the short-term sleeve; no compliant long-term add existed (VOO 3rd share 21.3%, QQQ 3rd 21.7%, MSFT 4th 19.9%→ all at or over the 20% cap or unaffordable at $37 cash).
+
+**⚠️ On the VRT fill — the deviation this session must not gloss over.** The plan was written for an entry at **~$280** against a **$260.40** hard cut, and quoted **3.1:1**. VRT **gapped and opened at $296.995**, and the fill came at **$295.40 — 5.5% above the researched entry.** The trade was still taken, and the arithmetic is stated honestly rather than back-fitted: with the −7% cut travelling with the entry to **$274.72**, risk is $20.68 against a $45.27 reward to the $340.67 street mean = **2.19:1**. That clears the 1.5:1 short-term minimum with room, but it is **not** the 3.1:1 the research advertised, and the entry now sits **essentially on the 50-DMA ($300.71) that the research itself named as the weak leg** — the position no longer has the "pullback below the 50-day" cushion it was designed around. It was taken anyway because the cash breach was in its second session, the CPI branch resolved to the base case, the regime gate was clear, and the rulebook is explicit that under-deployment is a failure every time it occurs. **The $274.72 line is the hard cut and it is not negotiable; the 10% trail at $265.95 is the backstop, not the plan.**
+
+**Risk posture:** One live stop risk — **PLTR at 0.77% above its 5% trail**; an exit there realizes **+14.26%**, not a loss. VRT is the only un-seasoned position and it is the smallest short-term line at 11.79%. **AMAT reports tomorrow (Thu 8/13) AMC at 10.99% — the final trim-or-hold call stands at Thursday midday**, the last routine before the print.
+
+**Event posture:** **July CPI DONE — in line, cooling for a second month** · **PPI Thu 8/13** · **AMAT earnings Thu 8/13 AMC (held)** · **NBIS reported this morning BMO — not held; post-print re-evaluation at midday** · debt-ceiling X-date Aug 15 – Oct 3 · Strait of Hormuz still shut, Brent $88.78.
+
+**Next scheduled routine:** **Wed 8/12 Midday Scan ~09:15 AM PT** (**VRT's first session against the $274.72 hard cut** · PLTR 0.77% from its 5% trail · NBIS post-print read · AMAT into tomorrow's AMC · cash 0.37%, no add possible).
