@@ -9918,3 +9918,69 @@ Sleeve is **47.26%**, 2.7 pts under its 50% target — but **every existing long
 - **Watch, not action: PLTR is 1.59% above its 5% trail.** An exit there realizes **+14.26%**, not a loss.
 
 **Next scheduled routine:** **Wed 8/12 Market Open ~6:30 AM PT** (**read CPI first · execute ANET +1 and VRT 4 (or the CPI-conditional variant) · place the VRT 10% GTC trail same session · verify the ANET trail covers 7 shares · live spread check before both orders**).
+
+---
+
+## 2026-08-12 — Midday Intraday Addendum (Week 17 Day 3, Wednesday, ~09:30 AM PT — **PLTR's 5% trail fired at 06:53 PT and re-opened the cash breach at 15.65%** · **redeployed to 4.35% via MSFT +1 / VRT +1 / GOOGL +1** · **NBIS post-print verdict: BEAT revenue, MISS EPS, REAFFIRM guide → drift branch FAILS** · **RKLB spread gate fails a 3rd session** · momentum scan returned nothing usable)
+
+### Account Snapshot (post-execution)
+- Equity **$9,991.59** | Cash **$434.80 (4.35%)** ✓ | Long MV **$9,556.79 (95.65%)** | Last equity $9,946.77 | Day P&L **+$44.82 (+0.45%)** | Phase P&L **−$8.41 (−0.08%)** vs $10k baseline.
+- Open positions **7/15** · Open orders **12** (all trailing stops GTC, **7/7 positions, 24/24 shares covered**) · Trades this week **9/25** (16 remaining) · Daytrade count **0/5** rolling.
+- **Realized today: +$190.50** (PLTR 9 sh, +14.26%). **Cash reconciles exactly:** $37.43 + $1,525.98 − $1,128.61 = $434.80.
+
+### Sleeve Status
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (MSFT, QQQ, VOO, GOOGL) | $5,526.14 | **55.31%** | 50% | ⚠️ **5.31 pts OVER — deliberate, see the compromise note in TRADE-LOG** |
+| Short-term (VRT, ANET, AMAT) | $4,030.63 | **40.34%** | 50% | ✓ **2nd consecutive session above the 40% floor** |
+| Cash | $434.80 | **4.35%** | ≤5% | ✓ **PASS — breach closed same session it opened** |
+
+### Live Spread Gate — 3 spaced polls, distinct timestamps (run BEFORE every order)
+| Ticker | Poll 1 | Poll 2 | Poll 3 | <1% gate | Action |
+|--------|--------|--------|--------|----------|--------|
+| **MSFT** | 0.37% | **0.06%** | **0.07%** | ✓ PASS | **BOUGHT 1 @ $493.31** |
+| **VRT** | **0.11%** | **0.15%** | **0.15%** | ✓ PASS | **BOUGHT 1 @ $293.47** |
+| **GOOGL** | **0.02%** | **0.06%** | **0.12%** | ✓ PASS | **BOUGHT 1 @ $341.83** |
+| **RKLB** | 1.83% | 2.47% | 2.47% | ✗ **FAIL** | **NO RE-ENTRY** |
+| ANET | 3.54% | — | — | ✗ | irrelevant — 16.68% on a 3rd... 8th share, over the 15% cap |
+| NBIS | 1.03% | — | — | ✗ | irrelevant — trigger unmet by 42% |
+| AMAT | 0.03% | — | — | ✓ | **BLOCKED on size** (16.60% > 15%) **and on the binary print tomorrow** |
+
+*Poll 1 was taken mid-quote-update; MSFT's 0.37% and the subsequent 0.06/0.07% reads bracket the same book. Unlike the pre-market session, no stale-timestamp artifacts appeared — every quote carried a live `2026-08-12T16:2x` stamp.*
+
+### NBIS — Post-Print Re-Evaluation (the standing task carried from pre-market)
+| Point | Finding | Verdict |
+|-------|---------|---------|
+| **Revenue** | **$582.3M, +454% y/y** (from $105.1M), vs consensus ~$570M (range $535–585M) | **BEAT** |
+| **EPS** | **Adjusted/diluted −$0.68** vs consensus **−$0.62** (Zacks −$0.72) | **MISS** on the primary consensus |
+| **Adj. EBITDA** | **+$236.2M** vs **−$21.0M** a year ago — first materially positive quarter | **STRONG BEAT** |
+| **GAAP** | Net **loss $190.4M** vs net income $584.4M a year ago, on surging depreciation + SBC | Negative |
+| **Guidance** | FY26 **REAFFIRMED**: $3.0–3.4B group revenue, $7–9B ARR, ~40% adj. EBITDA margin, **$20–25B capex** | **REAFFIRM — NOT a raise** |
+| **Price** | Closed $193.23 → **+16.5% pre-market** → **$245.61/$248.15 now, ~+27%** | Trigger **≤$173 unmet by 42%** |
+| **Analysts** | Positive but cautious; the flagged concerns are the reaffirm-not-raise and **dilution from $20–25B capex**. DA Davidson's **$250→$175 Neutral** cut (8/8–8/10) is still the most recent action. | Mixed |
+
+**VERDICT — NO ENTRY, and the reason is the checklist, not nerve.** The strategy's post-earnings drift branch requires **"beat + guide raise."** NBIS delivered a **revenue beat with an EPS miss and a reaffirmed guide** — it satisfies neither half cleanly. **The trigger set at ≤$173 is now 42% away and has widened every session since it was set.** Buying a **+27% single-session print on a reaffirm** is the exact behaviour the trigger exists to prevent. **Trigger retired as unreachable rather than quietly moved up** — if NBIS is to be re-entered it needs fresh 7-point research at a price that is defensible on its own, not a chased one.
+
+### RKLB — Re-Entry Gate
+Fundamentals **still qualify** for the drift branch (Q2 revenue $234.06M **+62% y/y** record beat; **Q3 guide raised to $250–265M**; adj. EBITDA −$8.8M vs −$20/−26M guided). **The gate that fails is liquidity: 1.83% / 2.47% / 2.47% against a <1% requirement, a 3rd consecutive session.** At **$80.51** it trades **1.1% above the $79.64 the trailing stop sold at yesterday** — the exit is still ahead of the tape. **No re-entry. Gate unchanged.**
+
+### Momentum Scan — NIL RESULT, recorded as such
+The intraday breakout scan returned **no usable US names**: the sourcing was Indian small caps (Affle 3i, Dynamic Cables, Thyrocare, Sanathan Textiles, Aether Industries) plus links to live scanners, with **no ranked US breakout table for the session.** **No candidate was extracted and none was entered.** This is logged as a nil result rather than padded — and it was moot in any case: **after the three buys, $434.80 does not fund a share of anything on the board.**
+
+### Positions Not Actionable Today — and why, arithmetically
+- **ANET +1:** 8th share = **16.68% > 15% cap.** Blocked on size despite being the sleeve's strongest name (+7.01%, Q2 revenue $3.036B +37.7%, FY26 guide raised to $12.6B).
+- **AMAT +1:** 3rd share = **16.60% > 15% cap**, and the **≤10% binary-event sizing rule blocks it independently** — it reports **tomorrow AMC** and is already at 11.06%.
+- **VOO / QQQ +1:** 3rd share = **21.32% / 21.74% > 20% cap.** **Third straight session the rulebook's own ETF fallback is arithmetically unavailable.**
+- **VRT +2:** 6th share = **17.63% > 15% cap.** One share was the sleeve's entire capacity.
+- **MSFT +2:** 5th share = **24.7% > 20% cap.** One share only — and that one cleared solely because MSFT fell 2.08% today.
+
+### Standing Triggers Carried Forward
+- **AMAT — FINAL trim-or-hold call Thu 8/13 midday**, the last routine before the AMC print. Consensus **EPS $3.36–3.39 on ~$9.0B** (Street sits on the guide midpoint); Strong Buy, avg PT $603–633. **$520 line held for an 11th read ($552.65).** Position is **11.06%, above the ≤10% binary-event rule** — the call is trim-to-10% or hold, and it must be made tomorrow.
+- **MSFT at 19.75% — 0.25 of a point under the 20% cap.** Any rally puts the position over. **No further add is possible; a breach here would be passive, so flag it at each routine.**
+- **Sleeve imbalance: long-term 55.31% vs 50% target.** Carried to Friday's review with the structural note that **at ~$10k equity, a single share of this book's holdings is 3–20% of equity and the 50/50 target is jointly unsatisfiable with the position caps** whenever a stop returns four figures mid-session.
+- **NBIS ≤$173 trigger: RETIRED as unreachable** (price 42% above it and widening). Re-entry requires fresh 7-point research at a defensible price.
+- **RKLB re-entry: <1% spread across 3 spaced polls + funding.** Fundamentals already qualify.
+- **OKLO gate unchanged** (stale-quote trap twice, plus $29.86M of 90-day insider selling). **AEHR blocked on spread** (9 sessions). **ASTS no entry** (Q2 double miss, Hold consensus).
+- **Hormuz escalation trigger: Brent >$95 or VIX >20 flips MEDIUM → HIGH and caps new sizing at 10%.** Did not fire today.
+
+**Next scheduled routine:** **Wed 8/12 EOD Summary ~1:15 PM PT** (**MSFT's 19.75% against the cap** · VRT 5 sh at a repaired $295.01 average · **AMAT into tomorrow's AMC — last full session before the print** · cash 4.35% · no position within 4% of its stop).

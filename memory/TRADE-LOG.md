@@ -3324,3 +3324,67 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 **Event posture:** **July CPI DONE — in line, cooling for a second month** · **PPI Thu 8/13** · **AMAT earnings Thu 8/13 AMC (held)** · **NBIS reported this morning BMO — not held; post-print re-evaluation at midday** · debt-ceiling X-date Aug 15 – Oct 3 · Strait of Hormuz still shut, Brent $88.78.
 
 **Next scheduled routine:** **Wed 8/12 Midday Scan ~09:15 AM PT** (**VRT's first session against the $274.72 hard cut** · PLTR 0.77% from its 5% trail · NBIS post-print read · AMAT into tomorrow's AMC · cash 0.37%, no add possible).
+
+---
+
+## 2026-08-12 — Midday Scan (Week 17 Day 3, Wednesday — **PLTR 5% TRAIL FIRED AT 06:53 PT, +$190.50 (+14.26%) REALIZED** · that exit re-opened the cash breach at **15.65%** four hours after the morning closed it · **3 BUYS redeploy it to 4.35%** · **MSFT +1 → 4 sh (19.75%, the cap clears only because MSFT fell 2.08% today)** · **VRT +1 → 5 sh** · **GOOGL +1 → 2 sh** · short-term sleeve **40.34% — second straight session above the floor** · **NBIS beat revenue, MISSED EPS, REAFFIRMED guidance → no drift entry** · RKLB fails its spread gate a 3rd session)
+
+### Closed Today
+
+| Ticker | Sleeve | Shares | Entry | Exit | Realized P&L | Reason |
+|--------|--------|--------|-------|------|--------------|--------|
+| **PLTR** | short-term | 9 | $148.3867 | **$169.5533** | **+$190.50 (+14.26%)** | **Trailing stop `10cf9163` (5% GTC, HWM $178.4765, stop $169.552675) fired 06:53 AM PT.** Flagged at market-open as **0.77% above its trail** — it took one ordinary morning range. PLTR now $171.10; the stop sold **0.90% below the current print** — a bounded, by-design giveback, not a miss. Largest single realized gain of the phase. |
+
+### Executed Today (midday)
+
+| Date | Ticker | Sleeve | Action | Shares | Fill | Cost | % Equity after | Trailing stop placed | Rationale | Street target | R:R |
+|------|--------|--------|--------|--------|------|------|----------------|----------------------|-----------|---------------|-----|
+| 2026-08-12 | **MSFT** | long-term | BUY | **1** (4th sh) | **$493.31** | $493.31 | **19.75%** | **`40683bb4` 10% trail GTC, stop $444.03, HWM $493.37** | The add blocked at **20.10%** this morning. MSFT fell **−2.08%** today and the same share now prices at **19.75% — inside the 20% cap by 0.25 of a point.** No thesis change; the cap moved, not the name. | n/a (LT) | n/a (LT) |
+| 2026-08-12 | **VRT** | short-term | BUY | **1** (5th sh) | **$293.47** | $293.47 | **14.67%** | **`ddc33123` 10% trail GTC, stop $263.96, HWM $293.29** | Same 7-point research filed this morning. The add is **$1.93 BELOW the morning's $295.40 fill** — it repairs part of the 5.5% gap-up overpay flagged at market-open. | **$340.67 mean / $345 median** | **2.28:1** vs −7% cut $272.93 |
+| 2026-08-12 | **GOOGL** | long-term | BUY | **1** (2nd sh) | **$341.83** | $341.83 | **6.84%** | **`f9865265` 10% trail GTC, stop $307.66, HWM $341.85** | Smallest LT line at 3.42% after two mechanical stop-outs. **The position was cut by the stop ladder, not by a broken thesis** — Q2 was EPS $9.11 vs $2.88 on revenue $119.8B (+24%). Rebuilding a starter line **5.6% below the old average entry.** New avg **$352.04**. | n/a (LT) | n/a (LT) |
+
+**Cash reconciles exactly:** $37.43 + $1,525.98 (PLTR proceeds) = **$1,563.41** − $493.31 − $293.47 − $341.83 = **$434.80** ✓ No margin used.
+
+### Position Ledger (post-execution, ~09:30 AM PT)
+
+| Ticker | Sleeve | Shares | Avg entry | Last | Unreal. % | MV | % Equity | Trail stop (live) |
+|--------|--------|--------|-----------|------|-----------|-----|----------|-------------------|
+| **MSFT** | long-term | **4** | **$491.72** | $493.31 | +0.32% | $1,973.24 | **19.75%** | $462.357 (3 sh) · **$444.033 (1 sh)** |
+| **VRT** | short-term | **5** | **$295.01** | $293.15 | −0.63% | $1,465.75 | **14.67%** | $267.948 (4 sh) · **$263.961 (1 sh)** |
+| **ANET** | short-term | 7 | $194.856 | $208.51 | **+7.01%** | $1,459.57 | 14.61% | $187.704 (6 sh + 1 sh) |
+| **QQQ** | long-term | 2 | $709.99 | $724.40 | +2.03% | $1,448.80 | 14.50% | $655.6725 |
+| **VOO** | long-term | 2 | $699.81 | $710.15 | +1.48% | $1,420.30 | 14.22% | $642.63591 |
+| **AMAT** | short-term | 2 | $542.505 | $552.65 | +1.87% | $1,105.31 | 11.06% | $499.788 (10%, HWM $555.32) |
+| **GOOGL** | long-term | **2** | **$352.04** | $341.90 | −2.88% | $683.80 | 6.84% | $327.033 (1 sh) · **$307.6605 (1 sh)** |
+
+**Sleeves:** Long-term **$5,526.14 = 55.31%** (target 50% — **5.31 pts OVER, and that overshoot is the session's one honest compromise, stated below**) · Short-term **$4,030.63 = 40.34%** — **second consecutive session above the 40% floor** · Cash **$434.80 = 4.35%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail, today's RESEARCH-LOG pre-market entry (present, complete, with VRT's 7-point research and the standing NBIS/RKLB/AMAT triggers).
+- **STEP 2 — state pulled.** Account, positions, orders. **PLTR was gone from the book and its stop was gone from the order list** — confirmed against the broker's closed-orders record before anything was written: `10cf9163` filled 9 sh @ $169.5533 at 06:53 PT. **Cash $1,563.41 = 15.65% — a fresh breach of the ≤5% ceiling, opened by the stop ladder four hours after the morning routine closed the last one.** Deployment was again the session's mandatory task.
+- **STEP 3 — cut losers: NONE.** No short-term position at or below −7%. Worst is **VRT −0.63%**, 6.37 pts of room to its $272.93 cut. ANET +7.01%, AMAT +1.87%. GOOGL (long-term) −2.88% after the add — gets sleeve room by rule and its thesis is intact.
+- **STEP 4 — tighten trails: NO POSITION ELIGIBLE.** Highest unrealized in the book is **ANET +7.01%** — **8 points below the +15% rung.** The one name that was in the ladder's range, PLTR, exited on the tightened 5% trail it was given Monday. **No stop modified. No stop moved down.**
+- **STEP 5 — thesis check: all 7 intact.** No guidance cut, news reversal, or sector collapse. MSFT −2.08% and GOOGL −0.55% are index-level drift on a CPI-relief tape, not name-specific breaks. AMAT **+1.87%, $552.65 — the $520 line holds for an 11th read** into tomorrow's AMC print.
+- **STEP 6 — deployment, the mandatory step.** Live spread gate re-run on all three targets — **3 spaced polls, distinct timestamps: MSFT 0.37/0.06/0.07%, VRT 0.11/0.15/0.15%, GOOGL 0.02/0.06/0.12% — all well inside the <1% gate.** All three filled market/day within seconds. **Cash 15.65% → 4.35%: an 11.30-point move, breach closed.**
+- **STEP 7 — stops placed the same session.** Three new 10% GTC trails. **Coverage verified share-by-share against the broker: 24 of 24 shares across 12 orders, 7 of 7 positions.** No PDT rejection; **daytrade count 0/5** — PLTR was bought 8/4, so its exit is not a day trade.
+- **STEP 8 — intraday research.** NBIS post-print (below) and a momentum scan that **returned nothing usable** — the scan surfaced Indian small caps and scanner links, no live US breakout ranks. **No name entered from it, and none could have been: capital is deployed.** Full detail in the RESEARCH-LOG addendum.
+- **STEP 9 — Discord SENT. Committed and pushed to main.**
+
+### Rule Compliance
+**7 positions ≤ 15** ✓ · **9 trades this week ≤ 25** ✓ (16 unused) · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · **largest LT MSFT 19.75% ≤ 20%** ✓ (QQQ 14.50%, VOO 14.22%, GOOGL 6.84%) · **VRT 14.67% ≤ 15%** ✓ · **ANET 14.61% ≤ 15%** ✓ · **AMAT 11.06% ≤ 15%** ✓ · **cash 4.35% ≤ 5%** ✓ · **VRT add R:R 2.28:1 ≥ 1.5:1** ✓ · 7-point research on file for VRT ✓ · trailing stops GTC covering **7/7 positions, 24/24 shares across 12 orders** ✓ · **no stop moved down** ✓ · niche watchlist re-checked ✓ · daytrade count 0/5 ✓ · **no margin used** ✓. ⚠️ **Long-term sleeve 55.31% vs a 50% target — see below.**
+
+**⚠️ The long-term sleeve is 5.31 points over target, and it was a deliberate choice, not an oversight.** Two hard rules were in conflict: **cash ≤5%** and **sleeves at ~50/50**. Closing the $1,563 breach required deploying **≥$1,064**, and the short-term sleeve could absorb **exactly one share** of anything — ANET (+1 = 16.68%) and AMAT (+1 = 16.60%, and a binary print tomorrow) both breach the 15% cap, leaving VRT's single $293 share as the sleeve's entire capacity. The remaining **$835 had nowhere to go but long-term**, where VOO and QQQ are themselves blocked above 20% on a 3rd share. **The rulebook resolves this explicitly — "Cash > 5%: BUY… if no single stock clears, buy VOO in long-term sleeve" — cash compliance outranks sleeve balance.** The alternative was opening a **new, un-researched short-term name at midday purely to fix a ratio**, which would breach the research rule to satisfy a target. **That trade was not made.** The imbalance is real, it is logged, and it carries to Friday's review.
+
+**Notes:** **The stop ladder is now the dominant force in this book, and today it worked in the direction it is supposed to.** PLTR was tightened to a 5% trail on Monday at the +20% rung; that tightening is precisely what converted a +16.71% paper gain into **+$190.50 realized (+14.26%)** rather than letting it round-trip. The name has since traded to $171.10 — **0.90% above the fill** — so the cost of the discipline today was under two dollars a share, against a locked gain that is the largest of the phase. **Three of the last four exits have been stop-driven and none was a decision.**
+
+**The recurring structural problem is now unmistakable and belongs in Friday's review: this account cannot rebalance its sleeves, because at ~$10k a single share of its own holdings is 3–20% of equity.** One MSFT share is 4.9 points of allocation. One VOO share is 7.1. The 50/50 target and the 15%/20% caps are jointly unsatisfiable at this size whenever a stop returns four figures of cash mid-session — **the third time in three sessions that the "buy VOO" fallback was arithmetically unavailable.**
+
+**NBIS: the drift checklist was applied and it failed, at a price 42% above its own trigger.** Q2 revenue **$582.3M, +454% y/y**, beating the ~$570M consensus; **adjusted EBITDA turned positive at +$236.2M** from −$21.0M. But **adjusted EPS was −$0.68 vs −$0.62 consensus — a miss** — and FY26 guidance was **REAFFIRMED ($3.0–3.4B revenue, $7–9B ARR), not raised.** The strategy's post-earnings drift branch requires **beat AND guide raise**; this is a partial beat with no raise. The stock is **$245.61/$248.15, +27% on the day**, against a standing trigger of **≤$173 — now unmet by 42% and widening for a third session.** GAAP net loss $190.4M on rising depreciation and SBC; DA Davidson's $250→$175 cut still stands as the most recent rating action. **NO ENTRY. Buying a +27% print on a reaffirm is the definition of chasing.**
+
+**RKLB fails its re-entry gate for a 3rd session.** Three spaced polls: **1.83% / 2.47% / 2.47%** against the **<1% requirement**. Fundamentals still qualify (Q2 revenue $234.06M +62%, Q3 guide raised to $250–265M), and at $80.51 it trades **1.1% above the $79.64 the stop sold at** — but **the gate is a liquidity test, not a conviction test, and it fails.** No re-entry.
+
+**Risk posture:** **No position within 4% of its stop** — the widest safety margin in over a week, and the direct result of PLTR (the one live risk) having exited. Nearest is **GOOGL's original 1-share lot at 4.35% above $327.033**; the new share sits 10% clear. VRT's two lots are 8.9%/10.0% clear. **AMAT reports tomorrow (Thu 8/13) AMC at 11.06% — the final trim-or-hold call stands at Thursday midday**, the last routine before the print, and the position is **above the ≤10% binary-event sizing rule**, which is why no add was possible today.
+
+**Event posture:** **July CPI DONE — 3.4% headline / 2.5% core, in line, second month of cooling** · **PPI Thu 8/13** · **AMAT earnings Thu 8/13 AMC (held, 11.06%)** · **NBIS reported — beat/miss/reaffirm, not held, no entry** · debt-ceiling X-date Aug 15 – Oct 3 · Strait of Hormuz still shut · **Hormuz escalation trigger (Brent >$95 or VIX >20) did NOT fire.**
+
+**Next scheduled routine:** **Wed 8/12 EOD Summary ~1:15 PM PT** (**PLTR's first close as a realized +14.26% rather than a position** · MSFT's 4th share against the 19.75% cap — *any rally puts it over 20%* · VRT 5 sh at a repaired $295.01 average · **AMAT into tomorrow's AMC, the last full session before the print** · cash 4.35%).
