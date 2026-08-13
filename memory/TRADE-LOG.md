@@ -3426,3 +3426,64 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 **Tomorrow (Thu 8/13) plan:** **PPI at 5:30 AM PT is the macro gate.** The single decision of the day is **AMAT — the final trim-or-hold call at Thursday midday, the last routine before the AMC print**, with the position 1.01 pts above the ≤10% binary-event cap; trimming to 10% or below is the rule-compliant path unless the pre-market read argues for a full hold. Otherwise: no cash to deploy (4.36%, compliant), no trail eligible for tightening (ANET's +7.69% is 7.3 pts below the +15% rung), and **no new short-term name should be opened to fix the sleeve ratio** — that is Friday's structural question, not tomorrow's trade.
 
 **Next scheduled routine:** **Thu 8/13 Pre-Market ~5:30 AM PT** (**PPI print · AMAT into tonight's AMC — trim-or-hold prep · VRT's second session against the $272.93 hard cut · MSFT 19.74%, any rally puts it over the 20% cap** · Week 17 Day 4).
+
+---
+
+## 2026-08-13 — Market Open (Week 17 Day 4, Thursday — **PPI CAME IN COOLER → base-case branch confirmed** · **RKLB SPREAD GATE PASSES on the 4th attempt after 3 failed sessions** · **but the price gapped 2.1% past the researched entry and broke the 2.5:1 niche R:R, so the order was placed as a LIMIT at the exact rule-compliant price rather than chased at market** · **NO FILL — 5 sh working at $81.96 with an attached stop leg** · cash 4.33% ✓ · no cuts, no trails eligible · AMAT held into tonight's AMC, trim call is midday's)
+
+### Executed Today
+**NONE — zero fills.** One working order placed (below). Trades this week remain **10/25**.
+
+### Working Order Placed
+
+| Date | Ticker | Sleeve | Action | Shares | Type | Limit | Order ID | Stop leg | Status |
+|------|--------|--------|--------|--------|------|-------|----------|----------|--------|
+| 2026-08-13 | **RKLB** | short-term | BUY | **5** | **limit, day, OTO** | **$81.96** | `ef9062c3` | `19c54ef0` stop $73.76 (10% below limit), held until parent fills | **NEW / unfilled — RKLB traded $82.45–$83.58 all window, never came back to the bid** |
+
+### Position Ledger (~06:47 AM PT, unchanged — no fills)
+
+| Ticker | Sleeve | Shares | Avg entry | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) |
+|--------|--------|--------|-----------|------|-----------|---------|-----|----------|-------------------|
+| **MSFT** | long-term | 4 | $491.72 | $498.62 | +1.40% | +1.26% | $1,994.48 | **19.86%** | $462.357 (2+1 sh) · $449.091 (1 sh, HWM $498.99) |
+| **ANET** | short-term | 7 | $194.856 | $209.31 | **+7.42%** | −0.56% | $1,465.17 | 14.59% | $190.278 (6+1 sh) |
+| **VRT** | short-term | 5 | $295.014 | $292.66 | −0.80% | +1.49% | $1,463.30 | 14.57% | $267.948 (4 sh) · $265.185 (1 sh) — hard cut $272.93 |
+| **QQQ** | long-term | 2 | $709.99 | $729.78 | +2.79% | +0.84% | $1,459.57 | 14.53% | $655.6725 |
+| **VOO** | long-term | 2 | $699.81 | $713.91 | +2.02% | +0.53% | $1,427.82 | 14.22% | $642.63591 |
+| **AMAT** | short-term | 2 | $542.505 | $553.96 | +2.11% | +1.06% | $1,107.92 | **11.03%** | $499.788 (HWM $555.32) — **REPORTS TONIGHT AMC** |
+| **GOOGL** | long-term | 2 | $352.04 | $345.10 | −1.97% | +0.45% | $690.20 | 6.87% | $327.033 (1 sh) · $311.8365 (1 sh, HWM $346.485) |
+
+**Equity $10,043.08** · **Cash $434.74 = 4.33% ✓** · Day P&L **+$72.20 (+0.72%)** · Phase P&L **+$43.08 (+0.43%) — back above the $10,000 line.**
+**Sleeves:** Long-term **$5,572.07 = 55.48%** (⚠️ 5.48 pts over, 4th session) · Short-term **$4,036.39 = 40.19%** · Cash **4.33%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail, today's RESEARCH-LOG pre-market entry (present and complete, with RKLB's 7-point research and the PPI-conditional plan).
+- **STEP 2 — live re-validation.** Account, positions, 12 open orders. **Cash $434.74 = 4.33% — COMPLIANT. No breach exists, so no forced buy is mandated today.** Stop coverage re-verified share-by-share against the broker: MSFT 2+1+1=4 ✓ · ANET 6+1=7 ✓ · VRT 4+1=5 ✓ · GOOGL 1+1=2 ✓ · VOO 2 ✓ · QQQ 2 ✓ · AMAT 2 ✓ → **24/24 shares, 7/7 positions, 12 GTC trailing orders. Two trails ratcheted UP overnight (MSFT $445.4775→$449.091, GOOGL $310.374→$311.8365). No stop moved down.**
+- **STEP 3 — the PPI gate was read FIRST, as the plan required.** **July PPI: headline 0.0% m/m vs +0.2% consensus; 4.7% y/y vs 4.9% consensus and 5.5% prior. Core +0.2% m/m vs +0.3% consensus, 4.2% y/y in line.** Cooler than expected on three of four lines and a sharp y/y deceleration → **"PPI in line or cooler" branch → base case. The hot-PPI VIX re-poll was not triggered.**
+- **STEP 3b — RKLB live spread gate, 4th attempt. SIX spaced polls with distinct timestamps: 0.158% / 5.22% / 8.77% / 0.121% / 6.02% / 0.314%.** Three clean two-sided polls at **0.12–0.31%, all well inside the <1% gate.** The three failures are **not three markets — they share the identical frozen bid of $77.86** while the ask moved 82.03 → 85.00 on 100-share IEX-only size: one stale print quoted back three times. **The tape falsifies it outright:** continuous prints $82.07 → $82.68 → $82.83 → $83.24, with minute bars showing **n=21–45 trades inside 0.20–0.40% ranges.** A name printing 45 trades a minute inside two-tenths of a percent is not a name with a 9% spread. **GATE PASSES — the first clean read in four sessions.**
+- **STEP 3c — and then the rule check blocked the market order.** The 7-point research was written against an **$81.15** entry giving **2.67:1**. RKLB **gapped and traded $82.45–$83.58** through the entire window. Restating the arithmetic honestly at the live tape: entry **$82.89** → −7% cut **$77.09** → risk $5.80 against a $13.41 reward to the **$96.30** resistance target = **2.31:1 — BELOW the 2.5:1 niche minimum.** Solving for the entry that preserves the rule: **(96.30 − E) / 0.07E ≥ 2.5 → E ≤ $81.96.**
+- **STEP 4 — order placed at the rule-compliant price, not at market.** **BUY 5 RKLB limit $81.96 day.** At $81.96 the cut is $76.22, risk $5.74, reward $14.34 to $96.30 = **exactly 2.50:1 ✓.** Sizing guard from the plan (4 sh if above $86) did not bind — the stock never traded above $83.58. Cost if filled $409.80 = **4.08% of equity**, cash → $24.94 (0.25%).
+- **STEP 5 — the stop was attached to the order rather than left to a later routine.** The plain limit was cancelled (`48135267`) and resubmitted as an **OTO** (`ef9062c3`) carrying a **stop leg at $73.76** (10% below the limit, the routine's sanctioned fixed-stop fallback), held until the parent fills. This guarantees that a fill landing after this routine ends cannot sit uncovered intraday. **⚠️ Alpaca forces the leg's TIF to match the parent, so the stop leg is DAY, not GTC — it must be replaced with a 10% GTC trailing stop the moment a fill is seen. Standing trigger recorded below; this is a real residual gap, not a solved problem.**
+- **STEP 6 — cash verified after the window: $434.74 = 4.33% ✓.** No fill, so nothing changed. **No forced buy is mandated because no breach exists** — and no substitute name was manufactured to spend the cash, per the plan's explicit instruction.
+- **STEP 7 — logged here. STEP 8 — Discord SENT. STEP 9 — committed and pushed to main.**
+
+### Rule Compliance
+**7 positions ≤ 15** ✓ · **10 trades this week ≤ 25** ✓ (15 unused) · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **MSFT 19.86% ≤ 20%** ✓ (QQQ 14.53%, VOO 14.22%, GOOGL 6.87%) · **ANET 14.59%**, **VRT 14.57%**, **AMAT 11.03%** all ≤ 15% ✓ · **cash 4.33% ≤ 5%** ✓ · **RKLB order R:R 2.50:1 ≥ 2.5:1 niche minimum** ✓ *(by construction — this is why it is a limit)* · 7-point research on file for RKLB ✓ · trailing stops GTC covering **7/7 positions, 24/24 shares across 12 orders** ✓ · **no stop moved down** ✓ · no position at or below −7% ✓ (worst **VRT −0.80%**) · no position at the +15% trail-tighten rung ✓ (highest **ANET +7.42%**, 7.6 pts below) · niche watchlist researched ✓ · daytrade count **0/5** ✓ · no margin used ✓.
+⚠️ **AMAT 11.03% vs the ≤10% binary-event cap — 1.03 pts over, into tonight's AMC print. Deferred to midday by the standing trigger, exactly as scheduled.**
+⚠️ **Long-term sleeve 55.48% vs 50% — 4th consecutive session. Structural, carried to Friday.**
+
+**⚠️ On the decision not to chase — the reasoning, stated plainly.** The gate that had blocked this trade for three sessions finally cleared, and the temptation was to treat that as permission to buy at whatever the tape offered. **It is not.** The gate is a liquidity test; the R:R is a separate, independent test, and it is the one that failed today. Buying 5 shares at $82.89 would have been a **2.31:1 niche entry against a rulebook that requires 2.5:1** — a breach, taken on the momentum of having finally passed a different test. **This is precisely the VRT mistake of 8/12**, where a 5.5% gap-up fill turned an advertised 3.1:1 into a delivered 2.19:1 and put the entry on top of the very support level the research had named as its weak leg. That deviation was logged as the session's honest compromise; repeating it a day later with the arithmetic already in hand would not be a compromise, it would be a habit. **The bid sits at the price the rule permits. It either fills there or it does not, and if it does not, cash at 4.33% is compliant and nothing was lost.** No substitute name was forced in to spend $434 — the plan said explicitly that after RKLB there is no capacity for a second name, and there is not.
+
+**Risk posture:** **No position within 4% of its stop.** Nearest is **GOOGL's original 1-share lot at 4.60% above $327.033**; VRT's tighter lot is 9.4% clear, ANET 9.1%, MSFT's newest share 9.9%. The concentrated risk is **AMAT at 11.03% into a binary AMC print tonight, 1.03 pts above the binary-sizing cap** — worst case at the ~7% implied move is roughly **−$78 on equity, −0.77%.**
+
+**Event posture:** **July PPI DONE — 0.0% m/m, 4.7% y/y, cooler than expected on headline m/m, headline y/y and core m/m** · July CPI done 8/12, in line, 2nd month cooling · **AMAT earnings TONIGHT (Thu 8/13) AMC (held, 11.03%)** · Fed's Hammack 12:15 PM ET · $42B 10-yr auction · **debt-ceiling X-date window opens Aug 15 — 2 days out** · Strait of Hormuz still shut, Brent $87.89 — **escalation trigger (Brent >$95 or VIX >20) did NOT fire** · VIX 14.69 RISK-ON.
+
+### Standing Triggers Carried Forward
+- **RKLB `ef9062c3` — 5 sh limit $81.96 working until the 1:00 PM PT close.** **If it fills: the day stop leg `19c54ef0` ($73.76) MUST be cancelled and replaced with a 10% GTC trailing stop the same session.** If it does not fill, it expires at the close and the setup is re-evaluated at tomorrow's pre-market against a fresh entry price — **the $81.96 ceiling travels with the $96.30 target, so any re-entry above $81.96 fails the 2.5:1 test and is not permitted without a new target.**
+- **AMAT — FINAL trim-or-hold call at TODAY'S MIDDAY**, the last routine before tonight's AMC print. Position **11.03%** vs the ≤10% binary cap. Trim 1 sh → 5.5% but releases $554 and opens a **~9.8% cash breach** requiring same-session redeployment; hold keeps the researched size and the $499.788 trail at 1.03 pts over the cap. Consensus ~$3.40 EPS / $8.99–9.04B, implied move ~7%.
+- **MSFT at 19.86% — 0.14 of a point under the 20% cap.** Rose +1.26% today. **A breach here would be passive appreciation; flagged at every routine.**
+- **AEHR — re-entry at ≤$110**, or on fresh raises lifting the street mean above $150. Fundamentals qualify; only the price does not ($129.12).
+- **Sleeve imbalance: long-term 55.48% vs 50%, 4th consecutive session.** Friday's structural question: at ~$10k equity a single share of this book is 3–20% of equity, so the 50/50 target and the 15%/20% caps are jointly unsatisfiable whenever a stop returns four figures mid-session.
+- **NBIS ≤$173 trigger RETIRED** (8/12) · **OKLO no entry** (3 of 7 points fail) · **ASTS no entry** (1.09:1 vs 2.5:1 required).
+- **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
+
+**Next scheduled routine:** **Thu 8/13 Midday Scan ~09:15 AM PT** (**the AMAT trim-or-hold call, final before tonight's AMC** · **RKLB `ef9062c3` fill check — if filled, replace the day stop with a 10% GTC trail immediately** · MSFT 19.86% against the cap · cash 4.33%).
