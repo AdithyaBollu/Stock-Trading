@@ -10159,3 +10159,23 @@ The position is **10.96%** against the rulebook's **≤10% binary-event sizing r
 - **Debt-ceiling X-date window opens Aug 15 — 2 days out.** Monitor at every routine.
 
 **Next scheduled routine:** **Thu 8/13 Market Open ~06:30 AM PT** (**PPI read first, then the RKLB live spread gate — 3 spaced polls, <1%, 4th attempt** · buy 5 sh + 10% GTC trail if it clears, no trade if it does not · **AMAT held into tonight's AMC, trim call at midday** · MSFT 19.87% against the cap · cash 4.37%).
+
+### 2026-08-13 — Afternoon Addendum (Midday Scan, ~09:56 AM PT)
+
+**RKLB — the limit filled at the limit.** `ef9062c3` executed **08:04:59 PT at exactly $81.96**, the price solved for at the open to hold the niche R:R at precisely 2.50:1. The stock traded $82.45–$83.58 through the entire open window and came back to the bid. **The three sessions of failed spread gates and the refusal to chase a 2.31:1 entry both ended in the same fill, at a better price than a market order would have produced.** A further **4 shares were added at $81.435** to close the cash breach opened by the AMAT trim — **R:R 2.60:1 at that fill**, still inside the $81.96 ceiling that the $96.30 target imposes. Position now **9 sh, avg $81.7267, 7.32% of equity** (vs ~4% in the written plan — deviation logged in TRADE-LOG). **Both lots carry GTC trailing stops; the DAY-tif OTO leg is gone.**
+
+**AMAT — pre-print check (the only research this routine needed).**
+| Item | Read |
+|------|------|
+| Pre-announcement / fresh revisions today | **None found.** Street has not moved materially off the company guide |
+| Consensus revenue | **~$8.99–9.0B** (+23% y/y) |
+| Consensus non-GAAP EPS | **$3.36–$3.40** (+35–37% y/y); centre clusters $3.36, some at $3.39–3.40 |
+| Company guide | **$8.95B ±$500M rev · $3.36 ±$0.20 EPS** — consensus has gravitated to both midpoints |
+| What matters | **The fiscal Q4 guide, not the Q3 print** — unanimous across previews |
+| Supporting | Management raised CY26 semi-equipment growth outlook to **>30%** earlier this month; last quarter beat $2.86 vs $2.68 |
+| Implied move | **No cleanly sourced options-implied figure available.** The ~7% carried from 8/12 is retained as a working estimate and is labelled as such, not as a sourced number |
+| Call time | **1:30 PM PT** |
+
+**Conclusion: nothing here changes the trim.** The trim was a **position-sizing action taken on the ≤10% binary-event rule**, not a directional view on the quarter — the setup reads constructive, and that is precisely why only half the line was sold rather than all of it. The remaining share is held on the original thesis behind its $505.07 trail.
+
+**No momentum scan run.** Cash is compliant at 2.54% and every position is at or near its cap, so a scan could not have produced an actionable name. Running one to generate a name there is no room to buy is theatre, and it was skipped deliberately.

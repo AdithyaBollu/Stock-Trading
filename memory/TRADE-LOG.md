@@ -3487,3 +3487,79 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 - **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
 
 **Next scheduled routine:** **Thu 8/13 Midday Scan ~09:15 AM PT** (**the AMAT trim-or-hold call, final before tonight's AMC** · **RKLB `ef9062c3` fill check — if filled, replace the day stop with a 10% GTC trail immediately** · MSFT 19.86% against the cap · cash 4.33%).
+
+---
+
+## 2026-08-13 — Midday Scan (Week 17 Day 4, Thursday — **RKLB LIMIT FILLED at exactly $81.96 — the 4-session re-entry is done, and the day-only stop leg was converted to GTC as the standing trigger required** · **AMAT TRIMMED to 1 share — the binary-event cap is now clean going into tonight's AMC print** · **the trim opened a 5.80% cash breach and it was closed the same hour** · cash 2.54% ✓ · no cuts, no trails eligible)
+
+### Executed Today
+
+| Time (PT) | Ticker | Sleeve | Action | Shares | Fill | Order ID | Rationale |
+|-----------|--------|--------|--------|--------|------|----------|-----------|
+| 08:04:59 | **RKLB** | short-term | **BUY** | 5 | **$81.96** | `ef9062c3` | Market-open limit filled **at the limit, to the cent** — the rule-compliant 2.50:1 price, not chased |
+| 09:55:08 | **AMAT** | short-term | **SELL (trim)** | 1 | **$555.57** | `5747b0a4` | **+$13.07 (+2.41%) realized.** Clears the ≤10% binary-event cap before tonight's AMC |
+| 09:55:38 | **RKLB** | short-term | **BUY** | 4 | **$81.435** | `f7cb3e4b` | Closes the cash breach the trim opened; R:R 2.60:1 at the fill ✓ |
+
+**Trades this week: 12/25** (13 unused). *The AMAT trim is an exit and is not counted as a new trade.*
+
+### Stop Orders Changed
+
+| Ticker | Shares | Old | New | Order ID | Why |
+|--------|--------|-----|-----|----------|-----|
+| **RKLB** | 5 | **$73.76 day-only stop leg** `19c54ef0` | **$73.86 GTC trailing** (`trail_price` $7.59, HWM $81.45) | `a31df4fb` | **Standing trigger discharged.** The OTO leg inherited the parent's DAY tif and would have expired at 1:00 PM PT leaving the fill naked overnight |
+| **AMAT** | 2 → 1 | $504.09 GTC trail (10%, HWM $560.10) | **$505.07 GTC trailing** (`trail_price` $51.40, HWM $556.47) | `d364abe2` | Cancelled to free the share for the trim, re-placed on the remainder **above** the old level |
+| **RKLB** | 4 (new) | — | **$73.305 GTC trailing** (10%, HWM $81.45) | `e346731a` | New lot |
+
+### Position Ledger (~09:56 AM PT)
+
+| Ticker | Sleeve | Shares | Avg entry | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) |
+|--------|--------|--------|-----------|------|-----------|---------|-----|----------|-------------------|
+| **MSFT** | long-term | 4 | $491.72 | $494.56 | +0.58% | +0.43% | $1,978.24 | **19.75%** | $462.357 (2+1 sh) · $451.206 (1 sh, HWM $501.34) |
+| **QQQ** | long-term | 2 | $709.99 | $731.80 | +3.07% | +1.12% | $1,463.60 | 14.61% | $660.375 (HWM $733.75) |
+| **VRT** | short-term | 5 | $295.014 | $291.36 | −1.24% | +1.04% | $1,456.80 | 14.54% | $267.948 (4 sh) · $265.185 (1 sh) — hard cut $272.93 |
+| **ANET** | short-term | 7 | $194.856 | $207.61 | **+6.55%** | −1.37% | $1,453.27 | 14.51% | $190.278 (6+1 sh) |
+| **VOO** | long-term | 2 | $699.81 | $713.96 | +2.02% | +0.53% | $1,427.92 | 14.26% | $644.751 (HWM $716.39) |
+| **RKLB** | short-term | **9** | **$81.7267** | $81.45 | −0.34% | +0.34% | $733.05 | 7.32% | $73.86 (5 sh) · $73.305 (4 sh) — hard cut $76.01 |
+| **GOOGL** | long-term | 2 | $352.04 | $346.43 | −1.59% | +0.84% | $692.86 | 6.92% | $327.033 (1 sh) · $313.137 (1 sh, HWM $347.93) |
+| **AMAT** | short-term | **1** | $542.505 | $556.20 | +2.52% | +1.47% | $556.20 | **5.55%** | $505.07 (HWM $556.47) — **REPORTS TONIGHT AMC** |
+
+**Equity $10,016.61** · **Cash $254.77 = 2.54% ✓** · Day P&L **+$45.73 (+0.46%)** · Phase P&L **+$16.61 (+0.17%)**
+**Sleeves:** Long-term **$5,562.62 = 55.53%** (⚠️ 5.53 pts over, 5th session) · Short-term **$4,199.32 = 41.92%** (above the 40% floor; **+1.73 pts vs the open** — the trim-and-redeploy moved the ratio the right way) · Cash **2.54%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read.** Strategy, TRADE-LOG tail (RKLB and AMAT standing triggers), today's RESEARCH-LOG pre-market entry including the AMAT binary-cap arithmetic pre-computed for this routine.
+- **STEP 2 — live state.** Equity $10,017.82, cash $24.94 = **0.25%**, 8 positions. **RKLB `ef9062c3` had FILLED at 08:04:59 PT at $81.96 — exactly the limit.** The patience of the open was rewarded: the stock traded $82.45–$83.58 all morning and came back to the bid.
+- **STEP 3 — cut check: NONE.** Worst position is **VRT at −1.24%**, 5.76 pts above the −7% hard cut. No short-term name is anywhere near the line. RKLB at −0.34% on a two-hour-old fill is noise.
+- **STEP 4 — trail tightening: NONE eligible.** Highest unrealized is **ANET +6.55%**, 8.45 pts below the +15% rung. Four trails ratcheted UP on their own overnight/intraday (MSFT $449.091→$451.206, GOOGL $311.8365→$313.137, VOO $642.636→$644.751, QQQ $655.6725→$660.375). **No stop moved down.**
+- **STEP 4b — the RKLB stop conversion, which was the single most time-sensitive item on the board.** The OTO stop leg `19c54ef0` was **DAY tif** — Alpaca forces the leg to match the parent — so it would have **expired at the 1:00 PM PT close and left 5 filled shares with no protection into tomorrow.** Cancelled and replaced with a **GTC trailing stop**. Deliberately placed as `trail_price` $7.59 rather than `trail_percent` 10: a 10% trail off $81.38 computes to **$73.22, which is BELOW the $73.76 the day leg was holding**, and *"never move a stop down"* is a hard rule. $7.59 lands the stop at **$73.86 — three cents above the level being replaced** — and still ratchets. **The rule was preserved by construction, not by rounding.**
+- **STEP 5 — thesis check: intact across the book.** Semis led again (AMAT +1.47%); ANET gave back −1.37% on no news after a +6% session; no guidance cuts, no sector breaks, nothing to force an exit.
+- **STEP 6 — the AMAT call, which this routine existed to make. TRIMMED 1 of 2 shares.** See below.
+- **STEP 6b — cash breach opened by the trim and closed the same hour.** The sale took cash to **$580.51 = 5.80%**, an immediate breach. **The only rule-compliant capacity in the book was RKLB** — ANET (+1 sh → 16.6%), VRT (+1 → 16.5%), QQQ (+1 → 21.9%), VOO (+1 → 21.4%) and MSFT (+1 → 24.7%) all breach their caps, and the one other affordable name, GOOGL, is long-term and would have pushed a sleeve that is already 5.5 pts over target further over. **Bought 4 RKLB at $81.435** → cash **$254.77 = 2.54% ✓**, and the short-term sleeve went **up**, not down.
+- **STEP 7 — intraday research.** One targeted pre-print check on AMAT (below). No momentum scan: cash is compliant and there is no capacity for a new name.
+- **STEP 8 — Discord SENT. STEP 9 — committed and pushed to main.**
+
+### Rule Compliance
+**8 positions ≤ 15** ✓ · **12 trades this week ≤ 25** ✓ (13 unused) · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **MSFT 19.75% ≤ 20%** ✓ (QQQ 14.61%, VOO 14.26%, GOOGL 6.92%) · **VRT 14.54%**, **ANET 14.51%**, **RKLB 7.32%**, **AMAT 5.55%** all ≤ 15% ✓ · **AMAT 5.55% ≤ 10% binary-event cap** ✓ **— resolved, first compliant read in four sessions** · **cash 2.54% ≤ 5%** ✓ · **RKLB add R:R 2.60:1 ≥ 2.5:1 niche minimum** ✓ · 7-point research on file for RKLB ✓ · trailing stops GTC covering **8/8 positions, 32/32 shares across 14 orders** ✓ · **no stop moved down** ✓ (four ratcheted up; both replacements placed *above* the levels they replaced) · no position at or below −7% ✓ (worst **VRT −1.24%**) · no position at the +15% rung ✓ (highest **ANET +6.55%**) · daytrade count **0/5** ✓ (AMAT was bought 8/4 — the trim is not a day trade) · no margin used ✓.
+⚠️ **Long-term sleeve 55.53% vs 50% — 5th consecutive session. Structural, carried to tomorrow's weekly review.**
+
+**⚠️ The AMAT trim — why the overshoot was accepted.** The rulebook is explicit: **binary event risk is sized to ≤10%.** AMAT was **11.09%** into an after-close print, and this routine was designated three sessions ago as the last one before it. The honest cost of complying is that **a $10k book cannot trim 1.09 points off a $556 share — the smallest available cut is half the position**, so AMAT lands at **5.55%, 4.45 pts *under* the cap** rather than at it. That is a real giveaway: semis were the day's leading sector (+2.08% SMH at the open), the position was **+2.52%**, and the bear case in every preview is valuation rather than the quarter. **It was taken anyway, because the alternative was carrying a known cap breach into a binary event for the fourth session while calling the rulebook inviolable.** Deferring a decision three times and then deferring it once more is not patience. The tail risk on the remaining share at the ~7% implied move is now **≈−$39 (−0.39% of equity)**, half what it was this morning.
+
+**⚠️ And the trim was only defensible because the redeployment existed.** Trimming into a 5.80% cash breach with nowhere to put the money would have traded a sizing breach for a cash breach — the more serious of the two, and the failure mode this account has hit three times in a week. **RKLB was the release valve, and it was one for a specific reason: at $81.435 it sits BELOW the $81.96 ceiling that the 2.5:1 niche R:R test imposes**, so the add clears the same gate the morning order was built around (2.60:1 at the fill vs 2.50:1 at the open). **The position is now 7.32% of equity against a documented research size of ~4%** — that is a genuine deviation from the written plan, made to satisfy the cash rule, and it is logged as such rather than back-rationalized. It remains less than half the 15% niche cap, and the insider-selling leg that argued for the small size is unchanged.
+
+**AMAT pre-print read (STEP 7).** No pre-announcement, no fresh Street revisions today. **Consensus is pinned to management's own guide** — **~$9.0B revenue** (+23% y/y) and **$3.36–$3.40 non-GAAP EPS** (+35–37% y/y) against a guide of **$8.95B ±$500M / $3.36 ±$0.20**. Previews are unanimous that **the fiscal Q4 guide matters more than the print**. Management raised its CY26 semi-equipment growth outlook to >30% earlier this month. **Nothing in the intraday tape changes the trim decision either way** — the trim was a position-sizing action taken on a rule, not a directional call on the quarter, and the remaining share is held on the original thesis.
+
+**Risk posture:** **No position within 4% of its stop.** Nearest is **GOOGL's original 1-share lot at 5.63% above $327.033**; RKLB's newest lot is 10.0% clear, VRT's tighter lot 8.9%, ANET 8.4%, MSFT's newest share 9.6%. **AMAT is now the smallest short-term line in the book at 5.55%, not the largest** — the binary exposure that dominated this week's risk notes is materially reduced.
+
+**Event posture:** **July PPI DONE — 0.0% m/m, 4.7% y/y, cooler than expected** · July CPI done 8/12, in line · **AMAT earnings TONIGHT AMC (1 sh held, 5.55%, call at 1:30 PM PT)** · Fed's Hammack 12:15 PM ET · $42B 10-yr auction · **debt-ceiling X-date window opens Aug 15 — 2 days out** · Strait of Hormuz still shut · **escalation trigger (Brent >$95 or VIX >20) did NOT fire.**
+
+### Standing Triggers Carried Forward
+- **RKLB `ef9062c3` FILLED and stopped GTC — trigger DISCHARGED and RETIRED.** No day-tif stop remains anywhere in the book; all 14 open orders are GTC.
+- **AMAT — trim EXECUTED, binary cap cleared at 5.55%. Trigger RETIRED.** New question for the EOD/tomorrow routines: **the print lands after the close.** Post-print, treat as a standard drift decision — **add back toward 10–15% only on a clean beat AND a Q4 guide raise**; on a miss or an in-line guide, the 1 remaining share rides its $505.07 trail with no add.
+- **MSFT at 19.75% — 0.25 of a point under the 20% cap.** A breach here would be passive appreciation; flagged at every routine.
+- **AEHR — re-entry at ≤$110**, or on fresh raises lifting the street mean above $150. Fundamentals qualify; only the price does not.
+- **RKLB re-entry ceiling stands at $81.96** for any *further* add — the $96.30 target and the 2.5:1 test travel together. **Above $81.96 no add is permitted without a new documented target.**
+- **Sleeve imbalance: long-term 55.53% vs 50%, 5th consecutive session — TOMORROW'S weekly review owns it.** Today improved the short-term side by 1.73 pts through the trim-and-redeploy, but the structural problem is unchanged: at ~$10k a single share of this book is 3–20% of equity, so the 50/50 target and the 15%/20% caps are jointly unsatisfiable whenever four figures of cash appear mid-session.
+- **NBIS ≤$173 trigger RETIRED** (8/12) · **OKLO no entry** (3 of 7 points fail) · **ASTS no entry** (1.09:1 vs 2.5:1 required).
+- **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
+
+**Next scheduled routine:** **Thu 8/13 EOD Summary ~1:15 PM PT** (**AMAT's last close before the 1:30 PM PT call — 1 share, 5.55%, cap-compliant** · RKLB's first close as a 9-share position at a $81.7267 average · cash 2.54% · Week 17 Day 4 into Friday's weekly review, which inherits the 5-session sleeve imbalance).
