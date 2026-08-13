@@ -3563,3 +3563,60 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 - **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
 
 **Next scheduled routine:** **Thu 8/13 EOD Summary ~1:15 PM PT** (**AMAT's last close before the 1:30 PM PT call — 1 share, 5.55%, cap-compliant** · RKLB's first close as a 9-share position at a $81.7267 average · cash 2.54% · Week 17 Day 4 into Friday's weekly review, which inherits the 5-session sleeve imbalance).
+
+---
+
+## 2026-08-13 — EOD Snapshot (Week 17 Day 4, Thursday — **AMAT PRINTED A BEAT-AND-RAISE AFTER THE CLOSE AND THE THIN AFTER-HOURS TAPE IS PRICING IT DOWN ANYWAY** · the day's damage was **ANET −3.22%**, not the earnings name · no cuts, no trails eligible · cash 2.56% ✓ · long-term sleeve over target for a **6th** session)
+
+### EOD Snapshot (Day 4, Thursday)
+**Portfolio:** $9,946.25 | **Cash:** $254.77 (2.56%) | **Day P&L:** −$24.63 (−0.25%) | **Phase P&L:** −$53.75 (−0.54%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | % Equity | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|----------|------|
+| **MSFT** | long-term | 4 | $491.72 | $496.81 | +0.89% | +$20.36 (+1.04%) | **19.98%** | $462.357 (2+1 sh) · $451.206 (1 sh, HWM $501.34) |
+| **QQQ** | long-term | 2 | $709.99 | $732.11 | +1.17% | +$44.24 (+3.12%) | 14.72% | $660.564 (HWM $733.96) |
+| **VRT** | short-term | 5 | $295.014 | $287.13 | −0.45% | −$39.42 (−2.67%) | 14.43% | $267.948 (4 sh) · $265.185 (1 sh) — hard cut $272.93 |
+| **VOO** | long-term | 2 | $699.81 | $714.88 | +0.66% | +$30.14 (+2.15%) | 14.37% | $644.751 (HWM $716.39) |
+| **ANET** | short-term | 7 | $194.856 | $203.65 | **−3.22%** | +$61.56 (+4.51%) | 14.33% | $190.278 (6+1 sh, HWM $211.42) |
+| **RKLB** | short-term | 9 | $81.7267 | $80.07 | −1.33% | −$14.91 (−2.03%) | 7.25% | $73.9701 (5 sh) · $73.40409 (4 sh) — hard cut $76.01 |
+| **GOOGL** | long-term | 2 | $352.04 | $346.35 | +0.81% | −$11.38 (−1.62%) | 6.96% | $327.033 (1 sh) · $313.137 (1 sh, HWM $347.93) |
+| **AMAT** | short-term | 1 | $542.505 | $535.73 | −2.32% | −$6.78 (−1.25%) | 5.39% | $512.355 (HWM $563.755) — **REPORTED AMC, see below** |
+
+**Sleeves:** Long-term **$5,573.92 = 56.04%** (⚠️ **6.04 pts over, 6th consecutive session**) · Short-term **$4,117.56 = 41.40%** · Cash **$254.77 = 2.56%** ✓
+
+**⚠️ Two equity numbers, and the difference is AMAT.** The snapshot above is struck at **official regular-session closes** — the same basis as yesterday's $9,970.88 and the basis tomorrow's `last_equity` will settle on, so Day P&L is apples-to-apples at **−$24.63**. The broker's live `equity` field at 1:25 PM PT reads **$9,926.36**, because Alpaca is marking AMAT at a **thin after-hours print of $510–$517** rather than its $535.73 close. On the after-hours mark the day is **−$44.52 (−0.45%)** and the phase **−$73.64 (−0.74%)**. Both are stated; neither is hidden. The AH mark is not a settled price and is explicitly *not* what the P&L line is computed from.
+
+### Trades Today
+
+| Time (PT) | Ticker | Sleeve | Action | Shares | Fill | Order ID |
+|-----------|--------|--------|--------|--------|------|----------|
+| 08:04:59 | **RKLB** | short-term | **BUY** | 5 | **$81.96** | `ef9062c3` |
+| 09:55:08 | **AMAT** | short-term | **SELL (trim)** | 1 | **$555.57** | `5747b0a4` |
+| 09:55:38 | **RKLB** | short-term | **BUY** | 4 | **$81.435** | `f7cb3e4b` |
+
+**Trades this week: 12/25** (13 unused). *The AMAT trim is an exit and is not counted as a new trade.* Realized today: **+$13.07** on the AMAT share.
+
+### Rule Compliance
+**8 positions ≤ 15** ✓ · **12 trades this week ≤ 25** ✓ · no options ✓ · ETFs (VOO/QQQ) in long-term sleeve only ✓ · largest LT **MSFT 19.98% ≤ 20%** ✓ *(0.02 of a point of headroom — see below)* · **VRT 14.43%**, **ANET 14.33%**, **RKLB 7.25%**, **AMAT 5.39%** all ≤ 15% ✓ · **AMAT 5.39% ≤ 10% binary-event cap** ✓ — the trim did its job, the print landed with the position at half size · **cash 2.56% ≤ 5%** ✓ · trailing stops GTC covering **8/8 positions, 32/32 shares across 14 orders** ✓ · **no stop moved down** ✓ (three ratcheted UP today: QQQ $660.375→$660.564, RKLB $73.86→$73.9701, RKLB $73.305→$73.40409; AMAT's rode to $512.355 on a $563.755 HWM) · **no position at or below −7%** ✓ (worst **VRT −2.67%**) · **no position at the +15% trail-tighten rung** ✓ (best **ANET +4.51%**, 10.5 pts below) · daytrade count **0/5** ✓ · no margin used ✓.
+⚠️ **Long-term sleeve 56.04% vs 50% — 6th consecutive session. Tomorrow's weekly review owns it.**
+
+**Notes.** A quiet, mildly negative session that the headlines will misattribute. The loss did not come from the earnings name — **it came from ANET, down 3.22% on no news, giving back most of yesterday's +6%**, and that single line cost roughly $47 of the day's P&L on its own. Everything long-term was green (MSFT +0.89%, QQQ +1.17%, VOO +0.66%, GOOGL +0.81%); the whole short-term sleeve was red. **AMAT then reported after the close, and it was a beat and a large raise:** revenue **$9.12B** against a $8.95–9.0B consensus, **non-GAAP EPS $3.50** against ~$3.40, and a **Q4 guide of ~$10.75B ±$500M with $3.63 ±$0.20 EPS** — a guide well above where the Street was carrying Q4, on a print where every preview said *the guide is the whole story*. **And the after-hours tape is marking it lower anyway, at $510–$517.** That deserves honesty rather than a tidy narrative: the AH quote at 1:01 PM PT was **$518.16 bid / $541.50 ask — a $23 spread on 40×40 size** — and the last trade was **67 shares at $516.67 at 1:18 PM PT, before the 1:30 PM PT call even began.** That is not a market clearing a verdict on the quarter; it is a handful of shares crossing a book too wide to mean anything. It could still be right. It is simply not yet evidence. Cash at 2.56% is compliant and was left alone — no position was opened or closed after the midday routine, correctly, since nothing in the rulebook fires on an after-hours print.
+
+**⚠️ The one thing that could act on its own tomorrow: AMAT's stop sits at $512.355, and the after-hours tape is trading through it.** The trailing stop ratcheted to $512.355 off a $563.755 intraday high, which left it **4.36% below the $535.73 close — the tightest stop-to-price distance in the book.** Stops do not trigger in extended hours, so nothing happened tonight. But **if AMAT opens anywhere near the $510–$517 the AH prints suggest, the GTC trailing stop fires at the open and sells the remaining share at market**, on a quarter that beat and guided up. That is the rulebook working exactly as written and it will not be overridden — *never move a stop down* is not conditional on liking the reason. It is flagged here so tomorrow's pre-market reads it as an expected outcome rather than a surprise, and so the re-entry question is asked deliberately: **on a beat-and-raise this size, a stop-out at the open is a mechanical exit, not a thesis break**, and re-entry on the standard 7-point test is legitimate if the price and R:R support it.
+
+**Risk posture:** **AMAT is now the nearest position to its stop at 4.36%**, displacing GOOGL's original lot (5.58% above $327.033). Everything else is comfortable: VRT's tighter lot 7.65%, ANET 6.57%, MSFT's oldest lots 6.94%, RKLB 7.62%/8.32%, QQQ 9.77%, VOO 9.81%. **No position is within 4% of its stop.** The book's binary risk is spent — AMAT has reported and the exposure was half-sized before it did.
+
+**⚠️ MSFT at 19.98% — two hundredths of a point under the 20% long-term cap.** It has climbed toward this line for three sessions on nothing but appreciation. A breach tomorrow would be passive, not a trade, but it is now effectively at the cap and the weekly review should decide whether a single share comes off or the cap is acknowledged as unreachable at this account size.
+
+**Event posture:** July PPI DONE (0.0% m/m, 4.7% y/y, cooler) · July CPI done 8/12, in line · **AMAT earnings DONE — beat and raise, AH reaction negative on thin volume** · **debt-ceiling X-date window opens Aug 15 — 2 days out, the live macro risk into next week** · Strait of Hormuz still shut · escalation trigger (Brent >$95 or VIX >20) did NOT fire · VIX risk-on.
+
+### Standing Triggers Carried Forward
+- **AMAT — stop `d364abe2` at $512.355 is live and the AH tape is below it.** Expect a possible stop-out at tomorrow's open. **If it stops out: treat as mechanical, not thesis-driven** — the Q4 guide of ~$10.75B is materially above where the Street was, and re-entry is permitted on a fresh 7-point test if R:R clears 2.5:1. **If it does not stop out: hold the single share; no add above 10% into any future binary.** Do not pre-emptively cancel or widen the stop under any circumstance.
+- **MSFT at 19.98% — at the 20% cap.** Weekly review decides: trim one share, or formally acknowledge that a 4-share $497 position cannot be sized under 20% in a $10k book.
+- **RKLB re-entry ceiling stands at $81.96** — the $96.30 target and the 2.5:1 test travel together. Closed at $80.07, so a further add is *technically* permitted on price; it is **not** taken without a fresh look, because the position is already 7.25% against a ~4% written plan size.
+- **AEHR — re-entry at ≤$110**, or on fresh raises lifting the street mean above $150. Fundamentals qualify; price does not.
+- **Sleeve imbalance: long-term 56.04% vs 50%, 6th consecutive session — TOMORROW'S WEEKLY REVIEW OWNS IT.** The structural question is unchanged and now has six sessions of evidence behind it: at ~$10k equity a single share of this book is 3–20% of equity, so the 50/50 sleeve target and the 15%/20% position caps are jointly unsatisfiable. The review should either amend the target to a band (e.g. 50% ±7) or accept that ETF appreciation will keep breaching it.
+- **NBIS ≤$173 trigger RETIRED** (8/12) · **OKLO no entry** (3 of 7 points fail) · **ASTS no entry** (1.09:1 vs 2.5:1 required).
+- **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
+
+**Next scheduled routine:** **Fri 8/14 Pre-Market ~5:30 AM PT** (**AMAT post-print gap and the $512.355 stop — the first decision of the day** · ANET after a −3.22% give-back · MSFT at the 20% cap · cash 2.56% · **and Friday's Weekly Review, which inherits a 6-session sleeve imbalance and a strategy question it can no longer defer**).
