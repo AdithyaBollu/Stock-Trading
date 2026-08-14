@@ -23,6 +23,21 @@ Beat the S&P 500 over the challenge window through aggressive stock picking and 
 Total deployed target: **95–100%.** Cash > 5% is a failure mode — find a setup or buy VOO.
 Max 15 total positions.
 
+### Position Caps Are ENTRY-SIZING Caps (ratified 2026-08-14, Week 17)
+The 15% / 20% per-position limits bind at **order entry** — "position *cost* ≤ X% of equity."
+- A position that drifts above its cap on **appreciation** (or because the equity denominator fell) is **NOT a violation** and requires **no trim**. Flag it in the log; do not trade on it.
+- The **trailing stop is the resolving mechanism** for passive drift. If the name reverses, the stop trims it.
+- **Never open a cash breach (>5%) to cure a mark-to-market cap overage.** A real rule violation is never an acceptable price for a cosmetic one.
+- Evidence: PLTR 15.48%→15.76% (8/7–8/11) on a +18.87% gain; MSFT 20.05% (8/14 midday) on a session MSFT *fell*. Deferred seven sessions before ratification.
+
+### Minimum Position Count Per Sleeve (ratified 2026-08-14, Week 17)
+Sleeve targets and per-position caps are jointly satisfiable **only above a minimum name count**:
+- **Short-term: ≥4 names required.** 3 × 15% = 45% < the 50% target — with three names the sleeve *cannot* reach target at any legal sizing.
+- **Long-term: ≥3 names required.** 2 × 20% = 40% < the 50% target.
+- **When a sleeve is under target, the remedy is a NEW NAME, never a bigger slice of an existing one.** Concentrating further into a name already at multiples of its written plan size is a real risk taken for a cosmetic point.
+- If no new name clears its checklist, the shortfall is logged as an idea-generation failure — not a sizing failure — and the next session's P0 is finding one.
+- Evidence: short-term sleeve under target 9 consecutive sessions (8/4–8/14) with only 3 names and every add breaching the 15% cap on a single share.
+
 ---
 
 ## Sleeve 1 — Long-Term (50%)
@@ -165,8 +180,26 @@ Impact classification:
 
 ---
 
+## Order & Stop Mechanics (Hard)
+
+### Stale-Quote Override on the Spread Gate (ratified 2026-08-14, Week 17)
+The quote endpoint intermittently returns a **stale single-venue artifact** — a frozen ask on a 100x100 book while the bid moves underneath — printing fabricated 3–30% spreads on liquid names.
+- A spread-gate failure **may be overridden** only by **trade-print evidence**: pull 1-minute bars and confirm **continuous trading (tens to hundreds of prints/min) inside a range tighter than the quoted spread**.
+- When the override is used, **place a LIMIT order at the rule-compliant price**, never a market order — so that if the wide book *were* real, no R:R ceiling or sizing rule can be breached on the fill.
+- Log the polls discarded and the bar evidence used. Never override on a single poll or on intuition.
+- Evidence: ANET/VRT/RKLB, five consecutive sessions 8/10–8/14; RKLB 8/14 required discarding six of eight polls, then filled at $81.29 against an $81.96 limit.
+
+### Add-On Lots May Not Be Stopped Below Existing Lots (ratified 2026-08-14, Week 17)
+When adding shares to a name already held, set the new lot's trail so its stop sits **at or above the lowest existing stop on that name** — even if that requires a trail **tighter than 10%**.
+- A textbook 10% trail anchored to a lower fill would leave the **newest** shares protected **worse** than the oldest. That is the substance of "never move a stop down," even though no existing order is modified.
+- Flag the deliberate deviation in the trade log so a later session does not "correct" it downward.
+- Evidence: RKLB 8/14 — a 10% trail off the $81.29 fill would have sat at $73.16, below both existing RKLB legs and the $73.97 floor; set at 8.63% / $74.28 instead.
+
+---
+
 ## Deployment Rules (Hard)
 - Cash > 5%: BUY. Find a setup immediately. If no single stock clears, buy VOO in long-term sleeve.
 - Long-term sleeve < 50%: add to existing long-term winners or buy VOO/QQQ
-- Short-term sleeve < 50%: find an earnings play, momentum name, or niche setup
+- Short-term sleeve < 50%: find an earnings play, momentum name, or niche setup — **a NEW name, per the minimum-position-count rule above**
 - Under-deployment is a failure mode every single time it occurs.
+- **Late-session sweep (added 2026-08-14):** if a stop fires **after the midday routine**, the released cash must be redeployed the **same session** — do not leave proceeds idle into the close. Stops fire on the market's clock, not the routine calendar. Evidence: 8/11 GOOGL stop proceeds ($1,381.00) landed 11:43 AM PT into an unscheduled window and sat overnight into the CPI print — the phase's first cash-test failure after 41 consecutive passes.
