@@ -10349,3 +10349,60 @@ Rule 7 ("if long-term < 50% deployed, buy more or add VOO/QQQ") **does not fire 
 - **The `quote` endpoint is unusable pre-market for untraded names.** Use `positions` marks for held names and re-run any spread gate live at the open. Verified again this session against a live QQQ control.
 
 **Next scheduled routine:** **Fri 8/14 Market Open 06:30 AM PT** — **watch the AMAT stop fill, then run RKLB's live spread gate and execute the +4 (or the $81.96 limit)**. Then **Midday**, then **today's WEEKLY REVIEW**, which inherits a 7-session sleeve imbalance, MSFT pinned at the position cap, and a corrected OKLO file.
+
+---
+
+### 2026-08-14 — Afternoon Addendum (Midday, 09:58 AM PT) — **BOTH SHARP MOVERS RAN AWAY FROM THE ENTRY, NOT TOWARD IT**
+
+Run because two core-watchlist names moved >5% intraday. **Result: no new setups. Nothing entered.**
+
+#### Niche watchlist — live marks
+| Name | Last | Today | Standing gate | Status |
+|------|------|-------|---------------|--------|
+| **NBIS** | **$273.14** | **+6.99%** | 2.5:1 ceiling **$234.21** | ✗ **$39 above the ceiling — and above consensus too** |
+| **AEHR** | **$134.45** | **+9.03%** | re-entry **≤$110** or street mean **>$150** | ✗ **both fail** |
+| ASTS | $70.01 | −2.07% | 2.5:1 ceiling $67.80 | ✗ above ceiling |
+| OKLO | $45.39 | −2.52% | no entry — downtrend + Q2 miss | ✗ unchanged |
+| RKLB | $80.30 | +0.24% | held, 13 sh — **no further adds this week** | held |
+
+#### NBIS — the catalyst is real, the reward leg is not
+**What happened.** Q2 2026 was a blowout: **revenue +454% y/y to $582M**, **ARR ~$3B**, **~$40B backlog**, adjusted EBITDA margin ~41% and AI-segment EBITDA near 50%. Reuters: beat on revenue as customers raced to secure AI infrastructure. The stock ran **~34% on 8/12**, gave part back 8/13 on **D.A. Davidson's Vineland NJ data-center delay concerns**, and is up **+6.99% today**. **Citigroup raised PT to $324** (one feed shows $278 after a later cut — the feeds disagree), **Baird raised to $340**.
+
+**Why it still fails.** The reward leg does not survive a look at *which* analyst sample you use:
+| Source | Analysts | Avg target | vs $273.14 spot |
+|--------|----------|-----------|-----------------|
+| **MarketBeat** | **18** | **$222.71** | **−18.5% — negative** |
+| Perplexity Finance | 10 | $241.70 | −11.5% — negative |
+| WSJ/Investing | — | $262.63 (median $265) | −3.8% — negative |
+| Stock Analysis | 3 | $312.67 | +14.5% → R:R ~**2.07:1** |
+| Street high (Baird / others) | 1 | $340–410 | would give 3.5–7:1 |
+
+**The most-populated sample is the most negative.** At $273.14 the −7% hard cut is $254.02 (risk $19.12); clearing the 2.5:1 niche minimum needs a target of **~$320.94**, which **only the 3-analyst sample and the street high reach.** Picking those to make the trade work is choosing the number that produces the answer you want. **On the 18-analyst consensus there is no reward leg at all. NO ENTRY.**
+*Re-test condition: the **consensus mean** — not the street high — above ~$321. Also note Michael Burry is publicly short and calls it "what the top of a boom looks like"; that is sentiment, not a gate, but it belongs in the file.*
+
+#### AEHR — same shape, third session running
+**What happened.** A reported **$22M follow-on order** for wafer-level burn-in systems used with advanced AI training/inference processors, on top of **record bookings of $60.7M**, a return to profitability, and **FY2027 revenue guidance raised to $130–150M**. Ratings roughly 2 Strong Buy / 4 Buy / 1 Sell. **Jefferies Buy, $175.**
+
+**Why it still fails.** Consensus clusters at **$115–136.67** against a **$134.45** spot — the stock is at or above the mean. The standing trigger from 8/12 requires **≤$110, or fresh raises lifting the street mean above $150.** A single $175 Jefferies target is not the mean. **NO ENTRY**, and this is now the third consecutive session where **AEHR's fundamentals qualify and its price does not.** That is a consistent, mechanical rejection, not indecision.
+
+#### Broad intraday momentum scan — nothing investable
+Top movers by gain and relative volume came back as: **WETO +115% ($7.19M market cap, 1.06M float)**, **STKH +53% ($3.08M cap)**, **HHS +51%** (an **acquisition at a fixed $5.00/share** — merger arb with a capped payoff, not momentum), **AKAN +90%**, **CAPR**, **ONFO**. **Every one is a sub-$30M micro-cap on a float too thin to hold a $400 position without being the tape.** Rejected on liquidity and quality, not on price.
+The only name in the sweep with a genuine consensus-upside claim was **MU** (consensus implying ~75% upside) at **$963.89 — a single share exceeds the entire $444.25 cash balance.** **AMD +3.98% at $502.18** was the session's best quality-semi move and is likewise unaffordable, and is a long-term-sleeve name that would deepen the sleeve breach.
+
+#### Affordable-with-$444 screen — the constraint that actually binds
+| Name | Price | Fits cash? | Sleeve | Verdict |
+|------|-------|-----------|--------|---------|
+| TSM | $425.73 | ✓ 1 sh | long-term | ✗ pushes LT to ~60% |
+| MRVL | $220.14 | ✓ 2 sh | long-term | ✗ same, and −0.94% today — no breakout |
+| PLTR | $176.66 | ✓ 2 sh | long-term | ✗ same, −1.27% today |
+| VST | $148.64 | ✓ 2 sh | long-term | ✗ same, no documented setup |
+| MU / AMD | $963.89 / $502.18 | ✗ | long-term | ✗ unaffordable |
+
+**Every affordable quality name is a long-term-sleeve name.** Buying any of them would push long-term from 56.13% toward 60% — *worsening* the exact imbalance the short-term shortfall is a symptom of. **This is the whole finding of the session: the book has $444 of capacity and no short-term-eligible place to put it that does not either breach a position cap or concentrate RKLB further.**
+
+#### Market backdrop — mild risk-off drift, no risk event
+**SPY $775.93 (−0.24%)** · **QQQ $729.20 (−0.40%)** · both opened at the day's high and drifted. VRT (+2.05%) the only green line in the book; ANET (−2.39%) the drag for a second session on no news. **No macro trigger fired** — Brent below $95, VIX below 20.
+
+*Data-quality note, fifth session running: the `quote` endpoint returned fake spreads on **live, liquid, actively-trading** names — **ANET 4.88%**, **VRT 3.44%**, **RKLB 1.98%**, **MSFT 0.81%** — while the control names printed correctly (**QQQ 0.005%, VOO 0.004%, SPY 0.004%**). Stale single-venue quotes again. **All marks and gates in this addendum use the `positions` endpoint and 1-minute bars, never the quote endpoint.***
+
+**Outcome: no trades. Cash 4.49% ✓, deployed 95.51%, short-term sleeve 39.38% left under target deliberately** — see today's TRADE-LOG midday entry for the full decline reasoning, including why RKLB +5 was legal and still declined.

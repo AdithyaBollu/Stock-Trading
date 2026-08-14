@@ -3700,3 +3700,92 @@ A textbook **10% trail** on the 4 new shares would have anchored at the $81.29 f
 - **Escalation trigger: Brent >$95 or VIX >20** → size all new positions to 10% max. Currently **$87.04 / 14.62 — not fired.**
 
 **Next scheduled routine:** **Fri 8/14 Midday ~09:30 AM PT** (RKLB's first hours as a 13-share line · ANET and GOOGL are the two nearest-to-stop names · cash 4.46% compliant, no forced action expected), **then EOD**, **then WEEK 17's WEEKLY REVIEW — which inherits an 8-session sleeve imbalance, MSFT pinned at the position cap, a closed AMAT trade to grade, and a quote-feed problem that has now cost four sessions of spread-gate attempts.**
+
+---
+
+## 2026-08-14 — Midday Scan (Week 17 Day 5, Friday — **NO TRADES, AND THE ONE TRADE THAT WOULD HAVE FIXED THE SLEEVE NUMBER IS THE ONE THE BOOK SHOULD NOT MAKE** · every exit and tightening rule checked and none fire · cash **4.49% ✓** · **short-term sleeve 39.38% — 0.62 of a point under the 40% action line**, and the only mechanically compliant absorber in the book is *more RKLB*, declined for stated reasons · **MSFT has crossed the 20% long-term cap passively, 20.05%** — first actual breach after three sessions pinned at 19.97–19.98%)
+
+### Session State — 09:58 AM PT
+**Equity:** $9,903.71 | **Cash:** $444.25 (**4.49%**) ✓ | **Deployed:** $9,459.46 (**95.51%** — inside the 95–100% band) | **Day P&L:** −$41.43 (−0.42%) | **Phase P&L:** −$96.29 (−0.96%)
+**Positions 7/15** ✓ · **Trades this week 13/25** (12 unused) · **Stops: 7/7 positions, 35/35 shares, 14 GTC orders** ✓ · **0 day trades today** ✓ · no margin used ✓
+
+### Position Ledger (live broker marks)
+| Ticker | Sleeve | Shares | Entry | Mark | % Equity | Unrealized | Today | Trail stop | To stop | Hard cut (−7%) |
+|--------|--------|--------|-------|------|----------|------------|-------|-----------|---------|----------------|
+| **MSFT** | long-term | 4 | $491.72 | $496.50 | **20.05%** ⚠️ | +$19.12 (+0.97%) | −0.08% | $462.357 (3 sh) · $451.206 (1 sh) | 6.9% / 9.2% | — (LT) |
+| **VRT** | short-term | 5 | $295.014 | $292.95 | 14.79% | −$10.32 (−0.70%) | **+2.05%** | $267.948 (4 sh) · $265.923 (1 sh) | 8.5% / 9.2% | $274.36 — 6.3% below |
+| **QQQ** | long-term | 2 | $709.99 | $728.95 | 14.72% | +$37.92 (+2.67%) | −0.43% | $660.942 | 9.3% | — (LT) |
+| **VOO** | long-term | 2 | $699.81 | $713.01 | 14.40% | +$26.40 (+1.89%) | −0.27% | $644.751 | 9.6% | — (LT) |
+| **ANET** | short-term | 7 | $194.856 | $198.76 | 14.05% | +$27.33 (+2.00%) | **−2.39%** | $190.278 (6+1 sh) | **4.3%** — nearest in book | $181.22 — 8.8% below |
+| **RKLB** | short-term | 13 | $81.592 | $80.30 | 10.54% | −$16.85 (−1.59%) | +0.24% | $74.9500 (4) · $74.8853 (5) · $74.2278 (4) | 6.7% / 6.9% / 7.5% | $75.88 — 5.5% below |
+| **GOOGL** | long-term | 2 | $352.04 | $344.74 | 6.96% | −$14.60 (−2.07%) | −0.47% | $327.033 (1 sh) · $315.396 (1 sh) | 5.1% / 8.5% | — (LT) |
+
+**Sleeves:** Long-term **$5,559.40 = 56.13%** (⚠️ **6.13 pts over — 9th consecutive session**) · Short-term **$3,899.92 = 39.38%** (⚠️ **10.62 pts under, and now below the 40% action line**) · Cash **$444.25 = 4.49%** ✓
+
+**Stop coverage verified share by share:** MSFT 3+1=4 ✓ · VRT 4+1=5 ✓ · QQQ 2 ✓ · VOO 2 ✓ · ANET 6+1=7 ✓ · RKLB 4+5+4=13 ✓ · GOOGL 1+1=2 ✓ → **35/35 shares, 7/7 positions, 14 GTC trailing orders. Nothing cancelled, widened, or moved down.**
+
+### STEP 3 — Cut losers: NOTHING FIRES
+No short-term position is at or through the −7% hard cut. **Worst line in the book is GOOGL at −2.07%, and GOOGL is long-term** (which gets room anyway). The worst *short-term* line is **RKLB −1.59%, 5.5% of price above its $75.88 cut.** VRT −0.70%, ANET +2.00%. **No cuts.**
+
+### STEP 4 — Tighten trails: NOTHING IS ELIGIBLE
+The **+15% rung** is the first trigger and the best unrealized line in the book is **QQQ +2.67% — 12.3 points below it.** ANET +2.00%, VOO +1.89%, MSFT +0.97%. **Nothing tightened, nothing ratcheted manually.** (The GTC trails ratchet themselves; three did so on their own overnight and this session — no order was touched by hand.)
+⚠️ **RKLB's newest leg remains an 8.63%-equivalent trail at $74.95, set deliberately tighter than 10% this morning** so the newest shares are not protected worse than the oldest. **It is correct. Do not "fix" it downward.**
+
+### STEP 5 — Thesis check: NO BREAKS
+- **ANET −2.39%** on the session, the biggest detractor for a second straight day, and again **on no company news** — this is give-back from the +6% two sessions ago, not a thesis event. It is now the **nearest position to its stop at 4.3%**, which is the number to watch, not the daily print. Held.
+- **VRT +2.05%** is the day's only green line — data-center capex bid, thesis intact.
+- **RKLB** traded a wide $78.54–$82.43 range and sits at $80.30, roughly flat. Nothing has changed since this morning's file. Held.
+- Market backdrop mildly red: **SPY −0.24%, QQQ −0.43%** — a drift day, not a risk event.
+
+### ⚠️ STEP 6 — The short-term sleeve fell below 40%, and the arithmetic says do nothing
+Short-term is **39.38%**, which trips the routine's `< 40% → enter a setup` line. It was tested properly rather than waved through, and **every available action fails a hard gate:**
+
+| Candidate | Cost of 1 unit | Result | Verdict |
+|-----------|----------------|--------|---------|
+| **ANET** +1 sh | $198.76 | 8 sh → **16.06%** | ✗ breaches the 15% short-term cap ($92.80 of headroom, a share costs $198.76) |
+| **VRT** +1 sh | $292.95 | 6 sh → **17.75%** | ✗ breaches the 15% cap ($20.81 of headroom) |
+| **RKLB** +5 sh | $401.48 | 14.59%, R:R **2.88:1**, price $80.30 under the $81.96 ceiling, cash → 0.43% | **mechanically legal — DECLINED, see below** |
+| **NBIS** | $273.14 | price is **22.6% ABOVE** the $222.71 consensus of 18 analysts | ✗ **negative reward leg** |
+| **AEHR** | $134.45 | street mean **$115–136.67**, standing trigger requires **≤$110 or a mean above $150** | ✗ **both conditions fail** |
+| **ASTS / OKLO** | — | both red today, unchanged from this morning's rejections | ✗ |
+| Intraday momentum scan | — | returned **WETO ($7.2M cap), STKH ($3.1M), AKAN, CAPR, ONFO** and an **HHS merger-arb at a fixed $5.00 deal price** | ✗ micro-cap pumps, not investable in this book |
+| **MU / AMD** | $963.89 / $502.18 | one share exceeds the entire $444.25 cash balance | ✗ unaffordable |
+| **TSM / MRVL / PLTR / VST** | $425.73 / $220.14 / $176.66 / $148.64 | affordable, but all are **long-term-sleeve names** | ✗ would push long-term to ~60% — worsens the actual problem |
+
+**Why RKLB +5 was declined even though it clears every written rule.** It is the only compliant absorber, it would have taken short-term to **43.4%** and cash to **0.43%**, and its R:R at $80.30 is **2.88:1** against the unchanged $96.30 target. It is still the wrong trade. RKLB is already **13 shares at 10.54% against a ~4% written plan size — 2.6x** — and this add would make it **3.6x plan and 37% of the entire short-term sleeve.** This morning's session declined a 5th share for that same reason and wrote the standing trigger *"no further adds this week without a fresh file"*; four hours is not a fresh look, it is the same look. **Buying a third tranche of one speculative name inside two days, to close 0.62 of a point of sleeve gap, trades a real concentration risk for a cosmetic number.** Declined on that basis and stated openly rather than buried.
+
+**The gap is structural, not a deployment failure.** The book is **95.51% deployed, inside the 95–100% band**, and cash is **compliant at 4.49%** — there is no idle capital here. Short-term is under 50% because **long-term is over it at 56.13%**, and the only lever that actually closes that gap is trimming an ETF share — a decision this log has explicitly reserved for **today's weekly review**, now for the ninth session. Midday does not pre-empt it.
+
+### STEP 7 — Intraday research (run because two watchlist names moved sharply)
+Full addendum in RESEARCH-LOG. Both sharp movers were checked and **both moved further away from qualifying, not toward it:**
+- **NBIS +6.99% → $273.14.** Real catalyst — Q2 revenue +454% y/y to $582M, ~$3B ARR, a **$40B backlog**, Citi PT to $324, Baird to $340. But the **best-populated analyst sample (MarketBeat, 18 analysts) puts consensus at $222.71 — 18% BELOW spot.** Other samples: $241.70 (10 analysts), $262.63, $312.67 (3 analysts). **Using the $340 street-high to manufacture a 3.5:1 would be cherry-picking the one number that makes the trade work.** On the consensus the reward leg is negative. **No entry.** The standing $234.21 ceiling stands and price is $39 above it.
+- **AEHR +9.03% → $134.45.** Also a real catalyst — a **$22M follow-on wafer-level burn-in order**, record bookings $60.7M, FY27 guide raised to $130–150M. Jefferies $175. But the **street mean is $115–136.67**, and the standing re-entry trigger requires **≤$110, or fresh raises lifting the mean above $150.** Neither is true. **No entry** — the fundamentals qualify and the price still does not, which is the same verdict as 8/12 and 8/13, only more so.
+
+### Rule Compliance
+**7 positions ≤ 15** ✓ · **13 trades this week ≤ 25** ✓ · **no options** ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · **VRT 14.79%**, **ANET 14.05%**, **RKLB 10.54%** all ≤ 15% ✓ · **cash 4.49% ≤ 5%** ✓ · **deployed 95.51%, inside the 95–100% band** ✓ · trailing stops GTC on **7/7 positions, 35/35 shares, 14 orders** ✓ · **no stop cancelled, widened, or moved down** ✓ · **no position at or below −7%** ✓ (worst short-term **RKLB −1.59%**) · **no position at the +15% trail rung** ✓ (best **QQQ +2.67%**) · **0 day trades** ✓ · no margin ✓.
+⚠️ **MSFT 20.05% — the 20% long-term cap is now BREACHED, not approached.**
+⚠️ **Long-term 56.13% / short-term 39.38% — 9th consecutive session, and short-term is now under the 40% action line.**
+
+### ⚠️ MSFT has crossed the cap, and it did it without a trade
+MSFT is **$1,986.00 = 20.05%** of a $9,903.71 equity. The cap is 20%. **This is the first session it is actually over**, after three pinned at 19.97–19.98%.
+**The mechanism matters: MSFT did not rise — it is −0.08% on the day. The denominator fell.** Equity is down $41.43 because of ANET and the index lines, and a flat position gets bigger as a percentage when the book shrinks around it. **No trade caused this and no trade can un-cause it cheaply:** selling 1 share returns $496.50 to cash and puts the cash line at **$940.75 = 9.50% — an immediate and much larger breach of a rule that is checked every session**, to fix a 0.05-point overage on a rule that only binds at entry.
+**Not trimmed. Flagged.** This is precisely the structural question the weekly review has now deferred seven times: **in a ~$10k book a single share of a $496 stock is 5% of equity, so a 4-share MSFT line cannot be held under 20% without being a 3-share line at 15%.** The cap and the account size are in conflict, and passive drift will keep crossing it. **Today's weekly review must rule: trim to 3 shares, or amend the cap to a band.**
+
+### Actions Taken
+**None.** No orders placed, cancelled, or modified. No Discord notification sent — the routine sends one only when action is taken, and none was.
+
+### Standing Triggers Carried Forward
+- **⚠️ MSFT 20.05% — the long-term cap is breached passively for the first time.** Weekly review must rule today: trim to 3 sh, or amend the cap to a band. Do not trim at a routine that would open a >5% cash breach to do it.
+- **⚠️ Long-term 56.13% / short-term 39.38% — 9th consecutive session, short-term now under the 40% action line.** The only lever that closes it is trimming an ETF share. **The 50/50 split and the 15%/20% caps remain jointly unsatisfiable at ~$10k equity.** Amend to a band (e.g. 50% ±7) or accept a permanent documented breach. **This cannot be deferred an eighth time.**
+- **RKLB — no further adds this week.** 13 sh / 10.54%, 2.6x written plan size. Declined again this session with the arithmetic stated. **$81.96 ceiling and $96.30 target travel together; hard cut $75.88.**
+- **⚠️ RKLB's newest leg is an 8.63% trail at $74.95, not 10% — intentional. Do not "correct" it downward.** Ratchet up freely.
+- **ANET is the nearest position to its stop at 4.3%** ($190.278) after two sessions of newsless give-back. No thesis break; the stop is the plan.
+- **NBIS — no entry. Price $273.14 vs a $222.71 consensus (18 analysts).** Re-test only if the *consensus* mean — not the street high — moves above ~$321. The Q2 print (+454% rev, $40B backlog) is genuinely strong; the price has simply outrun every populated target sample.
+- **AEHR — no entry. Re-entry at ≤$110, or on fresh raises lifting the street mean above $150** (currently $115–136.67). The $22M order and the FY27 raise are real; the price is still above the mean.
+- **AMAT — no re-entry until a session can source a credible price target.** Position closed this morning at $514.68.
+- **ASTS 2.5:1 ceiling $67.80** · **OKLO no entry on trend + Q2 miss.**
+- **The `quote` endpoint remains unusable for niche spread gates** — use 1-minute bars (trade count + intra-bar range). Confirmed again this session: ANET showed a fake 4.88% spread and VRT 3.44% on live, liquid, actively-trading names.
+- **Escalation trigger: Brent >$95 or VIX >20** → size all new positions to 10% max. Not fired.
+- **Debt-ceiling X-date is RETIRED as a live risk** (CBO baseline 2027). Do not carry it into next week.
+
+**Next scheduled routine:** **Fri 8/14 EOD ~1:15 PM PT**, then **WEEK 17'S WEEKLY REVIEW — which now inherits a 9-session sleeve imbalance, a short-term sleeve that has fallen under the 40% action line, an MSFT position that has actually crossed the 20% cap rather than merely approached it, a closed AMAT trade to grade, and a quote-feed problem that has cost five sessions of spread-gate attempts.**
