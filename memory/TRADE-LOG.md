@@ -3620,3 +3620,83 @@ Long-term sleeve: $4,705.93 (**47.36%**, target 50% — under target for the fir
 - **Debt-ceiling X-date window opens Aug 15 — monitor at every routine.**
 
 **Next scheduled routine:** **Fri 8/14 Pre-Market ~5:30 AM PT** (**AMAT post-print gap and the $512.355 stop — the first decision of the day** · ANET after a −3.22% give-back · MSFT at the 20% cap · cash 2.56% · **and Friday's Weekly Review, which inherits a 6-session sleeve imbalance and a strategy question it can no longer defer**).
+
+---
+
+## 2026-08-14 — Market Open Execution (Week 17 Day 5, Friday — **THE AMAT STOP FIRED AT THE OPEN EXACTLY AS FORECAST, AND IT FIRED $12.68 BETTER THAN THE PRE-MARKET TAPE THREATENED** · the resulting **7.72% cash breach was closed inside 34 minutes** with the contingent **+4 RKLB @ $81.29** · **cash 4.46% ✓** · RKLB's new stop is set **tighter than 10% on purpose** so it does not sit below the book's existing RKLB stops · long-term sleeve over target for an **8th** session)
+
+### Session Open State
+**Equity:** $9,971.08 | **Cash:** $444.25 (4.46%) ✓ | **Day P&L:** +$25.94 (+0.26%) | **Phase P&L:** −$28.92 (−0.29%)
+**Positions 7/15** ✓ · **Trades this week 13/25** (12 unused) · **Stops: 7/7 positions, 35/35 shares, 14 GTC orders** ✓ · daytrade count 0 today ✓
+
+### Trades Today
+
+| Time (PT) | Ticker | Sleeve | Action | Shares | Fill | Order ID |
+|-----------|--------|--------|--------|--------|------|----------|
+| 06:31:36 | **AMAT** | short-term | **SELL (trailing stop fired)** | 1 | **$514.68** | `d364abe2` |
+| 07:05:23 | **RKLB** | short-term | **BUY** (limit $81.96 day) | 4 | **$81.29** | `1d4db83a` |
+| 07:06 | **RKLB** | short-term | *stop placed* — trailing GTC, trail $7.01 → **$74.28** | 4 | — | `4ca63d76` |
+
+**Realized today: −$27.83 (−5.13%)** on the AMAT share (entry $542.505 → exit $514.68). **The AMAT exit is an exit, not a new trade, and is not counted.** Trades this week **12 → 13/25**.
+
+### A. AMAT — the mechanical exit, and it beat its own forecast
+Stop `d364abe2` at **$512.355** fired at the open and filled **1 sh @ $514.68**. Nothing was cancelled, widened, or lowered — the pre-market entry committed to letting it run and it ran.
+
+**The number came in materially better than the pre-market plan assumed.** That plan was written against a **$502.00** pre-market tape and forecast **≈ −$40.51 (−7.47%)**. The actual open was stronger than the thin after-hours prints implied, and the fill landed at **$514.68 → −$27.83 (−5.13%)**, **$12.68/share better** and **inside the −7% hard cut rather than through it**. Worth stating plainly because the direction of the surprise matters: the overnight after-hours tape ($510–$517 on 40×40 size, a 67-share print struck before the call began) was flagged Thursday as *not yet evidence*, and the regular session confirmed it was not. The beat-and-raise was real; the AH markdown was noise; the stop still did its job on the Thursday drawdown that preceded both.
+
+**No re-entry**, per the standing trigger. Two independent reasons, unchanged: **(1)** every AMAT price target retrievable this session sits at **$172–220** against a **~$515** stock — ~2.5x off spot and unusable, so there is **no computable reward leg** and therefore no R:R test to pass; **(2)** re-buying today would burn a PDT slot to undo the book's own stop. Positions **8 → 7**.
+
+### B. RKLB +4 — the contingent redeployment, executed
+The AMAT fill opened the forecast breach: cash **$769.41 = 7.72%** of a $9,964.30 equity (pre-market projected 7.64% — close). All three gates were tested before the order went in.
+
+**Gate ① — live spread, and it needed the trade tape to resolve.** Eight polls over four minutes: **one clean (0.161%)**, one at 1.376%, and six showing **3.3–10.2% on 100×100 size with the ask frozen at $83.66 / $85.31 while the bid moved underneath it.** That is the same single-venue stale-quote artifact this log has now documented across five sessions, and it was falsified the same way: **1-minute bars show 45–761 trades/min printing inside $0.01–$0.15 ranges** — a real executable spread of **0.02–0.18%**, with the tape walking $80.30 → $81.25 in seven minutes. **Gate passes on print evidence, not on the quote endpoint.**
+
+**Gate ② — price ceiling.** Last print **$81.25–81.30**, under the **$81.96** 2.5:1 ceiling. **A day LIMIT at $81.96 was used instead of the planned market order** — marketable against a real $81.3 ask, so it filled instantly, but structurally incapable of filling above the ceiling if that wide $83.66/$85.31 book had been the real one. Same defence 8/13 used against the same problem. **Filled $81.29.**
+
+**Gate ③ — AMAT filled.** ✓
+
+**R:R at the actual fill:** −7% hard cut **$75.60**, risk **$5.69**; target **$96.30**, reward **$15.01** → **2.64:1** ✓ clears the 2.5:1 niche minimum with room. (At the $81.96 ceiling it would have been exactly 2.50:1 — the ceiling and the $96.30 target travel together, as written.)
+
+**Sizing was deliberately the minimum that solves the breach, not the maximum permitted.** 3 sh ($243.87) leaves **5.19% — still a breach**; 4 sh ($325.16) → **cash $444.25 = 4.46% ✓**. 5+ would also have fit the 15% cap and was **declined** — RKLB is already carried at ~10.6% against a ~4% written plan size, and that deviation is logged rather than compounded.
+
+### ⚠️ C. The RKLB stop is deliberately tighter than 10% — read this before the next routine ratchets anything
+A textbook **10% trail** on the 4 new shares would have anchored at the $81.29 fill and set the stop at **$73.16**. That is **below both existing RKLB stops** ($74.2278 on 4 sh, $74.8853 on 5 sh) and **below the $73.97 floor** this morning's pre-market entry set for exactly this reason. Placing it would have left the position's newest shares protected *worse* than its oldest — the substance of "never move a stop down" even though no individual order would have been modified.
+
+**Resolution: `trail_price` $7.01 rather than `trail_percent` 10**, which set the stop at **$74.28** — a **8.63% trail**, three cents above the tightest existing RKLB leg. Tighter than the rulebook, never looser. Same handling as the 8/13 midday conversion ($73.86, three cents above the level it replaced). **It still trails and still ratchets up.** Flagged so a later session reads it as an intentional deviation with a stated reason, not as a mis-set order to "correct" back down to 10%.
+
+### Book After
+
+| Ticker | Sleeve | Shares | Entry | Mark | % Equity | Unrealized | Stop |
+|--------|--------|--------|-------|------|----------|------------|------|
+| **MSFT** | long-term | 4 | $491.72 | $498.15 | **19.98%** | +$25.72 (+1.31%) | $462.357 (3 sh) · $451.206 (1 sh) |
+| **VRT** | short-term | 5 | $295.014 | $294.37 | 14.76% | −$3.22 (−0.22%) | $267.948 (4 sh) · $265.185 (1 sh) |
+| **QQQ** | long-term | 2 | $709.99 | $734.09 | 14.72% | +$48.20 (+3.39%) | $660.942 |
+| **VOO** | long-term | 2 | $699.81 | $715.83 | 14.36% | +$32.04 (+2.29%) | $644.751 |
+| **ANET** | short-term | 7 | $194.856 | $201.78 | 14.17% | +$48.51 (+3.56%) | $190.278 (7 sh) |
+| **RKLB** | short-term | 13 | $81.592 | $81.20 | 10.59% | −$5.10 (−0.48%) | $74.8853 (5) · **$74.28 (4, NEW)** · $74.2278 (4) — hard cut $75.60 |
+| **GOOGL** | long-term | 2 | $352.04 | $347.42 | 6.97% | −$9.24 (−1.31%) | $327.033 (1 sh) · $315.396 (1 sh) |
+
+**Sleeves:** Long-term **$5,587.28 = 56.03%** (⚠️ **6.03 pts over — 8th consecutive session**) · Short-term **$3,939.94 = 39.51%** (⚠️ **10.49 pts under — the AMAT exit widened this gap, it did not close it**) · Cash **$444.25 = 4.46%** ✓
+
+### Rule Compliance
+**7 positions ≤ 15** ✓ · **13 trades this week ≤ 25** ✓ · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · largest LT **MSFT 19.98% ≤ 20%** ✓ *(0.02 pt of headroom, 3rd session pinned there on appreciation alone)* · **VRT 14.76%**, **ANET 14.17%**, **RKLB 10.59%** all ≤ 15% ✓ · niche entry carried a **complete 7-point file in today's RESEARCH-LOG** and cleared **2.64:1 ≥ 2.5:1** ✓ · **cash 4.46% ≤ 5%** ✓ · trailing stops GTC covering **7/7 positions, 35/35 shares across 14 orders** ✓ · **no stop moved down** ✓ *(and see §C — the new RKLB leg was set tighter than 10% specifically to keep that true)* · **no position at or below −7%** ✓ (worst **GOOGL −1.31%**) · **no position at the +15% trail-tighten rung** ✓ (best **QQQ +3.39%**, 11.6 pts below) · **0 day trades today** ✓ (AMAT was sold from an old lot; RKLB was bought and held) · no margin used ✓.
+⚠️ **Long-term sleeve 56.03% vs 50% — 8th consecutive session. TODAY'S WEEKLY REVIEW OWNS IT AND HAS NOW DEFERRED IT SEVEN TIMES.**
+
+**Declined this session, each with a reason:** **AMAT re-entry** (no computable reward leg — every retrieved target ~2.5x off spot; also a PDT burn to undo the book's own stop). **RKLB 5th share** (fits the cap; declined because the line is already 2.6x its written plan size). **GOOGL / MSFT / QQQ / VOO / ANET / VRT adds** (position-capped or sleeve-worsening — one more share breaches). **VOO fallback C.2** (not needed; the RKLB gate passed, and it would have pushed the long-term sleeve to ~63%). **ASTS** 1.63:1 · **NBIS** 1.14:1 · **AEHR** negative R:R, price above every published target · **OKLO** downtrend + Q2 miss. **Nothing was rejected on nerve.**
+
+**Risk posture:** **No position within 6% of its stop.** Nearest is **GOOGL's original lot at 5.87%** above $327.033; RKLB's new leg 8.5%, ANET 5.7%… *(ANET $201.78 vs $190.278 = 5.70% — now the nearest line in the book alongside GOOGL)*; VRT 9.0%, MSFT 7.2%, QQQ 9.96%, VOO 9.93%. The book's binary risk is **spent** — AMAT has reported and exited, and no held name reports before next week.
+
+**Event posture:** July CPI done (in line) · July PPI done (0.0% m/m, cooler) · **AMAT earnings DONE and the position is CLOSED** · **debt-ceiling "X-date Aug 15" is RETIRED as a live risk** — ceiling lifted to $41.1T July 2025, CBO baseline X-date **2027**; it should not be carried into next week's notes · Strait of Hormuz still shut, Brent **$87.04** below the $95 trigger · **VIX 14.62 — RISK-ON**, escalation trigger did NOT fire.
+
+### Standing Triggers Carried Forward
+- **RKLB — no further adds this week without a fresh file.** Position is **13 sh / 10.59%** against a ~4% written plan. The **$81.96 ceiling and the $96.30 target travel together**; hard cut **$75.60**.
+- **⚠️ The new RKLB stop is an 8.63% trail at $74.28, not a 10% trail — intentional (§C). Do not "fix" it downward.** Ratchet up freely.
+- **AMAT — no re-entry until a session can source a credible price target.** Every target retrieved 8/13–8/14 is ~2.5x off spot and unusable. The thesis is not broken; the reward leg is simply not computable.
+- **MSFT 19.98% — effectively AT the 20% cap for a 3rd session, on pure appreciation.** Weekly review decides: trim one share, or formally acknowledge a 4-share ~$498 line cannot be sized under 20% in a $10k book.
+- **⚠️ Long-term 56.03% / short-term 39.51% — 8th consecutive session over/under.** At ~$10k equity one share of QQQ/VOO is 7.2–7.4% of equity, so the **50/50 split and the 15%/20% caps are jointly unsatisfiable.** Amend to a band (e.g. 50% ±7) or accept a permanent documented breach. **Today's weekly review cannot defer this again.**
+- **AEHR — re-entry at ≤$110**, or on fresh raises lifting the street mean above $150. Fundamentals qualify; price does not.
+- **ASTS 2.5:1 ceiling $67.80** · **NBIS 2.5:1 ceiling $234.21** · **OKLO no entry on trend + Q2 miss** (the insider-selling blocker stays retired — it was 10b5-1 pre-scheduled).
+- **The `quote` endpoint remains unusable for RKLB spread gates.** Six of eight polls this session were stale single-venue artifacts. **Use 1-minute bars (trade count + intra-bar range) as the gate, as done here.**
+- **Escalation trigger: Brent >$95 or VIX >20** → size all new positions to 10% max. Currently **$87.04 / 14.62 — not fired.**
+
+**Next scheduled routine:** **Fri 8/14 Midday ~09:30 AM PT** (RKLB's first hours as a 13-share line · ANET and GOOGL are the two nearest-to-stop names · cash 4.46% compliant, no forced action expected), **then EOD**, **then WEEK 17's WEEKLY REVIEW — which inherits an 8-session sleeve imbalance, MSFT pinned at the position cap, a closed AMAT trade to grade, and a quote-feed problem that has now cost four sessions of spread-gate attempts.**
