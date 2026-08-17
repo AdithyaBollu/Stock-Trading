@@ -10584,3 +10584,51 @@ The Week 17 review ruled: **"Long-term sleeve: no adds. 56.13% and 6 pts over ta
 **Outcome: 1 trade queued — +1 ADI, day LIMIT $397.00, short-term sleeve, 3.95%, 10% trailing GTC on fill. This is the Week 17 review's P0 and it ends a 10-session, 3-name short-term sleeve. Cash 4.47% ✓ compliant before the trade, ~0.52% after. Long-term sleeve untouched at 55.90%. No exits, no trims, no stop modifications. 14 GTC orders unchanged, 35/35 shares covered.**
 
 **Next scheduled routine:** **Mon 8/17 Market Open ~06:30 AM PT** — *run the live spread gate on 1-minute bars before sending the ADI limit, place the 10% trailing GTC the moment it fills, and do not chase above $397.00.*
+
+---
+
+## 2026-08-17 — Midday Intraday Addendum (Week 18 Day 1, Monday, ~09:17 AM PT — **one targeted query, one finding: MSFT's −2.33% has no catalyst behind it** · no momentum scan run and the reason is stated, not skipped · **memory-integrity failure found and repaired at STEP 0: today's market-open log had never reached `main`**)
+
+### Why this addendum is short
+STEP 7 fires on either of two conditions: *something is moving sharply*, or *cash > 5%*. **Only the first is true.** Cash is **0.51%** with $50.52 on hand — **not enough to buy a single share of the cheapest line in the book (RKLB, $83.53)**. A momentum scan under that constraint can only generate ideas that cannot be funded this session, and logging an unfundable idea as "research" would inflate the record. **Deferred to tomorrow's pre-market**, which has the same mandate and a night to fund it. One query was run, on the one name that moved.
+
+### MSFT — intraday −2.33%, no company-specific catalyst
+**Query:** `MSFT Microsoft stock down 2.3% today intraday reason news catalyst August 17 2026`
+
+| Point | Finding |
+|-------|---------|
+| **Same-day headline** | **None found.** No earnings warning, no downgrade, no litigation, no guidance event, no product/regulatory news in any retrieved source. |
+| **Attributed drivers** | **Profit-taking after a sharp run** + the recurring **AI-capex / FCF / margin** debate. Both are positioning arguments, not new information. |
+| **Magnitude of the run being given back** | **+33% since the June 30 close of $373** (to $497 on 8/13). A −2.3% day is **7% of that advance.** |
+| **Last fundamental datapoint** | **July 29 fiscal Q4: revenue $90B (+18%), Azure +43%** — beat across the board. Unchanged and un-contradicted today. |
+| **Intraday prints (cross-checked)** | WSJ real-time $483.96 (−2.31%) at 11:11 ET; MarketBeat $483.56 (−2.39%) at 12:11 ET; broker mark $483.834. **Three independent sources agree** — this is a real move, not a stale-feed artifact. |
+| **Dated item** | **Ex-dividend Thursday 8/20, $0.91/share** (≈$3.64 on 4 sh). Will print as a small gap-down on Thursday's open. |
+
+**Data-quality note.** Several retrieved sources returned **$495.40 −0.30%** — that is **Friday's close**, not today's tape, and one snippet ("shares fell 2.3% to $492.43") is dated **8/12**, a *different* 2.3% down day five sessions ago. The coincidence is close enough to mislead a fast read. **The current figure is $483.83, and it was accepted only because three live sources agreed on it.** Stale-quote discipline applies to news retrieval, not just to the broker feed.
+
+**Verdict: HOLD, no action.** A no-news give-back of 2.3% inside a 33% two-month advance is normal volatility, and the rulebook is explicit that normal volatility is held. **MSFT is −1.60% against cost — not a loser.** Its $462.357 trail sits **4.4% below spot, the tightest stop-to-price distance in the book**; if the decline continues, the stop resolves the position without a discretionary call. **The trail is not being widened, lowered, or pre-empted.**
+
+### Tape context — the move is idiosyncratic, and that is the load-bearing fact
+| Instrument | Today |
+|-----------|-------|
+| **VOO** | **−0.11%** — flat |
+| **QQQ** | **+0.23%** — flat/up |
+| RKLB | **+4.09%** |
+| VRT | +1.30% |
+| ADI | +1.04% |
+| ANET | +0.63% |
+| GOOGL | −0.55% |
+| **MSFT** | **−2.33%** |
+
+**Five of eight positions are green and both index lines are flat.** This is not a tech tape and not a broad de-risking — **it is one mega-cap giving back part of a rally.** MSFT's **−$46** exceeds the book's entire **+$22** day P&L; ex-MSFT the session is up roughly **$68**. That distinction is the whole reason no defensive action was taken: a sector break would have argued for tightening the correlated **ANET / VRT / ADI** cluster (~33% of equity into NVDA's 8/26 print), and **no such break is present.**
+
+### ⚠️ Memory-integrity failure found and repaired (STEP 0, before any market work)
+The broker showed **ADI in the book** and **RKLB at 13 shares** while the committed log ended at **8/14 pre-market**. Cause: **`157b0bc`, today's market-open log, was committed to `origin/claude/nifty-pascal-65c4iw` and never merged to `main`.** `origin/main` itself was fine — 8/14 midday, 8/14 EOD, the Week 17 review and today's pre-market had all landed; local `main` was simply stale, and one commit was orphaned.
+**Repaired: fast-forwarded `main`, merged `157b0bc`, pushed — before touching any order.** All other August branches verified **0 ahead of `main`**. **No memory was lost.**
+**Control added to the standing triggers:** every routine must (a) scan for branches ahead of `main` at STEP 1 and (b) verify `git rev-list --count origin/main..HEAD` is **0** after pushing. A commit on a feature branch is invisible to every other agent and is functionally lost.
+
+### Carried to EOD / tomorrow's pre-market
+- **MSFT** — hold; watch whether the give-back extends. The $462.357 trail (4.4% away) is the resolving mechanism. **Ex-div 8/20 is not a decline.**
+- **ADI** — Wed 8/19 BMO, the book's only binary this week, 3.96%, hard cut $366.13, target $441 (1.72:1). Green on day one.
+- **Idea generation is tomorrow's P0.** The short-term sleeve is at 43.98% with 4 names and **$50.52 of cash** — the 5th name is a funding problem, not an idea problem, and it unlocks only if a stop fires.
+- **Week's scheduled risk:** FOMC minutes Wed 8/19 2:00 PM ET · **Jackson Hole late week — the largest** · September FOMC is **hold-vs-hike**, not hold-vs-cut.

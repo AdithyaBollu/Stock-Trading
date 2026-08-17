@@ -3854,3 +3854,70 @@ Pre-market research classified this the session's one trade and it went in exact
 - **Escalation trigger: Brent >$95 or VIX >20** → size all new positions to 10% max. Currently **$88.61 / 14.92 — not fired.**
 
 **Next scheduled routine:** **Mon 8/17 Midday ~09:30 AM PT** (ADI's first hours as the book's newest line · ANET the nearest to its stop · cash 0.51%, fully deployed, no forced action expected), **then EOD.**
+
+---
+
+## 2026-08-17 — Midday Scan (Week 18 Day 1, Monday — **NO-OP ON THE BOOK, BUT NOT A NO-OP SESSION**: the 8/17 market-open log was **stranded on a feature branch and never reached `main`** — recovered and pushed before anything else · zero cuts, zero trails eligible, zero stop modifications, zero trades · cash **0.51%** ✓, deployed **99.49%** · **MSFT −2.33% is the whole of the day's drag and it is idiosyncratic, not a tape** · ADI's first session holds green into Wed's print)
+
+### STEP 0 — Memory integrity, and why this came first
+The routine's own persistence warning fired for real. On session start, local `main` sat at **5254f3d (8/14 pre-market)** while the broker showed **AMAT gone, RKLB at 13 shares, and ADI — a name appearing in no committed log.** Four routines' worth of memory were missing.
+
+**Diagnosis: not lost, stranded.** `origin/main` had advanced to **8be74cc (8/17 pre-market)** — the 8/14 midday, 8/14 EOD, the Week 17 review and today's pre-market had all landed. But **`157b0bc`, the 8/17 market-open log containing the ADI entry, sat unmerged on `origin/claude/nifty-pascal-65c4iw`.** A session committed to its feature branch and never merged down, exactly the failure CLAUDE.md's branch rule exists to prevent.
+
+**Action: fetched, fast-forwarded `main`, merged `157b0bc`, pushed to `main` before touching a single order.** The ADI entry, its stop, its R:R derivation and its standing trigger are now on `main` where the next routine will read them. **No memory was lost.** Every other August branch checked — `bold-franklin-kfmyrt`, `busy-hopper-i40l9i`, `busy-hopper-qgalnx`, `jolly-clarke-k3fo04`, `nifty-pascal-xrqvjq` — is **0 ahead of `main`**, so this was the only orphan.
+
+### Position Ledger (09:17 AM PT, live broker marks)
+
+| Ticker | Sleeve | Shares | Avg entry | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) | To stop |
+|--------|--------|--------|-----------|------|-----------|---------|-----|----------|-------------------|---------|
+| **MSFT** | long-term | 4 | $491.72 | $483.834 | −1.60% | **−2.33%** | $1,935.34 | **19.48%** | $462.357 (3 sh) · $451.206 (1 sh) | **4.4%** / 6.7% |
+| **VRT** | short-term | 5 | $295.014 | $297.650 | +0.89% | +1.30% | $1,488.25 | 14.98% | $270.234 (5 sh) | 9.2% — hard cut $274.36 |
+| **QQQ** | long-term | 2 | $709.99 | $732.775 | +3.21% | +0.23% | $1,465.55 | 14.75% | $661.122 (HWM $734.58) | 9.8% |
+| **VOO** | long-term | 2 | $699.81 | $712.825 | +1.86% | −0.11% | $1,425.65 | 14.35% | $644.751 (HWM $716.39) | 9.6% |
+| **ANET** | short-term | 7 | $194.856 | $200.070 | +2.68% | +0.63% | $1,400.49 | 14.10% | $190.278 (6+1 sh, HWM $211.42) | 4.9% — hard cut $181.22 |
+| **RKLB** | short-term | 13 | $81.5923 | $83.530 | +2.38% | **+4.09%** | $1,085.89 | 10.93% | $78.52 (4 sh) · $77.94 (5 sh) · $76.977 (4 sh) | 6.0% / 6.7% / 7.9% — hard cut $75.88 |
+| **GOOGL** | long-term | 2 | $352.04 | $344.010 | −2.28% | −0.55% | $688.02 | 6.93% | $327.033 (1 sh) · $315.396 (1 sh) | 4.9% / 8.3% |
+| **ADI** | short-term | 1 | $393.69 | $393.435 | −0.07% | +1.04% | $393.44 | 3.96% | $357.25671 (HWM $396.95) | 9.2% — hard cut $366.13 |
+
+**Equity $9,933.15** · **Cash $50.52 = 0.51%** ✓ · Day P&L **+$21.99 (+0.22%)** · Phase P&L **−$66.85 (−0.67%)**
+**Sleeves:** Long-term **$5,514.56 = 55.52%** (⚠️ 5.52 pts over — **12th consecutive session, still narrowing: 56.13 → 56.03 → 55.90 → 55.56 → 55.52**) · Short-term **$4,368.07 = 43.98%** (6.02 pts under, **above the 40% floor**, 4 names) · **Deployed 99.49%** ✓
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory read**, after STEP 0 repaired it. Strategy, TRADE-LOG through the recovered 8/17 market-open entry, today's RESEARCH-LOG pre-market entry.
+- **STEP 2 — live state.** Equity $9,933.15, cash $50.52 = **0.51%**, 8 positions, **15 open orders, all GTC trailing stops.**
+- **STEP 3 — cut check: NONE.** Every short-term name is **green**: ANET +2.68%, RKLB +2.38%, VRT +0.89%, ADI −0.07% (flat). The worst line in the whole book is **GOOGL at −2.28%, long-term, 4.72 pts above the −7% level that would not even apply to it.** Nothing is within 4.6 pts of a hard cut.
+- **STEP 4 — trail tightening: NONE eligible.** Highest unrealized is **QQQ +3.21%**, **11.8 pts below the +15% rung.** Nothing to modify.
+- **STEP 4b — stop audit, share by share against the broker order list.** MSFT 2+1+1=4 ✓ · VRT 4+1=5 ✓ · ANET 6+1=7 ✓ · RKLB 5+4+4=13 ✓ · GOOGL 1+1=2 ✓ · QQQ 2 ✓ · VOO 2 ✓ · ADI 1 ✓ → **36/36 shares, 8/8 positions, 15 GTC orders.** **Five stops ratcheted UP on their own since the open** (VRT $268.47→$270.234, QQQ $660.942→$661.122, ADI $354.051→$357.25671, RKLB $76.7799→$77.94 / $77.3599→$78.52 / $75.93291→$76.977). **No stop moved down. None placed, none cancelled, none modified by hand.**
+- **STEP 5 — thesis check: intact across the book.** See the MSFT read below — it is the session's only question and the answer is hold.
+- **STEP 6 — deployment: compliant, and there is nothing to deploy.** Cash **$50.52 = 0.51%**, well inside the 5% ceiling and **not enough to buy one share of anything in this book** (cheapest line is RKLB at $83.53). No cash rule fires. Long-term is over, not under, its target — the standing ruling bars adding there. Short-term at **43.98% is under its 50% target but above the 40% floor**, so STEP 6 does not force a trade; and with $50 of cash the remedy the rulebook prescribes (**a new name, never a bigger slice**) is unfundable without a sale. **No sale is justified to fund it** — every short-term name is green and none is at a rule limit. **Logged as a funding constraint, not an idea-generation failure:** today's pre-market already produced the 4th name and it was taken at the open.
+- **STEP 7 — intraday research: one targeted query on MSFT** (below). **No momentum scan run**, and the reason is stated rather than skipped: cash is compliant at 0.51% with no capacity for a new position, so a scan could only produce ideas that cannot be acted on this session. Deferred to tomorrow's pre-market, which has the same job with a night to fund it.
+- **STEP 8 — Discord sent. STEP 9 — committed and pushed to `main`.**
+
+### ⚠️ MSFT −2.33% — the only line that moved against the book, and it is idiosyncratic
+**The tape is not down. MSFT is.** VOO **−0.11%** and QQQ **+0.23%** are flat; five of eight positions are green on the day and **RKLB is +4.09%**. MSFT's **−$46** is larger than the entire book's **+$22** day P&L — without it the session is up roughly **$68**. So the question is whether this is a thesis break in one name, and it is not.
+
+**Research finding: no company-specific catalyst.** No earnings warning, no downgrade, no litigation, no guidance event surfaced in today's sweep. The attributions are **profit-taking after a sharp run** (MSFT +33% since the June 30 close of $373) and the **recurring AI-capex / free-cash-flow / margin debate** — the same argument that has been priced and re-priced since the Q2 print. The last fundamental datapoint is the **July 29 fiscal Q4 beat: revenue $90B (+18%), Azure +43%.** A stock giving back 2.3% of a 33% two-month advance on no news is normal volatility, and the rulebook is explicit: **hold through normal volatility — only exit on stop hit or broken thesis.**
+
+**Nothing is done.** MSFT is **−1.60% against a $491.72 cost basis** — it is not even a loser yet. It sits at **19.48% of equity, under the 20% cap** (a byproduct of the fall, worth noting honestly rather than framing as an improvement). Its oldest three shares are **4.4% above the $462.357 trail — the tightest stop-to-price distance in the book**, and if this continues, the stop resolves it without a decision from me. That is the mechanism working as designed. **The trail will not be widened, lowered, or pre-empted.**
+**One dated item for the week: MSFT goes ex-dividend Thursday 8/20 at $0.91/share** (≈$3.64 on 4 shares). Immaterial to P&L, but it will print as a small unexplained gap-down on Thursday's open and **should not be misread as a fifth session of decline** by the routine that sees it.
+
+### Rule Compliance
+**8 positions ≤ 15** ✓ · **1 trade this week ≤ 25** ✓ (24 unused) · no options ✓ · ETFs (QQQ/VOO) in long-term sleeve only ✓ · largest LT **MSFT 19.48% ≤ 20%** ✓ (QQQ 14.75%, VOO 14.35%, GOOGL 6.93%) · **VRT 14.98%**, **ANET 14.10%**, **RKLB 10.93%**, **ADI 3.96%** all ≤ 15% ✓ · **ADI 3.96% ≤ 10% binary-event cap** ✓ into Wed's print · **cash 0.51% ≤ 5%** ✓ · **deployed 99.49%, inside the 95–100% band** ✓ · trailing stops GTC covering **8/8 positions, 36/36 shares across 15 orders** ✓ · **no stop moved down** ✓ (five ratcheted up unattended) · **no position at or below −7%** ✓ (worst **GOOGL −2.28%**, long-term) · **no position at the +15% trail-tighten rung** ✓ (best **QQQ +3.21%**) · **0 day trades** ✓ · no margin used ✓.
+⚠️ **Long-term 55.52% / short-term 43.98% — 12th session over/under.** Narrowing on its own as MSFT falls; the structural fix remains adding short-term names, not trimming protected long-term shares.
+
+**Risk posture:** **No position within 4% of its stop.** Nearest are **MSFT's oldest three shares at 4.4%**, **ANET at 4.9%** and **GOOGL's original lot at 4.9%** — the same three flagged at the open, unchanged in order. **Every short-term name is at least 6.9% above its hard cut** (ADI closest at 6.9%, VRT 7.8%, RKLB 9.2%, ANET 9.4%). **VRT at 14.98% is 0.02 of a point under the 15% short-term cap** on pure appreciation — per the ratified entry-sizing rule this is **not a violation and requires no trim**; flagged so a later session does not "fix" it.
+
+**Event posture:** **ADI reports Wed 8/19 BMO** — the book's only binary this week, held at 3.96% · **FOMC minutes Wed 8/19 2:00 PM ET** (lands after Wednesday's midday window) · **Jackson Hole late this week — the week's largest scheduled risk** · September FOMC is a **hold-vs-hike** debate, not hold-vs-cut · **MSFT ex-dividend Thu 8/20, $0.91** · Strait of Hormuz still shut · escalation trigger (Brent >$95 or VIX >20) **did NOT fire**.
+
+### Standing Triggers Carried Forward
+- **⚠️ BRANCH DISCIPLINE — the session's real finding.** Today's market-open log reached `origin` but **not `main`**. Every routine must verify `git rev-list --count origin/main..HEAD` is **0 after pushing**, and must scan for recent branches ahead of `main` at STEP 1. A commit that lands on a feature branch is invisible to every other agent and is functionally lost.
+- **ADI — held into Wed 8/19 BMO.** 3.96% / 10% trail $357.25671 / hard cut $366.13 / target $441 (1.72:1). First session green (+1.04%). A beat is not a floor — AMAT beat-and-raised 8/13 and stopped out −5.13% the next morning.
+- **MSFT — hold. Idiosyncratic −2.33% on no catalyst is not a thesis break.** The $462.357 trail is the tightest in the book at 4.4% and is the designated resolving mechanism. **Do not widen, lower, or pre-empt it.** Ex-div $0.91 on Thu 8/20 will look like a gap — it is not.
+- **VRT 14.98% — at the 15% cap on appreciation.** Entry-sizing rule applies: **no trim.** Do not "correct" it.
+- **RKLB — no further adds this week without a fresh file.** 13 sh = 2.6x written plan size. **Re-derive the target from the current $110.65 / 22-analyst consensus rather than inheriting the stale $96.30 / $81.96 pair.** Hard cut $75.88.
+- **Short-term sleeve funding constraint:** at 43.98% with **$50.52 of cash**, the 5th short-term name cannot be bought without a sale, and no sale is justified. **Tomorrow's pre-market owns idea generation; the funding question resolves only if a stop fires.**
+- **Late-session sweep still armed:** if any stop fires after this routine, the proceeds must be redeployed **the same session** — the 8/11 GOOGL failure is the precedent.
+- **ASTS** no entry (1.91:1 vs 2.5:1; ceiling $68.49, price $70.98) · **NBIS** no entry (price $279.25 vs $226.00 consensus, negative reward leg) · **AEHR** re-entry ≤$110 or street mean >$150 (currently $130–136.67) · **OKLO** no entry (downtrend + Q2 EPS miss) · **AMAT** no re-entry until a credible price target can be sourced · **KEYS** no classification without a confirmed date and consensus · **FN** unaffordable.
+- **The `quote` endpoint remains unusable for spread gates** — 6th session of stale single-venue artifacts. **Use 1-minute bars (trade count + intra-bar range).**
+
+**Next scheduled routine:** **Mon 8/17 EOD Summary ~1:15 PM PT** (MSFT's close after an idiosyncratic −2.3% · ADI's first full session · cash 0.51%, fully deployed · Week 18 Day 1, 1/25 trades used).
