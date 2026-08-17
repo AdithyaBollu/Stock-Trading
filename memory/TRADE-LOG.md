@@ -3921,3 +3921,25 @@ The routine's own persistence warning fired for real. On session start, local `m
 - **The `quote` endpoint remains unusable for spread gates** — 6th session of stale single-venue artifacts. **Use 1-minute bars (trade count + intra-bar range).**
 
 **Next scheduled routine:** **Mon 8/17 EOD Summary ~1:15 PM PT** (MSFT's close after an idiosyncratic −2.3% · ADI's first full session · cash 0.51%, fully deployed · Week 18 Day 1, 1/25 trades used).
+
+---
+
+### Aug 17 — EOD Snapshot (Day 46, Monday — Week 18 Day 1)
+**Portfolio:** $9,862.60 | **Cash:** $50.52 (0.51%) | **Day P&L:** −$48.56 (−0.49%) | **Phase P&L:** −$137.40 (−1.37%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| MSFT | long-term | 4 | $491.72 | $480.34 | −3.04% | −$45.52 (−2.31%) | $462.357 (3 sh) · $451.206 (1 sh) |
+| VRT | short-term | 5 | $295.014 | $292.14 | −0.58% | −$14.37 (−0.97%) | $270.234 (5 sh) |
+| QQQ | long-term | 2 | $709.99 | $729.45 | −0.22% | +$38.92 (+2.74%) | $661.122 |
+| VOO | long-term | 2 | $699.81 | $710.00 | −0.51% | +$20.38 (+1.46%) | $644.751 |
+| ANET | short-term | 7 | $194.856 | $201.16 | +1.18% | +$44.13 (+3.24%) | $190.278 (7 sh) |
+| RKLB | short-term | 13 | $81.592 | $81.972 | +2.15% | +$4.94 (+0.47%) | $76.977 (4) · $77.94 (5) · $78.52 (4) |
+| GOOGL | long-term | 2 | $352.04 | $343.54 | −0.68% | −$17.00 (−2.41%) | $327.033 (1 sh) · $315.396 (1 sh) |
+| ADI | short-term | 1 | $393.69 | $390.28 | +0.23% | −$3.41 (−0.87%) | $357.25671 |
+
+**Sleeves:** Long-term $5,487.34 = **55.64%** (⚠️ 5.64 pts over target — 13th session, essentially flat vs Fri) · Short-term $4,324.74 = **43.85%** (6.15 pts under, above the 40% floor, 4 names) · Cash **0.51%** ✓ · Deployed **99.49%** ✓
+
+**Notes:** MSFT is the entire day again — **−3.04% / −$60 intraday**, and its loss alone (−$45 unrealized swing) is larger than the book's whole −$48.56 day; ex-MSFT the session is roughly flat-to-green. Second straight session of idiosyncratic MSFT softness on no fresh catalyst (profit-taking on a +33% two-month run + the recurring AI-capex debate) — held per hold-through-normal-volatility; its $462.357 trail on the oldest 3 sh is the tightest in the book at **3.7%** and remains the designated resolving mechanism (not to be widened/lowered). **Ex-div $0.91 lands Thu 8/20** — Thursday's small gap-down is the dividend, not a 3rd down session. **Day P&L is computed off broker `last_equity` $9,911.16 (Fri 8/14 close), because the 8/14 EOD snapshot was never written** — the 8/14 midday fed straight into the Week 17 review, so the log's most recent prior EOD (8/13, $9,946.25) is stale by two sessions and `last_equity` is the authoritative prior close. **No trades today except the market-open ADI +1 sh** (Week 17 review's P0 — 4th short-term name); 1/25 this week. **Cash 0.51% ✓** — no VOO buy required (well inside the 5% ceiling; $50 buys no share in this book). Zero cuts (worst line GOOGL −2.41%, long-term, nowhere near a cut), zero trails eligible (best ANET +3.24%, 11.8 pts below the +15% rung), stops intact at **36/36 shares, 15 GTC trailing orders, none moved down**. ADI holds green-ish (−0.87%) into its Wed 8/19 BMO print.
+
+**Next scheduled routine:** **Tue 8/18 Pre-Market ~5:30 AM PT** (MSFT after a 2nd soft session — is the $462.357 trail going to resolve it · ADI 1 day from its Wed BMO print · cash 0.51% fully deployed · short-term 5th-name funding still gated on a stop firing · Week 18 Day 2).
