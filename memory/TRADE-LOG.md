@@ -3789,3 +3789,68 @@ MSFT is **$1,986.00 = 20.05%** of a $9,903.71 equity. The cap is 20%. **This is 
 - **Debt-ceiling X-date is RETIRED as a live risk** (CBO baseline 2027). Do not carry it into next week.
 
 **Next scheduled routine:** **Fri 8/14 EOD ~1:15 PM PT**, then **WEEK 17'S WEEKLY REVIEW — which now inherits a 9-session sleeve imbalance, a short-term sleeve that has fallen under the 40% action line, an MSFT position that has actually crossed the 20% cap rather than merely approached it, a closed AMAT trade to grade, and a quote-feed problem that has cost five sessions of spread-gate attempts.**
+
+---
+
+## 2026-08-17 — Market Open Execution (Week 18 Day 1, Monday — **1 BUY, THE 4TH SHORT-TERM NAME IS IN THE BOOK** · **ADI 1 sh @ $393.69** as a pre-earnings entry 2 days ahead of Wed 8/19 BMO, the Week 17 review's P0 · this **ends a 10-session short-term shortfall at 3 names** · short-term **39.68% → 43.93%** · placed as a **DAY LIMIT $397.00, not a market order**, so no gap can fill it into a sub-1.5:1 R:R · cash **4.47% → 0.51% ✓** · no cuts, no trails eligible, no stop modifications)
+
+### Session Open State
+**Equity:** $9,940.13 → $9,964.78 (post-trade) | **Cash:** $444.21 (4.47%) → $50.52 (0.51%) ✓ | **Day P&L:** +$28.97 (+0.29%) pre-market | **Phase P&L:** −$35.22 (−0.35%)
+**Positions 7/15 → 8/15** ✓ · **Trades this week 0/25 → 1/25** (new week, counter reset) · **Stops: 8/8 positions, 36/36 shares, 15 GTC orders** ✓ · daytrade count 0 today ✓
+
+### Trades Today
+
+| Time (PT) | Ticker | Sleeve | Action | Shares | Fill | Order ID |
+|-----------|--------|--------|--------|--------|------|----------|
+| 06:39 | **ADI** | short-term | **BUY** (limit $397.00 day) | 1 | **$393.69** | `d5a7b969` |
+| 06:39 | **ADI** | short-term | *stop placed* — trailing GTC 10% → **$354.051** | 1 | — | `c77585aa` |
+
+**Realized today: none** (a buy). Trades this week **0 → 1/25**.
+
+### A. ADI — the 4th short-term name, executed on the plan as written
+Pre-market research classified this the session's one trade and it went in exactly as specified. **The `$397.00 limit is a rule, not a preference:** a 1.5:1 R:R against the $441 consensus breaks above **$399.10**, so the order sat **$2.10 under** that line — no gap could fill it into a sub-floor R:R. Filled marketably at **$393.69**, $3.31 inside the ceiling.
+
+**Spread gate — passed on trade-print evidence, quote endpoint stale for a sixth session.** The `quote` feed printed a frozen ask **$414.74 × 40** while trades printed **$392.16 → $393.62** — a fabricated **5.2–10.7%** quoted spread on a name trading **69 prints in ~1 minute inside a $0.37% range** (real executable spread). Falsified the same way this log has documented five prior sessions; the ratified stale-quote override applies, which is **why the order was a LIMIT** — even if that wide book had been real, the fill could not breach the R:R ceiling. Pre-market bars corroborated (08:01 ET: 5,142 sh / 759 prints in a $1.88 range).
+
+**Sizing — deliberately small.** 1 share = **3.95% of equity = 39% of the 10% binary-event cap.** Two independent pieces of this book's own evidence say a beat is not a floor: **AMAT beat-and-raised 8/13 and stopped out −5.13% the next morning**, and **ADI's own last print was a beat that traded −7.07% pre-market.** Worst rule-compliant outcome is **−$27.56 = −0.28% of the book.** At $444 of cash, 1 share is all the balance buys — "size to 10% pre-print" and "15% post-print" are both unreachable, so the real choice was 3.95% now or 3.95% later at an unknown price. Deferring leaves the sleeve at 3 names for four more sessions — the single failure the Week 17 review named as this week's test. Acted.
+
+**Stop:** no existing ADI lots, so the add-on-lot rule does not bind — a standard **10% trailing GTC** is correct. Placed immediately after fill at **$354.051** (hwm $393.39). **Hard cut −7% = $366.13.** **Target $441** (consensus, 29 analysts) → **1.72:1** at the $393.69 fill, clearing the 1.5:1 short-term floor.
+
+### Book After
+
+| Ticker | Sleeve | Shares | Entry | Mark | % Equity | Unrealized | Stop |
+|--------|--------|--------|-------|------|----------|------------|------|
+| **MSFT** | long-term | 4 | $491.72 | $488.62 | **19.61%** | −$12.40 (−0.63%) | $462.357 (3 sh) · $451.206 (1 sh) |
+| **VRT** | short-term | 5 | $295.014 | $295.43 | 14.82% | +$2.08 (+0.14%) | $268.47 (5 sh) |
+| **QQQ** | long-term | 2 | $709.99 | $732.87 | 14.71% | +$45.76 (+3.22%) | $660.942 |
+| **VOO** | long-term | 2 | $699.81 | $712.96 | 14.31% | +$26.30 (+1.88%) | $644.751 |
+| **ANET** | short-term | 7 | $194.856 | $201.28 | 14.14% | +$44.98 (+3.30%) | $190.278 (7 sh) |
+| **RKLB** | short-term | 13 | $81.592 | $84.46 | 11.02% | +$37.29 (+3.52%) | $76.7799 (5) · $77.3599 (4) · $75.93291 (4) — hard cut $75.88 |
+| **GOOGL** | long-term | 2 | $352.04 | $345.30 | 6.93% | −$13.48 (−1.92%) | $327.033 (1 sh) · $315.396 (1 sh) |
+| **ADI** | short-term | 1 | $393.69 | $393.66 | **3.95%** | −$0.03 (−0.01%) | **$354.051 (NEW, 10% trail)** — hard cut $366.13 |
+
+**Sleeves:** Long-term **$5,536.74 = 55.56%** (⚠️ **5.56 pts over — 11th consecutive session, but improving: 56.13 → 56.03 → 55.90 → 55.56**) · Short-term **$4,377.78 = 43.93%** (⚠️ **6.07 pts under, but the gap narrowed 4.25 pts on a single trade and the sleeve now has 4 names**) · Cash **$50.52 = 0.51%** ✓
+
+### Rule Compliance
+**8 positions ≤ 15** ✓ · **1 trade this week ≤ 25** ✓ · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · largest LT **MSFT 19.61% ≤ 20%** ✓ · **VRT 14.82%**, **ANET 14.14%**, **RKLB 11.02%**, **ADI 3.95%** all ≤ 15% ✓ · ADI sized **≤10% binary-event cap** ✓ (uses 39% of it) · earnings-play checklist met (stop at −7%, ≤10% binary sizing) · **cash 0.51% ≤ 5%** ✓ · **deployed 99.49%, inside the 95–100% band** ✓ · trailing stops GTC covering **8/8 positions, 36/36 shares across 15 orders** ✓ · **no stop moved down** ✓ · **no position at or below −7%** ✓ (worst **GOOGL −1.92%**) · **no position at the +15% trail-tighten rung** ✓ (best **RKLB +3.52%**) · **0 day trades today** ✓ (ADI bought and held) · no margin used ✓.
+
+**Declined this session, each with a reason:** **FN** (unaffordable — $585 > $444 cash; drift-watch after tonight's AMC). **KEYS** (no retrievable consensus target → no computable reward leg → no R:R test, same standard that blocked AMAT re-entry). **PANW** (earnings 9/1 not this week; −2.93% Friday fails the technical half). **VRT / ANET +1 sh** (breach the 15% short-term cap on a single share). **RKLB add** (13 sh already = 2.6x written plan size; minimum-position-count rule says the remedy is a new name, not a bigger slice). **MSFT / QQQ / VOO / GOOGL adds** (long-term sleeve barred by the Week 17 review's standing ruling; each add deepens the 11-session overweight). **ASTS** 1.91:1 on the best-populated $80.48 sample — ceiling re-derived UP to $68.49 and price still fails it, refusing the cherry-pick that would have manufactured a pass. **NBIS** negative reward leg ($279 vs $226 consensus). **AEHR** street mean $130–136.67, standing trigger needs ≤$110 or >$150. **OKLO** downtrend + Q2 EPS miss. **Nothing was rejected on nerve.**
+
+**Risk posture:** **No position within 5% of its stop.** Nearest is **ANET at 5.6%** above $190.278; GOOGL's original lot 5.6%, RKLB 6.0% to hard cut. **Zero binary event risk in the held book** — nothing owned reports this week (2nd straight week). ADI's own print is Wed 8/19 BMO, inside its horizon, sized and stopped for it. **Correlated-cluster flag raised in research: ANET, VRT and ADI together are ~33% of equity into NVDA's Aug 26 print** — monitored, not yet a breach.
+
+**Event posture:** July CPI/PPI done (cooler) · **FOMC minutes Wed 8/19 2:00 PM ET** (lands after Wed midday) · **Jackson Hole late this week — the week's largest scheduled risk** · **⚠️ September FOMC is now a HOLD-vs-HIKE debate, not hold-vs-cut** (J.P. Morgan expects +25bp) — change of state, stop writing "rate cut" · Strait of Hormuz still shut, **Brent $88.61** below the $95 trigger (closest in 3 sessions) · **VIX 14.92 — RISK-ON**, escalation trigger did NOT fire.
+
+### Standing Triggers Carried Forward
+- **ADI — held into Wed 8/19 BMO print.** 3.95% / 10% trail / hard cut $366.13 / target $441 (1.72:1). A beat is not a floor — if it prints badly, the trail and −7% cut bound the damage to ~$27.56. Correlated with ANET/VRT into NVDA 8/26.
+- **RKLB — no further adds this week without a fresh file.** 13 sh = 2.6x written plan size. Note: retrievable consensus is now **$110.65 across 22 analysts**, materially above the book's working $96.30 — **re-derive the target and ceiling at the next attempt** rather than inheriting the stale $96.30/$81.96 pair. Hard cut $75.88.
+- **ASTS ceiling re-derived $67.80 → $68.49** (from the best-populated $80.48/13-analyst sample); price $70.98 still fails at 1.91:1. Recent target action is downward, so the reward leg is shrinking. No entry.
+- **NBIS — no entry.** Price $279.25 vs $226.00 consensus (18 analysts); negative reward leg. Re-test only if the *consensus* mean moves above ~$321, not the street high.
+- **AEHR — re-entry at ≤$110 or on fresh raises lifting the street mean above $150** (currently $130–136.67; Jefferies $175 initiation lifted it but not over $150).
+- **OKLO — no entry on downtrend + Q2 EPS miss** (−$0.28 vs −$0.16). The >13:1 nominal R:R is a stale-target data-quality flag, not a signal.
+- **AMAT — no re-entry until a session can source a credible price target** (every target retrieved is ~2.5x off spot).
+- **PANW — earnings Sept 1 AMC, not a this-week play.** **KEYS — no classification without a confirmed date and consensus target.** **FN — drift-watch after tonight's AMC; unaffordable without a sale.**
+- **⚠️ Long-term 55.56% / short-term 43.93% — 11th session over/under, but narrowing.** The 4th name (ADI) is the structural fix the minimum-position-count rule prescribed; the remaining gap closes as the short-term sleeve adds names, not by trimming protected long-term shares.
+- **The `quote` endpoint remains unusable for spread gates** — 6th session of stale single-venue artifacts. **Use 1-minute bars (trade count + intra-bar range) as the gate.**
+- **Escalation trigger: Brent >$95 or VIX >20** → size all new positions to 10% max. Currently **$88.61 / 14.92 — not fired.**
+
+**Next scheduled routine:** **Mon 8/17 Midday ~09:30 AM PT** (ADI's first hours as the book's newest line · ANET the nearest to its stop · cash 0.51%, fully deployed, no forced action expected), **then EOD.**
