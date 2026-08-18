@@ -4077,3 +4077,39 @@ MRVL fell −4.9% pre-open. One targeted query, and the answer is **not a thesis
 - Realized today: **VRT −$119.07, ANET −$32.10** = **−$151.17** on the two exits; offset by 3 entries positioned for the semi tape's mean-reversion.
 
 **Next scheduled routine:** **Tue 8/18 EOD ~1:15 PM PT** (mark the 3 new semi lots · ADI into tomorrow's Wed 8/19 BMO print — its −5.63% is the book's watch line · confirm no stop fired into the close · cash 4.23%, 5/25 trades used).
+
+---
+
+### Aug 18 — EOD Snapshot (Day 47, Tuesday — Week 18 Day 2) — **THE PHASE'S WORST DAY: −3.03% / −$299.38, THREE POSITIONS EXITED AND FOUR OPENED IN A SINGLE SESSION** · realized **−$190.33** on RKLB + ANET + VRT · two cash breaches (11.08%, then 30.01%) both opened and closed the same day · **MRVL −7.70% on the day it was bought**
+
+**Portfolio:** $9,572.88 | **Cash:** $404.25 (4.22%) | **Day P&L:** −$299.38 (−3.03%) | **Phase P&L:** −$427.12 (−4.27%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|------|
+| MSFT | long-term | 4 | $491.72 | $481.20 | +0.18% | −$42.08 (−2.14%) | $462.357 (3 sh) · $451.206 (1 sh) |
+| QQQ | long-term | 2 | $709.99 | $717.38 | −1.71% | +$14.78 (+1.04%) | $661.122 (HWM $734.58) |
+| VOO | long-term | 2 | $699.81 | $705.40 | −0.69% | +$11.18 (+0.80%) | $644.751 (HWM $716.39) |
+| GOOGL | long-term | 2 | $352.04 | $343.95 | −0.01% | −$16.18 (−2.30%) | $327.033 (1 sh) · $315.396 (1 sh) |
+| NVDA | short-term | 4 | $219.61 | $219.886 | −2.28% | +$1.10 (+0.13%) | $198.459 (HWM $220.51) |
+| MRVL | short-term | 4 | $222.1075 | $216.29 | **−7.70%** | −$23.27 (−2.62%) | $200.70 (HWM $223.00) |
+| TSM | short-term | 2 | $413.42 | $413.75 | −4.00% | +$0.66 (+0.08%) | $374.076 (HWM $415.64) |
+| AVGO | short-term | 2 | $380.99 | $380.083 | −3.15% | −$1.81 (−0.24%) | $343.584 (HWM $381.76) |
+| ADI | short-term | 1 | $393.69 | $378.00 | −3.15% | −$15.69 (−3.99%) | $357.25671 (HWM $396.95) |
+
+**Sleeves:** Long-term $5,458.26 = **57.02%** (⚠️ 7.02 pts over target — **16th consecutive session**, and the widest of the phase) · Short-term $3,710.37 = **38.76%** (11.24 pts under, **below the 40% floor**, 5 names) · Cash **4.22%** ✓ · Deployed **95.78%** ✓ (inside the 95–100% band)
+
+**Trades today (9 executions — the busiest session of the phase):** RKLB **SELL** 4 @ $78.40 · 5 @ $78.468 · 4 @ $78.90 (3 GTC trails fired in the first 4 min, realized **−$39.16 / −3.69%**) · MRVL **BUY** 4 @ $222.1075 (limit, 9.18%) · ANET **SELL** 7 @ $190.27 (GTC trail, 07:58 PT, **−$32.10 / −2.35%**) · VRT **SELL** 5 @ $271.20 (manual −7% hard cut at midday, **−$119.07 / −8.07%**) · NVDA **BUY** 4 @ $219.61 · TSM **BUY** 2 @ $413.42 · AVGO **BUY** 2 @ $380.99. **New entries this week: 5/25** (ADI Mon + MRVL/NVDA/TSM/AVGO today); 8/25 on the widest count including the 3 exits.
+
+**Notes:** The book lost **−3.03%** against **VOO −0.69% / QQQ −1.71%** — a **2.3-point underperformance vs the S&P**, and the phase's worst single session. Two thirds of it is realized: **−$190.33 booked across three exits**, of which only VRT was a decision (the −7% hard cut, executed at −8.07%, and vindicated the same day by the investor-fraud investigation the pre-market file did not have). RKLB and ANET were **stops doing their job, not judgment** — 10% GTC trails firing off high-water marks, exactly the mechanism the rulebook installs so a losing position never becomes a discretionary argument. **The remaining third is MRVL: −7.70% on the day it was bought**, the single worst mark in the book. That entry cleared both populated analyst samples at the limit price and was verified against live trade prints, so the *process* was correct; the *tape* was worse. It is now −2.62% from cost, 7.2% above its stop and 4.7% above its $206.56 hard cut — held, not touched, and explicitly **not added to** with earnings 8/27 inside the horizon.
+
+**Cash discipline held twice under stress.** 11.08% at 06:36 → 1.89% by 06:40 (MRVL). 30.01% at midday → **4.22% at the close** (NVDA/TSM/AVGO, $2,467 deployed). Both breaches were opened *by stops*, not by hesitation, and both were closed **the same session** — the late-session sweep rule now has two clean executions in one day against the single 8/11 failure. **No VOO fallback was needed:** three individual names cleared R:R at live prices, which is the outcome the rulebook prefers over parking. $404.25 residual buys no share in this book (cheapest line ADI $378, then AVGO $380) — nothing further was deployable.
+
+**Zero trails eligible** (best line QQQ +1.04%, 14 pts below the +15% rung). **Zero cuts pending** — worst held is **ADI −3.99%**, still 3.0 pts above the −7% trigger and 3.2% above its $366.13 hard-cut price, going into its **Wed 8/19 BMO print**. Stops intact at **23/23 shares, 9/9 positions, 12 GTC orders, none moved down** — MRVL's rose $199.503 → $200.70, TSM's $372.02 → $374.076, AVGO's $342.77 → $343.584, NVDA's $197.67 → $198.459 on the day's high-water marks. **0 day trades** (every buy is held; every sell was of stock bought in a prior session).
+
+⚠️ **Short-term sleeve is 38.76% — below the 40% floor for the first time this phase**, and long-term is 57.02%, the widest gap yet. The cause is arithmetic, not neglect: **three positions worth ~$2,700 left the book and only ~$2,467 could legally come back**, because the **10% macro cap** (Hormuz blockade, Brent ~$90, 10yr 4.73%) binds every new short-term name to roughly a 9% slice. Five short-term names at ~9% each ≈ 40% is close to the maximum legally sizable while the cap is in force. **The remedy is a 6th short-term name, never a bigger slice** — and it needs either a fresh R:R-clean idea or the cap lifting (Brent < $95 sustained / VIX normalizing).
+
+**Rule compliance:** 9 positions ≤ 15 ✓ · 5 new entries this week ≤ 25 ✓ · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · **MSFT 20.11% — passive mark-drift over the 20% LT cap on a day MSFT rose 0.18% while the book fell 3%; per the ratified entry-sizing rule this is NOT a violation and requires no trim** · QQQ 14.99%, VOO 14.74%, GOOGL 7.19% ✓ · short-term NVDA 9.19%, MRVL 9.04%, TSM 8.64%, AVGO 7.94%, ADI 3.95% — **all ≤ the 10% macro cap**, all ≤ 15% ✓ · cash 4.22% ≤ 5% ✓ · deployed 95.78% ✓ · trailing stops GTC on 9/9 positions, 23/23 shares ✓ · no stop moved down ✓ · no position ≤ −7% ✓ · no position at the +15% rung ✓ · 0 day trades ✓ · no margin ✓.
+
+**Event posture:** **ADI Wed 8/19 BMO** (3.95%, stopped, −3.99% going in — a beat is not a floor) · **FOMC minutes Wed 8/19** · **Jackson Hole later this week — the largest scheduled risk of the week** · **MSFT ex-div $0.91 Thu 8/20 — Thursday's gap-down is the dividend, not a third down session** · **MRVL Thu 8/27 AMC**, the reason it is capped at 9% · GOOGL DOJ search remedy, unscheduled · Hormuz blockade / Brent ~$90; escalation trigger (Brent > $95 or VIX > 20) **did not fire**.
+
+**Next scheduled routine:** **Wed 8/19 Pre-Market ~5:30 AM PT** (**ADI's BMO print is the session's binary** · MRVL after a −7.70% first day — hold or does the tape break the thesis · FOMC minutes 11:00 AM PT · the 6th short-term name that would close a 38.76% sleeve · cash 4.22%, 5/25 trades used · Week 18 Day 3).
