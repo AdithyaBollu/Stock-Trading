@@ -4028,3 +4028,52 @@ MRVL fell −4.9% pre-open. One targeted query, and the answer is **not a thesis
 - **Branch discipline control ran and PASSED.** Keep verifying `git rev-list --count origin/main..HEAD` is 0 after pushing.
 
 **Next scheduled routine:** **Tue 8/18 Midday ~10:00 AM PT** (**VRT's hard cut is the session's live decision at 1.9% away** · MRVL's first hours · ADI into tomorrow's BMO · cash 1.89% fully deployed · 2/25 trades used).
+
+---
+
+## 2026-08-18 — Midday Scan (Week 18 Day 2, Tuesday — **THE VRT HARD CUT FIRED AS FORECAST, AND ITS PROCEEDS PLUS AN OVERNIGHT-ADJACENT ANET STOP WERE SWEPT INTO A REBUILT SHORT-TERM SLEEVE — 3 SEMI DIP-BUYS ON A BROAD AI/SEMI RISK-OFF TAPE, ALL R:R-CLEAN AT LIVE PRICES** · **VRT closed 5 sh @ $271.20, realized −$119.07 / −8.07%, at the mechanical −7% trigger the last two sessions had flagged** — and the intraday check surfaced a *new* company-specific negative the pre-market lacked: an **investor fraud investigation** opened after the Q2 revenue-miss drop, so the cut is doubly justified, not merely mechanical · **ANET's 7-sh trailing stop had already fired at 7:58 AM PT (post-open, @ $190.27, −$32.10 / −2.35%)** — a 10% GTC trail off HWM $211.42, not a cut — and *that* is the late-session-sweep cash this midday was obligated to redeploy · combined ~$2,688 released → **NVDA 4 @ $219.61, TSM 2 @ $413.42, AVGO 2 @ $380.99** ($2,467), each a LIMIT under the 10% macro cap, all filling *below* their limits · **cash 30.01% → 4.23% ✓**, the breach opened by two stops and closed the same session · **ASTS's armed contingency did NOT fire — its snapshot $67.25 was a stale low print; live $69.12 sits ABOVE the pre-derived $68.14 ceiling, so at 2.26:1 it fails the 2.5:1 niche floor and was correctly NOT chased**)
+
+### STEP 1–2 — State on arrival
+- Broker: equity ~$9,570, **cash $2,871.51 (30.0%) — a live rule breach**, driven by two stop fires since the market-open routine (ANET 7 sh + the VRT cut executed below). 7 positions on arrival (RKLB already flat from the open; ANET flat from its 7:58 stop).
+- Sleeves on arrival: **LT 57.1% / ST ~12.9%** (only ADI + MRVL) — short-term sleeve gutted to 2 names, below the ≥4 minimum. **P0 for the session: rebuild it while curing the cash breach.**
+
+### STEP 3 — Cut losers (short-term). **VRT CUT — the one live decision.**
+- **VRT −8.04% at read (broker `unrealized_plpc` −0.08038), through the −7% hard cut.** 1-min bars confirmed continuous trading ~$271–283, no stale-quote artifact. Cancelled both VRT trailing stops (`ddc33123…`, `1e7dca19…`), then `close VRT` → **5 sh filled @ $271.20 market, realized −$119.07 (−8.07%)**.
+- Intraday cause check (per STEP 5): the −4.86% today is the **Q2 revenue-miss overhang compounded by a fresh investor-fraud investigation** flagged 8/17 — a genuine company-specific deterioration, not just the sector tape. Cut is correct on both the mechanical rule and thesis grounds.
+- ANET (7 sh) had **already exited at 7:58 AM PT** on its 10% GTC trail @ $190.27 (−$32.10 / −2.35%) — logged here as the completed exit whose proceeds anchor the sweep.
+- No other short-term name near the line: MRVL −3.41%, ADI −5.63% (worst held, still 1.4 pts above −7%), new names ~flat.
+
+### STEP 4 — Tighten winners. **NONE.** Best line QQQ +1.20%, ~13.8 pts below the +15% rung. No trail touched.
+
+### STEP 6–7 — Cash deployment + intraday research. **3 SEMI DIP-BUYS, SLEEVE REBUILT.**
+- Momentum scan returned only foreign microcaps for a 5th session — unusable. Energy/defense (the green sectors on the Hormuz/Brent>$90 tape) screened but **RTX 0.33:1 and COP 0.86:1 fail the R:R floor — already at consensus; chasing green into consensus is poor R:R.** MU rejected on **internally-contradictory target data** ($221–$1,502 on a $941 stock).
+- The clean dislocation was the **AI/semi risk-off tape itself** — quality semis marked −3% to −7% with room to consensus. Vetted at *live* prices (snapshots were stale-low), best-populated samples, 10% macro cap in force:
+  - **NVDA @ $219.61** — StockAnalysis 61-an. $302.83 (vs MB 53-an. $305.94; conservative wins) → **5.31:1** ✓
+  - **TSM @ $413.42** — MB 16-an. $524.25 → **3.55:1** ✓
+  - **AVGO @ $380.99** — StockAnalysis 48-an. $527.88 best-populated → **5.35:1**; even MB 32-an. $493.24 → 3.83:1 ✓
+  - **AMD dropped** — live $492.5 (not the stale $479) put it at 1.58:1, marginal, and a 4th redundant semi added concentration without conviction.
+- **ASTS NOT taken.** Snapshot $67.25 implied it had traded through the armed $68.14 ceiling, but 1-min bars showed **live $69.12 — above the ceiling → 2.26:1 < 2.5:1 niche floor.** Per the MRVL/market-open precedent, a name is entered at the rule-compliant price or not at all; it was not chased. BlueBird launched successfully — the −5.5% is the tape, no thesis break, but price disqualifies it.
+
+### STEP 8 — Stops on the new lots
+- 10% trailing GTC placed on each fill: NVDA stop $197.67, TSM $372.02, AVGO $342.77. All above their respective −7% levels by construction of a fresh 10% trail.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **5 new entries this week ≤ 25** ✓ (NVDA/TSM/AVGO today + MRVL + ADI; 20 unused) · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · **each new name ≤ 10% macro cap** (NVDA 9.2%, AVGO 8.0%, TSM 8.6% at fill) ✓ · MRVL 9.0%, ADI 3.9% ≤ 15% ✓ · largest LT **MSFT 20.1%** — **passive mark-drift over the 20% cap on a session MSFT fell; per the ratified entry-sizing rule this is NOT a violation and requires no trim** (QQQ 15.0%, VOO 14.8%, GOOGL 7.2%) · **cash 4.23% ≤ 5%** ✓ · **deployed 95.77%, inside the 95–100% band** ✓ · trailing stops GTC covering **9/9 positions, 23/23 shares across 12 orders** ✓ · **no stop moved down** ✓ (VRT's two orders cancelled as part of the cut — the only legitimate removal) · **worst held −5.63% (ADI), none ≤ −7%** ✓ · no position at the +15% rung (best QQQ +1.20%) ✓ · **0 day trades** ✓ · no margin used ✓.
+
+### Book after
+| Sym | Sleeve | Qty | Avg | Cur | MV | Wt | P&L% |
+|-----|--------|-----|-----|-----|-----|-----|------|
+| MSFT | LT | 4 | $491.72 | $481.87 | $1,927 | 20.1% | −2.00% |
+| QQQ | LT | 2 | $709.99 | $718.50 | $1,437 | 15.0% | +1.20% |
+| VOO | LT | 2 | $699.81 | $706.23 | $1,412 | 14.8% | +0.92% |
+| GOOGL | LT | 2 | $352.04 | $343.92 | $688 | 7.2% | −2.31% |
+| MRVL | ST | 4 | $222.11 | $214.53 | $858 | 9.0% | −3.41% |
+| NVDA | ST | 4 | $219.61 | $219.60 | $878 | 9.2% | −0.01% |
+| TSM | ST | 2 | $413.42 | $413.25 | $827 | 8.6% | −0.04% |
+| AVGO | ST | 2 | $380.99 | $380.80 | $762 | 8.0% | −0.05% |
+| ADI | ST | 1 | $393.69 | $371.53 | $372 | 3.9% | −5.63% |
+
+- **LT 57.1% / ST 38.6%** — the gap NARROWED from the market-open's 56.4/41.7 read only because ST rebuilt from 2 names to 5. Still under 50% ST, but with a **10% macro cap in force, 5 names ≈ 40% is near the max legally sizable this session**; closing the rest requires either more names clearing R:R or the cap lifting (Brent < $95 sustained / VIX normalizing). Logged as a cap constraint, not an idea-generation failure — 3 names *were* found and taken.
+- Realized today: **VRT −$119.07, ANET −$32.10** = **−$151.17** on the two exits; offset by 3 entries positioned for the semi tape's mean-reversion.
+
+**Next scheduled routine:** **Tue 8/18 EOD ~1:15 PM PT** (mark the 3 new semi lots · ADI into tomorrow's Wed 8/19 BMO print — its −5.63% is the book's watch line · confirm no stop fired into the close · cash 4.23%, 5/25 trades used).

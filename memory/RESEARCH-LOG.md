@@ -10812,3 +10812,16 @@ Screens surfaced **TSM, AVGO, MSFT, ASML, APH, MU** as the quality-growth board,
 - **Branch discipline control ran and PASSED** — `origin/main..HEAD` was 0 at session start. Keep running it.
 
 **Next scheduled routine:** **Tue 8/18 Market Open ~6:30 AM PT** (no orders queued — the job is to verify no stop fired overnight, re-derive VRT's distance to $274.36 on real prints, and execute the MRVL contingency **only** if cash exists and price ≤$232.50).
+
+### Afternoon Addendum (Midday 8/18) — 3 setups found and taken; VRT thesis broke
+- **VRT thesis break confirmed:** the Q2 revenue-miss overhang is now compounded by an **investor-fraud investigation** (flagged 8/17). Hard-cut at −8.07% on both mechanical and thesis grounds. Do not re-enter without a clean legal resolution.
+- **The tradable dislocation today is the broad AI/semi risk-off tape, not the green macro sectors.** RTX (0.33:1) and COP (0.86:1) fail the R:R floor — already at consensus; energy/defense are green but offer no reward leg. The R:R lives in the semis marked −3% to −7%.
+- **NEW SHORT-TERM ENTRIES (semi dip-buy, mean-reversion to consensus, −7% hard cut, 10% macro cap):**
+  - **NVDA @ $219.61** — 61-an. $302.83 (StockAnalysis, best-populated) → **5.31:1**. Strong Buy. Netlist/DDR5 litigation + yields are the day's overhang, not a thesis break.
+  - **TSM @ $413.42** — 16-an. $524.25 (MarketBeat) → **3.55:1**. Buy.
+  - **AVGO @ $380.99** — 48-an. $527.88 (StockAnalysis, best-populated) → **5.35:1**; conservative 32-an. $493.24 → 3.83:1. Strong Buy.
+- **AMD passed but declined** — live $492.5 (snapshot $479 was stale) → 1.58:1, marginal; a 4th redundant semi added concentration without conviction. Re-derive ceiling ~$494.90 for 1.5:1.
+- **ASTS did NOT trigger** — snapshot $67.25 was a stale low print; **live $69.12 is ABOVE the pre-derived $68.14 ceiling → 2.26:1 < 2.5:1**. Not chased. BlueBird launched fine (no thesis break) but price disqualifies. Re-arm at ≤$68.14.
+- **MU rejected on data quality** — targets ranged $221–$1,502 on a $941 stock across feeds; no clean R:R derivable.
+- **`quote` endpoint unusable for an 8th consecutive session** — snapshots also print stale lows (ASTS $67.25 vs live $69.12, AMD $479 vs $492.5). Priced all entries off **1-min trade-print bars**, placed all as LIMITs.
+- **Sleeve/cap note:** with the HIGH-macro 10% cap in force, 5 short-term names ≈ 40% is near the session's legal max. ST remains < 50% not for lack of ideas but because the cap bounds per-name size. Re-test full deployment when Brent holds < $95 / VIX normalizes.
