@@ -10952,3 +10952,25 @@ The sleeve is **57.01%, 7.01 points OVER its 50% target for a 17th consecutive s
 - **Branch discipline control ran and PASSED** (0/0 vs `origin/main`). Keep verifying `git rev-list --count origin/main..HEAD` is 0 after pushing.
 
 **Next scheduled routine:** **Wed 8/19 Market-Open ~06:30 AM PT** (**execute the ADI limit at $390.00 with the 8.39% add-on trail — or document the no-fill and hold the cash** · MRVL at 2.84% from its hard cut · **FOMC minutes 11:00 AM PT is an intraday event the midday routine must be positioned for** · cash 4.23%, 5/25 trades used · Week 18 Day 3).
+
+### 2026-08-19 — Afternoon Addendum (Midday Scan) — **THREE GATES CLEARED IN ONE SESSION, ZERO CAPITAL TO ACT**
+
+**1. RKLB — RE-ENTRY GATE FULLY CLEARED (leg 2 of 2 resolved).** The 8/18 gate required *both* open negatives priced before re-entry. The ATM leg cleared 8/19 pre-market (the $1.944B is a **replacement** of the May 20 agreement carrying forward unsold capacity, funding the **Iridium** acquisition + bridge-debt paydown — M&A financing, not dilution-for-survival). **The Neutron leg clears today:** Rocket Lab's **Aug 10, 2026** update **softened guidance from a defined Q4 2026 first launch to "Neutron on the pad in Q4 2026," with first-flight timing contingent on qualification and critical testing later in 2026.** Reuters: **no new definite first-flight date**, end-of-year window "narrowing." Spaceflight Now: **debut may slip into 2027.** The gate demanded the risk be *priced*, not *absent* — it is now known and bounded. **GATE OPEN.**
+- Price **$76.39** (day range $73.88–$77.46) · target **$110.65 (22 an.)** → reward +44.85% / risk 7% = **6.41:1** ✓ (niche floor 2.5:1). Secondary sample $112.94 (18 an.) confirms. **Best R:R on the board.**
+- **Do-not-chase ceiling $88.52** (where R:R degrades to 2.5:1). Working limit **≤ $79.14**.
+
+**2. MKSI — priced for the first time, and the dispersion is CLEAN.** Carried forward from this morning's scan as "the next session's new-name candidate; a target pull is the first step."
+- **$385.00 (16 an., MarketBeat — best-populated)** · **$380.36 (14 an., Public.com — conservative)** · Yahoo $413.62, WSJ $417.08 (unsourced sample sizes, not used). **The two populated samples agree within 1.2%** — the exact opposite of the OKLO ($14–$175), NBIS ($144–$410) and MU ($221–$1,502) rejection pattern.
+- Price **$285.90**, −5.3% on the session (range $278.26–$302.25) → **4.95:1** best-populated, **4.72:1** conservative. Clears the 1.5:1 short-term floor by >3x.
+- Thesis: BofA's top 2H26 SMID-cap idea, levered to WFE capacity expansion and AI infrastructure. **This is the genuinely NEW name the short-term sleeve has needed for 18 sessions — not a bigger slice of something already held.**
+- Working limit **≤ $302.00**; 1.5:1 floor breaks at $353.51.
+
+**3. ASTS — clears BOTH samples for the first time.** @ **$66.54**, below the pre-derived **$68.14** ceiling. 13-an. $80.48 → **2.99:1** ✓ · **11-an. $78.48 → 2.56:1 ✓** — the conservative sample that vetoed the trade on 8/17 and 8/18 now passes. **Ceiling stays $68.14**, the tighter of the two live derivations; the gate is not loosened to fit a trade.
+
+**BLOCKER FOR ALL THREE: $31.86 of cash.** The book is **99.67% deployed** and fully compliant. No buy is compelled, no trim is authorised to fund one. All three are **armed with pre-derived limits** so that if any stop fires — including after this routine, when the FOMC minutes hit at 11:00 AM PT — the next session executes without re-deriving. **Priority: RKLB > MKSI > ASTS.**
+
+**Intraday move attribution (STEP 5 inputs):**
+- **MRVL +9.7%** — Alphabet/Google expanded partnership for custom AI inference silicon plus **warrants for Google to buy up to ~$12.2B of stock**. Contracted revenue, not sentiment. 8 days ahead of the 8/27 AMC print. Thesis strengthened; **no add** (at the 10% macro cap, earnings binary inside the horizon).
+- **AVGO −4.6%** — the **same headline, inverted**: the Google custom-ASIC socket went to MRVL. Compounded by BofA's **~$370B senior-debt estimate** on the XPV/Apollo/Blackstone AI chip-financing vehicle by mid-2029, and an **actively exploited VMware vCenter flaw** (361 IPs, 47 countries). **No guidance cut, no revised consensus → the fundamental-break test is NOT met.** Held. **Hard cut $354.32 is 2.57% away and is the mechanism.** Earnings 9/2.
+
+**Momentum scan deliberately NOT run.** The routine gates it on "something moving sharply **or** cash > 5%." Cash is 0.33% and three fully vetted names already sit unbought — a fourth idea has zero marginal value when the binding constraint is capital. Logged as a deliberate skip, not a gap.
