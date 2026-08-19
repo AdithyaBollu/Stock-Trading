@@ -4113,3 +4113,72 @@ MRVL fell −4.9% pre-open. One targeted query, and the answer is **not a thesis
 **Event posture:** **ADI Wed 8/19 BMO** (3.95%, stopped, −3.99% going in — a beat is not a floor) · **FOMC minutes Wed 8/19** · **Jackson Hole later this week — the largest scheduled risk of the week** · **MSFT ex-div $0.91 Thu 8/20 — Thursday's gap-down is the dividend, not a third down session** · **MRVL Thu 8/27 AMC**, the reason it is capped at 9% · GOOGL DOJ search remedy, unscheduled · Hormuz blockade / Brent ~$90; escalation trigger (Brent > $95 or VIX > 20) **did not fire**.
 
 **Next scheduled routine:** **Wed 8/19 Pre-Market ~5:30 AM PT** (**ADI's BMO print is the session's binary** · MRVL after a −7.70% first day — hold or does the tape break the thesis · FOMC minutes 11:00 AM PT · the 6th short-term name that would close a 38.76% sleeve · cash 4.22%, 5/25 trades used · Week 18 Day 3).
+
+---
+
+### Aug 19 — Market Open (Day 48, Wednesday — Week 18 Day 3) — **THE PLANNED TRADE FILLED $17.71 UNDER ITS LIMIT BECAUSE ADI SOLD OFF ON A BEAT-AND-RAISE** · 1 ADI @ **$372.29** vs the pre-derived $390.00 limit · **and the book's watch line inverted overnight: MRVL went from 2.84% above its hard cut to +6.30% on a Google custom-AI-chip partnership**
+
+**Portfolio:** $9,630.58 | **Cash:** $31.86 (**0.33%**) | **Deployed:** 99.67% | **Phase P&L:** −$369.42 (−3.69%)
+
+#### STEP 1–2 — Plan vs. live tape
+The pre-market file queued exactly one order: **ADI +1 share, LIMIT $390.00**, post-earnings drift on a clean Q3 beat (adj EPS $3.45 vs $3.33, rev $4.02B vs $3.92B) **and** Q4 raise (rev $4.3B vs $4.08B consensus, adj EPS $3.86 vs $3.55). Pre-market indication was **+2%**. **At the bell ADI was trading $373.74, DOWN 0.70% from the $376.63 close** — the drift went the wrong way. The fundamental leg of the checklist (beat + guide raise, verified pre-bell) is unchanged, and a *lower* price only improves the reward leg, so the order stood at the pre-derived limit rather than being re-priced upward.
+
+#### STEP 3 — Stale-quote override, used and evidenced
+`quote ADI` returned **$358.47 × $395.34 on a 40×40 book — a 10.29% spread**, the **10th consecutive session** the quote endpoint has been unusable. Override taken on trade-print evidence per the ratified rule: `latestTrade` **$373.74 stamped 13:36:50Z** (seconds old), `minuteBar` **h $375.46 / l $373.09 — a 0.63% range, 16x tighter than the quoted spread**, with **n=30 prints in the minute** and **306 on the session**. Continuous trading inside a range far tighter than the quoted book → artifact confirmed. **LIMIT order, never market**, exactly as the rule requires.
+
+#### STEP 4 — Execution
+| Time (PT) | Sym | Sleeve | Side | Qty | Fill | Type | Note |
+|-----------|-----|--------|------|-----|------|------|------|
+| 06:37:44 | **ADI** | short-term | **BUY** | 1 | **$372.29** | LIMIT $390.00 DAY | Post-earnings drift add-on. Filled **$17.71 below the limit** and **$26.81 below the $399.10 do-not-chase ceiling**. |
+
+- **Thesis:** ADI was deliberately under-sized at 3.95% on 8/17 *because* the print was a binary. **The binary resolved favourably at 7:00 AM ET today**, so the binary-event 10% sizing no longer applies and the drift checklist governs.
+- **Sizing:** cost basis after = **$765.98 = 7.95% of equity at cost** — inside the **10% macro cap** (FOMC minutes today + 30yr at a 19-year high) and well inside the 15% short-term cap. Blended avg entry **$382.99**.
+- **R:R at the actual fill:** ($441 consensus − $372.29) / $372.29 = **+18.46% reward** against **7% stop risk = 2.64:1** ✓ — versus the 1.87:1 modelled at $390 and the 1.5:1 short-term floor. **The selloff bought a better trade than the plan asked for.**
+- **Target $441** (MarketBeat consensus, Moderate Buy; BofA $460, Cantor $550). **Hard cut −7% = $346.23.**
+
+#### STEP 5 — Stop on the new lot (**deliberate sub-10% trail — the add-on stop-floor rule BINDS**)
+- Existing ADI leg's stop sits at **$357.25671**. A textbook 10% trail off a $372.29 fill would land at **$335.06 — $22.20 BELOW it**, leaving the newest share protected worse than the oldest. That is the substance of "never move a stop down."
+- Trail set to **3.87%**, derived as `(anchor − 357.25671) / anchor` **rounded down**, with the anchor taken as **min(fill $372.29, live $371.665)** so a tick lower between fill and submission could not drop the stop through the floor.
+- Placed at **$357.7045** (hwm $372.105) → **above the $357.25671 floor** ✓. It has since ratcheted to **$358.68** on a $373.12 high-water mark.
+- ⚠️ **This is a deliberate deviation from the 10% default, mandated by the stop-floor rule. Do NOT "correct" it downward in a later session.**
+
+#### STEP 6 — Cash and coverage verified after the trade
+- **Cash $404.15 (4.19%) → $31.86 (0.33%)** ✓ ≤5%. **Deployed 95.81% → 99.67%**, inside the 95–100% band. No VOO fallback triggered or needed — an individual stock cleared the bar, which is the outcome the rulebook prefers over parking.
+- **Stop audit share by share: MSFT 1+2+1=4 ✓ · QQQ 2 ✓ · VOO 2 ✓ · MRVL 4 ✓ · NVDA 4 ✓ · TSM 2 ✓ · ADI 1+1=2 ✓ · AVGO 2 ✓ · GOOGL 1+1=2 ✓ → 24/24 shares, 9/9 positions, 13 GTC orders. No stop moved down; none cancelled or modified by this routine.**
+
+#### ⚠️ MRVL — the watch line inverted, and it is a real catalyst
+MRVL entered the session as the book's closest hard-cut line (**−4.29%, 2.84% from $206.56**). It opened **+10.36% at $238.38**, printing a **$245.49 high-water mark**. Cause, verified: **Google will partner with Marvell on custom AI chips and takes an option on ~$12B of Marvell stock** (MarketBeat, dated 8/19), on top of pre-earnings target raises into the **8/27 AMC** print. Now **+6.30% unrealized**, and its 10% trail has ratcheted **$220.94 → from $200.70 yesterday**, locking in a stop **above cost**. **No action: still ≤ the 10% macro cap, still not at the +15% tightening rung, and earnings inside the horizon is the standing reason not to add.**
+
+#### Trail / cut checks
+- **Trail tightening: ZERO eligible.** Best line **MRVL +6.30%**, 8.7 points below the +15% rung.
+- **Cuts: ZERO pending.** Worst held is **AVGO −4.25%** — **AVGO replaces MRVL as the book's watch line**, 2.75 pts above the −7% trigger, hard cut $354.32.
+
+#### Book after
+| Sym | Sleeve | Qty | Avg | Cur | MV | Wt | P&L% | Stop |
+|-----|--------|-----|-----|-----|-----|-----|------|------|
+| MSFT | LT | 4 | $491.72 | $482.72 | $1,930.88 | 20.05% | −1.83% | $462.357 (3 sh) · $451.206 (1 sh) |
+| QQQ | LT | 2 | $709.99 | $718.38 | $1,436.76 | 14.92% | +1.18% | $661.122 |
+| VOO | LT | 2 | $699.81 | $707.54 | $1,415.08 | 14.69% | +1.10% | $644.751 |
+| MRVL | ST | 4 | $222.11 | $236.11 | $944.44 | 9.81% | **+6.30%** | **$220.9401** (HWM $245.489) |
+| NVDA | ST | 4 | $219.61 | $220.37 | $881.48 | 9.15% | +0.35% | $200.583 |
+| TSM | ST | 2 | $413.42 | $414.52 | $829.04 | 8.61% | +0.27% | $377.64 |
+| **ADI** | **ST** | **2** | **$382.99** | $372.30 | $744.59 | 7.73% | −2.79% | **$358.68 (1 sh, 3.87% trail)** · $357.25671 (1 sh) |
+| AVGO | ST | 2 | $380.99 | $364.79 | $729.58 | 7.58% | **−4.25%** | $343.584 |
+| GOOGL | LT | 2 | $352.04 | $342.89 | $685.78 | 7.12% | −2.60% | $327.033 (1 sh) · $315.396 (1 sh) |
+
+**Sleeves:** Long-term $5,468.50 = **56.78%** (⚠️ 6.78 pts over — 18th consecutive session, but **narrower than yesterday's 57.01%**) · Short-term $4,129.13 = **42.88%** (7.12 pts under, **back ABOVE the 40% floor** after two sessions below — the single ADI share did exactly what the pre-market file predicted, 38.76% → 42.88% vs 42.87% modelled) · Cash **0.33%** ✓ · Deployed **99.67%** ✓
+
+#### Compliance
+**9 positions ≤ 15** ✓ · **6 new entries this week ≤ 25** ✓ (ADI 8/17; MRVL/NVDA/TSM/AVGO 8/18; ADI 8/19 — 19 unused) · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · **ADI cost 7.95% ≤ the 10% macro cap** ✓ · every short-term name ≤ 10% at cost ✓ · **MSFT 20.05% is passive mark-drift over the 20% LT cap — per the ratified entry-sizing rule NOT a violation, no trim; the $462.357 trail is the resolving mechanism** ✓ · **cash 0.33% ≤ 5%** ✓ · deployed 99.67% inside the band ✓ · **24/24 shares stopped GTC across 13 orders, 9/9 positions** ✓ · **no stop moved down** ✓ (the sub-10% ADI add-on trail exists *to enforce* that rule, not to break it) · worst held −4.25%, **none ≤ −7%** ✓ · none at the +15% rung ✓ · **0 day trades** — ADI bought to hold, and the existing ADI share was bought 8/17 ✓ · no margin used ✓.
+
+#### Carried forward
+- **AVGO −4.25% is the new watch line**, hard cut **$354.32**. Midday owns it.
+- **FOMC minutes 11:00 AM PT — HIGH, and it lands after the midday routine's usual window.** July's hold drew **three dissents for a HIKE**. The 10% new-position cap stays in force.
+- **MRVL: Google custom-silicon partnership + ~$12B stock option is a new, material bull leg** — logged so a later session does not discover it as fresh. Earnings **8/27 AMC** still caps it at ~10%.
+- **RKLB gate remains 1-of-2** — ATM priced (replacement, Iridium-funding), **Neutron 2027 guidance still unverified**. No entry.
+- **ASTS contingency is now unfunded at 0.33% cash** — re-arms only if a stop fires. Ceiling **$68.14**.
+- **Quote endpoint unusable, 10th consecutive session.** Use `latestTrade`/`minuteBar` for live marks; `positions.current_price` for held names.
+- **MSFT ex-div $0.91 Thu 8/20 — tomorrow's gap-down is the dividend, not a down session.**
+- **Branch note:** session opened on `claude/nifty-pascal-tlbssa` with **12 commits ahead of `origin/main`** — the 8/18 EOD and 8/19 pre-market work was pushed to the feature branch, not to `main`, so `origin/main` is stale at 5254f3d. This session's harness mandate pins pushes to `claude/nifty-pascal-tlbssa`, which conflicts with CLAUDE.md's push-to-main rule. **Committed and pushed to the designated branch — nothing is stranded, but `main` needs a fast-forward of 13 commits.** Flagged for resolution; no history rewritten.
+
+**Next scheduled routine:** **Wed 8/19 Midday ~10:00 AM PT** (**AVGO −4.25% is the watch line, hard cut $354.32** · **FOMC minutes 11:00 AM PT lands AFTER the midday window — position for it before, not after** · MRVL +6.30% on the Google deal, 8.7 pts from the +15% rung · cash 0.33%, 6/25 trades used · Week 18 Day 3).
