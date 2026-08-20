@@ -4222,3 +4222,71 @@ Best line is **MRVL +6.74%**, 8.3 pts below the +15% rung. Its intraday high-wat
 **Standing triggers carried forward:** three armed contingencies unchanged, LIMIT orders only — **RKLB ≤ $79.14** (6.41:1, gate fully cleared 8/19) · **MKSI ≤ $302.00** (4.95:1, the genuinely new name that closes the sleeve gap) · **ASTS ≤ $68.14** (2.99:1, ceiling not loosened to fit a trade). **OKLO / NBIS still blocked on contradictory target data; AEHR re-test ≤ $116.31.** **The `quote` endpoint remains unusable — 11th consecutive session**; `snapshot.latestTrade` + `dailyBar` used throughout. **ADI's 3.87% add-on trail is a deliberate deviation — do not "correct" it downward.** Session opened on `claude/keen-cerf-d2ih5c` (identical to `origin/main`, 0 ahead / 0 behind) and was moved to `main` before any broker call, per CLAUDE.md.
 
 **Next scheduled routine:** **Thu 8/20 Pre-Market ~5:30 AM PT** (**AVGO 2.46% from its hard cut is the standing decision** · **MSFT's open gap is the $0.91 dividend — do not misread it** · MRVL stop-protected into profit, no add before 8/27 · cash 0.33% with three armed limits waiting on capital · 6/25 trades used · Week 18 Day 4).
+
+---
+
+## 2026-08-20 — Market-Open Execution (Day 49, Thursday — Week 18 Day 4) — **NO TRADES** · **ALL FOUR ARMED NAMES OPENED *BELOW* THEIR LIMITS AND CASH IS STILL $31.85** · **AVGO's hard cut RECEDES** — it opened green and its $363.44 low never approached $354.32, widening the watch line from 2.01% to 3.12% · **MRVL +10.17% is the closest any position has come to the +15% rung this phase** (intraday +10.89%) and its trail ratcheted to $221.814, now only **$0.29 below cost** · **MSFT falls back under the 20% LT cap to 19.92%**, ending a 20-session mark-drift flag without a single share traded
+
+**Portfolio:** $9,670.82 | **Cash:** $31.85 (0.33%) | **Day P&L:** +$51.33 (+0.53%) | **Phase P&L:** −$329.18 (−3.29%)
+
+| Ticker | Sleeve | Shares | Entry | Open px | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) | HWM | Action |
+|--------|--------|--------|-------|---------|------|-----------|---------|-----|----------|-------------------|-----|--------|
+| **MSFT** | long-term | 4 | $491.72 | $482.40 | $481.52 | −2.07% | −0.58% | $1,926.08 | **19.92%** | $462.357 (2+1 sh) · $451.206 (1 sh) | $513.73 · $501.34 | HOLD — **back under the 20% cap**; $0.91 of today's move is the dividend |
+| **QQQ** | long-term | 2 | $709.99 | $712.225 | $714.60 | +0.65% | −0.21% | $1,429.20 | 14.78% | $661.122 | $734.58 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $704.065 | $705.57 | +0.82% | −0.19% | $1,411.14 | 14.59% | $644.751 | $716.39 | HOLD |
+| **MRVL** | short-term | 4 | $222.1075 | $237.19 | $244.69 | **+10.17%** | **+3.13%** | $978.76 | **10.12%** | **$221.814** (was $220.9401) | $246.46 | HOLD, **no add** — 8/27 AMC inside horizon |
+| **NVDA** | short-term | 4 | $219.61 | $218.58 | $219.29 | −0.15% | +0.80% | $877.16 | 9.07% | $200.583 | $222.87 | HOLD — 8/26 AMC |
+| **TSM** | short-term | 2 | $413.42 | $408.77 | $415.178 | +0.43% | +0.75% | $830.356 | 8.59% | $377.64 | $419.60 | HOLD |
+| **ADI** | short-term | 2 | $382.99 | $376.915 | $383.849 | +0.22% | **+2.84%** | $767.698 | 7.94% | **$370.0428** (1 sh, 3.87% trail) · $357.257 (1 sh) | $384.94 · $396.95 | HOLD — **drift play turns green** |
+| **AVGO** | short-term | 2 | $380.99 | $364.20 | $365.7446 | −4.00% | +0.90% | $731.489 | 7.56% | $343.584 · **hard cut $354.32 — 3.12% away** | $381.76 | HOLD — cut line **receded** |
+| **GOOGL** | long-term | 2 | $352.04 | $342.795 | $343.58 | −2.40% | −0.33% | $687.16 | 7.11% | $327.033 (1 sh) · $315.396 (1 sh) | $363.37 · $350.44 | HOLD |
+
+**Sleeves:** Long-term $5,453.58 = **56.39%** (⚠️ 6.39 pts over — 21st consecutive session) · Short-term $4,185.46 = **43.28%** (6.72 pts under, above the 40% floor, 5 names ≥ the 4-name minimum) · Cash **0.33%** ✓ · Deployed **99.67%** ✓
+
+### Actions Taken (STEPS 2–9)
+- **STEP 2 — live re-validation:** Equity **$9,670.82**, cash **$31.85 = 0.33% ✓**, long MV $9,638.97 = **99.67% deployed** — inside the 95–100% band. Buying power $27,116.50 (4x margin) / RegT $9,702.67 — **unused, and deliberately so: no rule authorises leverage, and "no margin used" has been the compliance line every session of this phase.** `balance_asof` 2026-08-19. **No cash flag. Nothing is breached and nothing is compelled.**
+- **STEP 3 — rule hard-check:** No order proposed. Positions **9/15** ✓ · trades this week **6/25** ✓ (19 unused) · largest LT **MSFT 19.92% ≤ 20%** ✓ · largest ST **MRVL 10.12%** — passive mark-drift over the 10% macro cap on a +3.13% session, **NOT a violation** per the ratified entry-sizing rule, no trim ✓ · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · **0 day trades** ✓ · no margin ✓.
+- **STEP 4 — buys: NONE, and the reason is capital, not conviction — third consecutive session.** All four armed contingencies were re-priced at opening prints and **all four opened BELOW their pre-derived limits**, i.e. every gate is *more* open than it was at 05:15:
+  - **RKLB $73.945** (open $74.94, range $73.655–$75.28) vs limit **≤ $79.14** ✓ — 6.56:1, and cheaper than the $75.84 the R:R was struck at
+  - **MKSI $281.99** (open $282.83) vs **≤ $302.00** ✓ — 5.25:1
+  - **AEHR $105.33** (open $106.66, −2.4%) vs **≤ $116.31** ✓ — the gate that opened yesterday is now $11 inside its ceiling
+  - **ASTS $65.28** (open $66.05) vs **≤ $68.14** ✓ — 3.03:1, ceiling still not loosened
+  **$31.85 buys none of them.** The cheapest armed share is ASTS at $65.28 — **2.05x the entire cash balance.** A four-for-four pass with zero executable size is the cleanest possible statement that the binding constraint is the balance sheet.
+- **No trim was made to fund one.** Re-affirmed, not re-litigated: LT Rule 8 permits an exit only on stop hit or broken thesis; none of MSFT/QQQ/VOO/GOOGL qualifies. **Trimming a compliant, stop-protected long-term holding to cure a sleeve *percentage* is a real violation bought for a cosmetic one.** The structural finding stands as Friday's P0.
+- **No VOO fallback.** That fires only on cash > 5%; cash is 0.33%.
+- **STEP 5 — stops: 13 GTC trailing orders live, 9/9 positions, 24/24 shares. None placed, cancelled or modified by this routine. NONE MOVED DOWN.** Share audit against the broker order list: MSFT 2+1+1=4 ✓ · QQQ 2 ✓ · VOO 2 ✓ · MRVL 4 ✓ · NVDA 4 ✓ · TSM 2 ✓ · ADI 1+1=2 ✓ · AVGO 2 ✓ · GOOGL 1+1=2 ✓. **Two trails ratcheted up overnight on new high-water marks: MRVL $220.9401 → $221.814 (HWM $246.46) and ADI $367.784 → $370.0428 (HWM $384.94).** The other eleven are unchanged.
+- **MRVL stop-vs-cost, carrying yesterday's correction forward:** the trail is now **$0.29 BELOW** the $222.1075 cost basis (was $1.17 below at the pre-market). A stop-out today resolves at roughly **−0.13%** — materially better than yesterday, **but still not breakeven.** The 8/19 "can no longer resolve into a loss" claim remains retracted. It becomes true only above a $246.79 high-water mark.
+- **Trail-tightening check: ZERO ELIGIBLE — but the book is closer to the first rung than it has ever been this phase.** MRVL **+10.17%**, intraday high $246.29 = **+10.89%**, against a +15% rung at **$255.42**. Second-best is QQQ +0.65%. No trail touched.
+- **−7% hard-cut scan: ZERO PENDING, and the watch line eased.** Worst held is **AVGO −4.00%**, 3.00 pts above the −7% trigger. **AVGO opened at $364.20 and its session low of $363.44 never came within $9 of the $354.32 hard cut** — the distance widened from 2.01% at the pre-market to **3.12%**. It is up **+0.90%** on the day. The armed mechanical cut stays armed and unfired; the thesis is unchanged (no guidance cut, no revised consensus — consensus is still *rising* into the 9/2 print).
+- **STEP 6 — cash verification after trades:** unchanged at **$31.85 = 0.33% ✓**. No trade occurred, so no re-test was needed; the reading is confirmed against the post-open account call, not assumed.
+- **STEP 7 — TRADE-LOG:** this entry. **No trade rows to add.**
+- **STEP 8 — Discord: SKIP — no trade placed.** The routine notifies on execution only.
+- **STEP 9 — commit/push:** committed (log entry). Session opened on `claude/nifty-pascal-cfiand`, `git rev-list --left-right --count origin/main...HEAD` = **0/0** — nothing stranded. Checked out `main` and fast-forwarded 15 commits **before any broker call**, per CLAUDE.md. The control has now run and passed **seven consecutive sessions**.
+
+### Armed Contingencies — re-priced at the open, all four still valid, priority unchanged
+| # | Ticker | Limit | Open print | Now | R:R | Status |
+|---|---|---|---|---|-----|--------|
+| 1 | **RKLB** | ≤ $79.14 | $74.94 | **$73.945** | **6.56:1** | ✓ inside limit — do-not-chase $88.52 |
+| 2 | **MKSI** | ≤ $302.00 | $282.83 | **$281.99** | **5.25:1** | ✓ inside limit — the genuinely NEW name that closes the sleeve gap |
+| 3 | **AEHR** | ≤ $116.31 | $106.66 | **$105.33** | **3.81:1** | ✓ inside limit — gate opened 8/20, ceiling is the standing re-test level |
+| 4 | **ASTS** | ≤ $68.14 | $66.05 | **$65.28** | **3.03:1** | ✓ inside limit — ceiling NOT loosened despite the cheaper print |
+
+**Funding rule if capital appears:** LIMIT orders only, size to the **10% macro cap (~$967)**, never above. If AVGO's $354.32 cut fires, the ~$731 proceeds go to **RKLB** the same session per the late-session sweep rule.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **6 new entries this week ≤ 25** ✓ (ADI 8/17 · MRVL/NVDA/TSM/AVGO 8/18 · ADI add 8/19; 19 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · **MSFT 19.92% ≤ 20% LT cap — back inside after 20 sessions of passive drift, resolved by the mark, not by a trade** ✓ · QQQ 14.78%, VOO 14.59%, GOOGL 7.11% ✓ · short-term **MRVL 10.12% — passive mark-drift over the 10% macro cap, NOT a violation, no trim**; NVDA 9.07%, TSM 8.59%, ADI 7.94%, AVGO 7.56% ✓, all ≤ 15% ✓ · **cash 0.33% ≤ 5%** ✓ · **deployed 99.67%** ✓ · trailing stops GTC on **9/9 positions, 24/24 shares across 13 orders** ✓ · **no stop moved down** ✓ (two rose on new HWMs) · **no position ≤ −7%** ✓ (worst AVGO −4.00%) · **no position at the +15% rung** ✓ (best MRVL +10.17%) · **0 day trades** ✓ · **no margin used** ✓.
+
+### Standing Triggers Carried Forward
+- **AVGO $354.32 hard cut — 3.12% away, widened from 2.01%.** Still the book's closest mechanical line. Cut if touched, no exceptions; sweep proceeds into RKLB the same session.
+- **⚠️ MRVL'S STOP IS $0.29 BELOW COST — still below, not above.** Yesterday's sign correction stands. A stop-out resolves at ~−0.13%. It becomes genuinely loss-proof only above a **$246.79** high-water mark (it printed $246.46 today). **Do not size or hold on a "cannot lose" premise.**
+- **MRVL is 4.83 pts from the +15% rung** — the first realistic trail-tightening candidate of the phase. **Midday owns this line.**
+- **FOUR ARMED CONTINGENCIES, all four re-verified inside their limits at opening prints.** Fourth consecutive session in which every vetted idea passes and none is affordable.
+- **OKLO WATCH (not armed)** — arm only on a second populated sample corroborating the $51–$127 / 12-analyst range. **NBIS BLOCKED** — 48.8% dispersion plus a $4.5B convertible.
+- **ADI's 3.87% add-on trail is a DELIBERATE deviation** required by the add-on stop-floor rule. **Do not "correct" it downward.** It is the tightest leg in the book at 3.60%.
+- **MSFT ex-div $0.91 today — the open gap is the dividend.** $3.64 across 4 shares is a receivable payable 9/10, not a loss. MSFT's real move is ~−0.39%, not −0.58%.
+- **The `quote` endpoint remains unusable — 13th consecutive session.** `snapshot.latestTrade` + `dailyBar` used for every price in this entry.
+- **STRUCTURAL: the 50/50 sleeve split is unreachable by any legal action** while cash is $31.85 and LT Rule 8 forbids a discretionary trim. **21st consecutive session over target. P0 for tomorrow's weekly review.**
+- **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it. **AVGO 9/2.**
+- **Escalation trigger unfired:** Brent > $95 **or** VIX > 20 (Brent $91.86, VIX 15.13). The **10% macro sizing cap stays in force** on the hawkish 9–3 minutes and a 5.22% 30-year.
+
+**Next scheduled routine:** **Thu 8/20 Midday ~10:00 AM PT** (**MRVL at +10.17% is the phase's first live trail-tightening candidate — re-check against the $255.42 rung** · AVGO's cut line receded to 3.12% but stays armed · four armed limits all valid and all unaffordable · cash 0.33%, 6/25 trades used · Week 18 Day 4).
