@@ -4344,3 +4344,62 @@ Best line is **MRVL +6.74%**, 8.3 pts below the +15% rung. Its intraday high-wat
 - **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it. **AVGO 9/2.** Escalation trigger unfired (Brent $91.86 < $95, VIX 15.13 < 20) — 10% macro sizing cap stays in force.
 
 **Next scheduled routine:** **Thu 8/20 EOD ~1:15 PM PT** (**AVGO 2.57% from its hard cut — sweep proceeds into RKLB if it fires** · MRVL now stop-protected above cost, watch the $255.42 rung · four armed limits valid and unaffordable · cash 0.33%, 6/25 trades used · Week 18 Day 4).
+
+## 2026-08-20 — EOD Snapshot (Day 49, Thursday — Week 18 Day 4) — **A STOP FIRED AT 12:55 PM PT** · ADI's deliberately tight 3.87% add-on trail sold **1 share @ $370.11**, releasing **$370.11** with **five minutes of session left** — the late-session sweep rule was triggered and **could not be executed inside regular hours**; that is logged as a miss, not narrated away · **cash jumps $31.85 → $401.96 (4.18%)** — still ≤ 5%, so nothing is breached, and for the first time in five sessions the four armed names are **affordable** · **book +0.09% against VOO −0.88% and QQQ −0.80% — a 0.97-pt beat vs the S&P and the third straight session ahead of it** · **MRVL closes +12.35% at $249.53**, trail ratcheted to **$226.305 — now $4.20 ABOVE cost** · **short-term sleeve drops to 39.45%**, under 40% for the first time this phase
+
+**Portfolio:** $9,627.81 | **Cash:** $401.96 (4.18%) | **Day P&L:** +$8.32 (+0.09%) | **Phase P&L:** −$372.19 (−3.72%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | % Equity | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|----------|------|
+| **MSFT** | long-term | 4 | $491.72 | $481.0465 | −0.67% | −$42.69 (−2.17%) | **19.99%** | $462.357 (2+1 sh) · $451.206 (1 sh) |
+| QQQ | long-term | 2 | $709.99 | $710.3523 | −0.80% | +$0.72 (+0.05%) | 14.76% | $661.122 (HWM $734.58) |
+| VOO | long-term | 2 | $699.81 | $700.67 | −0.88% | +$1.72 (+0.12%) | 14.56% | $644.751 (HWM $716.39) |
+| **MRVL** | short-term | 4 | $222.1075 | $249.53 | **+5.17%** | **+$109.69 (+12.35%)** | **10.37%** | **$226.305 (HWM $251.45) — $4.20 ABOVE cost** |
+| NVDA | short-term | 4 | $219.61 | $216.9506 | −0.28% | −$10.64 (−1.21%) | 9.01% | $200.583 (HWM $222.87) |
+| TSM | short-term | 2 | $413.42 | $415.51 | +0.83% | +$4.18 (+0.51%) | 8.63% | $377.64 (HWM $419.60) |
+| **AVGO** | short-term | 2 | $380.99 | $364.7761 | +0.63% | −$32.43 (−4.26%) | 7.58% | $343.584 · **hard cut $354.32 — 2.87% away** |
+| GOOGL | long-term | 2 | $352.04 | $340.1845 | −1.32% | −$23.71 (−3.37%) | 7.07% | $327.033 (1 sh) · $315.396 (1 sh) |
+| **ADI** | short-term | **1** (was 2) | $382.99 blended | $372.195 | −0.29% | −$10.80 (−2.82%) | 3.87% | $357.257 (HWM $396.9519) |
+
+**Sleeves:** Long-term $5,426.60 = **56.36%** (⚠️ 6.36 pts over target — **22nd consecutive session**) · Short-term $3,798.69 = **39.45%** (⚠️ **10.55 pts under target and below the 40% floor for the first time this phase** — the ADI exit, not a decision) · Cash **4.18%** ✓ (≤ 5%) · Deployed **95.82%** ✓ (bottom of the 95–100% band). *Position marks sum to $9,225.29 vs the account's $9,225.85 long MV — a $0.56 timing drift between the `positions` and `account` calls; account figures govern.*
+
+**Trades today (1 execution — an EXIT, not an entry):** **ADI SELL 1 @ $370.11** — trailing stop, **3.87% trail, stop $370.0428**, filled **2026-08-20 12:55:05 PM PT**. The lot sold is the **8/19 add-on bought at $372.29**, so the realized result is **−$2.18 (−0.59%)**. The surviving share is the **8/17 leg**, still carried under its own **$357.257 / HWM $396.9519** GTC trail — note that Alpaca's blended `avg_entry_price` of **$382.99** does not reflect this, and the −2.82% unrealized above is stated on Alpaca's basis, not the true tax lot. **New entries this week remain 6/25** (ADI 8/17 · MRVL/NVDA/TSM/AVGO 8/18 · ADI add 8/19; 19 unused) — a stop-out is not a new entry.
+
+### ⚠️ LATE-SESSION SWEEP — TRIGGERED AND MISSED
+The sweep rule (added 2026-08-14) requires cash released by a stop **after the midday routine** to be redeployed **the same session**. ADI's stop filled at **12:55:05 PM PT — 4 minutes 55 seconds before the 1:00 PM close.** No routine was scheduled in that window and the EOD routine runs at 1:15 PM PT, after the bell. **The $370.11 sat idle into the close.** Stating it plainly rather than excusing it: the rule was triggered, the rule was not satisfied, and the reason is that the rule is written on the market's clock while the routine calendar has no coverage between 10:00 AM and 1:15 PM PT. **No cash-rule breach resulted** — cash is 4.18%, inside the ≤5% limit — but the sweep rule itself failed on its second live test. **This is a mechanics gap and it goes to tomorrow's weekly review as a second P0**, alongside the sleeve-split finding. No after-hours order was placed to paper over it: the daily-summary routine has no buy step, extended-hours fills are not what the sweep rule contemplates, and manufacturing a trade outside a routine's defined scope to fix a process miss would be the larger error.
+
+### The capital constraint just broke — for tomorrow, not tonight
+Five consecutive sessions logged four vetted names as **armed and unaffordable**. That is over. **$401.96 now buys any of them at Thursday's closes:**
+
+| # | Ticker | Limit | Thu close | Shares affordable | R:R | Status |
+|---|--------|-------|-----------|-------------------|-----|--------|
+| 1 | **RKLB** | ≤ $79.14 | **$72.135** (midday mark) | **5** | strongest (6.56:1 at open) | ✓ inside limit — do-not-chase $88.52 |
+| 2 | **MKSI** | ≤ $302.00 | **$278.86** | **1** | 5.25:1 | ✓ inside — the NEW name that closes the sleeve gap |
+| 3 | **AEHR** | ≤ $116.31 | **$103.035** | **3** | 3.81:1 | ✓ inside — gate opened 8/20 |
+| 4 | **ASTS** | ≤ $68.14 | **$63.36** | **6** | 3.03:1 | ✓ inside — ceiling NOT loosened |
+
+All four prices above are the **midday marks carried forward** — they are **not** re-verified closing prints and **must be re-priced at tomorrow's pre-market before any order.** Priority is unchanged: **RKLB first** (also the standing destination of AVGO's cut proceeds). $401.96 funds roughly **41% of a 10%-macro-cap position (~$963)** — a partial fill of one name, not a full-size entry, and sizing must respect that rather than stretching the cap.
+
+**Notes:** The day's honest summary is that **the book gained $8.32 while the S&P fell 0.88%** — a 0.97-pt relative gain, the third consecutive session ahead of the benchmark, and the widest of the three. As on 8/19, the gain is concentrated: **MRVL +5.17% / +$49.04 intraday** carried a tape where six of nine positions closed red and both index sleeves (QQQ −0.80%, VOO −0.88%) were down. Strip MRVL and the book was down again. That is the same concentration outcome flagged yesterday, and the same answer applies — the position was sized at the 10% macro cap before the news, it now sits at **10.37% on passive mark-drift**, and the rulebook's response to a windfall inside an earnings horizon (**8/27 AMC**) is to hold, not to press and not to trim. **MRVL is the phase's best line at +12.35%**, still **2.65 pts / $5.89 below the $255.42 rung** where the trail tightens to 7%. **Its trail is now $226.305, $4.20 above the $222.1075 basis — the position is genuinely loss-proof at ~+1.89%**, and this time the sign has been checked against the live order (`hwm $251.45`), not carried from a prior entry.
+
+**AVGO held again and the reasoning is unchanged**: green on the day (+0.63%), −4.26% from cost, **2.87% above the $354.32 hard cut**, no guidance cut, no management change, and consensus still rising into the **9/2** print — the break test is not met. If it trades through $354.32 it is cut, no exceptions, and the ~$730 proceeds join the $401.96 into RKLB the same session.
+
+**Cash at 4.18% is the first non-trivial cash balance in three weeks and it is not a failure — yet.** It is inside the ≤5% limit, so no VOO fallback fires and no buy is compelled tonight. It becomes a failure if it is still sitting there Friday afternoon. **The short-term sleeve at 39.45% is the sharper number**: 10.55 pts under target, below 40% for the first time this phase, and now — for the first time — curable, because capital exists. The structural finding stands that the **50/50 split cannot be reached by legal action** while LT Rule 8 forbids a discretionary trim of a compliant, stop-protected long-term holding; but the direction of travel changed today, and closing part of the gap is now an execution question rather than an arithmetic impossibility.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **6 new entries this week ≤ 25** ✓ (19 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · **MSFT 19.99% ≤ 20% LT cap** ✓ (second session back inside) · QQQ 14.76%, VOO 14.56%, GOOGL 7.07% ✓ · short-term **MRVL 10.37% — passive mark-drift over the 10% macro cap on a +5.17% session, NOT a violation per the ratified entry-sizing rule, no trim**; NVDA 9.01%, TSM 8.63%, AVGO 7.58%, ADI 3.87% ✓, all ≤ 15% ✓ · **cash 4.18% ≤ 5%** ✓ · **deployed 95.82%** ✓ · trailing stops GTC on **9/9 positions, 23/23 shares across 12 orders** ✓ (13 → 12 orders; the retired one is ADI's filled add-on trail) · **no stop moved down** ✓ (MRVL ratcheted $222.471 → $226.305 on a $251.45 HWM) · **no position ≤ −7%** ✓ (worst AVGO −4.26%) · **no position at the +15% rung** ✓ (best MRVL +12.35%) · **0 day trades** ✓ (the ADI share sold was bought 8/19) · **no margin used** ✓ ($27,440.21 buying power untouched) · ⚠️ **late-session sweep rule TRIGGERED AND NOT SATISFIED** — logged above, not excused.
+
+### Standing Triggers Carried Forward
+- **$401.96 OF DEPLOYABLE CASH — the five-session capital drought is over.** Re-price all four armed names at tomorrow's pre-market before ordering; do not trade off tonight's carried-forward midday marks. **RKLB first.** LIMIT orders only. Size to what $401.96 actually buys — ~41% of the 10% macro cap — do not stretch the cap to spend it.
+- **AVGO $354.32 hard cut — 2.87% away.** Cut if touched, no exceptions; proceeds sweep into RKLB the same session.
+- **MRVL's stop is $4.20 ABOVE cost ($226.305 vs $222.1075) — verified against the live order, loss-proof at ~+1.89%.** The **$255.42** rung (trail → 7%) is **2.65 pts away** — the phase's first genuine trail-tightening candidate. **Tomorrow's midday owns this line.**
+- **ADI is now a 1-share position at 3.87% of equity** on the surviving 8/17 lot. Alpaca's blended $382.99 basis is stale — the real surviving lot carries the **$357.257 / HWM $396.9519** trail. **Do not re-add without a fresh drift read.**
+- **OKLO WATCH (not armed); NBIS BLOCKED** (48.8% dispersion + $4.5B convertible).
+- **The `quote` endpoint remains unusable — 14th consecutive session.** `snapshot.latestTrade` + `dailyBar` used for every price here.
+- **STRUCTURAL, downgraded from impossible to hard:** the 50/50 split is no longer unreachable — capital exists. **22nd consecutive session over target on the LT side; short-term now under 40%. P0 for tomorrow's weekly review**, now joined by the **sweep-rule mechanics gap** as P0 #2.
+- **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it. **AVGO 9/2.** Escalation trigger unfired (Brent $91.86 < $95, VIX 15.13 < 20) — **10% macro sizing cap stays in force**.
+- **Session ran on branch `claude/keen-cerf-xoxajo`, not `main`.** The harness-issued branch requirement for this session names that branch explicitly and forbids pushing elsewhere without permission; `origin/main` is 6 commits behind it and the last three sessions' work lives here. Flagged for the weekly review — the CLAUDE.md "always main" rule and the session branch policy are in direct conflict and one of them needs to be retired.
+
+**Next scheduled routine:** **Fri 8/21 Pre-Market ~5:30 AM PT** (**$401.96 is deployable for the first time in five sessions — re-price RKLB/MKSI/AEHR/ASTS at live prints and take the best one** · AVGO 2.87% from its hard cut · MRVL 2.65 pts from the +15% rung · short-term sleeve under 40% · 6/25 entries · **Week 18 Day 5 — WEEKLY REVIEW day, two P0s queued**).
+
+---
