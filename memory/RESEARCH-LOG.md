@@ -10974,3 +10974,138 @@ The sleeve is **57.01%, 7.01 points OVER its 50% target for a 17th consecutive s
 - **AVGO −4.6%** — the **same headline, inverted**: the Google custom-ASIC socket went to MRVL. Compounded by BofA's **~$370B senior-debt estimate** on the XPV/Apollo/Blackstone AI chip-financing vehicle by mid-2029, and an **actively exploited VMware vCenter flaw** (361 IPs, 47 countries). **No guidance cut, no revised consensus → the fundamental-break test is NOT met.** Held. **Hard cut $354.32 is 2.57% away and is the mechanism.** Earnings 9/2.
 
 **Momentum scan deliberately NOT run.** The routine gates it on "something moving sharply **or** cash > 5%." Cash is 0.33% and three fully vetted names already sit unbought — a fourth idea has zero marginal value when the binding constraint is capital. Logged as a deliberate skip, not a gap.
+
+---
+
+## 2026-08-20 — Pre-Market Research (Week 18 Day 4, Thursday — **A FOURTH NAME ARMS ITSELF AND THE CASH BALANCE IS STILL $31.85** · **AEHR's gate OPENS** on a −12.41% session that carried **no company-specific news** — profit-taking inside a semi-test selloff dropped it to **$107.91**, through the standing **$116.31** re-test level, and the 7-analyst **$136.67** now scores **3.81:1** against a 2.5:1 niche floor · that makes **four** vetted, unbought names (RKLB 6.56:1 · MKSI 5.25:1 · AEHR 3.81:1 · ASTS 3.03:1) against **$31.85** — the idea pipeline is not the constraint and has not been for three sessions · **LOG CORRECTION: MRVL's $220.9401 stop is $1.17 BELOW its $222.1075 cost basis, not above** — the 8/19 midday and EOD entries both recorded the sign backwards and the position **can** still resolve into a ~−0.53% loss · **OKLO's target range materially compresses** — $14–$175 across 23 analysts becomes **$51–$127 across 12**, avg $84.88; the MU-precedent blocker is weakening but one sample is not the two-populated-sample standard MKSI met, so it is upgraded to WATCH, **not armed** · **ASTS's reward leg is being marked down**: a *second* $1B convertible raise this year and **three of four** post-Q2 revisions were **cuts** — it still clears both samples, ceiling stays $68.14 · **the FOMC minutes came in HAWKISH**: 9–3 hold with **all three dissents for a HIKE**, "many" saying a hike is needed if inflation does not return to 2%, and **no mention of cut support** — September FedWatch is ~4% cut / ~96% hold · 30-year **5.22%**, 6bp off its 19-year high on Treasury's longer-dated buyback · VIX **15.13 NEUTRAL** at the bottom edge, Brent **$91.86** under the $95 trigger · **MSFT trades ex-dividend $0.91 today — the gap is the dividend** · **STRUCTURAL FINDING FOR FRIDAY: the 50/50 sleeve split is currently unreachable by any legal action** and that is a rulebook gap, not a compliance failure)
+
+### Account Snapshot
+- Equity **$9,545.88** | Cash **$31.85 (0.33%)** ✓ **PASS ≤5%** | Long MV **$9,514.03 (99.67%)** — inside the 95–100% band | Buying power $26,766.69 (4x margin, unused) | Last equity $9,619.49 | Day P&L **−$73.61 (−0.77%)** on pre-market marks | Phase P&L **−$454.12 (−4.54%)** vs the $10,000 baseline.
+- Open positions **9/15** · Open orders **13** (all trailing stops GTC — **9/9 positions, 24/24 shares covered**, verified share-by-share below) · **Trades this week 6/25** (ADI 8/17 · MRVL/NVDA/TSM/AVGO 8/18 · ADI add 8/19; 19 unused) · **Day trades 0** · `balance_asof` 2026-08-19.
+- **MSFT is ex-dividend $0.91 today** (record 8/20, pay 9/10). Of MSFT's −$1.93 pre-market move, **$0.91 is the dividend** — the real decline is $1.02 (−0.21%), and $3.64 of today's equity drop across 4 shares is a receivable, not a loss.
+- **Branch note:** session opened on `claude/bold-franklin-632n24`, **`git rev-list --left-right --count origin/main...HEAD` = 0/0** — nothing stranded. Checked out `main` and fast-forwarded 14 commits **before any broker call**, per CLAUDE.md. The control has now run and passed **six consecutive sessions**.
+- **Marks are pre-market indications at 05:10–05:30 AM PT**, not opening prints. Every percentage below re-derives at the open.
+
+### Sleeve Status
+| Sleeve | Value | % Equity | Target | Status |
+|--------|-------|----------|--------|--------|
+| Long-term (MSFT, QQQ, VOO, GOOGL) | $5,440.50 | **57.01%** | 50% | ⚠️ **7.01 pts OVER — 20th consecutive session** |
+| Short-term (MRVL, NVDA, TSM, ADI, AVGO) | $4,074.58 | **42.70%** | 50% | ⚠️ 7.30 pts under, **above the 40% floor**, 5 names ≥ the 4-name minimum |
+| Cash | $31.85 | **0.33%** | ≤5% | ✓ **PASS** |
+
+**Deployment read: 99.67% deployed. The mandate is SATISFIED. No buy is compelled — and none is possible.**
+
+**⚠️ STRUCTURAL FINDING — the 50/50 split is currently unreachable by any legal action, and it belongs in Friday's review, not in an ad-hoc trim today.** The long-term sleeve has been ~7 pts over target for **20 consecutive sessions** and the rulebook contains **no mechanism to reduce it**: LT Core Rule 8 says *"only exit on stop hit or broken thesis,"* which forbids a discretionary rebalancing trim, and no LT position is near a stop or has a broken thesis. The short-term sleeve can therefore only close its 7.30-pt gap with **new cash**, of which there is **$31.85**. So the two sleeve percentages can only converge when a stop fires. **The obvious "fix" — trim 1 QQQ share (~$710, +7.4 pts of headroom) and buy 9 RKLB — is explicitly rejected: it is a discretionary long-term exit that LT Rule 8 prohibits, taken to cure a sleeve *percentage* rather than a rule breach.** A real rule violation is never an acceptable price for a cosmetic one. Logged as a rulebook gap for the Friday review to resolve.
+
+### Position Ledger (pre-market 05:15 AM PT — broker marks)
+| Ticker | Sleeve | Shares | Avg entry | Pre-mkt | Unreal. | MV | % Equity | Trail stop (live GTC) | To stop | Hard cut (−7%) |
+|--------|--------|--------|-----------|---------|---------|-----|----------|-----------------------|---------|----------------|
+| **MSFT** | long-term | 4 | $491.72 | $482.48 | −1.88% | $1,929.92 | **20.22%** | $462.357 (2+1 sh) · $451.206 (1 sh) | 4.17% / 6.48% | n/a (LT) |
+| **QQQ** | long-term | 2 | $709.99 | $710.54 | +0.08% | $1,421.08 | 14.89% | $661.122 (HWM $734.58) | 6.95% | n/a (LT) |
+| **VOO** | long-term | 2 | $699.81 | $703.27 | +0.49% | $1,406.54 | 14.74% | $644.751 (HWM $716.39) | 8.32% | n/a (LT) |
+| **MRVL** | short-term | 4 | $222.1075 | $230.25 | **+3.67%** | $921.02 | 9.65% | $220.9401 (HWM $245.489) | 4.05% | $206.56 — 10.29% |
+| **NVDA** | short-term | 4 | $219.61 | $216.84 | −1.26% | $867.36 | 9.09% | $200.583 (HWM $222.87) | 7.50% | $204.24 — 5.81% |
+| **TSM** | short-term | 2 | $413.42 | $408.50 | −1.19% | $817.00 | 8.56% | $377.64 (HWM $419.60) | 7.55% | $384.48 — 5.88% |
+| **ADI** | short-term | 2 | $382.99 | $373.00 | −2.61% | $746.00 | 7.82% | $367.784 (1 sh, 3.87% trail) · $357.257 (1 sh) | 1.40% / 4.22% | $356.18 — 4.51% |
+| **AVGO** | short-term | 2 | $380.99 | $361.60 | **−5.09%** | $723.20 | 7.58% | $343.584 (HWM $381.76) | 4.98% | **$354.32 — 2.01% away** ⚠️ |
+| **GOOGL** | long-term | 2 | $352.04 | $341.48 | −3.00% | $682.96 | 7.16% | $327.033 (1 sh) · $315.396 (1 sh) | 4.23% / 7.64% | n/a (LT) |
+
+**Stop audit, share by share against the broker order list:** MSFT 2+1+1=4 ✓ · QQQ 2 ✓ · VOO 2 ✓ · MRVL 4 ✓ · NVDA 4 ✓ · TSM 2 ✓ · ADI 1+1=2 ✓ · AVGO 2 ✓ · GOOGL 1+1=2 ✓ → **24/24 shares, 9/9 positions, 13 GTC trailing orders. No stop moved down. None placed, cancelled, or modified by this routine.**
+
+**⚠️ LOG CORRECTION — MRVL's stop is BELOW cost, not above.** The 8/19 midday addendum and the 8/19 EOD snapshot both state the $220.9401 trail sits *"$1.17 above its $222.1075 cost basis"* and conclude *"the position can no longer resolve into a loss."* **The sign is inverted.** $222.1075 − $220.9401 = **$1.1674**, so the stop sits **$1.17 below cost** and a stop-out today resolves at roughly **−0.53%**, not breakeven. The trade is still well protected — a 10% trail off a $245.489 high-water mark on a name +3.67% from cost — but the "can no longer lose" claim is false and is retracted here so no later session sizes or holds on it. **The stop is not moved; only the record is corrected.**
+
+**Trail-tightening check: ZERO eligible.** Best line is **MRVL +3.67%**, 11.3 points below the +15% rung. **Cut check: ZERO pending.** Worst held is **AVGO −5.09%**, 1.91 pts above the −7% trigger and **2.01% above its $354.32 hard-cut price — the closest line in the book and the session's live mechanical decision.**
+
+### Market Environment — **NEUTRAL** (VIX at the bottom edge), macro override still binding
+- **Futures mildly positive with feed dispersion:** S&P 500 **+0.16%** / **+0.35%**, Nasdaq 100 **+0.48%** / **−0.05%**, Russell 2000 **+0.72%** / **−0.14%** across two unsynchronized quote sets. **Dispersion is noted, not averaged away** — the only clean read is *no directional conviction pre-bell*, a change from three straight Nasdaq-led down opens.
+- **VIX 15.13** (range 14.89–15.26) — inside the **15–25 NEUTRAL band → standard sizing** on VIX alone; the **VIX > 20 escalation trigger did NOT fire**. Fear & Greed unavailable from the source set — **logged as a gap, not substituted.**
+- **Sectors — the rotation persists and it is still against this book:** **Health Care +3.53%** and **Consumer Discretionary +2.15%** lead (Materials +2.67% on a second source); **Industrials −0.89%** and **Information Technology −0.73%** lag. **Eight of nine positions sit in tech / communication services.** Weekly momentum models rank Financials and Technology at the top, so the daily and weekly reads disagree — the daily is the tradeable one.
+- **Breadth positive but STALE — prior close only.** NYSE **1,769 adv / 1,002 dec = 1.77:1**; Nasdaq **2,934 / 2,035 = 1.44:1** (8/19 close). No intraday breadth exists pre-bell; **flagged as prior-session data rather than passed off as today's.** The US-specific phrasing worked — no Indian NSE/BSE contamination for a second session.
+- **CBOE equity put/call 0.52** — low, i.e. **complacent** positioning into a hawkish-minutes tape. Mild contrarian caution, not a sizing trigger.
+- **Oil: WTI $85.25, Brent $91.86** (spread $6.61). **Above $90 for a third session, still under the $95 escalation trigger.**
+
+### Macro & Geopolitical
+| Event | Read | Impact |
+|---|---|---|
+| **FOMC July minutes (released 8/19, 2:00 PM ET)** | **Hawkish.** Hold at 3.50–3.75% on a **9–3 vote**; dissents **Hammack, Kashkari, Logan — all three for a 25bp HIKE**. "Several" officials willing to raise; "many" said a hike would be needed if inflation does not return to 2%. **No mention of cut support.** Caveat: the document predates the softer CPI/PPI/jobs/retail prints, so it is a snapshot of an earlier stance. | **HIGH** — the 10% macro sizing cap stays in force |
+| **Sept FOMC pricing** | Cut **~3.8–4.3%**, hold **~96%**; one prediction-market read puts a **hike near 30%**. Base case is **HOLD**, tail risk is a hike, a cut is off the table. | **HIGH** |
+| **Treasury yields** | 2yr **4.17%** · 10yr **4.67%** · 30yr **5.22%**, **6bp off its 19-year high** after Treasury announced larger buybacks of longer-dated debt. 10s2s **+50bp**. | **HIGH** — the bear steepener still drives the tape |
+| **Inflation** | July CPI **3.4% y/y** (from 3.5%), **+0.1% m/m**; core **2.5% y/y**, **+0.2% m/m**. Core PCE est. ~3.3% y/y. **Next CPI Sept 11.** | MEDIUM WATCH |
+| **Jobless claims — TODAY** | Prior **209k** (w/e 8/8, above the 202k consensus); 4-wk avg 199k; continuing 1.777M. **Consensus ~210k for today's 5:30 AM PT print — a live intraday catalyst this routine sits in front of.** | **MEDIUM WATCH** |
+| **GDPNow Q3** | **4.0%**, cut from 4.3% on 8/14 on a lower private-investment nowcast (15.2% → 13.7%). Next update **8/26**. | LOW / PRICED IN |
+| **Hormuz / Iran** | Traffic still curtailed; Brent **$91.86**, third session above $90. Escalation trigger (Brent > $95 **or** VIX > 20) **has not fired**. | **HIGH** |
+| **Russia / Ukraine** | The channel is **refined product, not crude**: Russian seaborne product exports at a **10-year low**, >⅓ of refining capacity struck, crude runs below 4M b/d. Diesel cracks and Black Sea war-risk premia are the transmission. **No direct book exposure.** | MEDIUM WATCH |
+| **US–China** | **De-escalating.** Reciprocal-tariff suspension extended to **Nov 10, 2026** (10% additional duty); **one-year suspension of the expanded 50% subsidiary export-control rule**; China delaying rare-earth controls and terminating semiconductor-supply-chain probes. | **LOW / PRICED IN — mildly positive for the book's semis** |
+| **Fiscal** | FY26 deficit **$1.9T (5.8% of GDP)**; outlays $7.4T vs revenues $5.6T. The **longer-dated buyback** is the proximate reason the 30yr backed off. | LOW / PRICED IN |
+| **Jackson Hole Aug 27–29** | Confirmed; theme "Financial Innovation: Implications for Payments and Policy." Chair keynote expected **Fri 8/28 AM (not yet official)**. Collides with **NVDA 8/26** and **MRVL 8/27**. | MEDIUM WATCH — next week |
+
+**Net macro posture: the 10% macro sizing cap REMAINS IN FORCE** on hawkish minutes + a 5.22% 30-year + Brent above $90. No new position may be entered above 10% of equity regardless of the 15% short-term cap.
+
+### Earnings Calendar — Thursday refresh (full sweep ran Monday 8/17)
+| Ticker | Date | Time | Classification | Note |
+|---|---|---|---|---|
+| WMT, BABA, DE, NTES, AAP | Thu 8/20 | BMO | **AVOID (no exposure)** | Consumer/China complex — outside both sleeves' mandate. WMT is today's index-level catalyst. |
+| ROST, FLO, OSIS | Thu 8/20 | AMC | **AVOID** | No thesis, no capital. |
+| Fri 8/21 | — | — | **NO DATA** | No source in the result set lists Friday names. **Logged as a gap, not as "nobody reports."** |
+| **NVDA** *(held)* | **Wed 8/26** | AMC | **HOLD CURRENT** | Goldman flags forecasts as "elevated"; last quarter $81.6B rev (+85.2%), guide ~$91B. New: up-to-**$105B guarantee** for OpenAI's Ohio data center. **No add** — 9.09%, near the 10% macro cap, binary inside the horizon. Stop $200.583 is the mechanism. |
+| **MRVL** *(held)* | **Thu 8/27** | AMC | **HOLD CURRENT, DO NOT ADD** | Google warrant (58.97M sh @ $206.58, ~$12.2B, vesting against custom-chip revenue through FY2033) is contracted revenue, not sentiment. 9.65% is effectively at the macro cap. **Correction above: the stop is $1.17 below cost, not above.** |
+| **AVGO** *(held)* | **Wed 9/2** | AMC | **HOLD — but the −7% cut fires first if it comes** | Consensus **rising**, not falling: Q3 FY26 $3.21 (up from $3.17 3mo ago), Q4 $3.84 (from $3.74); TD Cowen reiterates Buy/$500. **The break test is still not met** — no guidance cut, no revised consensus, only a lost socket. |
+| **ADI** *(held)* | reported 8/19 | — | **HOLD — drift play working** | Post-print revisions confirm the thesis: **KeyBanc $500→$525**, Goldman Buy/$450, Cantor OW/$550, TipRanks 18-analyst avg **$459.56 Strong Buy**. New: **$1.5B Empower acquisition**. Blended $382.99, −2.61%. |
+
+**No pre-earnings entry is available this week** — the only classifiable reporters are either held or outside mandate, and there is no capital regardless.
+
+### Niche Radar
+| Ticker | Price (8/19 c) | Classification | EPS / Fundamentals | Analyst Target | Key Catalyst | Short % | R:R | Action |
+|---|---|---|---|---|---|---|---|---|
+| **RKLB** | **$75.84** | **STRONG BUY SETUP — ARMED #1** | Rev growth intact; Iridium acquisition pending | **$110.65 (22 an.)** · $107.71 (27 an., $60–$135) · $97.70 post-ER avg | **New $12M US Space Force order** (Space Data Network Backbone); Neutron **on pad Q4 2026**, first flight may slip to 2027 — **priced, gate open**; ATM funds Iridium + bridge paydown | **7.77% of float** (7/31) | **6.56:1** (4.12:1 on the conservative $97.70) | **BUY ≤ $79.14 if capital appears.** Do-not-chase $88.52. |
+| **MKSI** | **$281.51** | **STRONG BUY SETUP — ARMED #2** | **Q2 EPS $3.30 beat, rev $1.25B +28.3% y/y**; Q3 guide $3.27–3.89 / $1.3–1.4B | **$385.00 (16 an.)** · **$380.36 (14 an.)** — **1.2% apart** · Citi raised to $430 Buy | BofA's top 2H26 SMID-cap idea; WFE capacity expansion | n/a (not published) | **5.25:1** (5.02:1 conservative) | **BUY ≤ $302.00.** 1.5:1 floor breaks at $353.51. **The genuinely NEW name.** Institutions **99.79%**. |
+| **AEHR** | **$107.91** | **BUY SETUP — GATE OPENS, ARMED #3** ⭐ | **FY27 guide $130–150M rev**, effective backlog **$100.6M** | **$136.67 (7 an.)** · Jefferies init **$175** | **−12.41% on 8/19 with NO company-specific news** — profit-taking after a run, inside a broad semi/AI selloff; **no press release, no filing** | n/a | **3.81:1** ✓ | **BUY ≤ $116.31.** The 8/18 "price above every target" rejection is now **resolved by price, not by waiver.** |
+| **ASTS** | **$66.415** | **BUY SETUP — ARMED #4, reward leg marked down** | Q2 reported 8/10 | **$80.48 (13 an.)** · **$78.48 (11 an.)** · post-Q2: UBS **$80→$78**, BofA **$95→$80**, Piper **$100→$98**, Cantor **$80→$90** | ⚠️ **Second $1B convertible raise this year (−13%)**; **3 of 4 revisions were CUTS** | **18.51–18.96% of float**, 3.3 days to cover | **3.03:1** (2.60:1 conservative) | **BUY ≤ $68.14 — ceiling NOT loosened.** Dropped to #4 on deteriorating targets, not on price. Institutions 60.95%. |
+| **OKLO** | **$42.94** | **WATCH — upgraded, NOT armed** | $1.21M quarterly revenue; burn guide $120–150M | **$84.88–$85.03 (12 an.)**, range **$51–$127** | ⚠️ **The range has materially COMPRESSED**: $14–$175 across 23 an. (12.5x) → **$51–$127 across 12 an. (2.49x)**. Truist cut $55→$51, Hold. | n/a | 13.95:1 nominal | **NOT armed.** The MU-precedent blocker is weakening but **one sample is not the two-agreeing-populated-samples standard MKSI met.** Re-test when a second populated sample corroborates. |
+| **NBIS** | **$223.89** | **AVOID — blocker now doubly confirmed** | Rev growth strong | **$182.75 (15 an.)** vs **$271.85 (8 an.)** — **48.8% apart**; BofA $310, Citi $287, Citizens $270, Cantor $260, DA Davidson **Neutral** $175→$250 | ⚠️ **$4.5B convertible senior notes** ($2.75B 2030 + $1.75B 2034, 144A) → **−9.87%**; plus a share-exchange plan on existing converts | n/a | not computed | **BLOCKED.** Contradictory-target pattern **and** a fresh dilution event. Re-test only on target-range compression. |
+
+**Momentum scan — RUN, and it returned nothing actionable.** Unlike 8/19 this was not skipped. The premarket gainer screen is entirely sub-$1B microcaps (YJ +232.76%, RITR +157.67%, RDAC +134.53%, TNON +113.76%, BTCT +93.62%) plus a stale MRNA print carried over from its cancer-trial rally. **None survives the niche checklist** — no analyst coverage, no institutional base, no computable reward leg — and none is affordable. **Sector-rotation read (Financials/Tech/Health Care leading) offers no entry the book can size.**
+
+**Long-term sleeve candidates — evaluated and REJECTED, for the record.** BofA/Morgan Stanley 2026 picks screened: **LRCX, KLAC, CDNS, MU**. All rejected on the same two grounds: (1) **the long-term sleeve is 7.01 pts OVER its 50% target** — it needs no capital, and adding to it worsens the imbalance the structural finding above describes; (2) **$31.85 buys no share of any of them.** MU additionally remains blocked on the original contradictory-target precedent ($221–$1,502). **VOO fallback did NOT fire** — that triggers only on cash > 5%, and cash is 0.33%.
+
+### Decision — **NO TRADE AT MARKET OPEN.** Every candidate evaluated; the constraint is capital, not conviction.
+The deployment mandate says never end on a HOLD unless every candidate is explicitly evaluated and documented as failing. **Four candidates PASS their checklists.** None is affordable. That is documented below rather than defaulted to.
+
+**1. No buy is compelled.** Cash **0.33% ≤ 5%** ✓ · deployed **99.67%** inside the 95–100% band ✓. Nothing is breached.
+
+**2. No buy is possible.** **$31.85.** The cheapest share on the entire board — held or candidate — is **OKLO at $42.94**, and OKLO is not armed. The cheapest **armed** name is **ASTS at $66.415**. A single share of the priority name (RKLB, $75.84) is **0.79% of equity** — below any size that moves the sleeve and a waste of a position slot and a weekly trade.
+
+**3. No trim is authorised to fund one.** Rejected explicitly, with the reasoning stated so a later session does not re-litigate it: LT Rule 8 permits an exit only on **stop hit or broken thesis**, and neither applies to MSFT, QQQ, VOO or GOOGL. Trimming to cure a sleeve *percentage* would be a real rule violation bought for a cosmetic one — the same trade the ratified entry-sizing rule already forbids in the mirror case.
+
+**4. FOUR ARMED CONTINGENCIES, pre-derived so no re-derivation is needed if cash appears. Priority by R:R. LIMIT orders only. Size to the 10% macro cap (~$954), never above.**
+   1. **RKLB ≤ $79.14** — 6.56:1 at $75.84. Do-not-chase $88.52. Fresh Space Force contract on top of an already-open gate.
+   2. **MKSI ≤ $302.00** — 5.25:1 at $281.51. Cleanest target dispersion on the board (1.2%). **The name that actually closes the sleeve gap.**
+   3. **AEHR ≤ $116.31** — 3.81:1 at $107.91. **New this session.** Ceiling is the standing re-test level, which is exactly where R:R degrades to the 2.5:1 niche floor — not loosened to fit the trade.
+   4. **ASTS ≤ $68.14** — 3.03:1 at $66.415. Demoted to #4 on three of four target cuts and a second convertible raise. Ceiling unchanged.
+
+**5. AVGO is the session's live mechanical decision — $354.32 hard cut, 2.01% away.** −5.09%. Held because the break test is **not** met and today's evidence *strengthens* that: Q3/Q4 consensus is **rising**, TD Cowen reiterates Buy/$500, and Q3 guidance is ~$29.4B (+84% y/y). The cause of the drawdown is real (Google socket to MRVL, BofA's ~$370B AI-financing debt estimate, an exploited VMware vCenter flaw) but none of it is a guidance cut or a consensus revision. **If it trades through $354.32, cut — Rule 3, no exceptions.** Proceeds ~$723 immediately fund **RKLB (9 sh)** per the sweep rule.
+
+**6. Late-session sweep ARMED.** Any stop firing after the midday routine must be redeployed the **same session**. Today's post-midday catalysts: none scheduled after the 5:30 AM PT claims print, but AVGO sits 2.01% from a cut that could fire at any hour.
+
+**7. Standing holds:** MSFT, QQQ, VOO, GOOGL, MRVL, NVDA, TSM, ADI, AVGO. **No trims. No adds. No stop modifications by this routine.**
+
+### Compliance
+**9 positions ≤ 15** ✓ · **6 new entries this week ≤ 25** ✓ (19 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · **MSFT 20.22% — passive mark-drift over the 20% LT cap on a session MSFT *fell*; per the ratified entry-sizing rule this is NOT a violation and requires no trim** · QQQ 14.89%, VOO 14.74%, GOOGL 7.16% ✓ · short-term MRVL 9.65%, NVDA 9.09%, TSM 8.56%, ADI 7.82%, AVGO 7.58% — **all ≤ the 10% macro cap**, all ≤ 15% ✓ · **cash 0.33% ≤ 5%** ✓ · **deployed 99.67%** ✓ · trailing stops GTC on **9/9 positions, 24/24 shares across 13 orders** ✓ · **no stop moved down** ✓ · **no position ≤ −7%** ✓ (worst AVGO −5.09%) · **no position at the +15% rung** ✓ (best MRVL +3.67%) · **0 day trades** ✓ · no margin used ✓.
+
+### Standing Triggers Carried Forward
+- **⚠️ AVGO IS THE BOOK'S WATCH LINE — $354.32 hard cut, 2.01% away** (was 2.46% at yesterday's close). Cut mechanically if touched; sweep proceeds into RKLB the same session.
+- **⚠️ MRVL'S STOP IS $1.17 BELOW COST, NOT ABOVE.** The 8/19 midday and EOD entries recorded this backwards. A stop-out resolves at ~−0.53%. **Do not size or hold on a "cannot lose" premise.**
+- **FOUR ARMED CONTINGENCIES, limits pre-derived:** RKLB ≤ $79.14 (6.56:1) · MKSI ≤ $302.00 (5.25:1) · **AEHR ≤ $116.31 (3.81:1 — NEW)** · ASTS ≤ $68.14 (3.03:1). **All four cleared their gates and none is affordable — this is a capital constraint, not an idea-generation failure, for the third consecutive session.**
+- **OKLO upgraded to WATCH** on a target range that compressed from $14–$175 (23 an.) to $51–$127 (12 an.). **Arm only when a second populated sample corroborates**, per the MKSI standard.
+- **NBIS stays BLOCKED** — 48.8% target dispersion **plus** a $4.5B convertible.
+- **ASTS demoted to #4** on three of four post-Q2 target cuts and a second $1B convertible. Ceiling stays $68.14.
+- **ADI's 3.87% add-on trail is a DELIBERATE deviation** from the 10% default, required by the add-on stop-floor rule. **Do not "correct" it downward.** Its $367.784 leg is now the tightest in the book at **1.40%**.
+- **MSFT ex-div $0.91 today — the gap is the dividend.** $3.64 across 4 shares is a receivable payable 9/10, not a loss.
+- **The `quote` endpoint remains unusable — 12th consecutive session.** Ask = 0 on ASTS, OKLO, MKSI; fabricated 10–15% spreads on RKLB, AEHR, NBIS. `snapshot.latestTrade` + `dailyBar` used for every price above. `bars` returns the OLDEST bars of the session.
+- **Breadth queries must stay US-specifically phrased** — the fix has now held two sessions.
+- **STRUCTURAL: the 50/50 sleeve split is unreachable by any legal action while cash is $31.85 and LT Rule 8 forbids a discretionary trim.** 20 consecutive sessions over target. **P0 for Friday's weekly review.**
+- **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it — three of the phase's largest scheduled risks in a 72-hour window next week.
+- **GOOGL DOJ search remedy remains an unscheduled binary**; no new development in today's source set.
+- **Escalation trigger unfired:** Brent > $95 **or** VIX > 20. Brent $91.86, VIX 15.13.
+
+**Next scheduled routine:** **Thu 8/20 Market-Open ~06:30 AM PT** (**no order to place — verify AVGO against $354.32 first, then confirm the four armed limits are still valid at opening prints** · MSFT's open gap is the $0.91 dividend, do not misread it · jobless claims print at 5:30 AM PT lands before the bell · cash 0.33%, 6/25 trades used · Week 18 Day 4).
