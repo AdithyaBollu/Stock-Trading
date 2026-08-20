@@ -4290,3 +4290,57 @@ Best line is **MRVL +6.74%**, 8.3 pts below the +15% rung. Its intraday high-wat
 - **Escalation trigger unfired:** Brent > $95 **or** VIX > 20 (Brent $91.86, VIX 15.13). The **10% macro sizing cap stays in force** on the hawkish 9–3 minutes and a 5.22% 30-year.
 
 **Next scheduled routine:** **Thu 8/20 Midday ~10:00 AM PT** (**MRVL at +10.17% is the phase's first live trail-tightening candidate — re-check against the $255.42 rung** · AVGO's cut line receded to 3.12% but stays armed · four armed limits all valid and all unaffordable · cash 0.33%, 6/25 trades used · Week 18 Day 4).
+
+---
+
+## 2026-08-20 — Midday Scan (Day 49, Thursday — Week 18 Day 4) — **NO TRADES** · **ZERO CUTS, ZERO TRAILS ELIGIBLE, ZERO TRAILS MOVED** · **MRVL's stop is now $0.36 ABOVE cost** — the overnight ratchet to $222.471 (HWM $247.19) finally lifts the trail above the $222.1075 basis, so the position genuinely can no longer resolve into a loss · **AVGO's hard-cut line eased further to 2.57%** ($363.66 vs $354.32), up on the day · all four armed names re-priced BELOW their limits and $31.85 still buys none — 5th straight session of vetted-but-unaffordable
+
+**Portfolio:** $9,606.96 | **Cash:** $31.85 (0.33%) | **Day P&L:** −$12.53 (−0.13%) | **Phase P&L:** −$393.04 (−3.93%)
+
+| Ticker | Sleeve | Shares | Entry | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) | Action |
+|--------|--------|--------|-------|------|-----------|---------|-----|----------|-------------------|--------|
+| **MSFT** | long-term | 4 | $491.72 | $480.44 | −2.29% | −0.80% | $1,921.76 | **20.00%** | $462.357 (2+1 sh) · $451.206 (1 sh) | HOLD — at the cap on the mark, not a trade |
+| **QQQ** | long-term | 2 | $709.99 | $711.30 | +0.18% | −0.67% | $1,422.60 | 14.81% | $661.122 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $703.71 | +0.56% | −0.45% | $1,407.42 | 14.65% | $644.751 | HOLD |
+| **MRVL** | short-term | 4 | $222.1075 | $241.26 | +8.62% | +1.68% | $965.06 | 10.05% | **$222.471** (HWM $247.19) — **ABOVE cost** | HOLD, no add — 8/27 AMC |
+| **NVDA** | short-term | 4 | $219.61 | $216.53 | −1.40% | −0.47% | $866.12 | 9.02% | $200.583 | HOLD — 8/26 AMC |
+| **TSM** | short-term | 2 | $413.42 | $414.64 | +0.29% | +0.62% | $829.28 | 8.63% | $377.64 | HOLD |
+| **ADI** | short-term | 2 | $382.99 | $377.77 | −1.36% | +1.21% | $755.55 | 7.86% | $370.0428 (1 sh, 3.87% trail) · $357.257 (1 sh) | HOLD |
+| **AVGO** | short-term | 2 | $380.99 | $363.66 | −4.55% | +0.33% | $727.32 | 7.57% | $343.584 · **hard cut $354.32 — 2.57% away** | HOLD — cut unfired |
+| **GOOGL** | long-term | 2 | $352.04 | $339.65 | −3.52% | −1.47% | $679.30 | 7.07% | $327.033 (1 sh) · $315.396 (1 sh) | HOLD |
+
+**Sleeves:** Long-term $5,431.08 = **56.53%** (⚠️ 6.53 pts over — 21st consecutive session) · Short-term $4,143.33 = **43.13%** (6.87 pts under, above the 40% floor, 5 names ≥ the 4-name minimum) · Cash **0.33%** ✓ · Deployed **99.66%** ✓
+
+### Actions Taken (STEPS 2–9)
+- **STEP 2 — live state:** Equity **$9,606.96**, cash **$31.85 = 0.33% ✓**, long MV $9,574.41 = **99.66% deployed** — inside the 95–100% band. No cash flag; nothing compelled.
+- **STEP 3 — cut losers: ZERO.** Worst held is **AVGO −4.55%**, 2.45 pts above the −7% trigger; its session has been *green* (+0.33%). No short-term position within range of the hard cut. Long-term names (GOOGL −3.52% worst) hold — no broken thesis.
+- **STEP 4 — tighten trails: ZERO ELIGIBLE, ZERO MOVED.** Best line MRVL **+8.62%**, 6.4 pts below the +15% rung at **$255.42**. **MRVL's trail ratcheted overnight to $222.471 (HWM $247.19) — now $0.36 ABOVE the $222.1075 cost basis.** The 8/19 "loss-proof" claim, retracted twice for a sign error, is now **genuinely true**: a stop-out today resolves at roughly **+0.16%**. No trail touched by this routine.
+- **STEP 5 — thesis check:** no intraday thesis break — no guidance cut, news reversal, or sector collapse on any held name. AVGO's break test remains unmet (consensus still rising into 9/2). No discretionary cut.
+- **STEP 6 — sleeve/cash:** cash **0.33% ≤ 5% ✓** — no buy compelled, **no VOO fallback** (fires only > 5%). Short-term 6.87 pts under target is a **capital constraint, not idea generation** — four vetted names armed, all re-priced below limit, cheapest (ASTS $63.36) is **2.0× the entire $31.85 balance**. **No trim to fund an entry** — LT Rule 8 forbids exiting a compliant, stop-protected holding to cure a sleeve percentage. Structural finding stands as Friday's P0.
+- **STEP 7 — research: SKIP.** Nothing held moving sharply (largest daily mover GOOGL −1.47%); cash not > 5%. No addendum.
+- **STEP 8 — Discord: SKIP** — no action taken; the routine notifies on execution only.
+- **STEP 9 — commit/push:** this entry, committed and pushed directly to `main` per CLAUDE.md. Session merged to `main` before any broker call.
+
+### Armed Contingencies — re-priced at midday, all four still valid, priority unchanged
+| # | Ticker | Limit | Midday | R:R vs limit | Status |
+|---|---|---|---|-----|--------|
+| 1 | **RKLB** | ≤ $79.14 | **$72.135** (−4.89%) | strongest | ✓ inside — do-not-chase $88.52 |
+| 2 | **MKSI** | ≤ $302.00 | **$278.86** (−0.94%) | the NEW name that closes the sleeve gap | ✓ inside |
+| 3 | **AEHR** | ≤ $116.31 | **$103.035** (−4.52%) | gate opened 8/20 | ✓ inside |
+| 4 | **ASTS** | ≤ $68.14 | **$63.36** (−4.60%) | ceiling NOT loosened | ✓ inside |
+
+**Funding rule if capital appears:** LIMIT orders only, size to the 10% macro cap (~$961). If AVGO's $354.32 cut fires, ~$727 proceeds sweep into RKLB the same session.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **6 new entries this week ≤ 25** ✓ (19 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · **MSFT 20.00% — at the LT cap on the mark; passive drift, not a violation, no trim** ✓ · QQQ 14.81%, VOO 14.65%, GOOGL 7.07% ✓ · short-term **MRVL 10.05% — passive mark-drift over the 10% macro cap, NOT a violation**; NVDA 9.02%, TSM 8.63%, ADI 7.86%, AVGO 7.57%, all ≤ 15% ✓ · **cash 0.33% ≤ 5%** ✓ · **deployed 99.66%** ✓ · trailing stops GTC on **9/9 positions, 24/24 shares across 13 orders** ✓ · **no stop moved down** ✓ · **no position ≤ −7%** ✓ (worst AVGO −4.55%) · **no position at the +15% rung** ✓ (best MRVL +8.62%) · **0 day trades** ✓ · **no margin used** ✓.
+
+### Standing Triggers Carried Forward
+- **AVGO $354.32 hard cut — 2.57% away, green on the day.** Cut if touched, no exceptions; sweep into RKLB the same session.
+- **MRVL's stop is now $0.36 ABOVE cost ($222.471 vs $222.1075).** The position is finally loss-proof at ~+0.16%. It reaches the +15% trail-tightening rung at **$255.42**; nearest candidate in the book.
+- **FOUR ARMED CONTINGENCIES, all re-verified inside their limits at midday.** 5th straight session every vetted idea passes and none is affordable — the constraint is the balance sheet.
+- **OKLO WATCH (not armed); NBIS BLOCKED.** **ADI's 3.87% add-on trail is a DELIBERATE deviation — do not "correct" it downward.**
+- **The `quote` endpoint remains unusable — 13th+ consecutive session.** `snapshot.latestTrade` + `dailyBar` used throughout.
+- **STRUCTURAL: the 50/50 split is unreachable by legal action** while cash is $31.85 and LT Rule 8 forbids a discretionary trim. **P0 for tomorrow's weekly review.**
+- **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it. **AVGO 9/2.** Escalation trigger unfired (Brent $91.86 < $95, VIX 15.13 < 20) — 10% macro sizing cap stays in force.
+
+**Next scheduled routine:** **Thu 8/20 EOD ~1:15 PM PT** (**AVGO 2.57% from its hard cut — sweep proceeds into RKLB if it fires** · MRVL now stop-protected above cost, watch the $255.42 rung · four armed limits valid and unaffordable · cash 0.33%, 6/25 trades used · Week 18 Day 4).
