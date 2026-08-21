@@ -38,6 +38,20 @@ Sleeve targets and per-position caps are jointly satisfiable **only above a mini
 - If no new name clears its checklist, the shortfall is logged as an idea-generation failure — not a sizing failure — and the next session's P0 is finding one.
 - Evidence: short-term sleeve under target 9 consecutive sessions (8/4–8/14) with only 3 names and every add breaching the 15% cap on a single share.
 
+### Discretionary Sizing Caps Must Name a Trigger, and They LAPSE (ratified 2026-08-21, Week 18)
+A sizing cap **tighter than the sleeve cap** (e.g. a "10% macro cap") is only in force while its trigger is live.
+- The cap must **state its exact trigger condition** (e.g. "Brent > $95 or VIX > 20") and be **re-tested and recorded every pre-market session**.
+- **If the trigger has not fired for 5 consecutive sessions, the cap LAPSES** back to the sleeve cap (15% short-term / 20% long-term). Re-imposing it requires the trigger to actually fire.
+- The **10% binary-event cap (Short-Term Rule 6) is independent and unaffected** — it is triggered by a dated earnings print inside the hold horizon, not by a market condition, and never lapses on a session count.
+- A lapsed cap authorises **larger sizing on NEW non-reporting names only**. It never authorises adding to a name that reports inside the hold horizon.
+- Evidence: the 10% macro cap bound every short-term entry 8/18–8/21 while **Brent peaked at $93.82 against a $95 trigger and VIX ranged 14.52–15.86 against a 20 trigger — the trigger fired on zero sessions.** Six names × ~10% ≈ 43% is arithmetically the sleeve's ceiling under it, and the sleeve finished the week at 42.92%.
+
+### Sleeve Shortfalls Require a Reachability Check Before They Are Logged (ratified 2026-08-21, Week 18)
+Before recording a sleeve as "under target," compute **max reachable = (number of names) × (binding per-position cap).**
+- If **max reachable < target**, the shortfall is a **CAP problem, not a NAME problem.** The session must then either (a) name the binding cap and test whether its trigger is live per the rule above, or (b) add a name.
+- **A sleeve may not be logged as "structurally unreachable" for more than 3 consecutive sessions without escalating the cap question to the weekly review.**
+- Evidence: 24 consecutive sessions (7/17–8/21) of "long-term over / short-term under," each correctly declining a Rule-8-barred trim, and **none testing whether the binding cap was legitimately in force.**
+
 ---
 
 ## Sleeve 1 — Long-Term (50%)
@@ -203,3 +217,7 @@ When adding shares to a name already held, set the new lot's trail so its stop s
 - Short-term sleeve < 50%: find an earnings play, momentum name, or niche setup — **a NEW name, per the minimum-position-count rule above**
 - Under-deployment is a failure mode every single time it occurs.
 - **Late-session sweep (added 2026-08-14):** if a stop fires **after the midday routine**, the released cash must be redeployed the **same session** — do not leave proceeds idle into the close. Stops fire on the market's clock, not the routine calendar. Evidence: 8/11 GOOGL stop proceeds ($1,381.00) landed 11:43 AM PT into an unscheduled window and sat overnight into the CPI print — the phase's first cash-test failure after 41 consecutive passes.
+- **The EOD routine OWNS the late-session sweep (ratified 2026-08-21, Week 18).** The rule above had no numbered step in any routine and failed twice from the same schedule hole. It is now an explicit EOD step:
+  - **EOD must check whether any stop filled after the midday routine.** If one did, EOD **places the redeploy order in the same session** — as a **next-open LIMIT at the pre-derived rule-compliant price** when the market has already closed. A queued next-open limit satisfies the sweep; idle proceeds do not.
+  - The redeploy target is the **highest-R:R name on the armed board** that the proceeds can afford at a compliant size, using the ceiling already derived in that day's research — not a fresh derivation at 1:15 PM.
+  - Evidence: **two failures from the identical hole** — 8/11 GOOGL ($1,381.00, 11:43 AM PT) and 8/20 ADI ($370.11, 12:55 PM PT) — separated by a weekly review that made closing it a dated P0 and did not. A remedy that lives in a review bullet rather than a routine step does not get executed.
