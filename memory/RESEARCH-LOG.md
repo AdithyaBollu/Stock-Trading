@@ -11254,3 +11254,37 @@ The deployment mandate says never end on a HOLD unless every candidate fails. **
 - **GOOGL DOJ search remedy is on appeal, both ways** — Google appealed January 2026, DOJ/states cross-appealed February seeking stronger remedies. Behavioural, not structural; **no divestiture of Chrome or Android ordered.** Unscheduled binary, no new development today.
 
 **Next scheduled routine:** **Fri 8/21 Market-Open ~06:30 AM PT** (**EXECUTE: BUY 5 RKLB LIMIT $77.00, then place the 10% trailing stop GTC** · **CHECK MRVL AGAINST $255.42 FIRST — it is 0.48% away and the 7% replacement trail is pre-derived at $237.54** · AVGO 3.84% from its cut · S&P Global flash PMIs are the session's only scheduled US print · cash 4.14% → ~0.3% after the trade, 6/25 → 7/25 entries · Week 18 Day 5 · **the weekly review this afternoon owns two P0s: the sleeve-structure gap (22 sessions) and the second late-session sweep failure**).
+
+### 2026-08-21 — Afternoon Addendum (Midday Scan, ~09:15 AM PT) — **MRVL −6.47%: cause identified, thesis INTACT** · **the $255.42 trail rung missed by $3.16 on the day high** · **ASTS's gate CLOSES above its ceiling** · **RKLB filled at $74.55 and is the 6th short-term name** · no new setups, and no capital to take one ($29.18)
+
+**Why this addendum exists:** STEP 7 fires when a held name is moving sharply. MRVL is **−6.47%** intraday, the largest single-name move in the book this session, and it is the name that was 0.48% from the phase's first trail-tightening at the pre-market. Cause had to be established before Rule 5 could be answered.
+
+**1. MRVL — intraday move diagnosed. NOT a thesis break.**
+- **Move:** open $252.225 → day high **$252.26** → low **$233.33** → last **$234.78**, **−6.47%** on 344,618 shares. Still **+5.71%** on the position.
+- **Cause (Perplexity, 8/21):** **profit-taking after the rally sparked by the expanded Google custom-chip partnership (~$12.2B)**, amplified by a **broad semiconductor de-risking** and **rate pressure on high-multiple AI names** (30-year 5.25%). Caution ahead of the **8/27 AMC** print is cited as a secondary contributor.
+- **Explicitly checked and ABSENT:** guidance cut · revised consensus · downgrade · any company-specific headline (WSJ market-data shows no significant MRVL news). Multiple sources independently characterise the move as **sector/macro-driven, not event-driven**.
+- **Verdict: Rule 5 NOT met. HOLD, no cut, no add.** The 8/27 AMC print is the real event and it is unchanged. Sizing into an AMC binary remains forbidden.
+- **Risk note:** MRVL now sits **3.20% above its own $227.268 stop** — the tightest gap in the book. Stop is **$5.16 ABOVE** the $222.1075 cost, so a fire resolves at ~**+2.32%** with ~**$909** to sweep the same session.
+
+**2. The trail-tightening rung was missed by $3.16 — and the miss is documented, not glossed.**
+- Pre-market marked MRVL at **$254.19 = +14.44%**, 0.48% from the **$255.42** trigger. The regular session opened *above* that mark at **$252.225** and the **day high was $252.26** (broker HWM on order `88a2c3ab`: **$252.52**).
+- **$255.42 was never printed.** The tightening is **armed and unfired**, not deferred and not missed by process. Trigger, replacement trail (7%) and resulting stop (**$237.54**) stand pre-derived for whichever routine sees the print.
+
+**3. RKLB — the queued entry executed and is now a position.**
+- **Filled 5 sh @ $74.55, 06:37:38 PT**, against a $77.00 limit and a $79.14 ceiling. **10% trailing stop GTC placed on all 5 shares** (`cc18f215`, stop $67.4235, HWM $74.915).
+- Day: open $74.05, high $74.93, low **$71.465**, last $74.24 — **−0.42%** on the position, and the fill sits comfortably above the session low.
+- **Manual −7% hard cut = $69.33**, which binds **above** the trailing stop. Do-not-chase $88.52.
+- This closes the six-session capital drought and **remedies the 8/20 late-session-sweep failure**: the $370.11 released at 12:55 PM PT was fully redeployed at the next open into the board's highest-R:R name.
+
+**4. Armed board re-priced at midday — one gate closed.**
+
+| Ticker | Ceiling | Midday | Chg | Status |
+|--------|---------|--------|-----|--------|
+| **MKSI** | ≤ $302.00 | **$279.17** | −0.93% | ✓ inside — **promoted to ARMED #1** (5.25:1, 1.2% target dispersion across two sets) |
+| **AEHR** | ≤ $116.31 | **$100.01** | **−5.53%** | ✓ inside by $16 — **but stays DEMOTED**; the $68 (Craig Hallum) vs $175 (Jefferies) spread is 157% and a cheaper price does not resolve a contradictory reward leg |
+| **ASTS** | ≤ $68.14 | **$68.305** | **+5.00%** | 🔴 **GATE CLOSED — trading THROUGH the ceiling.** The ceiling is **not** loosened to accommodate the print. Re-test only on a move back inside |
+| **OKLO** | — | $42.55 | +2.17% | **UNARMED** — the 8/21 sample ($14–$140 / 25 an.) contradicted the 8/20 sample ($51–$127 / 12 an.); the MU-precedent blocker holds |
+
+**5. No new setups were sought, and the reason is capital.** The momentum-scan half of STEP 7 fires on **cash > 5%**; cash is **$29.18 = 0.30%**. The cheapest armed share (MKSI $279.17) is **9.6x** the entire balance. Adding a seventh vetted-but-unaffordable idea to the board would be idea-generation theatre — the binding constraint is the balance sheet, as it has been for most of this phase.
+
+**6. Book-keeping finding for the weekly review.** The TRADE-LOG contains **no 8/20 EOD entry and no 8/21 market-open entry**, yet the broker shows the market-open RKLB order placed and filled. **The trade and its stop are real; only the record was missing.** Both are reconciled in today's midday TRADE-LOG entry. **P0 for this afternoon's review alongside the 23-session sleeve-structure gap.**
