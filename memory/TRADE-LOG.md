@@ -4344,3 +4344,82 @@ Best line is **MRVL +6.74%**, 8.3 pts below the +15% rung. Its intraday high-wat
 - **Jackson Hole Aug 27–29** with **NVDA 8/26** and **MRVL 8/27** inside it. **AVGO 9/2.** Escalation trigger unfired (Brent $91.86 < $95, VIX 15.13 < 20) — 10% macro sizing cap stays in force.
 
 **Next scheduled routine:** **Thu 8/20 EOD ~1:15 PM PT** (**AVGO 2.57% from its hard cut — sweep proceeds into RKLB if it fires** · MRVL now stop-protected above cost, watch the $255.42 rung · four armed limits valid and unaffordable · cash 0.33%, 6/25 trades used · Week 18 Day 4).
+
+---
+
+## 2026-08-21 — Market Open (Day 50, Friday — Week 18 Day 5) — **TRADE EXECUTED: BUY 5 RKLB @ $74.55** · **THE SIX-SESSION CAPITAL DROUGHT BREAKS AND THE OVERNIGHT SWEEP FAILURE IS REMEDIED IN THE FIRST SIX MINUTES** · the $401.93 that sat idle from yesterday's 12:55 PM ADI stop-out is deployed at 06:39 AM PT · **a genuinely NEW 6th short-term name — the rule-mandated remedy for a sleeve that broke its 40% floor overnight** · short-term 39.64% → **43.34%**, cash 4.16% → **0.30%**, deployed **99.70%** · **MRVL did NOT reach its rung** — it opened $252.23, faded to $246.16 = **+10.83%**, and the pre-derived 7% trail at $237.54 stays armed, unfired · **ASTS fails its ceiling for the first time** ($69.27 vs $68.14) and comes off the armed board
+
+**Portfolio:** $9,667.49 | **Cash:** $29.18 (0.30%) | **Day P&L:** +$34.00 (+0.35%) | **Phase P&L:** −$332.51 (−3.33%)
+
+| Ticker | Sleeve | Shares | Entry | Last | Unreal. % | Today % | MV | % Equity | Trail stop (live) | Action |
+|--------|--------|--------|-------|------|-----------|---------|-----|----------|-------------------|--------|
+| **MSFT** | long-term | 4 | $491.72 | $483.82 | −1.61% | +0.55% | $1,935.26 | **20.02%** | $462.357 (2+1 sh) · $451.206 (1 sh) | HOLD — over the cap on the mark, not a trade |
+| **QQQ** | long-term | 2 | $709.99 | $711.84 | +0.26% | +0.13% | $1,423.68 | 14.73% | $661.122 | HOLD |
+| **VOO** | long-term | 2 | $699.81 | $703.12 | +0.47% | +0.30% | $1,406.24 | 14.55% | $644.751 | HOLD |
+| **MRVL** | short-term | 4 | $222.1075 | $246.16 | +10.83% | −1.93% | $984.64 | 10.19% | **$227.268** (HWM $252.52) — **$5.16 above cost** | HOLD — rung unfired, 3.62% away |
+| **NVDA** | short-term | 4 | $219.61 | $217.34 | −1.03% | +0.23% | $869.36 | 8.99% | $200.583 | HOLD — 8/26 AMC |
+| **TSM** | short-term | 2 | $413.42 | $421.20 | +1.88% | +1.25% | $842.41 | 8.71% | $383.11191 | HOLD |
+| **AVGO** | short-term | 2 | $380.99 | $372.82 | −2.14% | +2.42% | $745.64 | 7.71% | $343.584 · **hard cut $354.32 — 4.96% away** | HOLD — cut unfired, line widened a 4th session |
+| **GOOGL** | long-term | 2 | $352.04 | $341.78 | −2.91% | +0.33% | $683.56 | 7.07% | $327.033 (1 sh) · $315.396 (1 sh) | HOLD |
+| **ADI** | short-term | 1 | $372.29 | $374.88 | +0.69% | +1.25% | $374.88 | 3.88% | $357.25671 | HOLD — surviving leg, do not re-enter |
+| **RKLB** | short-term | **5** | **$74.55** | $74.65 | +0.13% | +2.33% | $373.25 | 3.86% | **$67.347** (HWM $74.83, 10%) | **NEW — filled 06:39 AM PT** |
+
+**Sleeves:** Long-term $5,448.74 = **56.36%** (⚠️ 6.36 pts over — 23rd consecutive session) · Short-term $4,190.17 = **43.34%** (**recovered off the 39.64% floor breach**, 6 names ≥ the 4-name minimum) · Cash **0.30%** ✓ · Deployed **99.70%** ✓
+
+### Trade Executed
+
+| Field | Value |
+|-------|-------|
+| Date / time | 2026-08-21, 06:39 AM PT |
+| Ticker | **RKLB** (Rocket Lab) |
+| Sleeve | **short-term / niche-speculative** |
+| Side | BUY |
+| Shares | **5** |
+| Order | LIMIT $77.00, day TIF — **not** a market order, per the stale-quote discipline |
+| Fill | **$74.55** — $2.45 (3.18%) inside the ceiling |
+| Cost | **$372.75** = **3.86%** of equity |
+| Stop | **10% trailing GTC, order `cc18f215`**, initial $67.095, already ratcheted to **$67.347** (HWM $74.83) |
+| Hard cut | **−7% ≈ $69.33** from the fill |
+| Target | **$110.65** (22-analyst aggregate, held flat while price fell) |
+| R:R | **7.01:1** vs the $77.00 limit — improved for the right reason: the reward leg widened, the risk leg did not narrow |
+| Thesis | Neutron cadence + satellite-components backlog; entry sits **5.5% below** the $78.40–$78.90 zone where the 8/18 trail exited 13 shares — re-entry at a better basis, not a chase. Do-not-chase line $88.52. |
+
+### Actions Taken (STEPS 1–9)
+- **STEP 1 — memory:** strategy, today's RESEARCH-LOG entry (present, full 7-point niche work on RKLB), TRADE-LOG tail all read. Plan inherited intact: MRVL rung first, then RKLB.
+- **STEP 2 — live state:** Equity **$9,671.46**, cash **$401.93 = 4.16%**, 9 positions, 23/23 shares stopped. `daytrade_count` is **absent from this account payload** — no same-day round trip was placed, so PDT is not implicated by an entry-plus-GTC-stop.
+- **STEP 3 — MRVL rung checked FIRST, as mandated: NOT ELIGIBLE.** Open $252.225, high $252.26, last **$246.16 = +10.83%** — **3.62% below** the $255.42 trigger, and moving *away* from it through the first ten minutes. **No trail touched.** The 7% replacement at **$237.54** stays pre-derived and armed for midday.
+- **STEP 3b — hard-check on RKLB: ALL CLEAR, no gate failed.** 10 positions ≤ 15 ✓ · 7 entries this week ≤ 25 ✓ · 3.86% ≤ the 10% macro cap and the 15% short-term cap ✓ · full 7-point research in today's RESEARCH-LOG ✓ · 7.01:1 ≥ the 2.5:1 niche bar ✓ · $74.83 last ≤ $77.00 ceiling ✓ · worst-case 5 × $77.00 = $385.00 ≤ $401.93 cash, **no margin drawn** ✓.
+- **STEP 3c — spread gate PASSED on its own merits, no override needed.** Bid/ask $74.28/$75.05 = **1.03%**, 100×100 — the first session in 15 the `quote` endpoint returned a usable book on the traded name. Corroborated anyway: 1-minute bars show **1,064 prints in the opening minute** and continuous trade inside $73.37–$74.56.
+- **STEP 4 — execute:** no long-term entry compelled (cash covered exactly one idea). RKLB LIMIT $77.00 placed, filled **5 @ $74.55** on the first poll.
+- **STEP 5 — stop placed immediately on fill.** RKLB is a **new** name — no existing lot — so the **standard 10%** applies; the add-on stop-floor rule is not engaged. **28/28 shares stopped GTC across 13 orders.**
+- **STEP 6 — cash verified after the trade: $29.18 = 0.30% ≤ 5% ✓.** No VOO fallback fires. Nothing further affordable: the cheapest armed name (AEHR $103.76) is **3.6× the entire balance**.
+- **STEP 7 — this entry.**
+- **STEP 8 — Discord: SENT** (execution occurred).
+- **STEP 9 — committed and pushed.**
+
+### Armed Contingencies — re-priced at the open
+| # | Ticker | Limit | Open print | Status |
+|---|--------|-------|-----------|--------|
+| — | **RKLB** | ≤ $77.00 | **$74.83** | ✅ **EXECUTED @ $74.55** |
+| 1 | **MKSI** | ≤ $302.00 | **$284.00** (−0.94% vs limit basis) | ✓ inside — **unaffordable**, now the top-priority NEW name |
+| 2 | **AEHR** | ≤ $116.31 | **$103.76** | ✓ inside — **unaffordable**, DEMOTED on the $68-vs-$175 dispersion flag |
+| 3 | **ASTS** | ≤ $68.14 | **$69.27** | ❌ **FAILS — first ceiling breach of the phase.** Ceiling NOT loosened. Off the board until it re-prices under $68.14. |
+
+### Compliance
+**10 positions ≤ 15** ✓ · **7 new entries this week ≤ 25** ✓ (ADI 8/17 · MRVL/NVDA/TSM/AVGO 8/18 · ADI add 8/19 · **RKLB 8/21**; 18 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · **MSFT 20.02% — passive mark-drift 0.02 pts over the LT cap on a session MSFT *rose*; per the ratified entry-sizing rule this is NOT a violation and requires no trim** · QQQ 14.73%, VOO 14.55%, GOOGL 7.07% ✓ · short-term **MRVL 10.19% — passive mark-drift over the 10% macro cap, NOT a violation**; NVDA 8.99%, TSM 8.71%, AVGO 7.71%, ADI 3.88%, **RKLB 3.86% sized at entry** ✓, all ≤ 15% ✓ · **cash 0.30% ≤ 5%** ✓ · **deployed 99.70%** ✓ · trailing stops GTC on **10/10 positions, 28/28 shares across 13 orders** ✓ · **no stop moved down** ✓ · **no position ≤ −7%** ✓ (worst GOOGL −2.91%) · **no position at the +15% rung** ✓ (best MRVL +10.83%) · **0 day trades** ✓ · **no margin used** ✓ · ✅ **the 8/20 late-session sweep failure is REMEDIED — proceeds redeployed in the first session that could act on them.**
+
+### Standing Triggers Carried Forward
+- **⭐ MRVL TRAIL TIGHTENING — TRIGGER $255.42, now 3.62% away after fading from a $252.26 open.** Cancel `88a2c3ab` (4 sh, 10%, stop $227.268) → replace with **7% trail, 4 sh, GTC**, stop **$237.54**. **Next rung +20% at $266.53 → 5%.** **Any routine that sees the print owns it — midday first.**
+- **MRVL's stop is $5.16 ABOVE cost** ($227.268 vs $222.1075) after the overnight ratchet to a $252.52 HWM — a stop-out resolves at **+2.32%**. Verified against the live broker order.
+- **RKLB: 10% trail `cc18f215` at $67.347. Hard cut −7% ≈ $69.33. Do-not-chase $88.52.** Do not add — the 10% macro cap allows ~$967 but there is no cash, and a second lot would engage the add-on stop-floor rule.
+- **AVGO $354.32 hard cut — 4.96% away, widened a 4th straight session on a +2.42% day.** Cut mechanically if touched; sweep proceeds into **MKSI (1 sh)** the same session.
+- **ADI is a 1-share position at a $372.29 basis, $357.257 stop. Do not re-enter to "undo" the 8/20 stop-out** — mechanical exit, thesis (Q4 guide above consensus) intact.
+- **MKSI ≤ $302.00 is now the sole top-priority armed name** — it is also the NEW long-term-eligible name that would close the sleeve gap. **AEHR ≤ $116.31 demoted. ASTS OFF THE BOARD on a ceiling breach.**
+- **OKLO STAYS UNARMED** — second sample contradicted the first ($14–$140 across 25 vs $51–$127 across 12); MU-precedent blocker holds despite Groves first criticality 8/6. **NBIS BLOCKED** — 134% target spread plus a $4.5B convertible.
+- **The `quote` endpoint returned a CLEAN 1.03% book on RKLB today — the 15-session unusable streak is broken on this name.** It stayed wide elsewhere (ASTS 10.8%, AVGO 3.5%), so `snapshot.latestTrade` + `dailyBar` remain the default price source and the override discipline stays in force.
+- **STRUCTURAL: long-term 56.36%, 23rd consecutive session over target,** unreachable by legal action while LT Rule 8 forbids a discretionary trim. **P0 for THIS AFTERNOON's weekly review.** The short-term side of the gap narrowed on its own today — the RKLB entry moved the sleeve 39.64% → 43.34% — so the remaining imbalance is now **entirely** a long-term-overweight problem, not a two-sided one.
+- **Brent ~$93.82, 1.26% from the $95 escalation trigger** on US–Iran escalation. VIX 15.70 NEUTRAL, 30-year 5.25%. **The 10% macro sizing cap stays in force.**
+- **Jackson Hole Aug 27–29** with **NVDA 8/26 AMC** and **MRVL 8/27 AMC** inside it. **AVGO 9/2 AMC.**
+- **US–China at MEDIUM WATCH** on the 15% polysilicon tariff; six of ten positions are semis. **GOOGL DOJ remedy on appeal both ways** — behavioural, no divestiture, unscheduled binary.
+
+**Next scheduled routine:** **Fri 8/21 Midday ~10:00 AM PT** (**MRVL's $255.42 rung is the standing P0 — 3.62% away, the 7% replacement is pre-derived at $237.54** · AVGO 4.96% from its cut · RKLB's fresh 10% trail needs no action before it ratchets · cash 0.30% leaves nothing to deploy and MKSI at $284 is 9.7× the balance · **the weekly review this afternoon owns the 23-session long-term overweight as its sole remaining P0 — the sweep failure is closed**).
