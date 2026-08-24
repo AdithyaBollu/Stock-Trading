@@ -11465,3 +11465,73 @@ The late-session sweep rule requires stop proceeds to be redeployed the same ses
 - **STRUCTURAL: long-term 57.07% vs a 50% target — 25th consecutive session.** LT Rule 8 bars a discretionary trim; cash is $29.17. **NEW THIS SESSION: the short-term shortfall is now diagnosed as a CAPITAL problem, not a cap problem and not a name problem** — 6 names × the lapsed 15% cap = 90% max reachable, comfortably above the 50% target.
 
 **Next scheduled routine:** **Mon 8/24 Market-Open ~06:30 AM PT** (**NO ORDERS QUEUED — cash $29.17** · **three mechanical triggers inside 3%: MRVL 0.93% from its stop, AVGO 2.88% from its hard cut, RKLB 2.98% from its manual cut** · **if any fires, the sweep is pre-derived: RKLB LIMIT $74.00 with a ~5.66% add-on trail, NOT MKSI, because the semi-freeze holds to 8/26** · MRVL's $255.42 tightening armed but 11.34% away · **the 10% macro cap has LAPSED to 15%; the binary-event cap and the semi-freeze both still bind** · 0/25 entries used, Week 19 Day 1).
+
+## 2026-08-24 — Midday Intraday Addendum (Week 19 Day 1, Monday, ~09:20 AM PT — **two queries, and the first one CORRECTS this morning's own 7-point research on the name it was about to add to** · ASTS's Q2 EPS miss was **141%, not the 8.7% revenue miss the market-open entry recorded** · today's −5% is **space-sector beta**, not a company event, so Rule 5 fails and the add proceeds · **the momentum scan found nothing fundable and says so** · **the reachability check returns a NEW answer for the first time in 27 sessions: the short-term shortfall is a FREEZE problem, not a capital problem, because MKSI became affordable today**)
+
+### Why this addendum exists
+STEP 7 fires on *something moving sharply* or *cash > 5%*. **Both were true at the start of the session** — the RKLB hard stop filled at **06:44:24 PT** and pushed cash to **$608.21 = 6.41%**, and **ASTS was −4% from its own open** on the day after it was bought. The cash condition was cured by the sweep before the scan ran; the sharp-move condition drove the query that mattered.
+
+### Query 1 — ASTS intraday, run BEFORE the add (this is the order that matters)
+**Query:** `ASTS AST SpaceMobile stock down today August 24 2026 intraday move reason news catalyst downgrade`
+
+| Point | Finding |
+|-------|---------|
+| **Same-day company headline** | **None.** No guidance cut, no downgrade dated 8/24, no litigation, no filing, no operational reversal. |
+| **Today's actual driver** | **Space-sector beta.** The one 8/24-dated source has **SpaceX −3%, AST SpaceMobile −3%, Rocket Lab −2% together**, selling **Trump's 1,000-launch-by-2030 memo** as *execution risk over policy optimism.* Both space names in and formerly in this book fell in the same print. |
+| **Background drags (all pre-existing)** | Q2 miss · **$1.15B convertible** dilution overhang · 45-satellite rollout pushed from this year into next. **All three were already inside the 06:39 research.** |
+| **Live prints cross-checked** | Broker `latestTrade` **$64.13** (16:21:14Z) · MarketWatch **$65.05 −5.25%** (11:25 ET) · MarketBeat **$64.76 −5.66%** (11:54 ET). **Three sources agree the move is real** — not a stale-feed artifact. |
+| **Unchanged fundamentals** | **FY26 guide $150–200M reiterated** · contracted commitments **>$1.2B** · backlog **~$1.3B** · BlueBird 11/12/13 launched 8/5 · three funded US government awards **>$100M**. |
+
+**Verdict: Rule 5 NOT met. Sector beta is not a broken thesis. HOLD, and the add proceeds.**
+
+### 🔴 CORRECTION TO TODAY'S OWN MARKET-OPEN 7-POINT RESEARCH
+The 06:39 entry recorded ASTS's fundamentals leg as *"Q2'26 revenue $31.5M, a miss vs ~$34.5M"* — **and omitted the EPS line entirely.**
+- **Actual Q2: adjusted −$0.77/share against a −$0.32 consensus. A 141% miss.** The revenue miss was 8.7%; the earnings miss was sixteen times larger in percentage terms, and **the entry that authorised a 6.92% position did not contain it.**
+- Second correction: the convertible is **$1.15B priced**, not the *"second $1B raise this year"* recorded this morning. One source also puts trailing insider selling **>$451M** and describes **five consecutive earnings misses**.
+- **This is a research-quality failure, not a trade failure.** The characterisation (*high-short-interest, pre-scale, dilution overhang, Street rating Hold*) was directionally right and the position is still justified on R:R and funded catalysts. **But a 141% EPS miss is exactly the datapoint a 7-point checklist exists to surface, and point 1 was recorded on the flattering half of the print.** Logged here at full size rather than left to a later session to find.
+- **Process note for the rulebook:** the 06:39 research was assembled under time pressure inside a 6-minute cash-breach cure. **That is when a checklist is most likely to be recorded selectively, and it is exactly when it must not be.**
+
+### Query 2 — momentum scan, and the honest result is NOTHING
+**Query:** `best momentum stocks breaking out today August 24 2026 under $280 per share non-semiconductor intraday leaders`
+
+| Candidate | Disposition |
+|-----------|-------------|
+| **VTM** +8.17% | 🔴 **REJECTED** — sourced from a **non-US breakout board**. Not this market. |
+| **SDOT** +105% | 🔴 **REJECTED** — extended microcap, un-vettable, not a breakout entry. |
+| **KGS** (Kodiak Gas) | 🔴 **REJECTED** — appears only on a monthly "best stocks" list. **No 7-point research, no computable reward leg.** |
+| **ALAB** (Astera Labs) | 🔴 **REJECTED** — semiconductor-adjacent, **blocked by the semi-freeze regardless of merit.** |
+| **MKSI** | 🔒 **FROZEN** — surfaced again on momentum/growth grades. Same name, same block. |
+
+**Result: zero fundable names.** The scan is recorded as *found nothing*, not as *found something it could not fund* — with $287.56 of budget and a full research checklist required, those are different statements and only the first is true.
+
+### 🔴 The reachability check changes its answer for the first time in 27 sessions
+Every session since 7/17 has run this check and concluded **"capital problem."** Today it does not.
+- **5 short-term names × 15% sleeve cap = 75% max reachable** vs a 50% target → **not a cap problem.** 5 names ≥ the 4-name minimum → **not a name-count problem.**
+- **Cash after the sweep is $287.56. MKSI last traded $273.62.** **For the first time in the phase, the top-ranked armed name is affordable** — the arithmetic that produced "capital problem" for 27 straight sessions no longer holds.
+- **MKSI was not bought.** It is **semiconductor capital equipment**, and the weekly review's **semi-freeze blocks new semi exposure until after NVDA's 8/26 AMC print.** Five of nine positions are already semis into that print; a sixth 48 hours ahead of it is precisely what the freeze exists to prevent.
+- **So the binding constraint on the short-term sleeve today is a DISCRETIONARY FREEZE, not the balance sheet.** That is recorded as a **cost of the freeze**, not as a free option.
+- **The freeze is not subject to the 5-session lapse rule** — that rule governs *market-condition* sizing caps (like the 10% macro cap retired 8/21). This is an **event freeze with a dated, self-terminating expiry.** ⚠️ **But if it is extended past 8/26, the extension needs its own stated trigger and its own lapse date, per the 8/21 ratification. Re-test MKSI on 8/26 after the print.**
+
+### Tape context
+| Instrument | Today |
+|-----------|-------|
+| **VOO** | **−0.11%** |
+| **QQQ** | **−0.65%** |
+| **Book** | **−1.21%** |
+
+**The book is losing to the S&P by 1.10 pts intraday and to the Nasdaq by 0.56.** The attribution is not one line this time — **seven of nine positions are red**, with NVDA −4.03% and AVGO −4.75% the deepest, i.e. **the semi cluster into NVDA's print is where the damage is.** That is the same five-of-nine concentration the semi-freeze was written about, and it is currently working against the book. **No defensive action taken:** no position is within 2.2 pts of a −7% cut, no thesis is broken, and the trailing stops are the resolving mechanism.
+
+### ⚠️ Data-quality — BOTH price endpoints are now compromised
+- **`quote`: 20th consecutive unusable session.** At 09:21 it printed **bid $63.70 / ask $67.49 on a 100x100 book — a 5.9% fabricated spread — while trades printed $64.13.**
+- 🔴 **`bars`: failed for a SECOND consecutive session.** Requested 15× 1-minute ASTS bars at 09:21 PT; received 15 bars spanning **08:03–08:51 ET — all pre-market, ~3.5 hours stale, zero regular-session bars.**
+- **Consequence: the rulebook's designated tie-breaker for a stale-quote override — trade-print evidence from 1-minute bars — is UNAVAILABLE two days running.** Both sessions resolved on `snapshot.latestTrade` + `dailyBar` + broker marks, cross-checked against independent web quotes where a decision turned on it.
+- **The mitigation held: every entry was a LIMIT order.** Today's filled **$2.66 inside** its $66.79 limit. ⚠️ **If `bars` is still dead at the next pre-market, the override rule needs a written fallback — it currently names an endpoint that has not worked in two sessions.**
+
+### Carried to EOD
+- **⚠️ EOD OWNS THE LATE-SESSION SWEEP.** If AVGO's **$354.32** line (2.36% away) or any trailing stop fires after this scan, redeploy the **same session** — as a next-open LIMIT if the market has closed. **Pre-derived target: ASTS at LIMIT $66.79** (MKSI stays frozen), with the **add-on stop-floor rule** applied against the then-lowest ASTS stop.
+- **🔴 FIRST ACTION AT EOD: convert AVGO's $354.32 manual cut into a resting order.** Today proved the case inside one session — RKLB's line was converted at 06:40 and **executed at 06:44:24 with no routine awake**, filling 2 cents from its trigger versus VRT's −8.07% overshoot on 8/19. **AVGO is the last unconverted manual cut in the book.**
+- **ASTS $60.57 manual cut** (loosened from $61.04 by the add) — same conversion argument applies.
+- **Event block is 48 hours out: Wed 8/26 8:30 ET July PCE + Q2 GDP · Wed 8/26 AMC NVDA · Thu 8/27–Sat 8/29 Jackson Hole · Wed 9/2 AMC AVGO.** Five of nine positions are semis.
+- **Closed-trade streak: 5 consecutive losses.** Week 18 was the phase's first zero-winner week; Week 19 opened with another. **The weekly review owns the streak; no rule change is proposed on one session's evidence.**
+
+---

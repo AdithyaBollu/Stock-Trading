@@ -4532,3 +4532,96 @@ RKLB printed a day low of **$69.33 against a $69.3315 cut line — 0.15 of a cen
 ⚠️ **BRANCH NOTE:** this session was started by the scheduler on branch `claude/nifty-pascal-pqyjeo`, not `main`. Per CLAUDE.md ("never create a new branch; all commits go directly to main") and market-open STEP 9 (`git push origin HEAD:main`), this entry is committed to **main** so every routine shares `memory/` in real time. The session-level branch directive is noted and overridden by the repo's own rule; **flagged here rather than resolved silently.**
 
 **Next scheduled routine:** **Mon 8/24 Midday ~10:00 AM PT** (**RKLB's mechanical stop is 0.55% away — if it fired, the ~$346 sweep into 5 ASTS @ LIMIT $66.79 is MANDATORY the same session, with the add-on stop-floor rule applied** · **AVGO is 1.82% from its hard cut, the closest ever** · cash 2.76%, 1/25 entries used · MKSI stays frozen to 8/26 · **no trail is within reach of the +15% rung and MRVL, the only name that ever approached one, is gone**).
+
+## 2026-08-24 — Midday Scan (Day 51, Monday — Week 19 Day 1) — **THE MECHANICAL RKLB STOP FIRED 4 MINUTES AFTER IT WAS PLACED AND THAT IS THE POINT** · a −7.03% cut executed with no routine awake to see it · the released $346.55 opened a 6.41% cash breach that was cured inside the session into the pre-derived ASTS add · **the add-on stop-floor rule forced a 6.6% trail, the third deliberate sub-10% trail of the phase**
+
+**Portfolio:** $9,487.79 | **Cash:** $287.56 (3.03%) | **Prior close equity:** $9,603.85 | **Day −1.21%**
+
+### Executions (2)
+
+| # | Time PT | Ticker | Sleeve | Side | Shares | Price | Notes |
+|---|---------|--------|--------|------|--------|-------|-------|
+| 1 | 06:44:24 | **RKLB** | short-term | **SELL (hard stop)** | 5 | **$69.31** | Stop `af250a8c` @ $69.33 GTC — placed at 06:40 this morning, **filled 4 minutes 24 seconds later**. **Realized −$26.20 (−7.03%)**. Released **$346.55**. |
+| 2 | 09:22:56 | **ASTS** | short-term | **BUY** | 5 | **$64.13** | LIMIT $66.79 DAY (= the unchanged 2.5:1 ceiling), filled **$2.66 inside it**. Add-on lot → 15 sh total, **10.13%** of equity. |
+
+**New entries this week: 1/25** — the ASTS add is an add-on lot to a name entered this morning, **not a new name**; the week's only new entry remains ASTS itself. **Day trades: 0** — RKLB was opened 8/21 and sold today (overnight hold, not a day trade). ⚠️ **ASTS was bought at 06:39 and bought again at 09:22 — both same-day, but a day trade requires a buy AND a sell of the same security in one session, and no ASTS shares were sold. Confirmed 0 day trades against the 3-per-5-day PDT limit.**
+
+### RKLB — the conversion to a real order is what made this cut happen
+This morning the "manual −7% cut at $69.33" — a bullet carried for three sessions — was converted into hard stop `af250a8c` GTC. **It filled at 06:44:24 PT, before the next routine existed.** Under the old arrangement the cut would have depended on a routine being awake at 06:44 on a Monday; the midday routine did not open its first poll until 09:20, **2 hours 36 minutes later**, by which time RKLB traded lower still.
+- **Fill $69.31 against a $69.33 trigger — 2 cents of slippage on a 5-share lot.** Realized **−$26.20 / −7.03%**, i.e. the cut executed **essentially at its line**, not through it. Compare **VRT on 8/19**, the phase's only other mechanical −7% cut, which executed at **−8.07%** because it was a market-triggered close rather than a resting stop.
+- This is the 8/21 review's ratified principle — *"a remedy that lives in a review bullet rather than a routine step does not get executed"* — **paying off inside one session.** The generalisation for the rulebook: **a manual cut line is not a control; a resting order is.** Every remaining manual line in this book (**ASTS $60.57**) should be converted the same way or explicitly justified as unconvertible.
+- ⚠️ **This does not make the trade good.** RKLB was entered 8/21 at $74.55 and stopped out on **day two** of holding for a full −7%. The 8/21 entry was the redeployment of ADI's stop proceeds and was taken at **8.29:1 on a 22-analyst $110.65 target**; the R:R was real and the outcome was still the maximum permitted loss. **One trade is not evidence,** but this is now the **fifth consecutive closed trade of the phase to be a loss** (RKLB 8/21-lot, ANET, ADI, VRT, RKLB) and the weekly review owns that streak.
+
+### The cash breach — 6.41%, and it was cured, but note WHERE the routine found it
+The stop fired at 06:44. **Cash sat at $608.21 = 6.41% of equity for 2h38m before any routine looked at it.** The midday routine cured it at 09:22.
+- **This is not the late-session-sweep failure** (that rule governs stops firing *after* midday, and this one fired *before*). The midday routine is the scheduled owner of a 06:44 stop and it discharged that duty on its first pass. **Rule satisfied.**
+- **But the exposure is the same shape as the two failures already on the record** (8/11 GOOGL 11:43 AM, 8/20 ADI 12:55 PM): **a stop can fire at any minute the market is open, and cash sits idle until the next scheduled routine.** Today the gap was 2h38m and cost nothing. **Flagged for the weekly review, not proposed as a rule change** — the honest framing is that scheduled routines will always leave gaps, and the question is whether the gap is acceptable, not whether it exists.
+
+### ASTS — the add, and the argument AGAINST it, stated first
+The market-open log pre-derived this exact sweep: *"BUY 5 ASTS, LIMIT $66.79, DAY."* It was executed. **But this morning the same routine REFUSED the pre-derived RKLB add on the grounds that adding shares lowers the blended basis and mechanically moves the −7% cut line DOWN.** That objection applies here too and must be answered, not skipped:
+- **It does move the line down: blended cost $65.634 → $65.1327, cut line $61.04 → $60.57, a $0.47 / 0.77% loosening.**
+- **The reason it is permitted here and was not this morning is distance, and the numbers are not close.** RKLB at the open had **0.40% of headroom above its cut and had already printed through it** — the add would have been a rescue of a position inside a tick of a mandatory exit. **ASTS sits $3.48 / 5.74% above its new cut line.** Averaging into a name with 5.74% of room is ordinary position building; averaging into one with 0.40% is redefining a trigger to avoid honouring it.
+- **R:R re-derived at the actual fill, not inherited:** entry $64.13, −7% stop $59.64, risk $4.49; reward to the **lowest populated analyst average $78.48** = $14.35 → **3.20:1** ✓ against a 2.5:1 niche floor. **This is BETTER than the 2.80:1 of the morning lot** — the price fell $1.50 while the target set did not move. **The anchor is still the most conservative of the eight populated sets; the ceiling is unchanged at $66.79.**
+- **Sizing:** 15 sh = **10.13%** of equity against a **15%** sleeve cap (the 10% macro cap lapsed 8/21 for want of a trigger; the 10% binary-event cap does not apply — ASTS's Q2 already printed and it does not report inside the hold horizon).
+
+### ⚠️ Thesis check on ASTS — run BEFORE the add, and it found a correction to this morning's own entry
+Query: *ASTS intraday move reason news catalyst 8/24*. **Verdict: Rule 5 NOT met, no guidance cut, no downgrade today, no company-specific headline today.** Today's move is **space-sector beta** — the only 8/24-dated source has **SpaceX −3%, RKLB −2%, ASTS −3%** together, selling **Trump's 1,000-launch-by-2030 memo as execution risk rather than policy optimism.** Both space names in and formerly in this book fell together; that is a sector print, not a company event.
+- 🔴 **CORRECTION TO THE 08:39 MARKET-OPEN ENTRY.** That entry recorded ASTS's Q2 as *"revenue $31.5M, a miss vs ~$34.5M"* and **omitted the EPS line entirely.** The actual print was **adjusted −$0.77/share against a −$0.32 consensus — a 141% miss**, materially worse than the 8.7% revenue miss implied. **The morning's 7-point research is corrected here, not silently.** The position was still sized at 6.92% and is still justified on R:R and catalysts, but **the fundamentals leg of that research was recorded more favourably than the facts supported.**
+- Second correction: the convertible is reported here as **$1.15B priced**, not the *"second $1B raise"* recorded this morning.
+- **Neither correction changes the action.** Both were already inside the "high-short-interest, pre-scale, dilution-overhang" characterisation, the FY26 guide of **$150–200M is still reiterated**, and backlog/contracted commitments (>$1.2B) are unchanged. **But a 141% EPS miss belongs in the log at full size, and the caveat that the Street rating is Hold (4 Buy / 6 Hold / 2 Sell) now carries more weight than it did at 06:39.**
+
+### The add-on stop — the stop-floor rule bound and forced a sub-10% trail
+Existing 10-share lot's trailing stop `e3bac5b3` sits at **$59.76729** (HWM $66.4081). Per the rule ratified 8/14, the new lot's stop must sit **at or above** it.
+- **A textbook 10% trail off the $64.125 HWM would sit at $57.67 — $2.10 BELOW the floor. Forbidden.** Maximum permitted trail at that HWM: **6.7302%**.
+- **Placed: `b724b59d`, 5 sh, trailing_stop 6.6%, GTC → stop $59.89275**, which is **$0.13 ABOVE** the existing lot's stop. ✓
+- ⚠️ **DELIBERATE DEVIATION — do not "correct" this to 10% in a later session.** It is the third such deviation of the phase (RKLB 8/14 at 8.63%, ADI 8/19 at 3.87%, ASTS today at 6.6%) and the reason is identical each time: **the newest shares may never be protected worse than the oldest.**
+
+### No cuts and no tightenings — both checked, both empty
+- **STEP 3 (cut at −7%):** worst held is **AVGO −4.75%**, **2.25 pts** above the trigger. Its **$354.32 hard cut is 2.36% away** — it closed 1.82% away at the open poll, so the line **receded slightly** on AVGO's −0.03% session. **Nothing cut.**
+- **STEP 4 (tighten trails):** best held is **VOO +0.46%**. **The nearest position to the +15% rung is 14.5 pts away.** **Zero eligible — and with MRVL gone, the phase's only-ever near-miss is gone with it. The phase has still never executed a trail tightening.**
+- **No stop moved down.** ✓
+
+### Positions after (9)
+
+| Ticker | Sleeve | Shares | Entry | Last | P&L | % Equity | Stop |
+|--------|--------|--------|-------|------|-----|----------|------|
+| **MSFT** | long-term | 4 | $491.72 | $488.56 | −$12.64 (−0.64%) | **20.60%** | $462.357 (2 sh) · $462.357 (1 sh) · $451.206 (1 sh) |
+| QQQ | long-term | 2 | $709.99 | $708.65 | −$2.68 (−0.19%) | 14.94% | $661.122 (HWM $734.58) |
+| VOO | long-term | 2 | $699.81 | $703.015 | +$6.41 (+0.46%) | 14.82% | $644.751 (HWM $716.39) |
+| **ASTS** | short-term | **15** | **$65.1327** ⭐ | $64.0475 | −$16.28 (−1.67%) | 10.13% | $59.7673 (10 sh, 10%) · **$59.89275 (5 sh, 6.6% — DELIBERATE)** · manual −7% cut **$60.57** binds first |
+| NVDA | short-term | 4 | $219.61 | $210.755 | −$35.42 (−4.03%) | 8.89% | $200.583 (HWM $222.87) |
+| TSM | short-term | 2 | $413.42 | $411.125 | −$4.59 (−0.56%) | 8.67% | $383.11191 (HWM $425.6799) |
+| **AVGO** | short-term | 2 | $380.99 | $362.885 | −$36.21 (−4.75%) | 7.65% | $343.584 · **hard cut $354.32 — 2.36% away** |
+| GOOGL | long-term | 2 | $352.04 | $350.85 | −$2.38 (−0.34%) | 7.40% | $327.033 (1 sh) · $316.4399 (1 sh) |
+| ADI | short-term | 1 | $372.29 | $369.01 | −$3.28 (−0.88%) | 3.89% | $357.25671 (HWM $396.9519) |
+
+**Sleeves:** Long-term $5,479.27 = **57.75%** (⚠️ 7.75 pts over — **27th consecutive session**) · Short-term $3,720.76 = **39.22%** (🔴 **BELOW the 40% floor**, 5 names ≥ the 4-name minimum) · Cash **3.03%** ✓ · Deployed **96.97%** ✓ (inside the 95–100% band)
+
+### 🔴 Reachability check — and this session it returns a DIFFERENT answer than the last 27
+**5 short-term names × the 15% sleeve cap = 75% max reachable, far above the 50% target.** So it is **not a cap problem**, and with 5 names ≥ the 4-name minimum it is **not a name-count problem**. Every prior session concluded "capital problem" and stopped there. **Today that conclusion is no longer complete, and the reason is a number that changed:**
+- **Cash is $287.56. MKSI last traded $273.62. For the FIRST TIME in the phase, the top-ranked armed name is AFFORDABLE.**
+- **It was not bought, because the weekly review's semi-freeze blocks all new semiconductor exposure until after NVDA's 8/26 AMC print, and MKSI is semiconductor capital equipment.**
+- **Therefore the binding constraint on the short-term sleeve today is NOT capital. It is a discretionary freeze.** That is a materially different finding and it is recorded as such rather than rolled into the 27-session boilerplate.
+- **The freeze is defensible and is NOT being overridden:** it is not a sizing cap subject to the 5-session lapse rule (which governs *market-condition* caps like the retired 10% macro cap); it is an **event freeze with a dated, self-terminating expiry** — 8/26 — and five of nine positions are already semis into that print. **Adding a sixth semi 48 hours before NVDA reports is exactly what it was written to prevent.**
+- **But it must now be logged as a cost, not a free option:** it is holding the short-term sleeve below its 40% floor. **Re-test MKSI on 8/26 after the print. If the freeze is extended past its stated expiry, that extension needs its own trigger and its own lapse date, per the 8/21 rule.**
+
+### Momentum scan — run, and it produced nothing fundable
+STEP 7's cash condition (>5%) was **false after the sweep** (3.03%), but the short-term sleeve breaching its 40% floor made the scan worth running anyway. **Result: no new name clears.** VTM (+8.17%) is on a **non-US breakout board**; SDOT (+105%) is an extended microcap; KGS and ALAB have **no 7-point research** and ALAB is semiconductor-adjacent and therefore frozen regardless; **MKSI surfaced again on momentum/growth grades — the same frozen name.** Under a $287.56 budget with a full research checklist required, **the honest record is that the scan found nothing, not that it found something unfunded.**
+
+### Rule compliance
+9 positions ≤ 15 ✓ · **1 new entry this week ≤ 25** ✓ (24 unused; today's ASTS lot is an add-on, not a new name) · no options ✓ · ETFs (QQQ/VOO) long-term sleeve only ✓ · ⚠️ **MSFT 20.60% — over the 20% LT cap on the mark; per the entry-sizing rule ratified 8/14 this is passive drift, NOT a violation, and requires no trim. The trailing stop is the resolving mechanism.** · QQQ 14.94%, VOO 14.82%, GOOGL 7.40% ✓ · short-term **ASTS 10.13%**, NVDA 8.89%, TSM 8.67%, AVGO 7.65%, ADI 3.89% — **all ≤ 15%** ✓ · **cash 3.03% ≤ 5%** ✓ (**breached 6.41% on the RKLB stop, cured same session**) · deployed 96.97% ✓ · **stops GTC on 9/9 positions, 34/34 shares across 13 orders** ✓ (MSFT 2+1+1 · QQQ 2 · VOO 2 · NVDA 4 · TSM 2 · AVGO 2 · GOOGL 1+1 · ADI 1 · **ASTS 10+5**) · **no stop moved down** ✓ · no position ≤ −7% ✓ (worst AVGO −4.75%) · no position at the +15% rung ✓ (best VOO +0.46%) · **0 day trades** ✓ · **no margin used** ✓ ($26,910.89 buying power / RegT $9,775.35 untouched) · **semi-freeze honoured — MKSI affordable and NOT bought** ✓
+
+### Standing Triggers Carried Forward
+- **🔴 AVGO $354.32 hard cut — 2.36% away.** ⚠️ **It is the ONLY manual cut line in the book still not backed by a resting order.** Today proved the difference: RKLB's line was converted at 06:40 and executed at 06:44 without a routine present. **Converting AVGO's is the next session's first action** — the same argument that justified RKLB's conversion applies unchanged. Sweep ~$726 the same session if it fires. **AVGO reports 9/2 AMC.**
+- **ASTS manual −7% cut $60.57** (loosened from $61.04 by the add). Binds above both trailing stops ($59.7673 / $59.89275). **Same conversion argument applies.** Ceiling **$66.79** unchanged. ⚠️ Street rating **Hold**; Q2 EPS missed by **141%**; position justified on R:R (3.20:1 at the add) and catalysts, not on Street enthusiasm.
+- **⚠️ ASTS 5-sh lot trails at 6.6%, NOT 10% — DELIBERATE, stop-floor rule.** Do not "correct" downward.
+- **🔒 SEMI-FREEZE HOLDS UNTIL 8/26 — and it is now BINDING, not academic.** MKSI ($273.62) is affordable for the first time and was not bought. **Re-test 8/26 after NVDA. Any extension past 8/26 needs its own trigger and lapse date.**
+- **Armed board:** **MKSI FROZEN to 8/26** (affordable at $273.62, ARMED #1 on merit) · **ASTS HELD, 15 sh** · **AEHR 🔴 BLOCKED** (target set $21–$175, two "consensus" figures 436% apart) · **OKLO UNARMED** (failed a third consecutive sample) · **NBIS 🔴 BLOCKED** ($5.0B convertible, 242% spread).
+- **The `quote` endpoint remains unusable — 20th consecutive session.** Today at 09:21 it printed **bid $63.70 / ask $67.49 on a 100x100 book = a 5.9% fabricated spread while trades printed $64.13.** ⚠️ **The `bars` endpoint ALSO failed for a second consecutive session** — it returned 15 bars, **all pre-market (08:03–08:51 ET), ~3.5 hours stale**, and **zero regular-session bars.** Trade-print evidence is therefore unavailable as a tie-breaker for a second day; `snapshot.latestTrade` + `dailyBar` + broker marks used for every price here, and **the LIMIT order was the protection**, filling $2.66 inside its limit.
+- **⚠️ THE DENSEST EVENT BLOCK OF THE PHASE IS 48 HOURS OUT. Wed 8/26 8:30 ET: July PCE + Q2 GDP second estimate together · Wed 8/26 AMC: NVDA (held 8.89%) · Thu 8/27–Sat 8/29: Jackson Hole, chair keynote Fri 8/28 · Wed 9/2 AMC: AVGO (held 7.65%).** **Five of nine positions are semis.**
+- **STRUCTURAL: long-term 57.75% vs a 50% target — 27th consecutive session.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; none of MSFT/QQQ/VOO/GOOGL qualifies. **Short-term now BELOW its 40% floor at 39.22%, and per the reachability check above the binding constraint today is the semi-freeze, not capital.** P0 for the weekly review.
+- **Closed-trade streak: 5 consecutive losses** (VRT, ADI, ANET, RKLB 8/21-lot, and RKLB again today). Week 18 was the phase's first zero-winner week; **Week 19 opens with another loss.**
+
+⚠️ **BRANCH NOTE:** this session was started by the scheduler on branch `claude/busy-hopper-fm8866`, not `main`. Per CLAUDE.md ("never create a new branch; all commits go directly to main") and midday STEP 9 (`git push origin HEAD:main`), this entry is committed to **main** so every routine shares `memory/` in real time. **Same override as the 8/24 market-open entry, flagged rather than resolved silently.**
+
+**Next scheduled routine:** **Mon 8/24 EOD ~1:15 PM PT** — which **OWNS the late-session sweep** per the 8/21 ratification: if AVGO's $354.32 line or any trailing stop fires after this scan, the proceeds must be redeployed the same session as a next-open LIMIT. ⚠️ **The pre-derived sweep target for any afternoon fire is ASTS at LIMIT $66.79** (MKSI stays frozen), with the add-on stop-floor rule applied against the then-lowest ASTS stop. **AVGO's conversion to a resting stop is the first item.**
