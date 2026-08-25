@@ -11757,3 +11757,37 @@ Yesterday's log made a written stale-quote fallback **owed at this session if `b
 **Next scheduled routine:** **Tue 8/25 Market-Open ~06:30 AM PT** — **NO ORDERS QUEUED.** Its items: (1) ⭐ **AVGO is 2.56% from a resting stop that fills without a routine present — if it fires, the sweep is VOO 1 sh LIMIT $712.00 on a cash breach, NOT ASTS and NOT RKLB**; (2) **RKLB arms only on a close above $72.58 with volume — do not buy the intraday bounce**; (3) **the semi-freeze holds through 8/26 and blocks MKSI and AEHR, both affordable and both clearing on merit**; (4) no trail is within 13.3 pts of the +15% rung and no position is within 2.4 pts of a −7% cut; (5) **re-poll the `quote` endpoint once for the 22nd-session record, then use bars and broker marks as this session did.**
 
 ---
+
+## 2026-08-25 — Midday Intraday Addendum (Week 19 Day 2, Tuesday, ~09:20 AM PT — **two queries, and OKLO's catalyst is REAL while its blocker is UNTOUCHED** · 🔴 **OKLO +8.23% on a DOE Documented Safety Analysis approval for the Groves Isotope Test Reactor plus a nuclear-sector oversold bounce — and its 6th consecutive analyst-coherence sample FAILS anyway** ($14–$150 across 17–31 analysts, four averages $79.88 / $85.03 / $88.89 / $100.95) · **the blocker was never the catalyst, it is the reward leg**, so a safety-analysis approval cannot arm it · **the momentum scan returned nothing fundable for a 2nd consecutive session** and said so explicitly — no live US leaderboard, India-weighted results · **NO NEW SETUP FOUND. NO TRADE.**)
+
+### Query 1 — OKLO intraday move (the session's only sharp mover, +8.23% to $42.98)
+- **Primary catalyst:** the **DOE approved the Documented Safety Analysis** for the **Groves Isotope Test Reactor** (Lockhart, TX) — MarketWatch's "Why Oklo Stock Is Moving Today," Barchart calling it a major step toward final pre-startup review.
+- **Secondary:** a **nuclear-sector oversold bounce** — Uranium Energy +6%, NuScale and Oklo +5% in the same print, i.e. the move is **partly sector beta, not all company-specific**.
+- **Underlying:** Groves reached **first criticality on 8/6** and Q2 printed the company's **first-ever revenue, $1.21M**, against a **$48.54M quarterly net loss**.
+- **Verdict: DOES NOT CHANGE THE RATING.** OKLO has been UNARMED on the **reward leg**, not the catalyst leg, for five sessions. A safety approval is a point-4 (news) input; the block is point 2 (analyst coverage). See Query 2.
+
+### Query 2 — OKLO analyst target re-test (the actual blocker, 6th consecutive sample)
+| Sample date | Range | Averages reported | Analyst count |
+|-------------|-------|-------------------|---------------|
+| 8/20 | $51–$127 | $84.88 | 12 |
+| 8/21 | $14–$140 | — | 25 |
+| 8/24 | $14–$130 | $79.88 / $85.03 / $86.83 / $88.89 | 17–25 |
+| **8/25 (today)** | **$14–$150** | **$79.88 / $85.03 / $88.89 / $100.95** | **17–31** |
+
+- **The low end is three different numbers on the same stock today — $14.00 (MarketWatch, WSJ/Barron's, MarketBeat research), $51.00 (MarketBeat), $55.00 (Zacks).** The high end is $130 (MarketBeat/Zacks/Marketscreener) vs **$150 (Seaport Global via Benzinga)**.
+- **A $14 low and a $55 low cannot both be the lowest target.** This is the **MU/NBIS precedent** exactly: two irreconcilable "consensus" figures for one name → the reward leg is un-anchored → **no R:R can be computed, so the 2.5:1 niche floor cannot be tested.**
+- 🔴 **OKLO stays UNARMED — 6th consecutive failed sample.** Widening (17→31 analysts, $130→$150 high) is the opposite of convergence.
+- **Independently barred by do-not-chase:** it is **+8.23% intraday** and the entry would be at the day's high on sector beta.
+
+### Query 3 — intraday momentum scan
+- **Returned nothing fundable and said so.** No live US intraday leaderboard with price + relative volume + catalyst; results were curated August "momentum" articles (VRT, STX, TRV — none breaking out today) and **India-market buzzers** (FACT, Paradeep Phosphates, Vodafone Idea, HAL, Paytm, Vardhman) which are **not tradeable in this account**.
+- The one usable methodology point: **volume ≥30% above average + close above resistance** — which is exactly the arming test RKLB is failing.
+- ⭐ **2nd consecutive session the momentum scan produced zero candidates.** Recorded as run-and-empty, not skipped.
+
+### Board after this addendum — UNCHANGED
+- **MKSI 🔒 FROZEN** (ARMED #1, 5.43:1, $269.80 — affordable, not bought) · **AEHR 🔒 FROZEN** (4.98:1, $98.57 — affordable at 2 sh, not bought) · **RKLB 🔴 WATCH** (rejected point 6; $67.43, **−1.24%, fresh low $66.68**, now **7.1% below** its $72.58 arming close) · **OKLO 🔴 UNARMED** (6th failed sample) · **NBIS 🔴 BLOCKED** (+3.97% to $219.08 on the same AI-infra bid; target set still $120–$410) · **ASTS HELD 15 sh −4.35%**.
+- **The semi-freeze runs through the 8/26 close; first executable re-test is Thu 8/27 pre-market** (NVDA reports 8/26 **AMC**, after all four 8/26 routines).
+
+**Next scheduled routine:** **Tue 8/25 EOD ~1:15 PM PT.** Its items: (1) 🔴 **AVGO printed $356.145 today — 0.51% above its resting stop. If `416a42c5` fills after this routine the late-session sweep is OWED THIS SESSION as a next-open LIMIT: VOO 1 sh LIMIT $712.00 on the cash breach ($719.77 + $287.51 = $1,007.28 = 10.63%)**; (2) **ASTS printed $60.90 = −6.50%, within 0.54% of its $60.5734 manual cut — the closest that line has come**; (3) **no trail is within 14.1 pts of the +15% rung**; (4) **cash 3.03%, 2/25 trades used, 0 day trades.**
+
+---
