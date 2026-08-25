@@ -4860,3 +4860,86 @@ Per the 8/21 ratification this routine **owns** the sweep. The check was run, no
 ⚠️ **BRANCH NOTE:** this session was started by the scheduler on branch `claude/busy-hopper-7vb50w`, not `main`. Per CLAUDE.md ("never create a new branch; all commits go directly to main") and STEP 9 (`git push origin HEAD:main`), this entry is committed to **main** so every routine shares `memory/` in real time. The branch was verified identical to `origin/main` (0 ahead / 0 behind) **before any broker call**. **Sixth consecutive session with this override; flagged rather than resolved silently.**
 
 **Next scheduled routine:** **Tue 8/25 EOD ~1:15 PM PT.** Its items: (1) 🔴 **AVGO is 1.55% from a resting stop that touched within 0.51% this morning — if `416a42c5` fills after this routine the sweep is OWED THIS SESSION as a next-open LIMIT: VOO 1 sh LIMIT $712.00 on the 10.63% cash breach**; (2) **ASTS's manual $60.5734 came within 0.54% today — it is the one line no resting order backs**; (3) **the semi-freeze holds through tomorrow's close and blocks MKSI and AEHR**; (4) no trail is within 14.1 pts of the +15% rung; (5) **cash 3.03%, 2/25 trades used, 0 day trades.**
+
+---
+
+## 2026-08-25 — EOD Snapshot (Day 52, Tuesday — Week 19 Day 2) — **THE BOOK BEATS THE S&P BY 0.31 PTS ON A DAY IT OWNED NOTHING NEW** · **+$59.62 / +0.63% vs VOO +0.32%, and NVDA +2.31% / +$19.29 into tomorrow's AMC print is the single largest contributor** · **ZERO executions — the phase's first completely order-free session since 8/15** · 🔴 **AVGO closes 0.862% from its resting hard stop, the closest any position has ever sat to a live trigger, and it is ALSO the closest the book has come to a −7% cut (−6.19%, 0.81 pts away) — one line resolves both** · **ZERO cuts, ZERO trails eligible, ZERO trails ratcheted, ZERO stops fired, no late-session sweep owed** · **RKLB closes $66.885 — a 7th consecutive lower close, $5.70 below its $72.58 arming line — the pre-market point-6 rejection is vindicated on the tape**
+
+**Portfolio:** $9,486.89 | **Cash:** $287.51 (3.03%) ✓ | **Day P&L:** **+$59.62 (+0.63%)** | **Phase P&L:** −$513.11 (−5.13%)
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | % Equity | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|----------|------|
+| **MSFT** | long-term | 4 | $491.72 | $490.62 | **+0.68%** | −$4.40 (−0.22%) | ⚠️ **20.69%** | $462.357 (2 sh) · $462.357 (1 sh) · $451.206 (1 sh) |
+| QQQ | long-term | 2 | $709.99 | $711.03 | **+0.67%** | **+$2.08 (+0.15%)** | 14.99% | $661.122 (HWM $734.58) |
+| VOO | long-term | 2 | $699.81 | $704.0735 | **+0.32%** | **+$8.53 (+0.61%)** | 14.84% | $644.751 (HWM $716.39) |
+| **ASTS** | short-term | 15 | $65.1327 | $62.30 | −0.08% | −$42.49 (−4.35%) | 9.85% | $59.76729 (10 sh, 10%) · $60.06554 (5 sh, **6.6% — DELIBERATE**) · manual −7% cut **$60.5734** binds first, **2.77% away** |
+| **NVDA** | short-term | 4 | $219.61 | $213.3034 | ⭐ **+2.31%** | −$25.23 (−2.87%) | 8.99% | $200.583 (HWM $222.87), 5.96% below |
+| TSM | short-term | 2 | $413.42 | $417.60 | **+1.82%** | **+$8.36 (+1.01%)** | 8.80% | $383.11191 (HWM $425.6799) |
+| 🔴 **AVGO** | short-term | 2 | $380.99 | $357.40 | −0.38% | **−$47.18 (−6.19%)** | 7.53% | ⭐ **$354.32 HARD STOP GTC `416a42c5` — 0.862% away, the closest of the phase** |
+| GOOGL | long-term | 2 | $352.04 | $346.97 | −0.31% | −$10.14 (−1.44%) | 7.31% | $327.033 (1 sh) · $316.43991 (1 sh) |
+| ADI | short-term | 1 | $372.29 | $375.00 | **+1.03%** | **+$2.71 (+0.73%)** | 3.95% | $357.25671 (HWM $396.9519) |
+
+**Sleeves:** Long-term $5,486.63 = **57.83%** (⚠️ 7.83 pts over — **29th consecutive session**) · Short-term $3,712.71 = **39.14%** (🔴 **below the 40% floor for a 3rd session**, 5 names ≥ the 4-name minimum) · Cash **3.03%** ✓ · Deployed **96.97%** ✓ (inside the 95–100% band)
+
+### Executions today — NONE
+
+| # | Time PT | Ticker | Side | Shares | Price | Realized | Routine |
+|---|---------|--------|------|--------|-------|----------|---------|
+| — | — | — | — | — | — | — | **no fills, no order placements, no stop restructures in any of the four routines** |
+
+**Realized today: $0.00** (0 wins, 0 losses). **Executions this week: 2 buys** (both ASTS, 8/24) — **2/25** against the combined cap, **23 unused**. **0 day trades.** Last fill in the account was **8/24 09:22:56 PT**; the book has now gone **28 clock hours without a transaction**, the longest gap of Week 19.
+
+### ⭐ The day's gain is broad, not a single name — and that is new
+- **Six of nine positions closed green** (NVDA, TSM, MSFT, QQQ, VOO, ADI); three closed red (AVGO, GOOGL, ASTS) and **the three of them together cost only −$5.65.**
+- Attribution: **NVDA +$19.29 · TSM +$14.96 · MSFT +$13.24 · QQQ +$9.42 · VOO +$4.49 · ADI +$3.83 = +$65.23** against **AVGO −$2.72 · GOOGL −$2.18 · ASTS −$0.75 = −$5.65.** Net **+$59.58** (+$59.62 on the account line after rounding).
+- **This is the mirror of 8/21 and 8/24, when one name was the entire result in the wrong direction.** MRVL was −$56.10 of a −$52.46 day on 8/21; ASTS was −$43.24 of a −$182.25 day on 8/24. **Today no position moved the book more than $19.29 and the breadth carried it.**
+- **vs the S&P: book +0.63% vs VOO +0.32% — a beat of 0.31 pts.** ⚠️ **Stated with its caveat: the beat comes from semiconductor beta (NVDA +2.31%, TSM +1.82%) 24 hours before the print that reprices exactly that beta.** It is a position, not an edge, until Thursday.
+
+### 🔴 AVGO — 0.862% from the stop, −6.19% on the mark, and ONE line resolves both
+This is the tightest the book has ever been to a live trigger and it deserves the whole paragraph.
+- **Close $357.40 against the resting hard stop `416a42c5` @ $354.32 — $3.08 / 0.862% of headroom.** Prior closes: 1.82% (8/24 open), 2.36% (8/24 midday), 1.23% (8/24 close), 2.56% (8/25 pre-market), **0.862% now.**
+- **AVGO is simultaneously the book's worst mark at −6.19%, which is 0.81 pts from the Short-Term Rule 3 −7% cut.** ⭐ **These are not two exposures — they are one.** A −7% cut on a $380.99 basis lands at **$354.32**, which is *exactly* where the resting stop sits. **The 8/24 conversion aligned them on purpose, and today is the session that proves the alignment matters:** if AVGO ticks 0.87% lower at any moment tomorrow, the stop fills without a routine present rather than waiting for one to poll a mark.
+- **No action is owed and none was taken.** The cut is backed, the line is correct, and moving it would be moving a stop **down** (to chase) or **up** (to pre-empt a print) — neither is authorised.
+- ⚠️ **If it fires it releases ~$714.80 and the sweep is MANDATORY the same session.** Per the standing trigger the target is **VOO 1 sh LIMIT $712.00** — non-binding at a $704.07 close, and deliberately an index share rather than a niche name because **no niche name on the board is armed** (MKSI and AEHR frozen, RKLB rejected, OKLO unarmed, NBIS blocked).
+- **AVGO reports 9/2 AMC.** The cut may still resolve before the print. **The stop does not ratchet** (HWM $381.76 is 6.8% above the close) — restore a 10% trail only once it would sit above $354.32, i.e. above ~$393.69.
+
+### 🔴 RKLB — the tape settles this morning's argument
+The pre-market routine ran the full 7-point research, passed six points, and **rejected it on point 6** (technical: lower highs and lower lows). It set an arming line at **a close above $72.58 with volume** and a do-not-chase at $75.00.
+- **RKLB closed $66.885 on 247,159 shares** — down **2.04%** from $68.28, **$5.70 / 7.85% below the arming line**, and a **7th consecutive lower close**.
+- **The +2.72% pre-market bounce it was tempting to buy is fully round-tripped and then some.** Had the 8.25:1 headline R:R been taken at the $70.14 pre-market print, the position would be **−4.6% within the session**, and it would be the third RKLB entry stopped out in five sessions.
+- ⭐ **This is the first live confirmation of WEEKLY REVIEW P0 #1** — the proposal that point 6 become a *gate* rather than a weighted factor. **One session is not a proof, but it is the right kind of evidence and it is dated.** RKLB stays **WATCH, unarmed**; the arming line is unchanged at **>$72.58 with volume**.
+
+### Late-session sweep — checked, and NOTHING IS OWED
+Per the 8/21 ratification this routine **owns** the sweep. The check was run against the broker record, not assumed:
+- **The account's most recent fill of any kind is 8/24 09:22:56 PT (the ASTS add).** There were **zero fills on 8/25 in any routine window**, therefore **zero stops fired after the midday routine.** ✓
+- **Cash $287.51 = 3.03%, inside the 5% ceiling.** No breach, no VOO fallback, no queued next-open limit required.
+- **Second consecutive session the EOD-owned check has a live obligation and legitimately finds none** — recorded as *checked and empty*, not skipped.
+
+### No cuts, no tightenings, no ratchets — all three checked, all three empty
+- **Cut at −7%:** worst held is **AVGO −6.19%**, **0.81 pts** above the trigger and backed by a resting order at exactly that line. Next worst **ASTS −4.35%** (2.65 pts), **NVDA −2.87%** (4.13 pts). **Nothing cut.** ✓
+- **Tighten trails at +15%:** best held is **TSM +1.01%**. **The nearest position is 13.99 pts from the rung. Zero eligible.** The phase has still never executed a trail tightening. ✓
+- **Ratchets:** **every trailing stop's HWM sits above today's close on all 8 trailed names** (NVDA $222.87 vs $213.30 · TSM $425.68 vs $417.60 · ADI $396.95 vs $375.00 · ASTS $64.31 vs $62.30 · GOOGL $351.60 vs $346.97 · MSFT $513.73 vs $490.62 · QQQ $734.58 vs $711.03 · VOO $716.39 vs $704.07). **No new high printed anywhere, so no stop moved at all.** ✓
+- **No stop moved down.** ✓ **No stop moved in either direction by any routine today.** ✓
+
+### 🔴 Reachability check — short-term below the 40% floor for a 3rd session
+Per the 8/21 ratification, compute **max reachable = names × binding cap** *before* logging a shortfall:
+- **Short-term: 5 names × 15% = 75% max reachable vs a 50% target.** **75% > 50% — the sleeve is NOT structurally unreachable. This is not a cap problem and not a name-count problem.**
+- **The macro cap is LAPSED** (trigger fired on zero of six consecutive sessions; Brent never reached $95, VIX never reached 20), so the binding cap is the full **15%**, and capital is not the constraint either — **$287.51 of cash plus the untouched RegT line.**
+- ⭐ **The binding constraint is the semi-freeze plus an empty armed board, and it is now named as such for the third session.** MKSI (5.43:1) and AEHR (4.98:1) both clear on merit and both are affordable; both are frozen. RKLB is rejected on point 6 and closed 7.85% below its arming line. OKLO failed its 6th consecutive analyst-coherence sample. NBIS is blocked on three irreconcilable convertible figures.
+- **This is logged as an idea-generation constraint under an active event freeze, not as a sizing failure.** The 3-session escalation threshold is **REACHED** and the question is already carried as **WEEKLY REVIEW P0 #2 (Fri 8/28): does the semi-freeze itself need a stated trigger and a lapse date?**
+
+### Compliance
+**9 positions ≤ 15** ✓ · **2 executions this week ≤ 25** ✓ (23 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · ⚠️ **MSFT 20.69% — over the 20% LT cap on the mark (up from 20.40% pre-market on a session MSFT rose +0.68%); per the entry-sizing rule ratified 8/14 this is passive drift, NOT a violation, and requires no trim. The trailing stop is the resolving mechanism.** · QQQ 14.99%, VOO 14.84%, GOOGL 7.31% ✓ · short-term **ASTS 9.85%, NVDA 8.99%, TSM 8.80%, AVGO 7.53%, ADI 3.95% — all ≤ 15%** ✓ · **cash 3.03% ≤ 5%** ✓ · **deployed 96.97%** ✓ · **stops GTC on 9/9 positions, 34/34 shares across 13 resting orders** ✓ · **no stop moved down** ✓ · **no stop moved at all** ✓ · **no position ≤ −7%** ✓ (worst **AVGO −6.19%**, 0.81 pts away) · **no position at the +15% rung** ✓ (best **TSM +1.01%**) · **0 day trades** ✓ · **no margin used** ✓ ($26,908.32 buying power / RegT $9,774.40 untouched) · **semi-freeze honoured — MKSI and AEHR both affordable, both clear on merit, NEITHER bought** ✓ · **late-session sweep: NO stop fired after the midday routine — the EOD-owned check is answered NO** ✓
+
+### Standing Triggers Carried Forward
+- 🔴 **AVGO $354.32 resting hard stop `416a42c5` — 0.862% away, the closest of the phase, and simultaneously 0.81 pts from the −7% cut (the two lines are the same price by construction).** Releases **~$715**. **Sweep MANDATORY same session — VOO 1 sh LIMIT $712.00**, because no niche name on the board is armed. AVGO does not ratchet; restore a 10% trail only above ~$393.69. Reports **9/2 AMC**.
+- **ASTS manual −7% cut $60.5734 — 2.77% away** (was 5.02% pre-market). Deliberately NOT converted (0.84% gap to the nearest resting order). ⚠️ **Re-test the conversion if the gap ever exceeds 2%.** **5-sh lot trails at 6.6%, DELIBERATE — do not correct downward.** Street rating **Hold**; Q2 EPS missed by **141%**; held on R:R (2.93:1) and funded catalysts.
+- 🔒 **SEMI-FREEZE — runs through the 8/26 close; FIRST re-test is Thu 8/27 pre-market** (the "re-test 8/26 after NVDA" date was corrected this morning as unreachable — all four 8/26 routines precede an AMC print). **Blocking TWO names that clear on merit: MKSI (5.43:1) and AEHR (4.98:1), both affordable, neither bought — 3rd session.** Any extension past 8/27 needs its own trigger and its own lapse date.
+- **Armed board:** **MKSI 🔒 FROZEN** (ARMED #1 on merit) · **AEHR 🔒 FROZEN** (4.98:1, target set cohered) · **RKLB 🔴 WATCH, UNARMED** (closed **$66.885**, 7th consecutive lower close, **$5.70 below the $72.58 arming line**; do-not-chase >$75.00) · **ASTS HELD, 15 sh, −4.35%** · **OKLO UNARMED** (6th failed analyst-coherence sample; the 8/25 DOE safety-analysis approval was a real catalyst but the blocker is the reward leg) · **NBIS 🔴 BLOCKED**.
+- ⭐ **WEEKLY REVIEW P0 #1 (Fri 8/28): the R:R gate does not gate — and RKLB gave it a first live data point today**, closing 7.85% below its own arming line after a +2.72% pre-market bounce. Proposal: make point 6 a **gate** — no niche entry into a name printing lower highs AND lower lows on 3+ consecutive sessions.
+- ⭐ **WEEKLY REVIEW P0 #2: short-term below its 40% floor for a 3rd session — escalation threshold REACHED.** The reachability check clears cap, name-count and capital; **the constraint is the semi-freeze plus an empty armed board.**
+- ⚠️ **THE EVENT BLOCK IS NOW ~17 HOURS OUT. Wed 8/26 08:30 ET: July PCE + Q2 GDP second estimate TOGETHER · Wed 8/26 AMC: NVDA (held 8.99%) · Thu 8/27–Sat 8/29 Jackson Hole, keynote Fri 8/28 · Wed 9/2 AMC: AVGO (held 7.53%).** **Four of nine positions are semis (NVDA, TSM, AVGO, ADI = 29.27% of equity).** No add, no trim, no stop change on NVDA — $200.583 sits 5.96% below.
+- **STRUCTURAL: long-term 57.83% vs a 50% target — 29th consecutive session.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; none of MSFT/QQQ/VOO/GOOGL qualifies.
+- **Closed-trade record:** RKLB 8/24 remains loss #1 of the current streak. **Week 19 through Day 2: 1 win, 1 loss, −$25.80 realized, 0 trades today.**
+
+**Next scheduled routine:** **Wed 8/26 Pre-Market ~05:30 AM PT** — **NO ORDERS QUEUED.** Its items: (1) 🔴 **AVGO sits 0.862% from a stop that fills without a routine present — if it fired overnight or at the open, the sweep is VOO 1 sh LIMIT $712.00, same session, mandatory**; (2) **PCE + Q2 GDP land 08:30 ET / 05:30 AM PT, inside the pre-market window — read the print before any order**; (3) **NVDA reports AMC — HOLD CURRENT, no add (Rule 6), no trim (Rule 5 not met), no stop change**; (4) **the semi-freeze holds through today's close; the first legal re-test is Thu 8/27 pre-market**; (5) **RKLB arms only on a close above $72.58 with volume — it closed $66.885 and is 7 sessions into lower closes**; (6) no trail is within 13.9 pts of the +15% rung.
