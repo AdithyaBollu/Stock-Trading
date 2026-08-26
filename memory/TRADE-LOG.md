@@ -5067,3 +5067,101 @@ Per the 8/21 ratification, compute **max reachable = names × binding cap** befo
 ⚠️ **BRANCH NOTE:** this session was started by the scheduler on branch `claude/busy-hopper-huheuc`, not `main`. Per CLAUDE.md ("never create a new branch; all commits go directly to main") and STEP 9 (`git push origin HEAD:main`), this entry is committed to **main** so every routine shares `memory/` in real time. The branch was verified **0 ahead / 0 behind `origin/main`** (after an explicit `git fetch`) **before any broker call**. **Eighth consecutive session with this override; flagged rather than resolved silently.**
 
 **Next scheduled routine:** **Wed 8/26 EOD ~1:15 PM PT.** Its items: (1) **NVDA reports AMC — confirm the no-add / no-trim / no-stop-change plan held and that `e3899b2b` @ $200.583 is intact**; (2) 🔴 **the semi-freeze expires at the close — record it as lapsed so tomorrow's pre-market can act, and note that extending it sustains a 4-name-minimum breach**; (3) **late-session sweep: cash is $363.82 (3.86%) — a further stop firing after this routine would breach 5% again, and the replacement fallback is SPY, NOT VOO or QQQ (both capped out)**; (4) no trail is within 14.5 pts of the +15% rung; (5) **6/25 trades used, 0 day trades, 19/19 shares stopped.**
+
+---
+
+## 2026-08-26 — EOD Snapshot (Day 53, Wednesday — Week 19 Day 3) — 🔴 **THE PHASE'S FIRST TRIPLE STOP-OUT DAY CLOSES AT −0.28%, AND THE DAMAGE IS ALMOST ENTIRELY THE THREE EXITS: THE EIGHT SURVIVING POSITIONS WERE +$15.56 ON THE SESSION** · ⭐ **THE 20.10% CASH BREACH OPENED AND CURED IN THE SAME SESSION HOLDS AT THE CLOSE — 3.85% ✓** · 🔴 **NEW AND MATERIAL: *ALL THREE* PERMITTED INDEX ETFs ARE NOW CAPPED OUT AT ONE SHARE — SPY 24.28%, QQQ 22.54%, VOO 22.25% AGAINST A 20% CAP. THE INDEX CASH-SWEEP FALLBACK NO LONGER EXISTS AT ANY SIZE.** · 🔒 **THE SEMI-FREEZE EXPIRED AT TODAY'S CLOSE — RECORDED LAPSED, 7 SESSIONS, MKSI AND AEHR EXECUTABLE TOMORROW** · **NVDA REPORTS AMC — the pre-committed no-add / no-trim / no-stop-change plan HELD, `e3899b2b` @ $200.583 intact** · **ZERO cuts, ZERO trails eligible, ONE stop ratcheted (SPY, upward, by the broker), ZERO stops fired after midday**
+
+**Portfolio:** $9,460.46 | **Cash:** $363.82 (**3.85%**) ✓ | **Day P&L:** −$26.43 (−0.28%) | **Phase P&L:** −$539.54 (−5.40%) | **Realized today: −$132.62**
+
+| Ticker | Sleeve | Shares | Entry | Close | Day Chg | Unrealized P&L | % Equity | Stop |
+|--------|--------|--------|-------|-------|---------|----------------|----------|------|
+| ⚠️ **MSFT** | long-term | 4 | $491.72 | $498.20 | ⭐ **+1.32%** | **+$25.92 (+1.32%)** | ⚠️ **21.06%** | $462.357 (2 sh, HWM $513.73) · $462.357 (1 sh) · $451.206 (1 sh, HWM $501.34) |
+| **SPY** | long-term | 2 | $765.02 | $767.11 | **+0.27%** | **+$4.18 (+0.27%)** | 16.22% | ⭐ **$690.606 — RATCHETED UP from $688.581 (HWM $767.34)** |
+| QQQ | long-term | 2 | $709.99 | $712.8212 | **+0.30%** | **+$5.66 (+0.40%)** | 15.07% | $661.122 (HWM $734.58) |
+| VOO | long-term | 2 | $699.81 | $705.1051 | **+0.15%** | **+$10.59 (+0.76%)** | 14.91% | $644.751 (HWM $716.39) |
+| **NVDA** | short-term | 4 | $219.61 | $210.30 | −1.29% | −$37.24 (−4.24%) | 8.89% | $200.583 (HWM $222.87), **4.62% below** — ⚠️ **PRINTS TONIGHT AMC** |
+| TSM | short-term | 2 | $413.42 | $418.10 | **+0.17%** | **+$9.36 (+1.13%)** | 8.84% | $383.11191 (HWM $425.6799) |
+| 🔴 **GOOGL** | long-term | 2 | $352.04 | $342.04 | 🔴 **−1.42%** | −$20.00 (−2.84%) | 7.23% | $327.033 (1 sh, HWM $363.37) · $316.43991 (1 sh, HWM $351.5999) |
+| ADI | short-term | 1 | $372.29 | $372.17 | −0.40% | −$0.12 (−0.03%) | 3.93% | $357.25671 (HWM $396.9519) |
+
+**Sleeves:** Long-term $7,046.95 = 🔴 **74.49%** (**24.49 pts over — 32nd consecutive session, and the widest of the phase**) · Short-term $2,049.57 = 🔴 **21.66%** (**below the 40% floor for a 4th session; 3 names — BELOW the 4-name minimum**) · Cash **3.85%** ✓ · Deployed **96.15%** ✓
+
+### Executions today — 4 fills, 3 of them unattended stop-outs
+
+| # | Time PT | Ticker | Side | Sh | Price | Realized | Order | Routine |
+|---|---------|--------|------|----|-------|----------|-------|---------|
+| 1 | **06:54:46** | 🔴 **AVGO** | sell | 2 | **$354.30** | **−$53.38** | `416a42c5` resting hard stop | fired unattended |
+| 2 | **07:28:01** | 🔴 **ASTS** | sell | 5 | **$60.05** | (lot) | `b724b59d` trail 6.6% | fired unattended |
+| 3 | **07:48:13** | 🔴 **ASTS** | sell | 10 | **$59.75** | **−$79.24 (15 sh combined)** | `e3bac5b3` trail 10% | fired unattended |
+| 4 | **09:22:37** | ⭐ **SPY** | **buy** | **2** | **$765.02** | — | `edccb95b` LIMIT $766.00 | midday (cash cure) |
+
+**Realized today: −$132.62** (0 wins, 2 losses). **Executions this week: 6** — **6/25** against the combined cap, **19 unused**. **0 day trades.** **No fill of any kind after 09:22:37 PT.**
+
+### ⭐ The book that survived the morning was GREEN — the loss is the three exits
+- **Held-position day P&L: +$15.56.** MSFT **+$25.96** · SPY **+$4.18** · QQQ **+$4.20** · VOO **+$2.17** · TSM **+$1.38** against GOOGL **−$9.84** · NVDA **−$11.00** · ADI **−$1.49**. **Five of eight closed green.**
+- **The exited names cost −$42.95 between yesterday's close and their fills:** AVGO 2 sh $357.40 → $354.30 = **−$6.20**; ASTS 15 sh $62.30 → $897.75 received = **−$36.75**.
+- **+$15.56 − $42.95 = −$27.39, against the account's −$26.43. The day reconciles.** ⭐ **Stated plainly: nothing the book still owns went wrong today. The −0.28% is the price of two stops doing their job.**
+- **vs the S&P: book −0.28% vs VOO +0.15% — a loss of 0.43 pts.** Honest read: the book carried the friction of two exits the index does not have. **The beat/miss line is not informative on a day the portfolio's composition changed by 17% of equity.**
+- ⚠️ **Broker `last_equity` prints $9,482.06 vs the log's $9,486.89 EOD mark for 8/25 — a $4.83 gap.** Day P&L above is computed off **the log** per the routine's STEP 1. On the broker's baseline the day is **−$21.60 (−0.23%)**. **The gap is noted, not resolved; it is dividend/accrual-scale and does not change any decision.**
+
+### 🔴 THE INDEX SWEEP FALLBACK IS GONE — all three ETFs breach at ONE share
+Yesterday's midday routine retired the VOO sweep as illegal and installed **SPY** as the replacement. **That replacement is dead on arrival at tonight's equity, and this is the session that proves it.**
+- **20% of $9,460.46 = $1,892.09.**
+- **SPY** cost basis $1,530.04 + 1 sh $767.11 = **$2,297.15 = 24.28%** 🔴 **BREACH**
+- **QQQ** cost basis $1,419.98 + 1 sh $712.82 = **$2,132.80 = 22.54%** 🔴 **BREACH**
+- **VOO** cost basis $1,399.62 + 1 sh $705.11 = **$2,104.73 = 22.25%** 🔴 **BREACH**
+- ⭐ **There is no longer ANY permitted index instrument that can absorb a single share without breaching the 20% long-term cap.** The SPY purchase that cured this morning's breach is itself what closed the last door — it went in at 16.24% and one more share takes it to 24.28%.
+- ⚠️ **Consequence, stated now rather than discovered mid-breach: the next cash breach MUST be cured with an individual stock.** That is not a hardship — **it is the same trade the short-term sleeve already owes**, since the sleeve is at 3 names and 21.66%. **The two problems now share one solution.**
+- **This is WEEKLY REVIEW P0 #3 landing for the second consecutive session:** a contingency order carried in the log must be cap-tested **at the equity of the day it is written**, and **re-tested every session it is carried.** Today's re-test invalidated a fallback that was legal 4 hours ago.
+
+### 🔒 SEMI-FREEZE — EXPIRED AT TODAY'S CLOSE, RECORDED LAPSED
+- **The freeze ran 7 sessions and blocked exactly two names that cleared on merit throughout: MKSI (5.43:1) and AEHR (4.98:1).** Both were affordable on every one of those sessions and neither was bought.
+- ⭐ **It is now LAPSED. No extension is proposed and none is authorised** — per the 8/21 discretionary-cap rule any extension needs its own stated trigger and lapse date, **and an extension from here would directly sustain the 4-name-minimum breach.**
+- **What it cost and what it saved will be scored Friday, not asserted now.** The one dated fact available: **AEHR closed −4.21% on 8/26**, so on that session the freeze improved the entry price. **That is one sample and it is not a defence of the policy.**
+- 🔴 **TOMORROW'S P0 IS UNCHANGED AND NOW UNBLOCKED: restore short-term to 4 names.** $363.82 of cash. ⚠️ **AEHR's target set was unverifiable on 8/26 — re-poll before entry; do not carry a stale number forward as confirmed.** Prices must be re-polled at the 8/27 pre-market; the 8/26 marks (MKSI ~$271.24, AEHR ~$91.49) are **stale by construction and are recorded as reference only.**
+
+### ⚠️ NVDA — the pre-committed plan held, and the print is now hours away
+Held **4 sh, 8.89% of equity, −4.24%**, closing **$210.30 (−1.29%)** into an **after-market report**.
+- **No add** (Rule 6 — 9%-ish against a 10% binary cap; the cap does not lapse on a session count). **No trim** (Rule 5 unmet at −4.24%). **No stop change.** ✓
+- **`e3899b2b` trailing 10% @ $200.583 verified intact at the close, HWM $222.87, sitting 4.62% below the mark.** A gap-down below $200.58 fills on the market's clock with no routine present — **which, after this morning, is the protection the book has just been reminded to want.**
+- **Post-print handling belongs to the 8/27 pre-market routine.** No order is queued and none should be.
+
+### Late-session sweep — checked against the broker record, NOTHING OWED
+Per the 8/21 ratification this routine **owns** the sweep. Verified, not assumed:
+- **The account's most recent fill of any kind is the SPY buy at 09:22:37 PT.** **Zero fills after the midday routine. Zero stops fired.** ✓
+- **Cash $363.82 = 3.85%, inside the 5% ceiling.** No breach, no fallback required — ⚠️ **which is fortunate, because as derived above there is no legal index fallback left to fire.**
+- **Third consecutive session the EOD-owned check has a live obligation and legitimately finds none** — recorded as *checked and empty*, not skipped.
+
+### Cuts, tightenings, ratchets — all three checked
+- **Cut at −7%:** worst held is **NVDA −4.24%**, **2.76 pts** of room. Next **GOOGL −2.84%** (long-term; Rule 3 does not apply). **Nothing cut.** ✓ **The two names that would have been cut today cut themselves before any routine polled.**
+- **Tighten trails at +15%:** best held is **MSFT +1.32%**. **The nearest position is 13.68 pts from the rung. Zero eligible.** The phase has still never executed a trail tightening. ✓
+- ⭐ **Ratchets: ONE stop moved today, and it moved UP.** **SPY `4ab8e160` $688.581 → $690.606** on a new HWM of **$767.34** — the broker's own trail ratchet on a position 7 hours old. **Every other trailed name's HWM sits above today's close** (NVDA $222.87 vs $210.30 · TSM $425.68 vs $418.10 · ADI $396.95 vs $372.17 · GOOGL $363.37 vs $342.04 · MSFT $513.73 vs $498.20 · QQQ $734.58 vs $712.82 · VOO $716.39 vs $705.11), **so no other stop moved.** ✓
+- **No stop moved down.** ✓ **No stop was moved by discretion in either direction by any routine today.** ✓
+- **No manual cut line exists anywhere on the book** — all 8 positions are backed by resting GTC orders, per this morning's ratified rule. ✓
+
+### 🔴 Reachability check — STRUCTURALLY UNREACHABLE for a second consecutive routine
+- **Short-term: 3 names × 15% = 45% max reachable < a 50% target.** 🔴 **Unreachable at any legal sizing. A NAME-COUNT problem.**
+- **3 names is BELOW the 4-name minimum** — 2nd routine of the first breach in the phase, caused by two stop-outs rather than by any decision.
+- **On capital it is tighter still:** $363.82 buys a 4th name at **at most ~3.8% of equity**, lifting the sleeve to ~25.5%. **Target is not reachable this week without a long-term exit, and LT Rule 8 bars a discretionary trim** (no stop hit, no broken thesis on MSFT/SPY/QQQ/VOO/GOOGL).
+- ⭐ **The binding constraint named this morning — the semi-freeze — LAPSED at this close.** From tomorrow the constraint is **capital alone**, which is a different and smaller problem. **The 4-name minimum is restorable in one trade at the 8/27 pre-market.**
+- **Long-term 74.49% is the arithmetic mirror of the same event**, not an independent decision — the sleeve bought nothing beyond the mandated cash cure; its share rose because $1,606 of short-term market value left the book. ⚠️ **Logged as a consequence, not a violation.**
+
+### Compliance
+**8 positions ≤ 15** ✓ · **6 executions this week ≤ 25** ✓ (19 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only** ✓ · ⚠️ **MSFT 21.06% — over the 20% LT cap on the mark, up from 20.88% at midday on a session MSFT rose +1.32%; per the 8/14 ratification this is passive drift, NOT a violation, and requires no trim. The trailing stop is the resolving mechanism.** · SPY 16.22%, QQQ 15.07%, VOO 14.91%, GOOGL 7.23% ✓ · short-term **NVDA 8.89%, TSM 8.84%, ADI 3.93% — all ≤ 15%** ✓ · **cash 3.85% ≤ 5%** ✓ **(20.10% breach opened AND cured intraday)** · **deployed 96.15%** ✓ · **stops GTC on 8/8 positions, 19/19 shares across 11 resting orders** ✓ · **no stop moved down** ✓ · **one stop ratcheted UP (SPY, automatic)** ✓ · **no position ≤ −7%** ✓ (worst NVDA −4.24%) · **no position at the +15% rung** ✓ (best MSFT +1.32%) · **0 day trades** ✓ · **no margin used** ✓ ($26,925.87 buying power / RegT $9,824.28 untouched) · **semi-freeze honoured to its final minute — 7 sessions, MKSI and AEHR affordable and clearing on merit throughout, NEITHER bought** ✓ · **late-session sweep: NO fill after 09:22 PT — the EOD-owned check is answered NO** ✓ · 🔴 **short-term at 3 names — BELOW the 4-name minimum, 2nd routine of the first breach of the phase; remedy dated to tomorrow's pre-market and now unblocked**
+
+### Standing Triggers Carried Forward
+- 🔴 ⭐ **THERE IS NO LEGAL INDEX CASH-SWEEP LEFT. SPY 24.28%, QQQ 22.54%, VOO 22.25% at one added share vs a 20% cap.** The SPY fallback installed this morning survived **four hours**. **Any future cash breach must be cured with an individual stock** — which is the same trade the short-term sleeve already owes. ⚠️ **Re-test all three every session; a fallback that is legal today can be illegal tomorrow purely on the equity denominator.**
+- 🔒 **SEMI-FREEZE LAPSED at the 8/26 close after 7 sessions. NOT extended.** MKSI and AEHR are **executable at the 8/27 pre-market**.
+- 🔴 **P0 FOR 8/27 PRE-MARKET: restore short-term to 4 names with $363.82.** Candidates **MKSI** (ARMED #1, 5.43:1) and **AEHR** (4.98:1). ⚠️ **AEHR's target set was NOT verifiable on 8/26 — re-poll points 2 and 6 before entry. Re-poll both prices; the 8/26 marks are stale.**
+- ⚠️ **NVDA REPORTS AMC TONIGHT — held 4 sh, 8.89%, −4.24%, stop `e3899b2b` @ $200.583 (4.62% below) verified intact at the close.** No add, no trim, no stop change, no queued order. **Post-print handling belongs to the 8/27 pre-market routine.** **Three of eight positions are semis (NVDA, TSM, ADI = 21.66% of equity — the entire short-term sleeve).**
+- ⚠️ **Thu 8/27 – Sat 8/29 Jackson Hole, keynote Fri 8/28.** The event block is not clear after tonight.
+- **Armed board:** **MKSI 🔓 UNFROZEN, ARMED #1** (5.43:1) · **AEHR 🔓 UNFROZEN** (4.98:1, **targets still owed**) · **VRT 🔴 WATCH, UNARMED** (points 2/6 fail, point 5 incomplete) · **RKLB 🔴 UNARMED** ($66.53, **8.3% below** the $72.58 arming line; do-not-chase >$75.00) · **OKLO 🔴 UNARMED** (7 failed coherence samples) · **NBIS 🔴 BLOCKED** · **AIP 🔴 UNARMED** (point 6) · **METC 🔴 REJECTED**. **ASTS and AVGO no longer held — no re-entry into either without fresh 7-point research.**
+- ⭐ **WEEKLY REVIEW P0 #1 (Fri 8/28): the R:R gate does not gate — three dated instances** (RKLB 7.01:1, AIP 9.25:1, VRT 4.51:1). Proposal: require a **two-source-coherent target set before an R:R is computed at all**, and make **point 6 a gate**.
+- ⭐ **WEEKLY REVIEW P0 #2: short-term below its floor for a 7th session, at 3 names, reachability UNREACHABLE (45% < 50%) for a 2nd consecutive routine.** The blocking constraint lapsed tonight — Friday should score whether the freeze was worth the breach.
+- ⭐ **WEEKLY REVIEW P0 #3: contingency orders in the log are never cap-tested — and now proven to expire.** Two fallbacks (VOO, then SPY) were invalidated on consecutive routines. **Proposal: every standing order carries its cap arithmetic AND is re-tested at each routine, not just when written.**
+- ⭐ **WEEKLY REVIEW P0 #4: the two-hour post-open window has no routine in it.** All three of today's stops fired **06:54–07:48 PT** — after market-open, long before midday. Only resting orders protected the book; the one manual line in that window failed and cost **$10.85**.
+- **STRUCTURAL: long-term 74.49% vs a 50% target — 32nd consecutive session over, and the widest of the phase.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; none of MSFT/SPY/QQQ/VOO/GOOGL qualifies.
+- **Closed-trade record: Week 19 through Day 3 — 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.**
+
+**Next scheduled routine:** **Thu 8/27 Pre-Market ~05:30 AM PT** — **NO ORDERS QUEUED.** Its items: (1) ⚠️ **read the NVDA print FIRST — held 8.89%, stop $200.583 4.62% below; a gap-down may have filled it unattended overnight, and if it did, cash goes to ~12% with NO legal index fallback**; (2) 🔴 **P0 — restore short-term to 4 names; MKSI and AEHR are unfrozen and $363.82 is available; re-poll AEHR points 2 and 6 before entry**; (3) **re-test the 20% cap on SPY/QQQ/VOO before writing any contingency order into the log**; (4) **Jackson Hole opens today, keynote Friday**; (5) **RKLB arms only on a close above $72.58 with volume**; (6) no trail is within 13.6 pts of the +15% rung; (7) **6/25 trades used, 0 day trades, 19/19 shares stopped across 11 orders.**
