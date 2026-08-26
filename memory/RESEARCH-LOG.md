@@ -12121,3 +12121,48 @@ NVDA reports **AMC tonight**, ~7 hours from this routine. The 8/25 EOD entry fix
 **Next scheduled routine:** **Wed 8/26 Midday ~09:20 AM PT** — **NO ORDERS QUEUED.** Its items: (1) 🔴 **AVGO — the low is 0.41% off a stop that fills without a routine present; if `416a42c5` fires, the sweep is VOO 1 sh LIMIT $712.00, SAME SESSION, mandatory**; (2) 🔴 **ASTS manual line $60.5734 — check by hand, today's low came within 0.59%**; (3) **NVDA — the plan is fixed and midday is NOT authorised to re-open it**; (4) **the semi-freeze holds through today's close — MKSI/AEHR/AIP stay blocked at midday**; (5) **RKLB arms only on a CLOSE above $72.58, so no intraday print can arm it — do not buy the bounce**; (6) no trail is within 14.1 pts of the +15% rung; (7) **cash 3.03%, 2/25 trades used, 0 day trades.**
 
 ---
+
+### 2026-08-26 — Midday Addendum (Week 19 Day 3) — 🔴 **THREE STOPS FIRED POST-OPEN AND OPENED A 20.10% CASH BREACH; IT IS CURED THIS SESSION WITH SPY 2 sh @ $765.02** · ⭐ **THE PRE-DERIVED "VOO 1 sh" FALLBACK IS ILLEGAL — VOO cost + 1 sh = 22.32% vs a 20% cap; QQQ 22.60%. SPY was the ONLY permitted index with headroom** · ⭐ **FIRST CLEAN `quote` POLL IN 24 SESSIONS** · 🔴 **VRT researched fresh and REJECTED on points 2/6**
+
+**Trigger for this addendum:** STEP 7 fires on both of its conditions — a sharp move (three stop-outs) **and** cash > 5% at STEP 6 entry. Three queries run.
+
+#### Query 1 — intraday momentum scan (non-semiconductor, large cap)
+**Run, and it returned month-to-date leaderboards rather than an intraday breakout list — the fourth consecutive session the momentum scan has failed to produce a fundable US intraday setup.**
+- **MRNA +188.05% MTD** and **TEAM +60.53% MTD** — 🔴 **do-not-chase by an enormous margin.**
+- **CLS $306.81 (−0.07%)** — Forbes cites AI-infrastructure spend, 70% 2026 EPS growth expected. 🔴 **Rejected: AI-complex beta into tonight's NVDA print, no 7-point work-up.**
+- **TRV $371.995 (+0.63%)** — appears only on a **stale 8/4** list with **no catalyst named**. 🔴 **Rejected.** Parking capital in one unresearched insurer is strictly worse than an index: identical absent thesis, less diversification.
+- **VRT $261.03 (+2.05%)** — the one name worth real work. Full write-up below.
+- Sub-$5 microcap gappers again dominated the raw feed (CRE +158%, XPON +79%, YYGH +77%, SOAR +75%). **None fundable. Recorded as run-and-empty, not skipped.**
+
+#### Query 2 + 3 — VRT (Vertiv) full work-up → 🔴 **REJECTED**
+| Point | Finding | Verdict |
+|---|---|---|
+| 1. Earnings | Q2'26 adj EPS **$1.52 vs $1.43** (beat); revenue **$3.27B vs $3.38B** (**miss**). **FY26 guide RAISED: $6.65–6.75 EPS / ~$14.0B rev.** Q3 guide $1.77–1.83 / $3.7–3.9B | **MIXED** |
+| 2. Analysts | 🔴 **ONE average only — $343.48, "Moderate Buy". No range, no high, no low, no analyst count.** | 🔴 **FAIL** |
+| 3. Institutions | **~89.92%** institutional/hedge-fund ownership | ✓ PASS |
+| 4. News/catalyst | No dated 14-day feed retrievable; only a **golden-cross** article — a chart observation, not a catalyst | **WEAK** |
+| 5. Sentiment | **Short interest NOT RETRIEVED** | **INCOMPLETE** |
+| 6. Technical | 🔴 **50-day MA reported $139.69 → $324.91 (a 2.3x spread)**; 200-day $253.54–$288.70; sources disagree on whether price is above or below. Support $223.04 / $234.72; near-term resistance **$264.86 — above the $261.03 spot**; pivot $262.55 (S1 $256.89 / R1 $267.61) | 🔴 **FAIL — incoherent** |
+| 7. Thesis / R:R | Entry $261.03, −7% stop $242.76 (risk $18.27), reward to $343.48 = $82.45 → **4.51:1** | ⚠️ **computed off a number that failed point 2** |
+
+**🔴 VERDICT: REJECTED on points 2 and 6, point 5 incomplete.** ⭐ **This is the AIP/RKLB pattern for a third time: an attractive headline R:R resting on an unverified reward leg.** Independently, VRT is data-center power — **AI-complex beta that reprices on tonight's NVDA print** — so entry would take exactly the binary risk the semi-freeze exists to refuse, on the single session it exists for. **Carried as WATCH, UNARMED. Owed before entry: a two-source-coherent target set, one reconciled 50-day MA, and a short-interest reading.**
+
+#### ⭐ Data quality — the `quote` endpoint returned a usable book for the first time since 8/3
+- **SPY: bid $765.08 × 160 / ask $765.10 × 120, spread 0.003%, timestamped 16:22:24Z.** Live, two-sided, real size. **The spread gate PASSED outright — the stale-quote override was not needed and not used.** The limit order was placed for price control alone and filled at **$765.02, inside the bid.**
+- **1-min bars corroborated it:** continuous trading in a **$764.87–$765.87** band on 1,153 prints in the opening minute.
+- **`snapshot` clean and current to 09:22 PT** across all eight polled symbols.
+- ⚠️ **Stated with its limit: this was SPY, the most liquid listed instrument. It is NOT yet evidence the feed is repaired for the niche names** (ASTS/RKLB/OKLO/AEHR have printed ask $0.00 for 23 sessions). **Re-test on a niche name before declaring the streak over.**
+
+#### Board prices at 09:20–09:22 PT
+| Ticker | Last | Chg | Status |
+|---|---|---|---|
+| **MKSI** | $271.24 | +0.40% | 🔒 **FROZEN — final blocked session (7th)**, 5.43:1, affordable at 1 sh |
+| **AEHR** | $91.49 | **−4.21%** | 🔒 **FROZEN — final blocked session**, 4.98:1, affordable at 3 sh ($274.47). ⚠️ **targets still unverified — re-poll before any 8/27 entry** |
+| **VRT** | $261.03 | +2.05% | 🔴 **NEW — WATCH, UNARMED** (points 2/6) |
+| **RKLB** | $66.53 | −0.53% | 🔴 **UNARMED — 8.3% below the $72.58 arming line**, 5th session |
+| **CLS** | $306.81 | −0.07% | 🔴 Rejected — AI beta into the print, no work-up |
+| **TRV** | $371.995 | +0.63% | 🔴 Rejected — stale list, no catalyst |
+| **SPY** | $765.02 fill | −0.07% | ⭐ **BOUGHT 2 sh — the cash cure** |
+
+#### Decision — **ONE TRADE: SPY 2 sh @ $765.02, long-term sleeve, 16.24% of equity, 10% trail GTC @ $688.581**
+**Cash 20.10% → 3.86%. Cured in a single order, in the session the breach opened.** Every stock alternative was evaluated and rejected on a named ground; the strategy's explicit index fallback was then applied — **to SPY, because VOO and QQQ are both capped out at one share.** **$363.82 is deliberately left: enough for a 4th short-term name tomorrow when the semi-freeze lapses.**
