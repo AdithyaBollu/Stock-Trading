@@ -11986,3 +11986,138 @@ The 7b scan returned **AIXI +227.80%, DAIC +114.45%, TNMG +63.12%, SWVL +57.14%,
 
 ---
 
+
+## 2026-08-26 — Market Open Execution (Week 19 Day 3, Wednesday, ~06:40 AM PT — 🔴 **AVGO'S LOW PRINTED $355.77 — 0.41% ABOVE A RESTING STOP THAT IS ALSO ITS −7% CUT, THE CLOSEST ANY LINE HAS COME THIS PHASE, AND IT DID NOT FIRE** · ⭐ **THE OWED Q2 GDP SECOND ESTIMATE IS READ AND IT IS A NON-EVENT: 1.5%, UNCHANGED FROM THE ADVANCE** — the pre-market routine polled before the 05:30 PT release and wrote the plan GDP-conditional; the condition resolves to "no repricing" · 🔒 **THE SEMI-FREEZE IS IN ITS LAST BLOCKED SESSION AND IS HONOURED FOR A 7TH TIME** — MKSI (5.43:1) and AEHR (4.98:1) both affordable, both clearing on merit, **neither bought** · 🔴 **NVDA REPORTS AMC IN ~7 HOURS AND THE PRE-COMMITTED PLAN IS EXECUTED BY DOING NOTHING** — no add, no trim, no stop change, exactly as fixed in advance · **NO TRADE. Cash 3.03%, deployed 96.97%, and no rule requires an order.**)
+
+### STEP 1 — Log integrity
+Today's pre-market entry **exists** (`a3db1b9`, committed). STEPS 1–7 do **not** need to be run inline. ✓
+⚠️ **Repo state at open: `origin/main` was 12 commits STALE at 8/21** — the 8/24, 8/25 and 8/26 work sat on the session branch only. **Repaired at STEP 9 by a fast-forward push to `main` (main held zero commits not already in HEAD, so nothing was overwritten).** This is the same failure class as the 8/17 memory-integrity repair; it is now caught at the open rather than the following session.
+
+### STEP 2 — Live re-validation (~06:40 AM PT)
+| | Value |
+|---|---|
+| Equity | **$9,476.42** (prev close $9,482.06, **−$5.64 / −0.06%**) |
+| Cash | **$287.51 = 3.03%** ✓ ≤ 5% |
+| Deployed | **96.97%** ✓ |
+| Positions | **9 ≤ 15** ✓ |
+| Buying power | $26,878.98 · **RegT $9,763.93 untouched — no margin used** ✓ |
+| Day trades | **0** ✓ |
+| Executions this week | **2 / 25** ✓ (23 unused) |
+
+| Ticker | Sleeve | Sh | Basis | Mark | MV | % Eq | P&L |
+|---|---|---|---|---|---|---|---|
+| **MSFT** | LT | 4 | $491.72 | $494.06 | $1,976.24 | ⚠️ **20.85%** | **+0.48%** |
+| **QQQ** | LT | 2 | $709.99 | $709.62 | $1,419.24 | 14.98% | −0.05% |
+| **VOO** | LT | 2 | $699.81 | $703.635 | $1,407.27 | 14.85% | +0.55% |
+| **ASTS** | ST | 15 | $65.13 | $61.70 | $925.50 | 9.77% | 🔴 **−5.27%** |
+| **NVDA** | ST | 4 | $219.61 | $211.79 | $847.16 | 8.94% | −3.56% |
+| **TSM** | ST | 2 | $413.42 | $417.13 | $834.26 | 8.80% | **+0.90%** (best) |
+| **AVGO** | ST | 2 | $380.99 | $357.075 | $714.15 | 7.54% | 🔴 **−6.28%** (worst) |
+| **GOOGL** | LT | 2 | $352.04 | $343.82 | $687.64 | 7.26% | −2.33% |
+| **ADI** | ST | 1 | $372.29 | $375.48 | $375.48 | 3.96% | +0.86% |
+
+**Sleeves: long-term 57.94% vs 50% (31st consecutive session over) · short-term 39.01% vs 50% (5th consecutive session below the 40% floor) · cash 3.03%.**
+
+### 🔴 The two watch lines — both checked by hand at the open, as the 8/25 EOD entry required
+**1 — AVGO. It came within $1.45 of firing and this is the closest the phase has been.**
+- Resting hard stop `416a42c5` @ **$354.32**. **Today's low: $355.77 — 0.41% above it.** Yesterday's closest approach was 0.51%.
+- Last trade **$357.42** (13:39:35Z), bid $357.06 / ask $358.35 — a **0.36% spread, genuinely tight**, so no override question arises here.
+- Day so far: open $357.105, high $359.37, low $355.77. Prev close $356.695. **AVGO is GREEN on the session (+0.20%) despite printing the tightest stop approach of the phase** — the low came in the opening minutes and it has recovered off it.
+- **The stop and the Short-Term Rule 3 −7% cut are the SAME PRICE by construction** ($380.99 × 0.93 = $354.32). **One resting order resolves both, which is why no manual action is owed and none was taken.**
+- ⚠️ **If it fires: the late-session sweep is MANDATORY the same session.** Proceeds ~$715 + $287.51 = **$1,002.51 = 10.58% cash — a breach** — and **nothing on the board is armed**, so the fallback fires: **VOO 1 sh LIMIT $712.00**, pre-derived and unchanged.
+- AVGO does not ratchet (fixed stop, not a trail); restore a 10% trail only above ~$393.69. Reports **9/2 AMC**.
+
+**2 — ASTS. The manual line held overnight and it held at the open.**
+- Manual −7% cut **$60.5734** (basis $65.1327 × 0.93). **Today's low $60.93 — 0.59% above the cut.** Last **$61.83**, **2.03% above**.
+- **NOT triggered. No cut taken.** The position is −5.27%, **1.73 pts** from the trigger.
+- ⚠️ **This is still the one line no resting order backs.** Nearest resting order `b724b59d` @ $60.06554 sits **0.83%** below the manual line — under the 2% conversion threshold, so it stays manual and must be re-checked at midday and EOD by hand.
+- ⚠️ **The 5-sh lot trails at 6.6%, DELIBERATE** (add-on stop-floor rule, 8/14) — **do not correct it downward.**
+- 🔴 **DATA: ASTS quote prints bid $57.73 / ask $64.16 = a 10.4% fabricated spread — the `quote` endpoint is unusable for a 24th consecutive session.** All ASTS prices above are `snapshot` trade prints, not quotes.
+
+### STEP 2b — Macro re-read: the one item the pre-market routine could not answer
+- ⭐ **Q2 GDP, second estimate (released 08:30 ET today): 1.5% annualized — UNCHANGED from the advance estimate.** (WSJ, 8/26.) The advance print on 7/30 was 1.5% against a 2.0–2.1% consensus; **the revision adds no new information and there is no repricing shock.** The pre-market routine flagged this as pending at query time; **the item is now closed.**
+- **July PCE (05:30 PT, read in the pre-market entry): core 3.3% Y/Y, exactly in line.** Level, not surprise, is the story — 3.3% is not near target, which is why September prices a **HIKE at ~25–31%** against a **~1%** cut.
+- **Market health at the open: VIX 15.46–15.70 — NEUTRAL, standard sizing.** S&P ~7,677 · Nasdaq ~26,151 · Russell ~3,005. ⚠️ **Source-level caveat: these are last-close levels, not live opening prints — the provider returned no intraday tape. Recorded as unverified for today's session rather than reported as live.** Sector leadership reported as technology / AI-infrastructure into tonight's print.
+- **Neither macro read changes a sizing rule.** VIX < 25 → no forced downsizing. **The macro cap remains LAPSED** (8/24 ratification); its trigger has now failed **8 consecutive sessions** — Brent $86.63 vs a $95 trigger, VIX 15.5 vs a 20 trigger.
+
+### STEP 3 — Hard rule check on every candidate. Nothing clears, and every rejection is named.
+| Candidate | Affordable on $287.51? | Clears merit? | Blocking rule | Verdict |
+|---|---|---|---|---|
+| **MKSI** (5.43:1, ARMED #1) | ✓ 1 sh = 2.85% | ✓ **YES** | 🔒 **Semi-freeze — final blocked session, runs through today's close** | **NOT BOUGHT (7th session)** |
+| **AEHR** (4.98:1) | ✓ 3 sh = 3.02% | ✓ **YES** | 🔒 **Semi-freeze** — and ⚠️ its target set went **unverifiable** again on 8/26; **re-poll before any 8/27 entry** | **NOT BOUGHT (7th session)** |
+| **AIP** (9.25:1 headline) | ✓ 12 sh = 2.94% | 🔴 **NO — point 6** | Semi-freeze **and** point 6 (33% below its 50-day MA, support already broken) | **REJECTED** |
+| **RKLB** | ✓ 4 sh = 2.84% | 🔴 **NO — point 6** | **$67.23 live vs a $72.58 arming line — 7.37% below.** Arms only on a **close** above $72.58 on volume | **REJECTED (4th session)** |
+| **OKLO** | ✓ | 🔴 **NO — point 2** | 7th consecutive failed coherence sample; independently do-not-chase after +11.46% | **REJECTED** |
+| **NBIS** | ✓ 1 sh | 🔴 **NO — point 2** | Four averages, low target 46% below spot | **REJECTED** |
+| **METC** | ✓ | 🔴 **NO — points 1/2/4** | Two Street targets below spot; revision trend uniformly negative | **REJECTED** |
+| **ASTS add** | ✓ | — | **Minimum-position-count rule** — a sleeve shortfall is cured by a NEW name, never a bigger slice | **BARRED** |
+| **NVDA add** | ✓ | — | **Short-Term Rule 6** — 8.94% against a 10% binary-event cap, dated print tonight. **The binary cap is independent of the lapsed macro cap and does not lapse on a session count.** | **BARRED** |
+| **VOO / QQQ add** | ✓ | — | **The fallback does not fire — cash is 3.03% ≤ 5%.** LT already **7.94 pts over** target | **REJECTED** |
+
+**BIAS CHECK — "ALL CLEAR = TAKE THE TRADE" is satisfied, not evaded: no candidate is all-clear.** The two that clear on merit are frozen by a rule with a **stated lapse date that has not yet passed**; every other name fails a named research point. **This is a documented no-trade, not a reflexive hold.**
+
+### STEP 4–6 — Execution
+**ZERO orders placed. ZERO orders cancelled. ZERO orders modified.**
+- STEP 4.1 long-term entries: **none authorised** (sleeve 7.94 pts over target).
+- STEP 4.2 short-term entries: **none clear** (table above).
+- STEP 4.3 VOO cash sweep: **does not fire** — cash **3.03% ≤ 5%**.
+- STEP 6 post-trade cash re-check: **$287.51 = 3.03% ✓ compliant. No further deployment required or authorised.**
+
+### 🔴 NVDA — the pre-committed plan, executed
+NVDA reports **AMC tonight**, ~7 hours from this routine. The 8/25 EOD entry fixed the plan **in advance precisely so it could not be re-litigated intraday**, and it is executed verbatim:
+- **NO ADD.** 8.94% against Short-Term Rule 6's 10% binary cap. ✓
+- **NO TRIM.** Rule 5 permits an exit only on a broken thesis. Position is **−3.56%**, nowhere near the −7% cut; Q2 revenue guided +97% YoY. **Trimming to dodge a print is market-timing, not risk management.** ✓
+- **NO STOP CHANGE.** `e3899b2b` trails 10% off a $222.87 HWM at **$200.583 — 5.29% below the $211.79 mark.** Tightening pre-emptively prices the event; loosening moves a stop down. **Neither.** ✓
+- **Post-print handling belongs to the 8/27 pre-market routine.** Not this one, and not midday.
+
+### Stops — 13 resting orders, 34/34 shares, verified order-by-order
+| Order | Ticker | Sh | Type | Stop | HWM | Distance from mark |
+|---|---|---|---|---|---|---|
+| `416a42c5` | 🔴 **AVGO** | 2 | **hard stop GTC** | **$354.32** | — | 🔴 **0.87%** (low came within **0.41%**) |
+| `b724b59d` | ASTS | 5 | trailing **6.6%** ⚠️ deliberate | $60.06554 | $64.31 | 2.86% |
+| `e3bac5b3` | ASTS | 10 | trailing 10% | $59.76729 | $66.4081 | 3.34% |
+| `4520bce1` | TSM | 2 | trailing 10% | $383.11191 | $425.6799 | 8.16% |
+| `e3899b2b` | **NVDA** | 4 | trailing 10% | $200.583 | $222.87 | **5.29%** |
+| `c77585aa` | ADI | 1 | trailing 10% | $357.25671 | $396.9519 | 4.85% |
+| `f9865265` | GOOGL | 1 | trailing 10% | $316.43991 | $351.5999 | 7.96% |
+| `1f5ca016` | GOOGL | 1 | trailing 10% | $327.033 | $363.37 | 4.88% |
+| `40683bb4` | MSFT | 1 | trailing 10% | $451.206 | $501.34 | 8.67% |
+| `563820fd` | MSFT | 2 | trailing 10% | $462.357 | $513.73 | 6.42% |
+| `681532fe` | MSFT | 1 | trailing 10% | $462.357 | $513.73 | 6.42% |
+| `af500488` | VOO | 2 | trailing 10% | $644.751 | $716.39 | 8.37% |
+| `314fc783` | QQQ | 2 | trailing 10% | $661.122 | $734.58 | 6.84% |
+
+**Every HWM sits above today's mark on all 8 trailed names — no new high printed anywhere, so no trail ratcheted and no stop moved at all.** ✓ **No stop moved down.** ✓
+**Trail tightening: ZERO eligible.** Best position is **TSM +0.90%** — **14.10 pts** from the +15% rung. **The phase has still never executed a trail tightening.**
+**Cuts at −7%: ZERO.** Worst is **AVGO −6.28%**, **0.72 pts** above its trigger and backed by a resting order at exactly that price. Next: **ASTS −5.27%** (1.73 pts, manual line only), **NVDA −3.56%**, **GOOGL −2.33%**.
+
+### 🔴 Reachability check — short-term below the 40% floor for a 5th session
+- **Short-term: 5 names × 15% binding cap = 75% max reachable vs a 50% target. 75% > 50% — NOT structurally unreachable.** Not a cap problem, not a name-count problem.
+- **The macro cap is LAPSED** (trigger unfired 8 consecutive sessions), so the binding cap is the full 15%.
+- ⭐ **On CASH — the correction raised as P0 #3 on 8/26 — the gap is $1,042 against $287.51. Unreachable this session on cash alone.** Counting the RegT line would clear "capital" as a constraint, but margin has been untouched for 53 sessions as a matter of practice, and the compliance block certifies "no margin used" every session. **The check is recorded both ways rather than netted the flattering way.**
+- **The binding constraint remains the semi-freeze plus an empty armed board — 5th session.** It carries to Friday as **P0 #2**, and the freeze **lapses at today's close by its own stated date**, so the constraint is scheduled to resolve tomorrow without a rule change.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **2 executions this week ≤ 25** ✓ (23 unused) · **no options** ✓ · **ETFs (QQQ/VOO) long-term sleeve only** ✓ · ⚠️ **MSFT 20.85% — over the 20% LT cap on the mark; per the entry-sizing rule ratified 8/14 this is passive drift, NOT a violation, and requires no trim. The trailing stop is the resolving mechanism.** · QQQ 14.98%, VOO 14.85%, GOOGL 7.26% ✓ · short-term **ASTS 9.77%, NVDA 8.94%, TSM 8.80%, AVGO 7.54%, ADI 3.96% — all ≤ 15%** ✓ · **cash 3.03% ≤ 5%** ✓ · **deployed 96.97%** ✓ · **stops GTC on 9/9 positions, 34/34 shares across 13 orders** ✓ (verified order-by-order above) · **no stop moved down** ✓ · **no stop moved at all** ✓ · **no position ≤ −7%** ✓ (worst **AVGO −6.28%**, 0.72 pts away, mechanically covered) · **no position at the +15% rung** ✓ (best **TSM +0.90%**) · **0 day trades** ✓ · **no margin used** ✓ · **semi-freeze honoured — MKSI and AEHR both affordable, both clear on merit, NEITHER bought (7th session)** ✓ · **NVDA binary-event cap respected — 8.94% ≤ 10%, no add, no trim, no stop change** ✓ · **macro-cap re-test RUN and RECORDED, session 8, trigger did not fire** ✓ · **late-session sweep: NO stop fired after the 8/25 midday routine — 9 positions and 13 resting orders are unchanged and cash is unmoved at $287.51; the check is answered NO** ✓ · **STEP 1 log-integrity control: ⚠️ FAILED-AND-REPAIRED — `origin/main` was 12 commits stale; fast-forwarded at STEP 9** ⚠️
+
+### Standing Triggers Carried Forward
+- 🔴 **AVGO $354.32 resting hard stop `416a42c5` — 0.87% away, and today's low came within 0.41%, the tightest approach of the phase.** Simultaneously the −7% cut line (same price by construction). Releases **~$715**. **Sweep MANDATORY same session — VOO 1 sh LIMIT $712.00** on the resulting 10.58% cash breach, because **no niche name on the board is armed**. AVGO does not ratchet; restore a 10% trail only above ~$393.69. Reports **9/2 AMC**.
+- 🔴 **ASTS manual −7% cut $60.5734 — 2.03% away; today's low printed within 0.59% of it.** ⚠️ **The one line no resting order backs — check by hand at midday and EOD.** Gap to `b724b59d` is 0.83%, still below the 2% conversion threshold. ⚠️ **Re-derive that threshold at Friday's review** (the "quarter of AVGO's protection" arithmetic no longer holds — AVGO's own gap is now 0.87%). ⚠️ **5-sh lot trails at 6.6%, DELIBERATE — do not correct downward.**
+- 🔒 **SEMI-FREEZE — LAST BLOCKED SESSION. It expires at TODAY'S CLOSE and the first executable re-test is Thu 8/27 pre-market.** Blocked **MKSI (5.43:1)** and **AEHR (4.98:1)** for a 7th session, both affordable, both clearing on merit — plus **AIP** and the MU/LRCX/KLAC/AMD long-term set. **Any extension past 8/27 needs its own stated trigger and its own lapse date, per the 8/21 discretionary-cap rule.**
+- 🔴 **NVDA REPORTS AMC TONIGHT. Plan executed as pre-committed: no add, no trim, no stop change. Post-print handling is the 8/27 pre-market routine's, and midday/EOD are NOT authorised to re-open it.**
+- 🔴 **RKLB — point-6 rejection holds, 4th session.** **$67.23 live, 7.37% below** the $72.58 arming line. Arms **only on a close above $72.58 on volume**. Do-not-chase above $75.00.
+- 🔴 **OKLO UNARMED** (7th failed coherence sample) · 🔴 **NBIS BLOCKED** (four averages, low target 46% below spot) · 🔴 **METC REJECTED**, not on the board.
+- ⭐ **AIP (Arteris) — 🔴 WATCH, UNARMED.** Arming line fixed in advance: **a daily close above its 50-day MA (~$34.31) on above-average volume — +47.8% from spot. Do not buy the intervening bounce.** Owed before entry: **point 5 (short interest)** and **one reconciled 50-day MA reading**.
+- **Armed board:** **MKSI 🔒 FROZEN (expires today's close)** · **AEHR 🔒 FROZEN (re-poll targets before any 8/27 entry)** · **RKLB 🔴 UNARMED** · **AIP 🔴 UNARMED** · **OKLO 🔴 UNARMED** · **NBIS 🔴 BLOCKED** · **ASTS HELD 15 sh, −5.27%**.
+- ⭐ **WEEKLY REVIEW P0 #1 (Fri 8/28): make point 6 a GATE.** RKLB (7.01:1, stopped out twice) and AIP (9.25:1, rejected pre-emptively) are the two data points. Also require a **two-source-coherent target set before an R:R is computed at all.**
+- ⭐ **WEEKLY REVIEW P0 #2: short-term below its 40% floor for a 5th session.** Does the semi-freeze need a trigger as well as a lapse date? (It has a lapse date — today's close — which is why it was honoured rather than challenged.)
+- ⭐ **WEEKLY REVIEW P0 #3: the reachability check should net to CASH, not buying power**, unless the book decides margin is in scope — a strategy question never put.
+- ⭐ **WEEKLY REVIEW P0 #4 — NEW: `origin/main` went 12 commits stale across three sessions.** The 8/17 repair fixed one instance; the mechanism that let it recur is unaddressed. **Propose a STEP 0 branch/remote-parity check in every routine, not just a repair when someone notices.**
+- 🔴 **DATA: `quote` unusable for a 24th consecutive session** (ASTS bid $57.73 / ask $64.16 = 10.4% fabricated). **`snapshot` is clean and is the source for every price in this entry.**
+- ⚠️ **EVENT BLOCK, LIVE: today 08:30 ET July PCE (core 3.3%, in line) + Q2 GDP 2nd est (1.5%, unchanged) — BOTH NOW READ AND BOTH NON-EVENTS · TONIGHT AMC: NVDA (held 8.94%, ~7% implied move) · Thu 8/27–Sat 8/29 Jackson Hole, keynote Fri 8/28 · Thu 8/27 AMC: MRVL (not held) · Wed 9/2 AMC: AVGO (held 7.54%).** **Four of nine positions are semis = 29.24% of equity.** September curve: **~25–31% HIKE, ~1% cut.**
+- **STRUCTURAL: long-term 57.94% vs a 50% target — 31st consecutive session.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; none of MSFT/QQQ/VOO/GOOGL qualifies.
+- **Closed-trade record:** Week 19 through Day 3 — 1 win (MRVL +$0.40), 1 loss (RKLB), **−$25.80 realized**, **0 trades on 8/25 and 0 on 8/26**.
+
+**Next scheduled routine:** **Wed 8/26 Midday ~09:20 AM PT** — **NO ORDERS QUEUED.** Its items: (1) 🔴 **AVGO — the low is 0.41% off a stop that fills without a routine present; if `416a42c5` fires, the sweep is VOO 1 sh LIMIT $712.00, SAME SESSION, mandatory**; (2) 🔴 **ASTS manual line $60.5734 — check by hand, today's low came within 0.59%**; (3) **NVDA — the plan is fixed and midday is NOT authorised to re-open it**; (4) **the semi-freeze holds through today's close — MKSI/AEHR/AIP stay blocked at midday**; (5) **RKLB arms only on a CLOSE above $72.58, so no intraday print can arm it — do not buy the bounce**; (6) no trail is within 14.1 pts of the +15% rung; (7) **cash 3.03%, 2/25 trades used, 0 day trades.**
+
+---
