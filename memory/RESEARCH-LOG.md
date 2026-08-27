@@ -12371,3 +12371,24 @@ MRVL is the **only** name on the board above both its 50-day (+6.2%) and 200-day
 - **Closed-trade record: Week 19 through Day 3 — 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.**
 
 **Next scheduled routine: Thu 8/27 Market-Open ~06:40 AM PT.** Its items: (1) 🔴 **PLACE THE MKSI ORDER — 1 sh LIMIT $274.00, do-not-chase above $276.60; run the stale-quote override on 1-minute bars first; hard stop GTC $254.82 immediately on fill**; (2) **NVDA — the plan is pre-committed and market-open is NOT authorised to re-open it: no add, no trim, no stop change**; (3) **verify the NVDA trail ratchets if a new high above $222.87 prints**; (4) **re-test the three index caps before writing any contingency**; (5) **Jackson Hole opens — headline risk into Friday's keynote**; (6) no trail is within 12.5 pts of the +15% rung; (7) **6/25 trades used, 0 day trades, 19/19 shares stopped GTC across 11 orders, cash 3.82%.**
+
+---
+
+### 2026-08-27 — Afternoon Addendum (Midday Scan, ~09:20 AM PT)
+
+**Two polls run. One confirmation, one null result. NO new setup found, and none could have been funded at $89.94 of cash (0.94% of equity).**
+
+**1. NVDA — sharp mover (+8.48%), catalyst confirmed and thesis-POSITIVE.**
+- Fiscal Q2 revenue **$96.22B**, non-GAAP EPS **$2.22**, both above consensus; **Q3 guided to $108B**; Data Center the driver, Blackwell Ultra ramping.
+- **Multiple brokerages raised price targets** post-print; cited average target **$300.34**, high **$500**.
+- Intraday **+7.2% to +8.5%** depending on timestamp — an earnings gap that **held through the session** rather than fading.
+- **Read-through: the AI-capex spend assumption that underwrites MKSI's WFE thesis was extended, not questioned.** ⭐ **MRVL's AMC print tonight remains the cleaner single-name confirmation — check it at the 8/28 pre-market.**
+- **Action: NONE.** Held 4 sh, 9.50%, +3.57%. Trail `e3899b2b` ratcheted **twice today, automatically**, to **$204.993** off a **$227.77** HWM. No add (barred by capital, not by the name-count rule — the sleeve is back to 4 names), no trim, no discretionary stop change.
+
+**2. Momentum scan — NULL for a 6th consecutive session.**
+- The poll returned a **thematic ranking with no prices, no breakout triggers and no volume**: NBIS > MKSI > OKLO > RKLB > AEHR.
+- The source **explicitly caveated** that it had no live quotes or intraday charts and was inferring price action from commentary. **It cannot arm a name under the 7-point checklist — point 6 is uncomputable from it and point 4 is undated.**
+- **NBIS ranked #1 and remains BLOCKED on point 2**; **AEHR ranked #5 and was REJECTED on point 2 yesterday** on a target set spanning $56–$175. **Nothing here overturns either.**
+- 🔴 **WEEKLY REVIEW P0 #5 now has its 6th dated instance and is the best-evidenced item on Friday's list. Reformulate the query or retire the step and reallocate the time to the niche board.**
+
+**Deployment consequence:** short-term sits at **25.15%** against a 40% STEP 6 floor with a **60% ceiling (4 × 15%) — REACHABLE**. The shortfall is therefore **neither a cap problem nor a name problem: it is CAPITAL.** Closing it needs ~$2,380 that exists only inside a 73.92% long-term sleeve, and **LT Rule 8 bars a discretionary trim** — no stop hit, no broken thesis on MSFT/SPY/QQQ/VOO/GOOGL. ⭐ **This reframes P0 #2 for Friday: not "find a name" but "what legally releases capital?"**
