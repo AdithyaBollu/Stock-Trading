@@ -5165,3 +5165,92 @@ Per the 8/21 ratification this routine **owns** the sweep. Verified, not assumed
 - **Closed-trade record: Week 19 through Day 3 — 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.**
 
 **Next scheduled routine:** **Thu 8/27 Pre-Market ~05:30 AM PT** — **NO ORDERS QUEUED.** Its items: (1) ⚠️ **read the NVDA print FIRST — held 8.89%, stop $200.583 4.62% below; a gap-down may have filled it unattended overnight, and if it did, cash goes to ~12% with NO legal index fallback**; (2) 🔴 **P0 — restore short-term to 4 names; MKSI and AEHR are unfrozen and $363.82 is available; re-poll AEHR points 2 and 6 before entry**; (3) **re-test the 20% cap on SPY/QQQ/VOO before writing any contingency order into the log**; (4) **Jackson Hole opens today, keynote Friday**; (5) **RKLB arms only on a close above $72.58 with volume**; (6) no trail is within 13.6 pts of the +15% rung; (7) **6/25 trades used, 0 day trades, 19/19 shares stopped across 11 orders.**
+
+---
+
+## 2026-08-27 — Market-Open Execution (Day 54, Thursday — Week 19 Day 4) — 🔴 **THE P0 TRADE GAPPED OUT OF ITS OWN COMPLIANT BAND BEFORE THE BELL — MKSI OPENED +2.95% AT $279.56, ABOVE THE $276.60 DO-NOT-CHASE CEILING, AND WAS NOT BOUGHT** · ⭐ **THE ORDER WAS PLACED ANYWAY, AS A RESTING LIMIT AT THE PRE-COMMITTED $274.00 — the only price at which the trade is legal, and it can fill at no other** · ⭐ **AND IT WAS UPGRADED TO AN OTO CARRYING ITS OWN STOP, so a fill in the unrouted post-open window arrives already protected** · ⭐ **NVDA'S TRAIL RATCHETED ON THE PRINT WITHOUT ANY ROUTINE TOUCHING IT — HWM $222.87 → $225.33, stop $200.583 → $202.797** · **cash 3.83% ✓ · 8 positions · 6/25 trades · 0 day trades · zero cuts, zero tightenings, zero discretionary stop moves**
+
+### Executions
+**NONE. Zero fills. Zero shares changed hands.** Executions this week remain **6 — 6/25** against the combined cap (19 unused). **0 day trades.**
+
+### Orders placed
+| Field | Value |
+|---|---|
+| **Order** | **BUY 1 MKSI · LIMIT $274.00 · DAY · order_class OTO** |
+| Parent id | `3b9d3570` — status **new, resting, UNFILLED** |
+| **Attached leg** | **SELL 1 MKSI · STOP $254.82 · status `held`** (arms automatically on parent fill) |
+| Sleeve | **Short-term** (niche/speculative — semiconductor capital equipment) |
+| Cost if filled | **$274.00 = 2.88% of equity** ≤ 15% ✓ |
+| Risk if filled | **$19.18 = 0.20% of equity** |
+| R:R at $274.00 | **2.66:1** (to WFC $325) / **5.68:1** (to the 16-analyst $382.86) ✓ ≥ 2.5:1 niche floor |
+
+### 🔴 Why it did not fill: the reward leg was consumed overnight, exactly as MRVL's was yesterday morning
+MKSI opened **$281.21**, traded **$277.93–$282.00**, last **$279.56** — **+2.95% on the prior close of $271.56**, on the BofA top-2H26-SMID-cap note that was itself point 4 of the buy case. **The catalyst that made the thesis is what priced the entry away.**
+
+**The do-not-chase ceiling is not a preference, it is where the arithmetic crosses the floor.** With a −7% stop, R:R to the conservative $325 target = (325 − E) / 0.07E, which equals 2.50:1 at **E = $276.60** exactly:
+| Entry | Stop | Risk | R:R → $325 | Verdict |
+|---|---|---|---|---|
+| **$274.00** (pre-committed) | $254.82 | $19.18 | **2.66:1** | ✓ **LEGAL — this is the resting order** |
+| $276.60 (the ceiling) | $257.24 | $19.36 | **2.50:1** | ⚠️ exactly at the floor, zero margin |
+| **$279.56** (live) | $259.99 | $19.57 | 🔴 **2.32:1** | 🔴 **FAILS Rule 9's 2.5:1 niche floor** |
+| $282.00 (session high) | $262.26 | $19.74 | 🔴 **2.18:1** | 🔴 **FAILS** |
+
+⭐ **The limit was NOT raised to $276.60 to buy a fill.** That price is the *boundary of permitted action*, not a target, and moving the order up to meet a gap is the definition of the chase this gate exists to stop — the same behaviour that correctly rejected MRVL at yesterday's pre-market. **A pre-committed price that is only honoured when it is convenient is not a pre-commitment.** ⚠️ **Flagged for Friday: whether the standing order should sit at the ceiling or at the derived entry is a real, undecided question. It is logged as a question, not resolved by today's convenience.**
+
+### ⭐ The order was upgraded to an OTO, and the reason is a dated $10.85 loss
+The pre-market queued a plain limit with a hard stop to be placed "immediately after fill." **That instruction has no one to execute it.** A fill at 08:30 PT lands in the **two-hour post-open window that WEEKLY REVIEW P0 #4 has flagged unrouted for four sessions** — the same window in which 8/26's three stops fired at 06:54–07:48 PT with no routine present, and in which **ASTS's unbacked manual −7% line was breached and cost $10.85.**
+- The 8/26 ratification is explicit: **manual cut lines convert to resting orders regardless of gap size.** A stop conditioned on a human returning is a manual cut line.
+- **Remedy: the plain limit `6a1baf94` was cancelled and re-placed as an OTO** whose stop leg is created `held` at submission and arms **at the instant of fill**, with no routine in the loop. **There is now no state in which this position exists unstopped.**
+- ⚠️ **ONE DEFECT, STATED NOT BURIED: the OTO leg inherits the parent's DAY TIF, so the stop is DAY, not GTC.** It protects the entire session in which a fill can occur, but **if MKSI fills today the stop MUST be converted to GTC by the midday or EOD routine.** **This is an owed action, not an optional one** — it is carried as a standing trigger below.
+
+### ⭐ NVDA — the trail ratcheted itself on the print; the pre-committed plan was executed by doing nothing
+The pre-market forbade this routine from re-opening the NVDA decision, and it did not. **What changed changed mechanically:**
+- **`e3899b2b`: HWM $222.87 → $225.33, stop $200.583 → $202.797.** The +6.12% pre-market indication became a real new high in the session and **the broker's own trail followed it up $2.21.**
+- **No add** (barred by the minimum-position-count rule — the remedy for a short sleeve is a NEW name) · **no trim** (thesis strengthened, +1.48%) · **no stop change by discretion.** ✓
+- Position **4 sh, $887.80 = 9.35% of equity, +1.48%.** The stop now sits **8.63% below** the mark.
+
+### 🔴 STEP 2b — Index cash-sweep re-test: ALL THREE STILL BREACH (3rd consecutive session)
+**20% of $9,498.35 = $1,899.67.**
+| ETF | Cost basis | +1 sh | Total | % equity | Verdict |
+|---|---|---|---|---|---|
+| **SPY** | $1,530.04 | $767.86 | $2,297.90 | **24.19%** | 🔴 **BREACH** |
+| **QQQ** | $1,419.98 | $715.94 | $2,135.92 | **22.49%** | 🔴 **BREACH** |
+| **VOO** | $1,399.62 | $705.81 | $2,105.43 | **22.17%** | 🔴 **BREACH** |
+
+**There is still no legal index instrument.** ⭐ **Today is the first session on which this cost something concrete:** cash is compliant at 3.83%, but had MKSI's gap opened a breach instead, **the cure would have had to be an individual stock and the only armed one was the name that had just gapped away.** The fallback board is empty in both directions.
+
+### ⭐ Data note — the spread gate PASSED OUTRIGHT, then the quote decayed inside 30 seconds
+For a 2nd consecutive session the `quote` endpoint produced a usable book — **MKSI $278.19 × $279.71 = 0.54% on real prints, last trade $279.56 sitting inside it. No stale-quote override was required and none was used.**
+⚠️ **Thirty seconds later the same endpoint printed $264.10 × $294.00 = 10.2% on a 100×100 book.** ⭐ **This is the sharpest evidence yet of what the artifact actually is: not a dead endpoint, but an intermittent one that alternates between a real book and a fabricated one on a sub-minute cadence.** **`snapshot`'s `latestTrade` and `dailyBar` were the source for every price above.** ⚠️ **`bars 1Min` returned only 2 sparse bars (08:14, 08:36) against `dailyBar` n=28 — the intraday bar feed is thinner than the trade feed and is NOT a substitute for it at the open;** the 8/27 pre-market's daily-bar method is unaffected.
+
+### Cuts, tightenings, ratchets — all three checked
+- **Cut at −7%:** worst held **GOOGL −3.60%** (long-term; Rule 3 does not apply). Worst short-term **ADI +0.18%**. **Nothing cut, 3.40 pts of room.** ✓
+- **Tighten trails at +15%:** best held **TSM +1.79%**. **13.21 pts from the rung. Zero eligible.** The phase has still never executed a trail tightening. ✓
+- **Ratchets: ONE stop moved, and it moved UP — NVDA `e3899b2b` $200.583 → $202.797** on a new $225.33 HWM, automatic. **No other HWM was exceeded.** ✓
+- **No stop moved down.** ✓ **No stop moved by discretion in either direction.** ✓
+- **All 8 positions backed by resting GTC orders — 19/19 shares across 11 stops.** ✓ **No manual cut line exists on the book**, and the one contingent line (MKSI) is now a resting OTO leg rather than an instruction. ✓
+
+### 🔴 Reachability check — UNREACHABLE for a 4th consecutive routine, and the escalation clause has now bound
+- **Short-term: 3 names × 15% = 45% max reachable < a 50% target → 🔴 UNREACHABLE.** Sleeve **$2,104.80 = 22.16%** (NVDA 9.35 · TSM 8.88 · ADI 3.93).
+- **The 8/21 ratification bars logging "structurally unreachable" for more than 3 consecutive sessions without escalating the cap question. This is session 4 — the clause has bound and is discharged here:** the binding cap was re-tested at STEP 4b of this morning's pre-market and the **macro cap is LAPSED for a 9th session** (Brent $86.94 < $95, VIX ~15.2 < 20). **The binding cap is therefore the full 15%, and 3 × 15% = 45% is a NAME problem, not a CAP problem.**
+- ⭐ **Consequently the remedy is correctly a new name, and it is on the board as a resting order — it simply did not trade at a legal price today.** ⚠️ **This is an idea-generation shortfall of exactly one name, and it is dated to Friday's review as P0 #2.**
+- **Long-term $7,031.93 = 74.03%** vs a 50% target — **34th consecutive session over.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; **none of MSFT/SPY/QQQ/VOO/GOOGL qualifies.** Logged as a consequence of the 8/26 exits, not a decision.
+
+### Compliance
+**8 positions ≤ 15** ✓ · **6 executions this week ≤ 25** ✓ (19 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only** ✓ · ⚠️ **MSFT 20.77% — over the 20% LT cap on the mark; per the 8/14 ratification this is passive drift, NOT a violation, no trim, the trailing stop is the resolving mechanism** · SPY 16.17%, QQQ 15.08%, VOO 14.86%, GOOGL 7.15% ✓ · short-term **NVDA 9.35%, TSM 8.88%, ADI 3.93% — all ≤ 15%** ✓ · **cash $363.76 = 3.83% ≤ 5%** ✓ · **deployed 96.17%** ✓ · **stops on 8/8 positions, 19/19 shares across 11 resting GTC orders** ✓ · **no stop moved down** ✓ · **one stop ratcheted UP (NVDA, automatic)** ✓ · **no position ≤ −7%** ✓ (worst GOOGL −3.60%) · **no position at the +15% rung** ✓ (best TSM +1.79%) · **0 day trades** ✓ · **no margin used** ✓ ($27,031.89 buying power / RegT $9,862.11 untouched) · **index cap re-test RUN, all three breach, 3rd session** ✓ · **NVDA pre-committed plan executed as written — no add, no trim, no discretionary stop change** ✓ · **do-not-chase ceiling HONOURED against a live +2.95% gap** ✓ · 🔴 **short-term at 3 names — below the 4-name minimum for a 4th routine; remedy resting, unfilled**
+
+### Standing Triggers Carried Forward
+- 🔴 ⭐ **MKSI OTO `3b9d3570` IS RESTING AND UNFILLED — BUY 1 sh LIMIT $274.00 DAY, with a `held` STOP leg at $254.82.** ⚠️ **IF IT FILLS: the stop leg is DAY TIF, not GTC. The midday or EOD routine MUST cancel and re-place it as a GTC stop @ $254.82. This is an owed action.** ⚠️ **IF IT DOES NOT FILL: the DAY order expires at the close and must be re-derived — NOT re-placed at $274.00 by default — at the 8/28 pre-market, against that session's price and target set.**
+- 🔴 **MKSI do-not-chase ceiling $276.60. Live $279.56 is ABOVE it. DO NOT BUY AT MARKET AT ANY SIZE.** **Thesis-break line unchanged: a daily close below $258.64 (200-day) → cut on the next routine, regardless of the −7% line.** **Convert to a 10% trail only above a $283.13 HWM** — ⚠️ **note the stock traded $282.00 today, so this conversion may become live on a fill far sooner than assumed.**
+- 🔴 **THERE IS STILL NO LEGAL INDEX CASH-SWEEP** — SPY 24.19%, QQQ 22.49%, VOO 22.17% at one added share vs a 20% cap. **Re-test every session. Any cash breach must be cured with an individual stock.**
+- ⚠️ **NVDA — beat and raised; held 4 sh, 9.35%, +1.48%. Trail `e3899b2b` RATCHETED to $202.797 off a new $225.33 HWM.** No add (name-count rule), no trim, no discretionary stop change.
+- ⚠️ **MRVL REPORTS AMC TONIGHT (not held), ±10.4–11.5% implied.** ⭐ **Its reaction is the cleanest read-through to MKSI's WFE/AI-capex thesis — check it at the 8/28 pre-market before re-deriving the MKSI entry.**
+- ⚠️ **JACKSON HOLE OPENS TODAY; WARSH KEYNOTE FRI 8/28** — lands after Friday's review starts. Reuters expects no rate-policy signal.
+- 🔴 **RKLB UNARMED** (8.8% below the $72.58 arming line, below both MAs) · 🔴 **OKLO UNARMED** (8 failed coherence samples) · 🔴 **NBIS BLOCKED** (point 2) · 🔴 **AEHR REJECTED on point 2** (re-poll run, failed) · 🔴 **MRVL REJECTED on point 7** (R:R 0.16–1.40:1) · **VRT / AIP WATCH, UNARMED** · **ASTS and AVGO not held — no re-entry without fresh 7-point research.**
+- ⭐ **WEEKLY REVIEW P0 #1 (Fri 8/28) — the point-6 gate proposal now has a THIRD data point and it argues against a hard gate.** MKSI failed point 6 and was taken on point 2; **it then gapped +2.95% in the buyer's favour before the order could fill.** ⚠️ **This is evidence the entry was right and the price was wrong — the opposite of a chart-driven rejection. Score it as a near-miss, not as a win: nothing was bought and nothing was earned.**
+- ⭐ **WEEKLY REVIEW P0 #4 IS NOW THE BINDING PROCEDURAL GAP AND TODAY IS ITS THIRD DATED INSTANCE.** The unrouted 06:30–09:30 PT window is exactly where a $274.00 MKSI fill would land. **It was patched today by an OTO rather than by a routine** — a workaround, not a fix. **Propose formally: every queued entry carries its stop as an attached leg, and the post-open window gets a routine.**
+- ⭐ **WEEKLY REVIEW P0 #6 — NEW: standing limit orders must state whether they sit at the DERIVED ENTRY or at the DO-NOT-CHASE CEILING, and DAY-TIF entries must state their expiry handling.** Both were ambiguous today and both were resolved by judgement at the open, which is precisely what a pre-commitment is supposed to prevent.
+- **STRUCTURAL: long-term 74.03% vs a 50% target — 34th consecutive session over.**
+- **Closed-trade record: Week 19 through Day 4 — 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized. Unchanged; nothing closed today.**
+
+**Next scheduled routine: Thu 8/27 Midday ~09:30 AM PT.** Its items: (1) 🔴 **CHECK THE MKSI OTO — if filled, CONVERT THE DAY STOP LEG TO GTC @ $254.82 IMMEDIATELY; if unfilled, leave it resting to the close**; (2) **cash 3.83% — if a stop fires there is NO legal index cure, only an individual stock**; (3) **NVDA trail is ratcheting live — verify, do not touch**; (4) **no trail within 13.2 pts of the +15% rung**; (5) **worst position GOOGL −3.60%, 3.40 pts from a cut**; (6) **6/25 trades used, 0 day trades, 19/19 shares stopped GTC across 11 orders + 1 resting OTO**.
