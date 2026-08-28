@@ -46,6 +46,16 @@ A sizing cap **tighter than the sleeve cap** (e.g. a "10% macro cap") is only in
 - A lapsed cap authorises **larger sizing on NEW non-reporting names only**. It never authorises adding to a name that reports inside the hold horizon.
 - Evidence: the 10% macro cap bound every short-term entry 8/18–8/21 while **Brent peaked at $93.82 against a $95 trigger and VIX ranged 14.52–15.86 against a 20 trigger — the trigger fired on zero sessions.** Six names × ~10% ≈ 43% is arithmetically the sleeve's ceiling under it, and the sleeve finished the week at 42.92%.
 
+#### The 10% Macro Cap Is RETIRED — Any Replacement Must Carry a Rate/Duration Leg (ratified 2026-08-28, Week 19)
+The Brent > $95 / VIX > 20 cap **lapsed on 8/24 and is now retired outright, not merely dormant.**
+- **A macro sizing cap may not be re-imposed on a commodity-and-equity-vol trigger alone.** Any replacement must state a **rate/duration leg** (e.g. a 2-year yield move over N bp in M sessions) **or a spec-complex breadth leg** (e.g. ≥4 of the 5 niche watchlist names down >4% on a session the index is flat) alongside any Brent/VIX leg — and remains subject to the 5-session lapse rule above.
+- Evidence: the trigger failed on **12 consecutive sessions** including the two largest repricings of the phase. On **8/28** a hawkish Jackson Hole keynote took **4.3–7.6% out of six speculative names (AEHR −7.63%, RKLB −5.07%, MKSI −4.80%, OKLO −4.69%, ASTS −4.53%, NBIS −4.35%) against SPY −0.09%**, with **VIX at 14.44 and Brent near $87.** The one macro event that repriced the book's entire risk complex was invisible to the instrument that exists to size for it.
+
+### Measurement Rules (ratified 2026-08-28, Week 19)
+- **Day P&L is computed from `account.last_equity`, never from this log's own prior entry.** The 13:15 PT EOD snapshot reads intraday marks; official closes settle later. Evidence: the broker's `last_equity` for 8/27 is **$9,605.42** against the **$9,593.01** the log recorded — a **$12.41 / 0.13%** gap; VOO `lastday_price` $708.75 vs the log's $708.22. (Phase P&L is unaffected — it runs off the $10,000.00 start.)
+- **Reachability, affordability and sweep sizing are computed on CASH ONLY. The RegT buying-power line is NEVER counted as available capital.** Margin has been untouched for 55 sessions and no rule authorises its use. Evidence: 8/26, where the reachability check cleared "capital" as a constraint using money the book will not spend (~$1,030 needed against $287.51 of actual cash).
+- **`bars` requires a `start` parameter to return history.** `bash scripts/alpaca.sh bars SYM 1Day "N&start=YYYY-MM-DD"` returns the full series; the limit-only call returns a single bar. In-house moving averages for point 6 are therefore available **every** session — do not fall back to vendor technicals. Evidence: 8/28 midday recorded `bars` as "degraded to ONE daily bar for EVERY symbol" and handed point 6 back to vendor data, which returned three 200-day figures **53% apart**.
+
 ### Sleeve Shortfalls Require a Reachability Check Before They Are Logged (ratified 2026-08-21, Week 18)
 Before recording a sleeve as "under target," compute **max reachable = (number of names) × (binding per-position cap).**
 - If **max reachable < target**, the shortfall is a **CAP problem, not a NAME problem.** The session must then either (a) name the binding cap and test whether its trigger is live per the rule above, or (b) add a name.
@@ -122,6 +132,14 @@ Aggressive active trading: earnings plays, technical breakouts, sector rotations
 7. If short-term sleeve < 50% deployed: find an earnings play, momentum name, or niche setup — do not sit on cash
 8. Counts toward the 25-trade/week combined limit
 9. Minimum R:R: **1.5:1** (short-term), **2.5:1** (niche/speculative)
+
+### The Reward Leg Must Be Anchored Before an R:R Is Computed, and Point 6 Is a HARD GATE (ratified 2026-08-28, Week 19)
+**No R:R may be computed — and therefore no entry armed — until the reward leg is anchored:**
+- **Two independent target samples are required.** Their **averages must agree within 15%**, and the **low target must sit ABOVE spot**. A single unbounded average (no range, no high, no low, no analyst count) is **not** a reward leg and no ratio may be derived from it.
+- If two samples cannot be obtained, or they disagree by more than 15%, or any sample's low sits below spot, the name is **UNARMED** — recorded as an unanchored reward leg, not as a failed R:R.
+- ⭐ **Point 6 (technical) may VETO an entry on its own, at any R:R.** A name making **lower highs AND lower lows**, or trading **below a coherently-sourced 50-day**, is not armed regardless of ratio. The chart is a gate, not a tiebreaker.
+- **A high R:R computed off an unverified target is arithmetic performed on a guess, not evidence of a setup.**
+- Evidence spanning 2+ weeks: **RKLB** armed at **7.01:1** off a $110.65 average on 8/21, was bought twice and **stopped out twice** (−3.69%, −7.03%) while printing lower highs and lower lows the entire time, finishing Week 19 **11.3% below its own arming line**; **AIP** scored **9.25:1**, the highest the board has ever produced, with cited "support" at $24.56 sitting **above** a $23.21 spot — caught only by point 6; **VRT** computed to **4.51:1** off a **single unbounded $343.48** with a 50-day reported between $139.69 and $324.91 (a 2.3× spread); plus **OKLO** (9 consecutive failed coherence samples, $14–$150, four averages), **NBIS** (negative reward leg), **AEHR** (a 4-analyst $65.75 average sitting BELOW an $87.94 spot while 7 analysts say $136.67 — 108% apart), **METC**.
 
 ### Entry Checklist — Earnings Plays
 - Beat + guide raise (post-earnings drift) OR strong pre-earnings technical + bullish consensus trend
@@ -208,6 +226,17 @@ When adding shares to a name already held, set the new lot's trail so its stop s
 - A textbook 10% trail anchored to a lower fill would leave the **newest** shares protected **worse** than the oldest. That is the substance of "never move a stop down," even though no existing order is modified.
 - Flag the deliberate deviation in the trade log so a later session does not "correct" it downward.
 - Evidence: RKLB 8/14 — a 10% trail off the $81.29 fill would have sat at $73.16, below both existing RKLB legs and the $73.97 floor; set at 8.63% / $74.28 instead.
+
+### Every Cut Line Must Be a Resting Order — Gap Size Is Not a Reason to Defer (ratified 2026-08-28, Week 19)
+Any price at which the book has decided to sell — a **−7% hard cut**, a **thesis-break level**, any manual line — **must exist as a live GTC order at the broker from the session it is written**, even when an existing trailing stop already sits close to it.
+- **The gap between the manual line and the nearest resting stop is NOT the test.** The real variable is whether a routine is present when the line is crossed, and it is not: the **06:30–09:30 PT post-open window has no routine in it** and that is where lines get crossed.
+- A manual line that cannot be expressed as a single resting order (e.g. a conditional thesis test) must be logged with the **explicit exposure it leaves open, priced in dollars**, at every routine until it is resolved.
+- Evidence, all Week 19: **RKLB** converted to a real order at 06:40 Mon 8/24 and **fired at 06:44** (−7.03%, at its number); **AVGO** converted Mon 8/24 EOD and **fired Wed 8/26 06:54 at $354.30 = −7.01%**, the rule's exact figure, with no routine in the window; **ASTS** was left manual because the gap to its trail was "only 0.85%" — its **$60.5734 line was breached unattended and it exited at −8.11% instead of −7.00%, costing $10.85** (15 sh × $60.5734 = $908.60 owed vs $897.75 received). **Five of five exits that week landed in the unrouted window; the three backed by orders all executed at or better than plan, the one manual line failed.**
+
+### Contingency Orders Carry Their Cap Arithmetic When WRITTEN, Not When Fired (ratified 2026-08-28, Week 19)
+Any standing / pre-derived / "if X then buy Y" order recorded in the log **must record, on the session it is written**, the post-fill cost basis as a **% of that day's equity against its sleeve cap** — and must be **re-derived whenever equity moves materially**.
+- **A contingency that breaches a hard rule on execution is not a plan.** It is worse than having no plan, because it stops the search for a legal one.
+- Evidence: **"VOO 1 sh LIMIT $712.00"** was carried as the book's answer to a cash breach for **three consecutive sessions (8/24–8/26)** and was **illegal on every one of them** — VOO cost basis + 1 share = **22.28% then 22.32%** against a **20%** long-term cap (QQQ **22.60%**). It was cap-tested for the first time in the hour it was due to fire, on the session of the phase's largest cash breach, and had to be replaced on the spot (SPY 2 sh @ $765.02 = 16.24%, verified **before** the order).
 
 ---
 
