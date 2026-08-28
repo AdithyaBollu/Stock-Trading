@@ -12531,3 +12531,66 @@ MRVL is the **only** name on the board above both its 50-day (+6.2%) and 200-day
 - **Short-term: 4 names × 15% = 60% max reachable > a 50% target → ⭐ REACHABLE.** The 4-name minimum is **MET** for a 4th consecutive routine. **Not a cap problem, not a name problem.**
 - 🔴 **It is a CAPITAL problem, and today sharpens the diagnosis rather than repeating it.** The sleeve needs **~$1,447** to reach the 40% floor. **$89.93 exists.** ⭐ **And the pipeline is genuinely not the constraint — four names were affordable today and all four were rejected on merit, which is the first session of the phase where affordability and idea supply were both present and the answer was still no.**
 - **Long-term $7,120.62 = 74.13%** vs a 50% target — **37th consecutive session over.** LT Rule 8 bars a discretionary trim; only a stop hit or a broken thesis releases capital, and neither occurred.
+
+## 2026-08-28 — Midday Intraday Addendum (Week 19 Day 5, Friday, ~09:15 AM PT — 🔴 **THE MKSI 200-DAY IS THREE DIFFERENT NUMBERS AND THE THESIS-BREAK LINE IS TEMPORARILY UNDERIVABLE IN-HOUSE — `bars` returns ONE daily bar for EVERY symbol today, including NVDA, so the 269-bar in-house computation that produced $258.64 on 8/27 cannot be repeated this session** · ⭐ **BUT THE DISCREPANCY IS RESOLVABLE, AND IT IS THE FIRST TIME A POINT-2-STYLE INCOHERENCE HAS BEEN *BROKEN* RATHER THAN LOGGED: three published 200-day figures — $241.60, $258.64 (in-house), $369.85 (Investing.com) — 53% apart, and the actual monthly closes KILL the outlier** · ⭐ **MKSI'S THESIS IS INTACT ON NEWS AND THE −4.80% IS NAMED: a CEO sale of 10,000 sh (~$3M) on 8/26 plus a Mizuho PT trim to $330 — a "cut" that still sits 28% ABOVE spot — against a Q2 BEAT ($3.30 vs $2.96, $1.25B vs $1.21B) and Zacks RAISING estimates. Sentiment, not fundamentals** · 🔴 **THE WARSH KEYNOTE WAS READ HAWKISH AND IT REPRICED THE ENTIRE SPECULATIVE COMPLEX WHILE THE INDEX DID NOTHING — AEHR −7.63%, RKLB −5.07%, MKSI −4.80%, OKLO −4.69%, NBIS −4.35%, ASTS −4.53%, ADI −3.62%, NVDA −3.44% against SPY −0.09%** · ⭐ **NEW FOR TODAY'S WEEKLY REVIEW: the macro sizing cap's trigger (Brent > $95 or VIX > 20) FAILED TO DETECT THIS. VIX is 14.44. The one macro event that actually repriced the book's risk names is invisible to the cap that exists to size for it — an 11th unfired session that is now evidence the trigger is MIS-SPECIFIED, not merely quiet** · **momentum scan run and empty for a 7th consecutive session — and the vendor list it returned was STALE-WRONG, naming CRWD/SNPS/PANW as "top gainers" when they are −5.17% / −3.96% / −3.81% on the live tape** · **NO NEW SETUP. NO TRADE.**)
+
+### Query 1 — MKSI intraday move (the session's sharp mover, −4.80% to $257.725, low $256.88)
+- **No fresh operational catalyst. No guidance cut, no downgrade to Sell, no company event.** The named drivers are both sentiment:
+  - **CEO John Tseng-Chung Lee sold 10,000 shares for ~$3M on 8/26** (theglobeandmail, via MarketBeat).
+  - **Mizuho lowered its price target to $330 on 8/27.** ⭐ **A price-target CUT to a level 28.0% ABOVE the $257.725 spot is an upward reward leg, not a bear signal.** Logged as such rather than as a negative.
+- **Against those: the fundamentals moved the RIGHT way.** Q2 2026 printed **EPS $3.30 vs $2.96 est** and **revenue $1.25B vs $1.21B est**, demand described as **broad-based**; **Zacks RAISED multiple EPS estimates**, and MarketBeat's own framing is "bullish estimate revisions vs a lower price target and insider selling."
+- ⚠️ **The insider sale is a real negative and is recorded as one** — but a 10,000-share CEO sale is not a Rule-5 thesis break, and the 8/28 market-open reading stands: **MRVL's FY27 raise to ~$12B is an upward revision to the AI-capex pool MKSI is levered to.**
+- **VERDICT: THESIS INTACT ON NEWS. NO DISCRETIONARY CUT.** The written test is a **CLOSE below $258.64**, and an intraday print at 09:15 PT cannot resolve it. See Query 3.
+
+### Query 2 — the tape: Warsh read hawkish, and the damage is entirely in duration
+| Name | Today | Name | Today |
+|---|---|---|---|
+| **AEHR** | 🔴 **−7.63%** | **NVDA** | 🔴 −3.44% |
+| **RKLB** | 🔴 −5.07% | **ADI** | 🔴 −3.62% |
+| **MKSI** | 🔴 −4.80% | **TSM** | −1.32% |
+| **OKLO** | 🔴 −4.69% | **SPY** | **−0.09%** |
+| **ASTS** | 🔴 −4.53% | **QQQ** | −0.52% |
+| **NBIS** | 🔴 −4.35% | **VOO** | −0.07% |
+| | | **MSFT** | 🟢 **+2.20%** · **GOOGL** 🟢 **+1.90%** |
+- **Warsh's debut Jackson Hole keynote was taken as a signal that rates could move higher; short-term Treasury yields rose during the remarks** (Reuters live coverage). Long-duration / unprofitable / high-beta growth is discounted harder → it leads down.
+- ⭐ **THIS IS A BETA EVENT, NOT A COMPANY EVENT, AND THAT IS THE LOAD-BEARING DISTINCTION FOR MKSI.** Six speculative names fell 4.3–7.6% in the same print with the index flat. **Strategy Rule 5 requires a broken thesis — a discount-rate repricing that hits every name in a class is the definition of the "normal volatility" LT Rule 8 and ST Rule 3's −7% line exist to absorb.**
+- ⭐ **AND THE ROTATION HAS A DESTINATION: MSFT +2.20% and GOOGL +1.90% are the book's two best names today.** The portfolio is **−0.22% against VOO −0.07%** — a 0.15-pt lag on a day its four semis fell 1.3–4.8%. **The long-term sleeve that has been logged as a 37-session problem is what is absorbing this.**
+- **Macro cap trigger re-tested: UNFIRED, 11th consecutive session.** **VIX 14.44** against a 20 trigger; **Brent ~$86** (WTI Oct $82.73) against $95. Short-term cap stays lapsed at the sleeve's **15%**.
+- ⭐ **NEW FINDING FOR THE WEEKLY REVIEW (today).** The cap's trigger is **VIX or Brent**. Today a **hawkish-Fed repricing took 4.3–7.6% out of every speculative name on the board with VIX at 14.44** — 5.6 points below its trigger. **The instrument does not measure the risk it was written for.** A cap that would not have fired on the single largest repricing event of the phase is mis-specified, and 11 unfired sessions is now evidence of that rather than evidence of calm. **Proposed for the review: add a rate/duration leg (e.g. a 2yr-yield jump, or a spec-complex breadth trigger) or retire the cap outright.**
+
+### Query 3 — 🔴 the MKSI 200-day: `bars` fails, THREE published figures, and the outlier is killed by the price history
+- 🔴 **`bars` RETURNS ONE DAILY BAR FOR EVERY SYMBOL TODAY — NOT A THIN-NAME PROBLEM.** `MKSI 1Day limit=300` → **1 bar**; **`NVDA 1Day limit=300` → 1 bar**; `1Week` and `1Month` → **0 bars**; `1Hour` → 4 bars, all stamped today. The wrapper has **no `start` parameter**, so the endpoint is defaulting to the current day. ⚠️ **The 269-bar in-house computation celebrated on 8/27 as ending "25 sessions of unusable third-party technicals" is NOT REPRODUCIBLE ON DEMAND — it worked once. Point 6 is back on vendor data today.**
+- **So the 200-day was re-sourced, and it came back incoherent — the point-2 pattern, in a technical input:**
+
+| Source | 200-day SMA | 50-day SMA |
+|---|---|---|
+| **In-house, 269 Alpaca daily bars (8/27)** | **$258.64** | — |
+| Vendor A (via price-history query, today) | **$241.60** | — |
+| Investing.com (today) | 🔴 **$369.85** | $336.28 |
+
+- ⭐ **UNLIKE EVERY PRIOR INCOHERENCE, THIS ONE IS DECIDABLE — the actual closes settle it.** Retrieved month-end closes: **Mar 31 $229.81 · May 30 $314.45 · Jun 25 $410.31 · Jul 31 $313.46 · Aug 27 $270.715**, on a 52-week range of **$97.50–$447.62**.
+  - 🔴 **$369.85 IS ARITHMETICALLY IMPOSSIBLE.** MKSI traded above $370 only briefly around June; it was **$229.81 in March** and is **$257.73 now**. A 200-day average of $369.85 would require most of the window above $370. **DISCARDED.**
+  - **$241.60 and $258.64 both survive** — a window running from a sub-$150 late-2025 base up through the June spike averages in the $240s–$250s. They differ by **7.0%**, i.e. by window convention, not by a factual dispute.
+- ⭐ **RULING: THE WRITTEN LINE STANDS AT $258.64, UNCHANGED.** It is the **primary-source** figure (computed here from 269 real trade bars, not a vendor black box), and it is the **tighter** of the two survivors. **A cut line is never loosened mid-flight on a vendor number that would happen to spare the position** — $241.60 would move the test 6.6% further away on the day the stock is testing it. **The looser number arriving exactly when it helps is the reason the rule is written down in advance.**
+- 🔴 **LIVE STATUS: spot $257.725 is $0.915 / 0.35% BELOW the line, with ~3h45m to the close.** Day range **$256.88–$267.535**. **The test is genuinely live and it is EOD's to resolve — not this routine's.**
+
+### Query 4 — momentum scan (7th consecutive session, empty, and the vendor data was wrong)
+- **No live ranked US breakout list returned.** The names offered as "S&P 500 top gainers in the current session" were **CRM, CRWD, SNPS, PANW** — and **three of the four are DOWN on the live tape**: **CRWD −5.17%, SNPS −3.96%, PANW −3.81%**; only **CRM +2.98%** is actually green.
+- ⚠️ **Logged as a DATA-QUALITY failure, not just an empty scan.** A "top gainers" list that is 75% wrong on direction is worse than no list, and it is the kind of input that would have justified an entry into a −5% name.
+- **All four are unaffordable regardless: $89.93 buys 0 shares of CRM ($259.71), CRWD ($216.21), SNPS ($446.46) or PANW ($368.14).**
+- ⭐ **7 consecutive nothing-fundable sessions. WEEKLY REVIEW P0 #5 ("reformulate or retire the momentum scan") now has its strongest evidence: today the scan was not merely empty, it was actively misleading.**
+
+### Board after this addendum — the sell-off ARMS NOTHING
+| Name | Spot | Today | Affordable on $89.93 | Status |
+|---|---|---|---|---|
+| 🔴 **RKLB** | $64.09 | −5.07% | 1 sh | **REJECTED point 6, 6th session — fresh low $63.92, now 11.70% below the $72.58 arming line. A cheaper broken chart is still a broken chart.** |
+| 🔴 **AEHR** | $83.58 | −7.63% | 1 sh | **REJECTED point 2, 6th session — $65.75 4-analyst average still BELOW spot; quote spread 24.36%, unusable.** |
+| 🔴 **OKLO** | $40.545 | −4.69% | 2 sh | **UNARMED point 2, 9th session — no new sample; quote spread 4.02%.** |
+| 🔴 **NBIS** | $208.88 | −4.35% | **0 sh** | **BLOCKED point 2 + unaffordable.** |
+| 🔴 **ASTS** | $58.64 | −4.53% | 1 sh | **Stopped out 8/26; no fresh 7-point file built. NOT ELIGIBLE.** |
+| 🔴 **VOO/SPY/QQQ** | — | — | 0 sh | **Fallback does not fire (cash 0.94% ≤ 5%); all three breach the 20% cap at one added share, 7th session.** |
+- ⭐ **A −5% day is not a research point.** Every rejection above is on the same named point it failed this morning, re-tested rather than inherited, and **three of the five got WORSE** (RKLB's low, AEHR's spread, the whole complex's trend).
+
+**Next scheduled routine: Fri 8/28 EOD ~1:15 PM PT.** Its items: (1) 🔴 **MKSI IS THE ENTIRE ROUTINE — apply the written $258.64 CLOSE test to the actual close. Spot at midday was $257.725, 0.35% BELOW it. DO NOT re-derive the 200-day from a vendor: `bars` is broken to 1 bar/symbol today and Investing.com's $369.85 is arithmetically impossible. The line is $258.64 and it was fixed in advance**; (2) 🔴 **ADI's trailing stop `c77585aa` $357.25671 sits 1.02% below spot — the CLOSEST line in the book, closer than MKSI's 1.13%. If it fires after this routine the late-session sweep is OWED, and the armed board is EMPTY — no compliant individual-stock target exists, and no index sweep is legal**; (3) **no position is within 10.0 pts of the +15% rung (best MSFT +4.96%)**; (4) **worst ST MKSI −5.88%, 1.12 pts from the −7% cut, backed by a resting $254.82**; (5) **cash 0.94%, 9 positions, 20/20 shares stopped GTC across 12 orders, 7/25 trades used, 0 day trades**; (6) ⭐ **the WEEKLY REVIEW is today — carry the mis-specified-macro-cap finding and the 7th empty momentum scan into it.**
+
+---
