@@ -12392,3 +12392,142 @@ MRVL is the **only** name on the board above both its 50-day (+6.2%) and 200-day
 - 🔴 **WEEKLY REVIEW P0 #5 now has its 6th dated instance and is the best-evidenced item on Friday's list. Reformulate the query or retire the step and reallocate the time to the niche board.**
 
 **Deployment consequence:** short-term sits at **25.15%** against a 40% STEP 6 floor with a **60% ceiling (4 × 15%) — REACHABLE**. The shortfall is therefore **neither a cap problem nor a name problem: it is CAPITAL.** Closing it needs ~$2,380 that exists only inside a 73.92% long-term sleeve, and **LT Rule 8 bars a discretionary trim** — no stop hit, no broken thesis on MSFT/SPY/QQQ/VOO/GOOGL. ⭐ **This reframes P0 #2 for Friday: not "find a name" but "what legally releases capital?"**
+
+---
+
+## 2026-08-28 — Market Open Execution (Week 19 Day 5, Friday, ~06:38 AM PT — 🔴 **MARVELL BEAT, RAISED FY27 *AND* FY28, AND FELL 7.06% — THE SESSION'S DEFINING PRINT AND THE FIRST TIME THIS PHASE A BEAT-AND-RAISE HAS BEEN SOLD** · ⭐ **AND THE READ-THROUGH TO MKSI IS THE OPPOSITE OF WHAT THE TAPE IMPLIES: THE DE-RATE IS Q3 GROSS-MARGIN COMPRESSION ON CUSTOM-SILICON MIX, NOT DEMAND — MRVL RAISED FY27 REVENUE TO ~$12B FROM $11.5B, WHICH *CONFIRMS* THE AI-CAPEX LEG MKSI IS OWNED FOR** · ⭐ **NO 8/28 PRE-MARKET ENTRY EXISTED — PRE-MARKET STEPS 1–7 ARE RUN INLINE HERE** · 🔴 **THE MKSI $283.13 TRAIL-CONVERSION TRIGGER FAILS A THIRD TIME AND FOR THE FIRST TIME IT IS NOT CLOSE — session high $267.535, $15.595 / 5.51% short, against misses of $1.70 and $1.695 on the first two checks** · 🔴 **AEHR'S POINT-2 REJECTION IS RE-DERIVED, NOT INHERITED, AND IT GETS WORSE: a 4-analyst average of $65.75 now sits BELOW the $87.94 spot while a 7-analyst average says $136.67 — two "consensus" figures 108% apart, one of them a NEGATIVE reward leg** · **cash 0.94%, deployed 99.06%, and no rule requires an order. NO TRADE.**)
+
+### STEP 1 — Log integrity
+🔴 **No 2026-08-28 pre-market entry exists in RESEARCH-LOG.md or TRADE-LOG.md.** Per routine STEP 1, **pre-market STEPS 1–7 are run inline in this entry.** The Friday pre-market slot did not produce a log; the weekly review is still owed today.
+✓ `git fetch origin main` run **before** any broker call. `git rev-list --left-right --count origin/main...HEAD` = **0/0** — the working branch is byte-identical to `origin/main` at `5822b2e` (8/27 EOD). **No memory-integrity failure.** The 8/26 lesson — fetch first, never read an unfetched tracking ref — was applied.
+
+### STEP 2 — Live re-validation (~06:38 AM PT / 13:38Z)
+| | Value |
+|---|---|
+| Equity | **$9,606.36** (prev close $9,605.42, **+$0.94 / +0.01% — flat**) |
+| Cash | **$89.93 = 0.94%** ✓ ≤ 5% |
+| Deployed | **99.06%** ✓ inside the 95–100% band |
+| Positions | **9 ≤ 15** ✓ |
+| Buying power | $26,993.22 (4x) · **RegT $9,691.83 untouched — no margin used, 53rd session** ✓ |
+| Day trades | **0** ✓ |
+| Executions this week | **7 / 25** ✓ (18 unused) |
+| Phase P&L | **−$393.64 / −3.94%** (best since the drawdown deepened) |
+
+| Ticker | Sleeve | Sh | Basis | Mark | MV | % Eq | Unreal. | Today | To stop |
+|---|---|---|---|---|---|---|---|---|---|
+| ⚠️ **MSFT** | LT | 4 | $491.72 | $507.79 | $2,031.16 | ⚠️ **21.14%** | **+3.27%** | **+0.56%** | 8.95% / 9.71% |
+| **SPY** | LT | 2 | $765.02 | $772.18 | $1,544.36 | 16.08% | +0.94% | +0.13% | 9.98% |
+| **QQQ** | LT | 2 | $709.99 | $719.82 | $1,439.64 | 14.99% | +1.39% | −0.19% | 8.15% |
+| **VOO** | LT | 2 | $699.81 | $710.00 | $1,420.00 | 14.78% | +1.46% | +0.17% | 9.19% |
+| **NVDA** | ST | 4 | $219.61 | $227.11 | $908.44 | 9.46% | **+3.42%** (best) | −0.47% | 8.67% |
+| **TSM** | ST | 2 | $413.42 | $426.55 | $853.10 | 8.88% | **+3.18%** | −0.14% | 9.35% |
+| **GOOGL** | LT | 2 | $352.04 | $342.73 | $685.46 | 7.14% | −2.65% | **+0.63%** | 4.58% / 7.67% |
+| **ADI** | ST | 1 | $372.29 | $369.47 | $369.47 | 3.85% | −0.76% | −1.35% | 3.31% |
+| 🔴 **MKSI** | ST | 1 | $273.82 | $264.795 | $264.80 | 2.76% | 🔴 **−3.30%** (worst ST) | 🔴 **−2.19%** | **3.77%** |
+
+**Sleeves:** Long-term (MSFT, SPY, QQQ, VOO, GOOGL) $7,120.62 = 🔴 **74.13%** (**24.13 pts over — 37th consecutive session**) · Short-term (NVDA, TSM, ADI, MKSI) $2,395.81 = 🔴 **24.94%** (**below the 40% floor for a 6th session**; **4 names — the minimum is MET**) · Cash **0.94%** ✓
+
+**Cash recomputed per STEP 2: 0.94% ≤ 5%. The deployment rule does NOT fire. The VOO fallback does NOT fire. No order is compelled by any cash or sleeve rule.**
+
+### ⭐ STEP 2b — The one item last night's EOD entry said to check FIRST: Marvell
+**MRVL reported AMC 8/27. It beat, it raised twice, and it is down 7.06%.**
+| Metric | Result | vs. Street |
+|---|---|---|
+| Q2 FY27 revenue | **$2.739B**, a company record, **+37% Y/Y**, +13% Q/Q | **$2.71B — BEAT**, and $39M above the guide midpoint |
+| Non-GAAP EPS | **$0.94** | **$0.92–0.93 — BEAT** |
+| Data center revenue | **$2.172B, +46% Y/Y** | AI-driven |
+| Non-GAAP gross margin | **58.9%** (GAAP 53.1%) | 🔴 **the problem — Q3 guided to compression on custom-silicon mix** |
+| FY27 revenue outlook | ⭐ **RAISED to ~$12.0B from ~$11.5B** (~**+45% Y/Y**) | **second consecutive raise**; FY28 also raised |
+| Stock | 🔴 **$241.29 → $224.26 = −7.06%** (after-hours low ~$222.26; today's low **$219.26 = −9.13%**) | on **150,111** shares by 06:38 PT — the heaviest tape on the board |
+
+- ⭐ **This is the first beat-and-raise of the phase that the tape has SOLD, and the reason is specific and named: Q3 gross-margin compression from custom-ASIC mix, on top of a large run-up into the print.** It is not a demand miss. **Revenue accelerated to +37% and the full-year outlook went UP by $500M.**
+- ⭐ **THE READ-THROUGH TO MKSI IS CONFIRMATORY, NOT DAMAGING, AND THE DISTINCTION IS THE WHOLE POINT.** MKSI is owned on a **WFE / AI-capex** thesis — it sells vacuum, photonics and process-control subsystems into **fabs**, and its revenue is a function of **customer capital spending**, not of Marvell's product mix margin. **A $500M raise to Marvell's FY27 AI revenue is an upward revision to exactly the capex pool MKSI is levered to.** Marvell's gross margin is a Marvell problem.
+- 🔴 **The tape does not agree today, and MKSI is −2.19% in sympathy** ($270.715 → $264.795). **That is a sympathy move against a thesis the print did not touch.** ⚠️ **It is logged as a sympathy de-rate, NOT a thesis break** — and the thesis-break test is a written price, not a judgement call (below).
+- **MRVL itself: still REJECTED on point 7, and today adds a second reason.** It is not held, it has no fresh 7-point research, and a −7% one-day gap on a name with no armed research file is a falling knife, not a setup. **NOT BOUGHT.**
+
+### STEP 2c — Macro & market health (inline, replacing the missing pre-market)
+- 🔴 **JACKSON HOLE: Fed Chair Warsh keynotes at 10:00 AM ET / 07:00 AM PT — ~22 minutes after this routine's data cut.** Reuters framing is that no rate-policy signal is expected, but it is the week's single largest event risk and **it lands inside this session.** ⚠️ **This routine writes no order into it; anything queued would fill blind across the keynote.**
+- **Futures mixed-to-weaker into the open:** Nasdaq futures ~**−0.3%**, S&P futures flat-to-slightly-negative (S&P ~7,740 / NDX ~29,606). Confirmed on the tape at 06:38 PT: **SPY +0.13%, QQQ −0.19%, VOO +0.17%** — a flat, mixed open, not a risk-off one.
+- **VIX ~14.5–15.0 — NEUTRAL, bottom edge.** <25, so **no forced downsizing**. Standard sizing applies.
+- **Sector: semis are the day's clear drag, and it is Marvell's doing.** MRVL −7.06%, MKSI −2.19%, AEHR −2.81%, NBIS −3.00%, ADI −1.35%, NVDA −0.47%, TSM −0.14%. ⚠️ **Note the shape: the two AI-compute names the book actually owns (NVDA, TSM) are down less than 0.5%, while the sell-off concentrates in the custom-silicon and small-cap-semi complex.** The market is discriminating, not liquidating.
+- **The macro sizing cap remains LAPSED** (ratified 8/24). Its trigger has now failed for a **10th consecutive session** — Brent ~$87 against a **$95** trigger, VIX ~15 against a **20** trigger. **Neither condition is live; the short-term cap stands at the sleeve's 15%.**
+- **Fed:** September still prices a **HIKE (~25–33%)** against a **~1%** cut, off core PCE at **3.3% Y/Y**. Nothing in today's data changes a sizing rule.
+
+### STEP 2d — Niche watchlist, researched this session as required (all five)
+| Name | Mark | Today | Affordable on $89.93? | Blocking point | Verdict |
+|---|---|---|---|---|---|
+| 🔴 **RKLB** | **$66.13** | −2.05% | ✓ 1 sh = 0.69% | **Point 6** — arms only on a **close above $72.58 on volume**; it is **$6.45 / 8.89% BELOW** that line, opened $66.74 and printed a fresh low of **$65.755** | **REJECTED — 5th session** |
+| 🔴 **AEHR** | **$87.94** | −2.81% | ✓ 1 sh = 0.92% | **Point 2 — re-derived today and WORSE** (below) | **REJECTED — 5th session** |
+| 🔴 **OKLO** | **$42.30** | −0.56% | ✓ 2 sh = 0.88% | **Point 2** — 8 consecutive failed coherence samples; `quote` also prints a **10.2%** book ($39.66 × $44.15) | **UNARMED** |
+| 🔴 **NBIS** | **$211.83** | −3.00% | 🔴 **NO** — $211.83 > $89.93 | **Point 2** — four irreconcilable averages, low target 46% below spot | **BLOCKED** |
+| 🔴 **ASTS** | **$60.67** | −1.22% | ✓ 1 sh = 0.63% | **No fresh 7-point research.** Stopped out 8/26 at a loss; re-entry requires a full new file, which this session did not build | **NOT ELIGIBLE** |
+
+🔴 **AEHR — the point-2 rejection is re-derived from a fresh poll, not inherited, and the target set deteriorated:**
+| Sample | Analysts | Average target | vs. $87.94 spot |
+|---|---|---|---|
+| MarketBeat / consensus | **7** | **$136.67** (range $110–$175) | +55.4% |
+| Alternate feed | **4** | 🔴 **$65.75** | 🔴 **−25.2% — a NEGATIVE reward leg** |
+| Third feed | **2** | $130.00 | +47.8% |
+
+- **Two published "consensus" averages for one stock are 108% apart, and one of them sits BELOW the spot price.** This is the exact **MU / NBIS / OKLO precedent**: when the reward leg cannot be anchored, R:R cannot be computed, and an uncomputable R:R cannot clear a **2.5:1** niche floor. **REJECTED on point 2.**
+- **Price context:** AEHR has fallen **$107.91 (8/20) → $105.86 (8/21) → ~$96.81 (8/25) → $90.48 (8/27 close) → $87.94** — an **18.5%** decline off the August high with the only named explanation being valuation give-back after the new-order run-up (forward P/S ~25x). **A falling price does not arm a name whose target set is incoherent; it just makes the incoherence cheaper.**
+
+### STEP 3 — Hard rule check on every candidate. Nothing clears, and every rejection is named.
+| Candidate | Affordable? | Clears merit? | Blocking rule | Verdict |
+|---|---|---|---|---|
+| **RKLB** 1 sh | ✓ 0.69% | 🔴 **NO — point 6** | 8.89% below its own arming line, making lower lows | **REJECTED** |
+| **AEHR** 1 sh | ✓ 0.92% | 🔴 **NO — point 2** | Reward leg unanchorable; one sample is negative | **REJECTED** |
+| **OKLO** 2 sh | ✓ 0.88% | 🔴 **NO — point 2** | 8th failed coherence sample | **REJECTED** |
+| **ASTS** 1 sh | ✓ 0.63% | 🔴 **NO — points 1–7 absent** | No 7-point file exists for a re-entry | **REJECTED** |
+| **NBIS** | 🔴 **NO** | 🔴 NO — point 2 | Unaffordable *and* blocked | **REJECTED** |
+| **MRVL** | 🔴 **NO** ($224.26) | 🔴 NO — point 7 | Unaffordable, no research file, −7% falling knife | **REJECTED** |
+| **MKSI add** | 🔴 **NO** ($264.80) | — | Unaffordable on $89.93 | **BARRED** |
+| **NVDA / TSM / ADI add** | 🔴 **NO** | — | All unaffordable on $89.93 | **BARRED** |
+| **VOO / SPY / QQQ add** | 🔴 **NO** | — | **Fallback does not fire (cash 0.94% ≤ 5%)** *and* **all three breach the 20% LT cap at a single share** (below) | **REJECTED** |
+| **Any LT trim to fund** | — | — | **LT Rule 8** permits an exit only on a stop hit or a broken thesis. **Neither occurred.** A real violation is never bought to cure a cosmetic one | **BARRED** |
+
+**BIAS CHECK — "ALL CLEAR = TAKE THE TRADE" is satisfied, not evaded.** ⭐ **Four names are affordable on $89.93 today — RKLB, AEHR, OKLO, ASTS — so this is not a capital refusal.** Each fails a **named research point**, re-tested this session rather than inherited. **And the cash rule does not compel anything: at 0.94% there is no breach to cure.** This is a documented no-trade on merit.
+
+### 🔴 Index cash-sweep re-test — ALL THREE STILL BREACH (6th consecutive session)
+**20% of $9,606.36 = $1,921.27.**
+| ETF | Cost basis | +1 sh | Total | % equity | Verdict |
+|---|---|---|---|---|---|
+| **SPY** | $1,530.04 | $772.18 | $2,302.22 | **23.97%** | 🔴 **BREACH** |
+| **QQQ** | $1,419.98 | $719.82 | $2,139.80 | **22.28%** | 🔴 **BREACH** |
+| **VOO** | $1,399.62 | $710.00 | $2,109.62 | **21.96%** | 🔴 **BREACH** |
+
+**There is still no legal index instrument at any size. Moot today — cash is 0.94% — but it means any stop that fires this session must be swept into an individual stock, and the armed board is empty.**
+
+### 🔴 MKSI — the position that the day's news is actually about
+| Test | Line | Live | Status |
+|---|---|---|---|
+| Resting stop `8b672c12` | **$254.82 GTC** (expiry 2026-11-25) | $264.795 | **3.77% away — resting, verified `new`** ✓ |
+| Short-Term Rule 3 hard cut | −7.00% = $254.65 | **−3.30%** | **3.70 pts of room — NOT triggered** ✓ |
+| Thesis-break line | **daily CLOSE below $258.64** (200-day) | $264.795, low $264.67 | **2.32% above — INTACT** ✓ |
+| Trail conversion to 10% | HWM above **$283.13** | session high **$267.535** | 🔴 **DOES NOT FIRE — $15.595 / 5.51% short** |
+
+- ⚠️ **The trail-conversion trigger has now been tested three times and missed three times — $1.70, $1.695, and today $15.595.** The first two were rounding; **this one is a different regime.** The name has gone $281.435 (8/27 high) → $267.535 (today's high), and the fixed **$254.82** stop stands unchanged. **Re-test at midday, but the trigger is no longer close and should be treated as dormant rather than imminent.**
+- **No action taken and none is owed.** Both mechanical lines are intact, the stop is a resting GTC order that fills with no routine present, and the thesis test is a **close**, not an intraday print — so it cannot be evaluated before the 1:00 PM PT bell. ⚠️ **It is EOD's to evaluate, and it is the single most important item on EOD's list.**
+
+### STEPS 4–6 — Execution
+**ZERO orders placed. ZERO orders cancelled. ZERO orders modified.**
+- **STEP 4 — buys: NONE.** Cash 0.94% ≤ 5%, so no deployment is owed; every affordable candidate fails a named point; the LT sleeve is 24.13 pts over target so an index add would worsen a real overage for no rule benefit — and all three index names breach the 20% cap anyway.
+- **STEP 5 — stops: 12 GTC orders live, 9/9 positions, 20/20 shares. NONE placed, cancelled or modified by this routine.** Share audit against the broker order list: MSFT 2+1+1=4 ✓ · SPY 2 ✓ · QQQ 2 ✓ · VOO 2 ✓ · GOOGL 1+1=2 ✓ · NVDA 4 ✓ · TSM 2 ✓ · ADI 1 ✓ · MKSI 1 ✓. **Every share covered. No manual cut line exists anywhere in the book.**
+- ⭐ **ONE stop ratcheted overnight and it moved UP, automatically: MSFT `40683bb4` $455.832 → $458.487** on a HWM advance $506.48 → $509.43. **Every other stop is byte-identical to last night's EOD audit.** **No stop moved down. No stop moved by discretion.** ✓
+- **Trail-tightening check: ZERO ELIGIBLE.** Best position is **NVDA +3.42%**, **11.58 pts** from its +15% rung. **The phase has still never executed a trail tightening.**
+- **−7% hard-cut scan: ZERO PENDING.** Worst short-term **MKSI −3.30%** (3.70 pts of room); then ADI −0.76%, TSM +3.18%, NVDA +3.42%. Worst overall is **GOOGL −2.65%**, long-term, where Rule 3 does not apply and LT Rule 8 permits no discretionary exit.
+- **STEP 6 — cash verified after trades:** unchanged at **$89.93 = 0.94% ✓**, confirmed against a second post-open account call rather than assumed. **No trade occurred, so nothing to re-deploy.**
+- **Late-session sweep check: RUN, null.** No stop has fired since the 8/27 midday routine; no capital was released; nothing is owed.
+
+### Data quality
+- 🔴 **`quote` is unusable for a 25th consecutive session on the small-caps** — OKLO **10.2%** ($39.66 × $44.15), ASTS **10.2%** ($57.64 × $64.18), NBIS **8.7%**, **MKSI 5.5%** ($250.96 × $265.62) — all on 100×100 books, against AEHR's genuine **0.69%** and RKLB's **1.44%**. ⚠️ **MKSI's fabricated 5.5% book is worth naming: the position mark is $264.795 from `snapshot.latestTrade` on 6,460 shares of real volume, not from that quote.**
+- ⚠️ **`bars` is lagging badly on the thin names today** — MKSI returned **one** 1-minute bar stamped 13:04Z against a 13:38Z clock. Unusable as a live mark; **not used for any price in this entry.**
+- **Every price above is `snapshot.latestTrade` + `dailyBar`, current to 13:38Z / 06:38 PT.**
+
+### Compliance
+**9 positions ≤ 15** ✓ · **7 executions this week ≤ 25** ✓ (18 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only** ✓ · ⚠️ **MSFT 21.14% — over the 20% LT cap on the mark, up from 21.04% at last night's close on a session MSFT is UP +0.56%; per the 8/14 ratification this is passive drift, NOT a violation, and requires no trim. The trailing stop is the resolving mechanism and it ratcheted up overnight.** · SPY 16.08%, QQQ 14.99%, VOO 14.78%, GOOGL 7.14% ✓ · short-term **NVDA 9.46%, TSM 8.88%, ADI 3.85%, MKSI 2.76% — all ≤ 15%** ✓ · **cash $89.93 = 0.94% ≤ 5%** ✓ · **deployed 99.06%** ✓ · **stops GTC on 9/9 positions, 20/20 shares across 12 resting orders** ✓ · **no stop moved down** ✓ · **one stop ratcheted UP (MSFT, automatic)** ✓ · **no stop moved by discretion** ✓ · **no position ≤ −7%** ✓ (worst ST MKSI −3.30%, worst overall GOOGL −2.65%) · **no position at the +15% rung** ✓ (best NVDA +3.42%) · **0 day trades** ✓ · **no margin used** ✓ (RegT $9,691.83 untouched) · **index cap re-test RUN, all three breach, 6th session** ✓ · **late-session sweep check RUN — null** ✓ · **niche watchlist researched, all five** ✓ · **macro cap trigger re-tested, unfired for a 10th session — cap stays lapsed** ✓ · 🔴 **short-term 24.94% below the 40% floor — CAPITAL-constrained, 4 names, REACHABLE at 4 × 15% = 60%**
+
+### Reachability check
+- **Short-term: 4 names × 15% = 60% max reachable > a 50% target → ⭐ REACHABLE.** The 4-name minimum is **MET** for a 4th consecutive routine. **Not a cap problem, not a name problem.**
+- 🔴 **It is a CAPITAL problem, and today sharpens the diagnosis rather than repeating it.** The sleeve needs **~$1,447** to reach the 40% floor. **$89.93 exists.** ⭐ **And the pipeline is genuinely not the constraint — four names were affordable today and all four were rejected on merit, which is the first session of the phase where affordability and idea supply were both present and the answer was still no.**
+- **Long-term $7,120.62 = 74.13%** vs a 50% target — **37th consecutive session over.** LT Rule 8 bars a discretionary trim; only a stop hit or a broken thesis releases capital, and neither occurred.
