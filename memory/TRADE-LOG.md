@@ -5690,3 +5690,88 @@ Executions this week: **7 — 7/25** (18 unused). **0 day trades.** Week 19 clos
 ⚠️ **BRANCH NOTE:** this session was started by the scheduler on branch `claude/keen-cerf-4pbsnn`, not `main` — **the 3rd consecutive session started off `main`.** Per CLAUDE.md ("never create a new branch; all commits go directly to main") and routine STEP 6 (`git push origin HEAD:main`), this entry is committed to **main**. The branch was verified **0 ahead / 0 behind `origin/main` at `879cabe`** after an explicit fetch and **before any broker call.** Flagged rather than resolved silently.
 
 **Next scheduled routine: Mon 8/31 Pre-Market.** Its items: (1) 🔴 **CUT MKSI — the close test broke at $255.76 vs $258.64. Verify `8b672c12` did not already fill at the open before sending; never duplicate the sell. Do NOT re-litigate**; (2) 🔴 **pre-derive an individual-stock sweep target BEFORE the cut — no index sweep is legal and the armed board is empty**; (3) 🔴 **ADI's stop is 1.29% away — a second fill puts cash over 5% with nothing compliant to buy**; (4) **the short-term sleeve drops to 3 names post-cut, breaking the 4-name minimum**; (5) **Monday is the earnings-calendar poll day per the strategy**; (6) **no position within 10.7 pts of the +15% rung (best MSFT +4.33%)**; (7) **cash 0.94%, 9 positions, 20/20 shares stopped GTC across 12 orders, 0/25 trades on a fresh Week 20, 0 day trades**; (8) ⭐ **the Week 19 review is still unwritten — see the nine inputs above.**
+
+## 2026-08-31 — Market-Open Execution (Day 56, Monday — Week 20 Day 1) — ⭐ **BOTH PRE-DERIVED ORDERS EXECUTED IN THE FIRST NINE MINUTES: THE MKSI CUT FILLED AT $256.94 AT 06:31:14 PT AND THE ICE SWEEP FILLED AT $160.55 AT 06:38:32 PT** · ⭐ **THE PHASE'S FIRST FULLY PRE-COMMITTED SELL→BUY PAIR — both prices, both sizes, both stop levels and the sequencing gate were written at 05:29 PT and this routine re-derived NONE of them; it verified and executed** · ⭐ **MKSI +0.95% PRE-MARKET WAS NOT A REPRIEVE AND THE CUT WENT ANYWAY — a rule that the next morning's tape can rescue is not a rule, and the sell was already RESTING before this routine existed** · ⭐ **THE 4-NAME MINIMUM WAS BROKEN AND RESTORED INSIDE SEVEN MINUTES — the first time a sleeve-count breach has been cured in the same session it was opened, and the entire reason the sweep was pre-derived BEFORE the cut rather than after it** · ⭐ **THE SEQUENCING GATE HELD: the ICE buy was placed only after `ade12717` was confirmed FILLED and cash read $346.87 ≥ $329.00 — funded on CASH ONLY, margin untouched for a 57th session** · 🔴 **ICE FILLED 1.10% BELOW ITS ANCHOR AND THE R:R IMPROVED FROM 1.85:1 TO 2.38:1 — the pre-committed $164.50 limit was a ceiling, not a target, and the tape came to us** · 🔴 **THE `quote` ARTIFACT WAS BACK AND WIDE (ICE 10.55%, ADI 11.41%) AND THE 8/14 OVERRIDE WAS USED CORRECTLY — trade prints, then a LIMIT order** · **cash 0.27% ✓ · 9 positions · 2/25 trades · 0 day trades · zero cuts, zero tightenings, zero discretionary stop moves**
+
+### Executions
+| # | Time PT | Symbol | Sleeve | Side | Qty | Fill | Value | Order id |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **06:31:14** | **MKSI** | Short-term | **SELL** | 1 | **$256.94** | **+$256.94** | `ade12717` (market, DAY — placed 05:29 PT pre-market) |
+| 2 | **06:38:32** | **ICE** | Short-term | **BUY** | 2 | **$160.55** | **−$321.10** | `ebf3f8d0` (limit $164.50, DAY) |
+
+**2 executions. Executions this week: 2 — 2/25** against the combined cap (23 unused). **0 day trades** (MKSI was opened 8/27, ICE is held).
+**Realized on the MKSI cut: −$16.88 / −6.16%** ($273.82 entry 8/27 → $256.94 exit 8/31).
+
+### Orders placed
+| Field | Value |
+|---|---|
+| **Order** | **BUY 2 ICE · LIMIT $164.50 · DAY** — `ebf3f8d0`, **FILLED $160.55** |
+| Sleeve | **Short-term** (individual stock — exchange/clearing operator, uncorrelated rate-and-commodity driver) |
+| Cost | **$321.10 = 3.37% of equity** ≤ 15% sleeve cap ✓ ≤ **10% live macro cap** ✓ |
+| **Resting cut order** | **SELL 2 ICE · STOP $150.97 · GTC** — `7ba8c040`, expiry 2026-11-27 |
+| Risk to that line | **$19.16 = 0.20% of equity** (5.82% below the mark) |
+| **R:R at the actual fill** | **2.38:1** → $183.33 (+14.19%) against −$9.58 (−5.97%) ✓ ≥ 1.5:1 short-term floor |
+
+⭐ **The stop is a FIXED −7%-class line, not a 10% trail, and that is deliberate and pre-written.** A 10% trail off $160.55 sits at **$144.50** — **$6.47 BELOW** the −7% cut line the thesis actually commits to. Per the 8/28 ratification ("every cut line must be a resting order"), the resting order must be the **tighter** of the two, so the trail was not placed and $150.97 was. ⚠️ **$150.97 was pre-derived off a $162.33 anchor; a fresh −7% off the lower $160.55 fill would be $149.31. The TIGHTER pre-derived level was kept, exactly as MKSI's $254.82 was kept on 8/27 rather than loosened to $254.65. A cut line is never loosened because the fill came in better.**
+
+### ⭐ The pre-commitment worked end to end — this is the finding of the session
+Every number below was fixed in the 05:29 PT pre-market entry and **none was re-derived at the open**:
+- **The cut price:** a *close* below $258.64, tested 8/28 at $255.76. **MKSI opened +0.95% at $258.20, back above the line** — and the sell was already resting, so there was no moment in which judgement could have rescued it. ⭐ **The 8/28 "do not re-litigate" instruction was written for precisely this print, and it bound.**
+- **The sweep target:** ICE, cleared on a reward leg **before** the cut was sent, so the 4-name minimum never had to survive a search.
+- **The sequencing:** (a) confirm `ade12717` filled → **$256.94, confirmed**; (b) confirm cash ≥ $329.00 → **$346.87, confirmed**; (c) then buy. **Cash after: $25.77 = exactly $346.87 − $321.10. No margin was drawn at any point.**
+- **The stop level:** $150.97, written into the pre-market so this routine did not have to derive it inside the unrouted window.
+⭐ **Contrast with 8/27, where the same book placed a limit at a price it then had to argue about, and with 8/26, where a three-session-old contingency turned out to be illegal on the hour it was due to fire. Today the plan survived contact.**
+
+### 🔴 The `quote` artifact returned, and the override was used exactly as ratified
+| Symbol | Quoted bid × ask | Implied spread | Verdict |
+|---|---|---|---|
+| **ICE** | $152.77 × $168.89, 100×100 | **10.55%** | 🔴 **stale single-venue artifact** |
+| **ADI** | $343.90 × $383.13, 40×40 | **11.41%** | 🔴 **stale single-venue artifact** |
+
+**Trade-print evidence used to override (8/14 ratification):** ICE `dailyBar` **n=86 prints, $160.09–$161.50 = a 0.88% range** on 4,935 shares; `minuteBar` 06:36 PT **14 prints, 649 sh, all at $160.47**; `latestTrade` **$160.655**. **Continuous trading inside a range 12× tighter than the quoted spread.**
+⭐ **And the ratification's second half was honoured too — the order was a LIMIT, never a market order.** Had the wide book been real, $164.50 caps the fill at **3.46% of equity and 1.78:1 R:R**, both still legal. **No rule could have been breached on any fill this order was capable of taking.**
+
+### 🔴 STEP 2b — Index cash-sweep re-test: ALL THREE STILL BREACH (10th consecutive session)
+**20% of $9,513.57 = $1,902.71.**
+| ETF | Cost basis | +1 sh | Total | % equity | Verdict |
+|---|---|---|---|---|---|
+| **SPY** | $1,530.04 | $766.24 | $2,296.28 | **24.14%** | 🔴 **BREACH** |
+| **QQQ** | $1,419.98 | $714.19 | $2,134.17 | **22.43%** | 🔴 **BREACH** |
+| **VOO** | $1,399.62 | $704.36 | $2,103.98 | **22.12%** | 🔴 **BREACH** |
+
+**There is still no legal index instrument at any size.** ⭐ **Today the individual-stock sweep that the 8/28 standing trigger demanded actually existed and actually filled — the first session of the phase in which the "cure must be an individual stock" constraint was tested and passed rather than logged as an exposure.**
+
+### Cuts, tightenings, ratchets — all three checked
+- **Cut at −7%:** worst held **GOOGL −3.00%** (long-term; ST Rule 3 does not apply). Worst short-term **ADI −1.80%**, **5.20 pts of room**. **Nothing cut.** ✓
+- **Tighten trails at +15%:** best held **MSFT +3.62%**. **11.38 pts from the rung. Zero eligible.** The phase has still never executed a trail tightening. ✓
+- **Ratchets: ZERO.** No name exceeded its HWM in the first nine minutes; all eleven trailing stops sit at Friday's levels (MSFT $466.002, NVDA $207.423, SPY $697.77, TSM $386.676, ADI $357.25671, GOOGL $316.43991 / $327.033, VOO $644.751, QQQ $661.122). ✓
+- **No stop moved down.** ✓ **No stop moved by discretion in either direction.** ✓ **One stop was CANCELLED (`8b672c12`, MKSI) and it was cancelled pre-market as the mechanism of an executed cut, not as a loosening** — the position it protected no longer exists.
+- **All 9 positions backed by resting GTC orders — 21/21 shares across 12 orders.** ✓ **No manual cut line exists on the book.** ✓
+
+### 🔴 Reachability check — the shortfall is a CAP problem today, and for the first time the cap is legitimately in force
+- **Short-term: $2,395 = 25.18%** (NVDA 9.13 · TSM 8.84 · ADI 3.84 · **ICE 3.37**) vs a 50% target. **4 names — minimum MET.** ✓
+- **Max reachable at the binding cap = 4 × 10% = 40% < 50% → 🔴 CAP-CONSTRAINED.** Per the 8/21 ratification the binding cap must be named and its trigger tested: the binding cap is the **macro cap re-imposed at today's pre-market**, and ⭐ **its rate leg is LIVE — CME FedWatch 57.7% HIKE / 0.0% cut for Sep 16, the 10-year at 4.73% (+6bp), Brent $90.58 on the Hormuz disruption.** **This is the first session in this phase in which a sleeve shortfall is attributable to a cap whose trigger has actually fired**, rather than to a cap that lapsed twelve sessions ago. ⚠️ **Re-test the rate leg every session — the cap lapses after 5 unfired ones.**
+- **Long-term $7,092 = 74.55%** vs a 50% target — **41st consecutive session over.** LT Rule 8 permits an exit only on a stop hit or a broken thesis; none of MSFT/SPY/QQQ/VOO/GOOGL qualifies. Logged as a consequence, not a decision.
+
+### Session P&L
+**Equity $9,513.57 vs `account.last_equity` $9,546.05 = −$32.48 / −0.34%** (computed off the broker's figure per the 8/28 measurement rule, not off this log's prior entry). **VOO −0.41%** ($704.36 vs $707.24). **Book beats the benchmark by 0.07 pts on the open.** Phase: **−$486.43 / −4.86%** off the $10,000.00 start.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **2 executions this week ≤ 25** ✓ (23 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only; ICE is an individual stock in the short-term sleeve** ✓ · ⚠️ **MSFT 21.43% — over the 20% LT cap on the mark; passive drift per the 8/14 entry-sizing ratification, NOT a violation, no trim, the trailing stop is the resolving mechanism** · SPY 16.11%, QQQ 15.02%, VOO 14.81%, GOOGL 7.18% ✓ · short-term **NVDA 9.13%, TSM 8.84%, ADI 3.84%, ICE 3.37% — all ≤ 15% and all ≤ the 10% live macro cap** ✓ · **ICE entry cap-tested BEFORE the order at 3.37%** ✓ · **cash $25.77 = 0.27% ≤ 5%** ✓ · **deployed 99.73%** ✓ · **stops on 9/9 positions, 21/21 shares across 12 resting GTC orders** ✓ · **no stop moved down** ✓ · **no stop moved by discretion** ✓ · **zero ratchets** ✓ · **no position ≤ −7%** ✓ (worst GOOGL −3.00%) · **no position at the +15% rung** ✓ (best MSFT +3.62%) · **0 day trades** ✓ · **no margin used — cash went $346.87 → $25.77, exactly the $321.10 cost; RegT $9,858.95 untouched, 57th session** ✓ · **index cap re-test RUN, all three breach, 10th session** ✓ · **4-name short-term minimum BROKEN at 06:31 and RESTORED at 06:38** ✓ · **macro cap rate leg LIVE, re-tested** ✓
+
+### Standing Triggers Carried Forward
+- 🔴 ⭐ **ICE — the resting cut order is `7ba8c040` STOP $150.97 GTC, and it is a FIXED stop, not a trail. It does NOT ratchet.** ⭐ **CONVERT to a 10% trailing stop only once ICE's HWM exceeds $167.74** — below that price a 10% trail would sit *under* $150.97 and converting would be a stop moved DOWN. **Check this at every routine; ICE is $160.31 and needs +4.64% to arm the conversion.**
+- ⚠️ **ICE thesis, dated: the break is Q3 volumes repeating Q2's 5% miss — the single number to check is the 10/29 print.** Target $183.33 (MarketBeat, 12 analysts), corroborated $185.43 (WSJ), 1.14% apart, Street low $163.00 **above** the entry.
+- 🔴 **ADI IS THE BOOK'S CLOSEST LINE AT 2.28%** — `c77585aa` **$357.25671** vs a $365.59 mark. **A 10% trail off a $396.9519 HWM on a position −1.80% from entry: a fill is a REAL LOSS, not a locked gain.** ⚠️ **ADI GOES EX-DIVIDEND $1.10 TOMORROW (Sep 1) — a mechanical ~0.30% mark-down moving it ~0.30 pts CLOSER to the stop for no informational reason. Tomorrow's routine must read the gap as ex-div, not as weakness.** **If it fires after the midday routine the late-session sweep is owed the same session; HAL (2.73:1) and OXY (1.68:1) are the pre-derived targets and both are affordable on ~$357 of proceeds.**
+- 🔴 **THERE IS STILL NO LEGAL INDEX CASH-SWEEP** — SPY 24.14%, QQQ 22.43%, VOO 22.12% at one added share vs a 20% cap, **10th session.** Any cash breach must be cured with an individual stock.
+- 🔴 **THE MACRO CAP IS IN FORCE AT 10% ON A FIRED RATE LEG** (FedWatch 57.7% hike, 10-yr 4.73%, Brent $90.58). **Re-test all three legs every session — 5 unfired sessions and it lapses back to 15%.** It is the binding constraint on the short-term sleeve's 25.18% and that is now a documented, legitimate cap consequence.
+- 🔴 **ALL FIVE NICHE NAMES VETOED ON POINT 6** — ASTS, RKLB, OKLO, AEHR and NBIS all closed below their 50-day on primary-source bars. **First session the entire watchlist failed on the same hard gate.** MRK / APA / VLO / MPC / PSX / DINO **UNARMED** on negative reward legs. **HAL (2.73:1) and OXY (1.68:1) are the only armed runners-up.**
+- **STRUCTURAL: long-term 74.55% vs a 50% target — 41st consecutive session over.**
+- **Closed-trade record: Week 20 opens 0 wins / 1 loss — MKSI −$16.88. Prior: Week 19 final 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.**
+- ⭐ **THE WEEK 19 REVIEW IS STILL UNWRITTEN** — `memory/WEEKLY-REVIEW.md` has no 2026-08-28 entry. Its nine sourced inputs are listed in the 8/28 EOD entry. ⭐ **Add a tenth from today: the first end-to-end pre-committed sell→buy pair in the phase, executed with zero re-derivation, and the strongest evidence yet FOR the pre-commitment discipline that P0 #4 exists to formalise.**
+
+⚠️ **BRANCH NOTE:** this session was started by the scheduler on `claude/nifty-pascal-85crto`, not `main` — **the 4th consecutive session started off `main`.** The branch was verified **0 behind / 4 ahead of `origin/main` before any broker call**, so the last four sessions' memory entries (weekly review 8/28, EOD 8/28, pre-market 8/31, and this one) live on the branch, not on `main`. Per CLAUDE.md ("all commits go directly to main") and routine STEP 9, this entry is pushed to **both** — the branch, and `main` as a fast-forward. **Nothing is discarded; `main` is strictly an ancestor.** Flagged rather than resolved silently.
+
+**Next scheduled routine: Mon 8/31 Midday ~09:30 AM PT.** Its items, in order: (1) 🔴 **ICE — verify `7ba8c040` STOP $150.97 GTC is resting; do NOT convert to a trail below a $167.74 HWM**; (2) 🔴 **ADI is the closest line at 2.28% and goes ex-div $1.10 tomorrow**; (3) 🔴 **re-test the macro cap's three legs on the live tape — it is in force at 10% and lapses after 5 unfired sessions**; (4) **cash 0.27% — a stop fill has NO legal index cure; HAL and OXY are the pre-derived individual-stock targets**; (5) **no position within 11.4 pts of the +15% rung (best MSFT +3.62%)**; (6) **worst position GOOGL −3.00%, worst short-term ADI −1.80%**; (7) **9 positions, 21/21 shares stopped GTC across 12 orders, 2/25 trades, 0 day trades**; (8) **Dallas Fed Manufacturing 11:30 PT — the day's one scheduled US macro print.**
+
+---
