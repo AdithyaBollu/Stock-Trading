@@ -12781,3 +12781,102 @@ The Brent>$95-or-VIX>20 cap was **retired outright on 8/28** for failing on 12 s
 **Next scheduled routine: Mon 8/31 Market Open, ~06:35 AM PT.** Its items, in order: (1) 🔴 **CONFIRM `ade12717` FILLED and read the actual MKSI proceeds — never send a duplicate sell; if it did NOT fill, re-place the $254.82 stop before anything else**; (2) 🔴 **verify cash ≥ $329.00, THEN place BUY 2 ICE LIMIT $164.50 DAY — cash only, no margin; 1 sh if proceeds < $239.07**; (3) 🔴 **on the ICE fill, place STOP $150.97 GTC in the same routine (the −7% line, tighter than a 10% trail)**; (4) 🔴 **ADI is the closest line at 1.72% and goes ex-div $1.10 tomorrow**; (5) **re-test the macro cap's rate leg on the live tape — it is in force at 10% and must be re-tested every session or it lapses in 5**; (6) **no position within 11.5 pts of the +15% rung (best MSFT +3.52%)**; (7) **9 positions, 2/25 trades, 0 day trades, cash 0.94% pre-cut / ~0.22% post-sweep if ICE fills**; (8) **Dallas Fed Manufacturing 11:30 PT — the day's one scheduled US macro print.**
 
 ---
+## 2026-08-31 — Midday Intraday Addendum (Week 20 Day 1, Monday, ~09:15 AM PT — ⭐ **THE SLEEVE INVERSION: the short-term book is the day's ONLY positive sleeve (+$7.84) and the long-term book is the entire loss (−$46.87), the exact mirror of 8/28 when four short-term semis fell 1.3–4.8% against a flat index** · ⭐ **THE ICE ENTRY IS ALREADY DOING THE JOB IT WAS BOUGHT FOR — it is the one name in the book with an uncorrelated driver and it is the ONLY short-term name red today, which is what an uncorrelated long looks like on a day the correlated ones bounce; the 4-name minimum restored at 06:38 is why the sleeve had anything green in it at all** · 🔴 **GOOGL −2.31% IS THE BOOK'S ONE SHARP MOVER AND ITS CATALYST SEARCH RETURNED NOTHING DATED TODAY — every cited driver is recycled (Feb capex guide, Jul $195–205B raise, Jul Gemini 3.5 Pro delay, Aug 5 DeepMind departures). No new information = no thesis break = LT Rule 8 holds** · 🔴 **ADI IS THE BOOK'S CLOSEST LINE AT 1.46% AND ITS SWEEP TARGET IS PRE-DERIVED AND CAP-TESTED ON TODAY'S EQUITY: HAL 9 sh ≈ $325.62 = 3.42% vs a 10% macro cap** · **ZERO orders placed, cancelled or modified. NO cuts, NO trails eligible, NO ratchets by discretion.**)
+
+### STEP 1 — Memory read ✓
+TRADING-STRATEGY.md · TRADE-LOG.md tail (open positions, entries, stops, sleeve labels) · today's 8/31 pre-market + market-open entries. **Sleeve labels carried forward unchanged: LT = MSFT, SPY, QQQ, VOO, GOOGL · ST = NVDA, TSM, ADI, ICE.**
+
+### STEP 2 — Live state (~09:15 AM PT / 16:15Z)
+| | Value |
+|---|---|
+| Equity | **$9,508.13** (`last_equity` $9,546.05 → **−$37.92 / −0.40%** per the 8/28 measurement rule) |
+| Cash | **$25.77 = 0.27%** ✓ ≤ 5% |
+| Deployed | **99.73%** ✓ inside the 95–100% band |
+| Positions | **9 ≤ 15** ✓ |
+| Buying power | $26,653.67 (4x) · **RegT $9,533.90 untouched — no margin, 58th session** ✓ |
+| Day trades | **0** ✓ |
+| Executions this week | **2 / 25** ✓ (23 unused) |
+| Phase P&L | **−$491.87 / −4.92%** off the $10,000.00 start |
+
+| Ticker | Sleeve | Sh | Basis | Mark | MV | % Eq | Unreal. | Today | To stop |
+|---|---|---|---|---|---|---|---|---|---|
+| ⚠️ **MSFT** | LT | 4 | $491.72 | $510.45 | $2,041.80 | ⚠️ **21.47%** | **+3.81%** (best) | −0.60% | 8.71% |
+| **SPY** | LT | 2 | $765.02 | $765.66 | $1,531.32 | 16.11% | +0.08% | −0.48% | 8.87% |
+| **QQQ** | LT | 2 | $709.99 | $714.27 | $1,428.54 | 15.02% | +0.60% | −0.30% | 7.44% |
+| **VOO** | LT | 2 | $699.81 | $703.835 | $1,407.67 | 14.81% | +0.58% | −0.48% | 8.39% |
+| **NVDA** | ST | 4 | $219.61 | $219.69 | $878.76 | 9.24% | +0.04% | **+0.98%** (best) | 5.58% |
+| **TSM** | ST | 2 | $413.42 | $417.72 | $835.44 | 8.79% | +1.04% | +0.05% | 7.43% |
+| 🔴 **GOOGL** | LT | 2 | $352.04 | $338.57 | $677.14 | 7.12% | 🔴 **−3.83%** (worst) | 🔴 **−2.31%** (worst) | **3.41%** / 6.54% |
+| 🔴 **ADI** | ST | 1 | $372.29 | $362.565 | $362.57 | 3.81% | −2.61% (worst ST) | +0.22% | 🔴 **1.46%** (closest) |
+| **ICE** | ST | 2 | $160.55 | $159.595 | $319.19 | 3.36% | −0.60% | −1.69% | 5.40% |
+
+**Sleeves:** Long-term (MSFT, SPY, QQQ, VOO, GOOGL) $7,086.47 = 🔴 **74.53%** (**24.53 pts over — 42nd consecutive session**) · Short-term (NVDA, TSM, ADI, ICE) $2,395.96 = 🔴 **25.20%** (**below the 40% floor for a 10th session**; **4 names — minimum MET**) · Cash **0.27%** ✓
+
+**Cash recomputed per STEP 2: 0.27% ≤ 5%. The deployment rule does NOT fire. The VOO fallback does NOT fire. STEP 6 is not entered ahead of STEP 3.**
+
+### ⭐ STEP 2b — The sleeve inversion, and what it says about the ICE entry
+| Sleeve | Intraday P&L | Read |
+|---|---|---|
+| **Short-term** (NVDA +$8.56, TSM +$0.40, ADI +$0.79, ICE −$1.91) | ⭐ **+$7.84** | **The only positive sleeve** |
+| **Long-term** (GOOGL −$16.04, MSFT −$12.32, SPY −$7.38, VOO −$6.81, QQQ −$4.32) | 🔴 **−$46.87** | **The entire day's loss** |
+
+- ⭐ **This is the precise mirror of 8/28**, when the short-term sleeve was logged as "the entire day's loss" with all four names red against SPY −0.09%. **Three sessions later the sign flips.** The 42-session "long-term over target" line has been logged as an *asset* on down days for three straight sessions — **today it is the liability**, and that is the first counter-evidence the phase has produced against that framing.
+- ⭐ **ICE is the only red short-term name and that is the thesis working, not failing.** It was bought at 06:38 explicitly as *"a long with an uncorrelated driver"* against a book where *"every position is priced off the same factor."* On a session where the three semis are +0.05% to +0.98% and the mega-cap/index complex is −0.30% to −2.31%, **ICE going the other way at −1.69% is the correlation actually being broken.** One session is not evidence; it is logged as the first observation.
+- 🔴 **Book −0.40% vs SPY −0.48% and VOO −0.48% — AHEAD by 0.08 pts.** The book is beating the index on a red day for the first time in the phase's recent run of index-lagging red sessions.
+
+### STEP 3 — Cut losers (short-term, −7% hard line) — **NO CUTS**
+| Name | Unreal. | Room to −7% |
+|---|---|---|
+| ADI | −2.61% | **4.39 pts** |
+| ICE | −0.60% | 6.40 pts |
+| NVDA | +0.04% | 7.04 pts |
+| TSM | +1.04% | 8.04 pts |
+**No short-term position is at or below −7%.** Rule 3 does not fire.
+**Long-term:** worst is **GOOGL −3.83%** — LT Rule 8 gives it room; the −7% line is short-term only. **No cut.**
+
+### STEP 4 — Trail tightening — **NOTHING ELIGIBLE, 0 CHANGES**
+Best position in the book is **MSFT +3.81%**, **11.19 pts** below the +15% rung. **The phase has still never executed a trail tightening.**
+**Zero stops moved by discretion. Zero stops moved down.** The only stop changes on the book remain the broker's automatic upward ratchets.
+
+### STEP 5 — Thesis check — **GOOGL INVESTIGATED, THESIS INTACT, NO CUT**
+**GOOGL −2.31% is the book's one sharp intraday mover and the only name that clears the STEP 7 "moving sharply" trigger.** Query run: *"GOOGL Alphabet stock down 2.3% intraday reason news catalyst August 31 2026."*
+- **Result: NO catalyst dated 2026-08-31.** Every driver returned is recycled from a prior, already-priced event — the **Feb $180–185B 2026 capex guide**, the **Jul $195–205B raise** (+$15B on top of elevated AI infra), the **Jul Gemini 3.5 Pro delay**, the **Aug 5 DeepMind/Jeff Dean departures**, the **EU $1B fine**. The two sources timestamped today are MarketBeat's evergreen *"Why Is Alphabet Down Today?"* page, which names the same standing capex-vs-ROI overhang, not a new event.
+- ⭐ **A recycled overhang is not a thesis break.** The 8/28 rule is that a cut needs a *written price* or a *fundamental* break — a guidance cut, a reversal, a sector collapse. **None is present: no guidance change, no downgrade dated today, no sector event.** GOOGL is −19% from its 52-week high on a spending debate that has been continuously priced since February.
+- **Action: NONE.** GOOGL stays. Its nearest stop leg `1f5ca016` sits **3.41%** below at $327.033 and **that is the resolving mechanism** if the de-rate continues — the position is fully covered by two GTC legs and needs no manual line.
+- **No other position moved sharply enough to trigger a thesis test** (next largest is ICE −1.69%, itself only 1.10% below an entry filled this morning).
+
+### STEP 6 — Sleeve balance & cash deployment — **NO ORDER COMPELLED**
+- **Cash $25.77 = 0.27% ≤ 5%** ✓ — **the deployment rule does not fire and no VOO fallback is owed.** Computed on **CASH ONLY** per the 8/28 measurement rule; **RegT $9,533.90 is not counted and is not available capital.**
+- **Long-term 74.53% — over target, not under 40%.** No add is owed. **LT Rule 8 bars a discretionary trim** — no stop hit, no broken thesis on any of MSFT/SPY/QQQ/VOO/GOOGL (GOOGL tested and cleared above). **No action.**
+- 🔴 **Short-term 25.20%, below the 40% floor for a 10th session. Reachability check RUN per the 8/21 rule:**
+  - **4 names × the 10% macro cap in force = a 40% ceiling.** That is **exactly the floor and 10 pts below the 50% target** → at the *target* level this is a **CAP problem**; the cap's trigger was tested this morning on primary CME data and **FIRED** (57.7% hike / 0.0% cut for Sep 16, 10-yr 4.73% +6bp, Brent $90.58), so the constraint is **legitimately in force**, not the mis-specification Week 19 retired. **Session 1 of 5 under the re-imposed cap.**
+  - 🔴 **But the cap is NOT what binds today. CAPITAL is.** Reaching the 40% floor needs **$3,803.25 − $2,395.96 = $1,407.29.** **$25.77 exists.** The sleeve is **UNFUNDED, not unreachable and not name-short** — the same diagnosis as the prior nine sessions, and no legal mechanism releases capital from a 74.53% long-term sleeve that Rule 8 protects.
+- 🔴 **Index cash-sweep re-tested on today's equity ($9,508.13, 20% LT cap = $1,901.63) — all three still ILLEGAL at a single added share, 10th session:** **SPY $2,296.98 = 24.16%** · **QQQ $2,142.81 = 22.54%** · **VOO $2,111.51 = 22.21%.** There is no legal index parking target; any cure must be an individual stock, as this morning's ICE entry demonstrated for the first time.
+- ⚠️ **MSFT 21.47% — over the 20% LT cap on the mark, up from 21.37% at this morning's pre-open reading on a session MSFT is −0.60% against Friday's close.** Per the **8/14 ratification this is passive drift, NOT a violation, and requires no trim**; the position was not touched and its ratcheting trail is the resolving mechanism. **This is a cleaner instance of the ratified pattern than the original evidence** — the weight rose while the price fell, because the equity denominator fell faster.
+
+### STEP 7 — Intraday research
+**Trigger test: cash 0.27% ≤ 5% → the cash leg does NOT fire. The "moving sharply" leg fires on GOOGL only,** and that query is recorded under STEP 5. **No momentum leaderboard scan was run** — with $25.77 of cash and no stop fired, a new setup is unfundable at any size, and the prior **eight consecutive scans returned nothing fundable** (the 8/28 scan returned actively wrong data, naming names that were −3.8% to −5.2% on the live tape). **Logged as a deliberate skip with its reason, not as an omission.**
+
+**Macro cap trigger — midday corroboration attempted, and it is itself an incoherence sample:** the vendor returned **Sep 16 hike odds anywhere from 30% to 82%** across sources (clustering 44–61%) and **could not return live 10-yr, VIX or Brent at all.** ⭐ **The direction is nonetheless unambiguous: not one source shows a CUT.** The governing reading remains this morning's **primary CME poll (57.7% hike / 0.0% cut)** per the pre-market cadence; **the cap stands at 10%.** The 2.7× spread across vendor snapshots is the same failure mode as the point-2 target incoherence and is noted for the Week 20 review — **primary sources only for cap tests.**
+
+### 🔴 Late-session sweep — pre-derived and CAP-TESTED ON TODAY'S EQUITY (8/28 contingency rule)
+**ADI `c77585aa` STOP $357.25671 is the book's closest line at 1.46%.** It is a 10% trail off a **$396.9519 HWM on a position −2.61% from entry — a fill is a REAL LOSS, not a locked gain.** If it fires after this routine the sweep is **owed this session**:
+| | Target | Sizing on ~$357.26 proceeds | % of $9,508.13 | vs 10% macro cap | R:R |
+|---|---|---|---|---|---|
+| **PRIMARY** | **HAL** ($36.18, 8/28 close) | **9 sh = $325.62** | **3.42%** | ✓ **LEGAL, 6.58 pts headroom** | **2.73:1** (highest armed) |
+| Runner-up | OXY ($59.10, 8/28 close) | 6 sh = $354.60 | 3.73% | ✓ LEGAL | 1.68:1 |
+- **Both clear the 1.5:1 short-term floor; HAL is taken on ratio.** Either keeps the short-term sleeve at **4 names** — the minimum is preserved through the swap, which is the failure the 8/31 market-open pre-derivation was built to avoid.
+- ⭐ **The cap arithmetic is recorded on TODAY'S equity, on the session the contingency is written** — the exact discipline the 8/28 ratification demanded after "VOO 1 sh LIMIT $712.00" was carried illegal for three sessions and cap-tested only in the hour it was due to fire.
+- **ADI goes ex-dividend $1.10 tomorrow (9/1)** — a mechanical ~0.30% mark-down that moves it ~0.30 pts closer to `c77585aa` **for no informational reason.** Tomorrow's routines must read that gap as ex-div, not as weakness.
+
+### Stop coverage & rule audit
+**9 positions ≤ 15** ✓ · **2/25 trades on Week 20** ✓ (23 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only; ICE and ADI are individual stocks in the short-term sleeve** ✓ · ⚠️ **MSFT 21.47% — passive drift per the 8/14 ratification, NOT a violation, no trim** · SPY 16.11%, QQQ 15.02%, VOO 14.81%, GOOGL 7.12% ✓ · short-term **NVDA 9.24%, TSM 8.79%, ADI 3.81%, ICE 3.36% — all ≤ the 10% macro cap and the 15% sleeve cap** ✓ · **cash $25.77 = 0.27% ≤ 5%** ✓ · **deployed 99.73%** ✓ · **stops GTC on 9/9 positions, 21/21 shares across 12 resting orders — no share is naked** ✓ · **no stop moved down** ✓ · **no stop moved by discretion** ✓ · **no position ≤ −7%** ✓ (worst ST ADI −2.61% with 4.39 pts of room) · **no position at the +15% rung** ✓ (best MSFT +3.81%, 11.19 pts away) · **0 day trades** ✓ · **no margin used, 58th session** ✓ · **index cap re-test RUN, all three breach, 10th session** ✓ · **late-session sweep target pre-derived AND cap-tested on today's equity** ✓ · **macro cap trigger corroborated intraday, stays in force at 10%** ✓ · 🔴 **short-term 25.20% below the 40% floor — UNFUNDED not unreachable, 4 names, 10th session**
+
+**ORDERS PLACED: 0 · CANCELLED: 0 · MODIFIED: 0 · CUTS: 0 · TRAILS TIGHTENED: 0.** No Discord notification sent — STEP 8 fires only on action.
+
+⚠️ **BRANCH NOTE:** the scheduler started this session on branch `claude/busy-hopper-3praaw`, not `main` — **the 5th consecutive session started off `main`.** Per CLAUDE.md ("never create a new branch; all commits go directly to main") and routine STEP 9 (`git push origin HEAD:main`), this entry is committed to **main**. `git fetch origin main` was run and `git rev-list --left-right --count origin/main...HEAD` = **0/0** — the working branch is byte-identical to `origin/main` at `c47aa27` (8/31 market open). **No memory-integrity failure.** Flagged rather than resolved silently.
+
+**Next scheduled routine: Mon 8/31 EOD, ~13:15 PT.** Its items, in order: (1) 🔴 **check whether `c77585aa` (ADI) fired after this routine — if it did, the late-session sweep is OWED THIS SESSION and the target is pre-derived above: HAL 9 sh, next-open LIMIT if the bell has gone**; (2) 🔴 **GOOGL — thesis tested and INTACT at midday on a no-new-catalyst finding; EOD re-checks only if it breaks $327.033, and the stop handles it if so — do not re-litigate the hold**; (3) **ADI ex-div $1.10 tomorrow — read the overnight gap as mechanical**; (4) **the sleeve inversion is one observation, not a trend — record whether ICE's uncorrelated behaviour repeats**; (5) **no position within 11.2 pts of the +15% rung**; (6) **9 positions, 2/25 trades, 0 day trades, cash 0.27%**; (7) 🔴 **the Week 19 review is STILL unwritten — today adds an 11th input: the long-term sleeve as the day's liability, the first counter-evidence to three sessions of "it is the asset."**
+
+---
+
