@@ -12880,3 +12880,207 @@ Best position in the book is **MSFT +3.81%**, **11.19 pts** below the +15% rung.
 
 ---
 
+## 2026-09-01 — Pre-Market Research (Week 20 Day 2, Tuesday — 🔴 **ADI IS TRADING BELOW ITS OWN STOP BEFORE THE BELL — $354.79 against `c77585aa` at $357.25671. The line is already broken at 05:29 PT and the order fires on the opening print unless ADI rallies 0.70% in 61 minutes** · ⭐ **AND THE EX-DIV EXCUSE DOES NOT COVER IT: $1.10 off a $362.14 close puts the mechanical reference at $361.04, so ADI is −1.73% BEYOND the dividend. The 8/31 instruction to "read the gap as ex-div, not as weakness" was written for a ~0.30% mark-down; the actual gap is 5.7× that** · 🔴 **AND THE CHART NOW AGREES — ADI FAILS POINT 6 ON OUR OWN BARS for the first time: $362.14 against a $382.46 50-day, −5.3%. The exit is corroborated by the gate, not just by the mechanics. It is still a REAL LOSS (−4.04% from a $372.29 entry off a $396.95 HWM), not a locked gain** · ⭐ **THE PRE-DERIVED SWEEP TARGET IS RE-DERIVED AND IT CHANGES — HAL IS DEMOTED AND DVN IS THE BUY AT 3.16:1. This is the 8/28 contingency rule doing exactly the work it was ratified for: HAL decayed 2.73:1 → 2.42:1 and OXY decayed 1.68:1 → 1.10:1 — BELOW THE 1.5:1 FLOOR — purely because both rallied 1.8% on Monday's Hormuz bid. A contingency carried forward unexamined would have bought a name that no longer clears the floor** · 🔴 **ALL FIVE NICHE NAMES VETOED ON POINT 6 FOR A SECOND CONSECUTIVE SESSION** — ASTS −12.4%, RKLB −17.1%, OKLO −10.4%, AEHR −14.4%, NBIS −5.3% against their 50-days, all from 272 in-house daily bars · 🔴 **THE MACRO CAP'S RATE LEG IS LIVE FOR A SECOND SESSION — 10-yr 4.78% (+5bp), FedWatch 57–66% HIKE / 0.0% cut for Sep 16. Cap stays at 10% = $942.51** · 🔴 **INDEX SWEEP ILLEGAL FOR A 12TH SESSION** — SPY 24.33% / QQQ 22.59% / VOO 22.29% at one added share · **1 exit expected, 1 buy pre-derived, armed and cap-tested.**)
+
+**Account snapshot (05:29 PT):** equity **$9,425.07** · cash **$25.74 (0.27%)** · `last_equity` **$9,508.30** → day **−$83.23 / −0.88%** · RegT buying power $9,450.81 **untouched, 58th session** · 0 day trades · 9 positions · 2/25 trades on Week 20.
+
+**Sleeve status:** long-term **$7,023.34 = 74.52%** vs a 50% target (**43rd consecutive session over**) · short-term **$2,375.94 = 25.21%** vs a 50% target, **4 names** · **cash 0.27% — no breach, nothing owed on the cash rule this morning.** Deployed **99.73%**.
+
+### Market environment — NEUTRAL on VIX, negative on breadth, and energy is the only thing working
+- **Futures:** S&P **−0.45 to −0.53%**, Nasdaq 100 **−0.17 to −0.32%**, Russell 2000 **−0.96%.** ⭐ **Fifth consecutive session in which the small-cap/duration end takes the larger hit — the same signature that has sorted the damage since 8/27.**
+- **VIX 15.08–15.88** (Cboe 15.08) → **NEUTRAL band (15–25).** Not a risk-off tape by the volatility gauge.
+- **Breadth: NEGATIVE.** NYSE 8/31 closed **1,678 advancers / 3,026 decliners, net −1,348.** A live intraday US A/D reading was not obtainable pre-open; the vendor returned **Nifty 50 data (23/27, ratio 0.85)** for a US query — logged as a vendor miss, not used.
+- **Put/call:** CBOE total **0.84** · index **0.92** · equity **0.70** · SPX+SPXW **1.05.** Unremarkable.
+- **Sectors: Energy leads (+1.07% to +2.10%), Communication Services lags (−1.62 to −1.63%).** ⭐ **The book is positioned exactly wrong for this rotation on the long-term side — GOOGL is the single largest loser in the book at −4.46% and it sits in the lagging sector — and exactly right on the short-term side, where the sweep candidates are all energy.**
+- **Classification: NEUTRAL by VIX, but the HIGH-impact macro below binds sizing to 10% regardless — which is where the macro cap already sits.** No sizing change results from the market-health read.
+
+### Macro / geopolitical — the same two HIGH events as Monday, both intact, both reinforcing
+**🔴 HIGH — Fed / rates. The hike is still the priced outcome and the long end kept moving.**
+- **CME FedWatch, Sep 16:** vendor snapshots cluster **57–66% HIKE** (66.3% / 61.4% / 57% / 32% across sources), **0.0% CUT in every snapshot that reports one.** ⚠️ **Snapshot spread is 32–66% — the same vendor-incoherence failure mode flagged on 8/31. The direction is unambiguous and is what the cap test turns on; the level is not reliable to a decimal.**
+- **Treasuries: 10-yr 4.78% (from 4.73% = +5bp) · 2-yr 4.36% (+2bp) · 2s10s +41bp, steepening again.** The repricing stays in the long end for a second session.
+- Current target range **3.50–3.75%.** Reuters' August poll: **90% of economists expect no change** on Sep 15–16, but July minutes put a hike at ~1-in-3 *at that meeting*, and the June dots removed 2026's cut and moved the median to **3.8%**. **The Street's base case is a hold; the market's marginal pricing is a hike. Both are hawkish relative to a month ago.**
+- **Inflation is the reason and it has not moved:** CPI **3.4%** y/y (Jul), core PCE **3.3%** (Jul, unchanged from June — **disinflation still stalled**), PCE **3.7%**, PPI **3.0%**. Next prints **PPI Sep 10, CPI Sep 11, PCE Sep 30.**
+- Growth is not the offset: **claims 203k** (w/e 8/22), continuing **1.778M**. A tight labour market with 3.3% core is the hawkish case.
+
+**🔴 HIGH — Oil / Hormuz. The physical disruption is still bid and it is inflationary into that Fed.**
+- **WTI $86.59–$87.88 · Brent $91.05–$92.21**, up from **WTI $85.26 / Brent $90.58** Monday. Reuters has Brent **+1.9%** on renewed US–Iran fighting.
+- **IEA framing unchanged: the largest supply disruption in the history of the oil market** — Hormuz flows from ~20 mb/d to a trickle, Gulf output cut ≥10 mb/d, world supply **−4.3 mb/d (~4%)** this year. Dallas Fed scenario: a closure removing ~20% of global supply puts **WTI at $98** and takes **2.9pp off global GDP growth**.
+- ⭐ **This is the entire reason the sweep board is an energy board.** Every armed and near-armed candidate below is an oil name, and that is a *consequence* of the macro read rather than a coincidence — worth stating so a later session does not read it as sector drift.
+
+**MEDIUM WATCH**
+- **US–China:** truce holds to **Nov 10 2026**; the prepared **+7.5% overcapacity tariff** (Reuters 8/24) is still pending ahead of the Xi–Trump summit. Average duties **36.5% US / 31% China** as of July. **Direct read-through to NVDA / TSM.**
+- **Russia/Ukraine:** refinery strikes remain the product-side half of the energy squeeze; World Bank sees **energy +24%, fertiliser +31% in 2026.**
+- **US fiscal / debt ceiling:** CBO has debt subject to the limit at **$39.6tn end-2026**. **No dated cliff — the fight is projected post-November-election.** LOW today, MEDIUM by year-end.
+
+**LOW / PRICED-IN:** European political noise; Red Sea/Houthi (inside the Hormuz premium).
+
+**Today's US data slate — three prints, all inside market hours:** **JOLTS job openings 05:30 PT** (cons. **7.330M**) · **construction spending 05:30 PT** (cons. **0.0% m/m**) · 🔴 **ISM Manufacturing PMI 07:00 PT** (cons. **55.2**). ⭐ **The ISM lands 30 minutes after the open and AFTER every order below is due to execute — the plan is therefore written to be ISM-independent, and it is. Nothing below is conditional on the print.**
+
+### 🔴 The macro sizing cap — RE-TESTED, and the rate leg fires for a 2nd consecutive session
+| Leg | Trigger as written 8/31 | Reading today | Fired? |
+|---|---|---|---|
+| **Rate/duration** (required) | 10-yr +5bp or more in one session, **or** FedWatch hike probability ≥ 50% for the next FOMC | **10-yr 4.78%, +5bp · FedWatch 57–66% hike, 0.0% cut** | 🔴 **YES, both legs** |
+| **Spec-complex breadth** (required-alt) | ≥4 of 5 niche names down >4% on a session the index is flat | 8/31: ASTS +1.81, RKLB −0.73, OKLO +1.07, AEHR −1.91, NBIS −1.37 | ❌ **no** |
+| Commodity/vol (supporting only) | Brent > $95 or VIX > 20 | **Brent $91.05–92.21, VIX 15.08–15.88** | ❌ no — **the retired leg misses for a 14th straight session** |
+- **CAP IN FORCE: all new positions ≤ 10% of equity = $942.51.** Session **2 of 5** on the lapse clock; the clock **resets** because a leg fired.
+- ⭐ **The 8/28 ratification is being validated in real time: the leg it forced into existence has now fired on both sessions of the cap's life, while the leg it retired has missed on both.**
+- **ST Rule 6's independent 10% binary-event cap is NOT engaged** — no candidate below reports inside its hold horizon.
+
+### Earnings calendar — Week 20, Tuesday refresh (Monday's full sweep of 8/31 stands)
+| Ticker | Date | BMO/AMC | Classification | Refresh note |
+|---|---|---|---|---|
+| 🔴 **AVGO** | **Wed 9/2** | **AMC** | **DRIFT WATCH — do not pre-position** | **Consensus firmed: EPS $3.22–3.24 on revenue $29.24–29.4B, against management's own $29.4B guide — the Street is priced for an in-line print, not a beat.** Implied 1-day move **7.37%**, average actual **9.55%**. ⚠️ **The book was stopped out of AVGO on 8/26 at −7.01%. Re-entry only on beat + guide raise, next morning, and only if it clears point 6 fresh. A 7.4% implied move against a 7% cut line means a pre-position is a coin-flip with the stop inside the distribution — precisely what ST Rule 6 exists to refuse.** |
+- **Held-position earnings check: MSFT, GOOGL, NVDA, TSM, ADI, ICE — none report this week.** ICE next **10/29**; ADI reported FQ3 (record quarter) already.
+- **Niche watchlist earnings check: none report this week** — ASTS & RKLB Nov 9, OKLO Nov 10, AEHR Oct 5, NBIS Oct 22. **Their rejections below remain technical, not event-driven.**
+- **Sweep-candidate earnings check: DVN next reports Nov 4 (64 days out) · HAL next late-Oct.** Both far outside a 1–14 day hold. ✓
+- Remainder of the week is light with no mega-cap reporter and **no reporter in the book.**
+
+### Position review — news on every held name
+| Name | Pre-mkt | Finding | Verdict |
+|---|---|---|---|
+| **MSFT** | −1.14% | FY26 Q4 EPS **$4.74** on **$90.01B**, both beats; **Azure +43%**; Copilot **30M paid seats**, GitHub Copilot **50M users**. Capex guide **cut to ~$175B from ~$190B on an accounting change.** BofA reiterated **Buy / $600 on 9/1**. | **Thesis intact. Hold.** |
+| **GOOGL** | −0.94%, **−4.46% unrealized** | Consensus **Buy**, avg target **~$420** (54 analysts, 44 buys). Rosenblatt **upgrade to Strong Buy 8/21**; UBS trimmed to $379 (Neutral) 7/23; Zacks to Hold 8/13. ⭐ **Nothing dated to today. The 8/31 finding — every cited driver is recycled — still holds after a second search.** Comm Services is the day's worst sector, which explains the tape without a thesis event. | **No new information = no thesis break. LT Rule 8 holds. Stops `1f5ca016` $327.033 / `f9865265` $316.43991 are the mechanism.** |
+| **NVDA** | −1.42% | Nothing dated. Last print was a clean beat-and-raise; Huang has guided ~70% FY28 revenue growth. Named in the pre-market volume screen (5.66M) with no directional edge. **US–China tariff prep is the live risk.** | **Hold.** |
+| **TSM** | −0.21% | ⚠️ **No dated late-August analyst action retrievable across two passes — logged as an evidence gap, not as a clean bill of health.** Appears in every 2026 quality-semi list as a core foundry beneficiary; geopolitical/supply-chain is the named long-term risk. | **Hold. Re-attempt the search at midday.** |
+| 🔴 **ADI** | **−1.70%, −4.70% unrealized** | **Ex-dividend $1.10 today (payable 9/15) — confirmed.** Consensus **Strong Buy, avg target $470.25**; **Baird raised to $675** (Outperform), Evercore $462, Needham $450. **Record FQ3 results.** ⭐ **The fundamentals are not the problem and are not why it is leaving.** | 🔴 **STOP `c77585aa` $357.25671 IS ALREADY BREACHED AT $354.79. See below.** |
+| **ICE** | 0.00% | **MarketAxess acquisition proposal** live; Q2 beat; July volume/OI strength; **$0.52 Q3 dividend**; **Pershing Square disclosed a new position.** Targets: UBS **$195**, Barclays **$182**, Zacks **$200.63** (16), Investing **$181.93** (15 of 16 buys), TD Cowen $177. Tension: some trims on near-term volume pressure. | **Thesis intact. Hold.** |
+
+### 🔴 ADI — the stop is already broken, and three independent things say the same thing
+1. **Mechanics.** `c77585aa` is a 10% trail with HWM **$396.9519** → stop **$357.25671**. Pre-market mark **$354.79** is **$2.47 / 0.69% BELOW it.** Trailing stops do not trigger in the pre-market session; **it fires on the opening print** unless ADI recovers 0.70% before 06:30 PT.
+2. ⭐ **The ex-dividend does not explain it.** $362.14 close − $1.10 = a **$361.04** mechanical reference. At $354.79 ADI is **−1.73% beyond the dividend.** **The 8/31 EOD instruction anticipated a ~0.30% mark-down to ~$361.04 and ~1.05% of room; the actual gap is 5.7× the dividend and the room is gone.** ⭐ **The instruction was right to write the ex-div down in advance and wrong about the magnitude — carrying it forward as "read the gap as ex-div" without re-measuring would have mis-read a −1.73% real decline as a bookkeeping entry.**
+3. 🔴 **Point 6 now fails on our own bars, for the first time.** ADI **$362.14** against **SMA20 $377.40 · SMA50 $382.46 · SMA200 $345.87** → **−5.3% below its 50-day.** The chart gate that vetoes entries independently is now also failing on a name we hold.
+- **This is a REAL LOSS, not a locked gain:** the trail hangs off a **$396.9519 HWM** on a position **−4.04% from a $372.29 entry**. Realized ≈ **−$15.03**.
+- 🔴 **The stop is NOT cancelled, NOT widened, NOT modified.** Analyst sentiment is excellent (Strong Buy, $470.25 avg, a $675 Baird target) and that is **exactly** the argument the rulebook forbids acting on: "never move a stop down," and no stop moves by discretion in either direction. **A stop that can be rescued by a bullish price target is not a stop.**
+- ⭐ **The 8/28 ratification is what makes this survivable: the cut line is a resting order, so it executes inside the 06:30–09:30 PT window that has no routine in it.** ASTS was left manual on a 0.85% gap in Week 19 and exited at −8.11% instead of −7.00%, costing $10.85. This one is armed.
+
+### 🔴 Late-session sweep — RE-DERIVED on today's numbers, and the answer CHANGES
+**The 8/31 contingency named HAL 9 sh (2.73:1) as PRIMARY and OXY (1.68:1) as runner-up. Both were re-derived this morning against fresh spots. Neither survives as written.**
+
+| Name | 8/28 spot → today | Reward anchor (lower of 2 samples) | Upside | R:R vs −7% | 8/31 verdict → today |
+|---|---|---|---|---|---|
+| ⭐ **DVN** | **$48.51** | **$59.23** (MarketBeat, 29) · **$59.89** (MarketWatch/WSJ) — **1.11% apart** | **+22.10%** | 🟢 **3.16 : 1** | **not screened → ARMED, PRIMARY** |
+| **HAL** | $36.18 → **$36.85** | **$43.10** (MarketBeat, 25) · **$43.42** (WSJ) — **0.74% apart** | +16.96% | **2.42 : 1** | 2.73:1 → **DECAYED, runner-up** |
+| 🔴 **OXY** | $59.10 → **$60.18** | $64.83 (MarketBeat, 26) · $67.30 (MarketWatch) — 3.74% apart | +7.73% | 🔴 **1.10 : 1** | 1.68:1 → **DISARMED, below the 1.5:1 floor** |
+| 🔴 SLB | $57.33 → **$60.10** | $61.35 · $61.93 | +2.08% | 🔴 **0.30 : 1** | 1.06:1 → worse |
+| 🔴 COP | $130.35 → **$132.49** | $140.29 (MarketBeat, 27) · $145.88 (WSJ, 27) | +5.89% | 🔴 **0.84 : 1** | 1.40:1 → worse |
+| 🔴 XOM | **$160.95** | $166.10 · $169.73 | +3.20% | 🔴 **0.46 : 1** | REJECTED — R:R |
+| 🔴 APA | $42.54 → **$43.15** | $41.50 · $44.28 | 🔴 lower sample **below spot** | — | **UNARMED**, worse than 8/31 |
+| 🔴 MRK | $148.35 → **$147.76** | $147.60 (23) · $148.64 (WSJ) | 🔴 **−0.11%** | — | **UNARMED — negative reward leg** |
+
+⭐ **This is the finding of the session, and it is a rule working rather than a market call.** HAL and OXY were carried into today as a *cap-tested, dated, legal* contingency — the good kind, the kind the 8/28 ratification demanded after the illegal "VOO 1 sh LIMIT $712.00" was carried for three sessions. **And it was still wrong by this morning.** Both names rallied ~1.8% on Monday's Hormuz bid, and **a rally in a candidate you have not yet bought is R:R decay, not good news.** OXY crossed *below the 1.5:1 floor overnight*: firing the 8/31 contingency verbatim today would have bought a name that no longer clears an entry rule. ⭐ **A contingency must be re-derived at the routine that fires it, not merely re-read. Carry this to the Week 20 review.**
+
+### 🟢 DVN — full file (short-term / momentum, energy)
+| # | Point | Finding | Verdict |
+|---|---|---|---|
+| **1** | Earnings / fundamentals | **Q2 2026 adj EPS $1.57 vs $1.49–1.52** (beat); **revenue $7.42B vs $5.99–6.24B** (large beat); GAAP net $1.9B / $2.03. **Highest quarterly profit since 2022** (Reuters). Q3 guide **1.66–1.69 MMBoe/d**, oil 550–560 kb/d, capex $1.4–1.5B. **Dividend raised 33% to $0.32.** **Next report Nov 4 — 64 days out, no binary risk.** | ✓ **PASS** |
+| **2** | Analyst coverage | **$59.23** (MarketBeat, 29 analysts, high $68, low $45.85) · **$59.89** (MarketWatch/WSJ, high $68, low $44) · corroborating: Investing.com $59.38 (26), StockAnalysis $59.38 (27). **Four sources spanning 59.23–59.89 = 1.11%.** ⭐ **The most coherent reward leg the board has produced in this phase** — against OKLO's nine failed samples spanning $14–$150 and AEHR's two "consensus" figures 108% apart. | ✓ **PASS** ⚠️ *see reading note* |
+| **3** | Institutions / insiders | ⚠️ **Not obtainable — no 13F or insider figure retrievable from the vendor set. Logged as an evidence gap, not as a pass.** | ⚠️ **GAP** |
+| **4** | News & catalysts | Q2 beat on both lines; production guidance raised; beat guidance on oil, total production and capital efficiency. Sector catalyst is the **Hormuz supply disruption** (HIGH, above). ⚠️ **Ex-dividend $0.32 on Sep 15** — a **0.66% mechanical mark-down**, 2.2× the one that just cost ADI its position. **Pre-committed now: the 9/14 routine must re-measure the trail gap before the ex-div, and must not read the 9/15 gap as weakness without subtracting $0.32 first.** | ✓ **PASS, with a dated flag** |
+| **5** | Sentiment / short interest | ⚠️ **Short interest not obtainable from the vendor set. Logged as a gap.** | ⚠️ **GAP** |
+| **6** | ⭐ **Technical (HARD GATE)** | **$48.51 > SMA20 $46.25 > SMA50 $44.35 > SMA200 $43.24 — all four in order, from 272 in-house daily bars.** Structure: **higher highs and higher lows for four sessions** (h47.40 → 47.35 → 47.63 → **49.01**; l46.16 → 46.31 → 46.65 → **47.65**). **+2.45% Monday on 1.2× the 20-day volume.** **2.4% below the 60-day high of $49.72** — a base-breakout, not an extension. ⭐ **Materially cleaner than HAL, which is 10.4% below its own 60-day high and whose SMA20 sits only $0.28 above its SMA50.** | ✓ **PASS — no veto** |
+| **7** | Thesis | US shale major levered to crude with a **cost structure set below current strip**. The Hormuz disruption is a **physical supply event, not a demand story** — it is the one macro driver on the board that is *additive* to an oil producer's cash flow while being *subtractive* to everything else the book owns. Q2 already printed the highest profit since 2022 at **lower** realizations than today's. **Path: $48.51 → $59.23 = +22.10% against a −7% cut = 3.16:1.** ⭐ **It is also the book's only genuine macro hedge: nine of nine current positions lose on higher oil and higher rates; DVN is the first name that gains on the first.** | ✓ **PASS** |
+
+⚠️ **Reward-leg reading note, stated rather than buried.** The operative reading used all phase — and the one the 8/31 table applied to HAL, OXY, MRK and APA — is *the lower of the two sample **averages** must sit above spot*: **$59.23 > $48.51 ✓**. Under the **strict** reading — *the Street's lowest single target above spot* — **DVN fails ($44.00–$45.85 vs $48.51), and so does HAL ($26.00–$29.00)**. 🔴 **No candidate on today's board clears both readings; ICE on 8/31 is still the only name in this phase that has.** DVN is armed on the operative reading with the strict-reading failure recorded, **not** waved through. **The Week 20 review must settle which reading governs — this is the second session it has mattered and the first on which it changes nothing yet could.**
+
+### 🔴 Niche radar — ALL FIVE VETOED ON POINT 6, second consecutive session
+*All marks and moving averages computed in-house from 272 daily bars per symbol (`bars SYM 1Day "400&start=2025-08-01"`). **Zero vendor technicals used.** Quotes remain unusable pre-open and were not consulted for price.*
+
+| Ticker | Price | Classification | EPS trend | Analyst target | Key catalyst | Short % | Action |
+|---|---|---|---|---|---|---|---|
+| 🔴 **ASTS** | **$59.10** | **AVOID** | Pre-revenue; cash-burn | not sampled — gate is dispositive | **$1B convertible notes closed, $984M net**; Verizon partnership; BlueBird launches | **not obtainable** | 🔴 **REJECTED point 6 — 12.4% below its 50-day ($67.48), 27.4% below its 200-day.** Retail sentiment bullish/extremely bullish — **irrelevant against a hard gate.** |
+| 🔴 **RKLB** | **$63.92** | **AVOID** | Q1'26 rev $200.35M **+64% Y/Y**, record **$2.2B backlog** | not sampled | New multi-launch agreement; **Neutron** is the catalyst | not obtainable | 🔴 **REJECTED point 6, 8th session — 17.1% below its 50-day and 19.2% below its 200-day.** Was armed at **7.01:1** on 8/21, bought twice, **stopped out twice**; now **11.9% below its own arming line.** ⭐ **The standing case study for why point 6 vetoes at any R:R.** |
+| 🔴 **OKLO** | **$40.57** | **AVOID** | First-ever quarterly revenue **$1.21M** | **9 failed coherence samples ($14–$150)** — point 2 already unarmed | **NRC combined-licence schedule** is the whole variable | not obtainable | 🔴 **REJECTED point 6 — 10.4% below its 50-day, 38.6% below its 200-day.** Two independent gates. |
+| 🔴 **AEHR** | **$79.27** | **AVOID** | — | 🔴 **4-analyst $65.75 sits BELOW spot while 7 analysts say $136.67 — 108% apart** | none retrievable this pass | not obtainable | 🔴 **REJECTED point 6 — 14.4% below its 50-day ($92.63).** Point-2 rejection also stands. |
+| 🔴 **NBIS** | **$206.32** | **AVOID** | — | negative reward leg (8/28) | none retrievable this pass | not obtainable | 🔴 **REJECTED point 6 — 5.3% below its 50-day ($217.77).** **Closest of the five to reclaiming the gate.** |
+
+- ⭐ **Second consecutive session with all five failing the same hard gate.** No reward-leg hunting was performed on any of them: **the gate is dispositive, so pricing their upside would be arithmetic on a guess** — the explicit lesson of the RKLB 7.01:1 sequence.
+- ⚠️ **Short interest was not obtainable for a single one of the five** (point 5). Recorded as a **standing data gap**, now on its second session. **If the vendor cannot supply point 5 for the core watchlist, the 7-point checklist cannot be completed for a niche entry at all — escalate to the Week 20 review.**
+
+### STEP 7b — Momentum scan: 9th consecutive session with nothing fundable
+- Vendor returned **GPRO +52.93%, ESTC +24.07%, GAP +18.95%, AFRM +11.15%** — **micro/mid-cap gappers, not one clearing the quality bar, none with an anchorable reward leg.** NVDA (5.66M pre-mkt volume) and MU flagged on volume alone with **no directional edge**; NVDA is already held.
+- ⭐ **P0 #5 stands at 9 sessions and the in-house alternative beat it again today.** The vendor screen produced **zero** usable names; the **in-house 33-symbol point-6 screen produced DVN, the highest-R:R candidate on the board.** **Proposal for the Week 20 review, restated: retire the vendor "top gainers" query and replace it with the in-house `bars` screen.**
+- **In-house screen run today (33 symbols):** PASS point 6 — XOM, CVX, COP, EOG, SLB, PSX, VLO, MPC, DINO, APA, MRK, BKR, OXY, OKE, TRGP, **DVN**, **HAL**, ICE. FAIL — **ASTS, RKLB, OKLO, AEHR, NBIS, ADI**, FANG, ABT, WMB, KMI. *(HES/MRO delisted-or-empty; CTRA insufficient history — logged.)* **Survivors were then priced on the reward leg; only DVN and HAL cleared the 1.5:1 floor.**
+
+### Long-term sleeve — NO ACTION, and the index sweep is illegal for a 12th session
+- **Sleeve 74.52% against a 50% target — 43rd consecutive session over.** It cannot be added to. Per the 8/14 entry-sizing ratification the overage is **passive drift and must NOT be trimmed**; the trailing stops are the resolving mechanism. ⚠️ **MSFT $2,006.40 = 21.29% against a 20% LT cap — passive drift, NOT a violation, no trim** (down from 21.33% on Monday's close, on a session MSFT is −1.14%).
+- **🔴 Index cash-sweep re-test — ALL THREE BREACH AT ONE ADDED SHARE (12th consecutive session).** 20% of $9,425.07 = **$1,885.01.**
+
+| ETF | Cost basis | +1 sh | Total | % equity | Verdict |
+|---|---|---|---|---|---|
+| **SPY** | $1,530.04 | $762.65 | $2,292.69 | **24.33%** | 🔴 **BREACH** |
+| **QQQ** | $1,419.98 | $708.69 | $2,128.67 | **22.59%** | 🔴 **BREACH** |
+| **VOO** | $1,399.62 | $700.80 | $2,100.42 | **22.29%** | 🔴 **BREACH** |
+
+- **The strategy's default parking is unavailable and has been for twelve sessions. Any cash released today MUST be cured with an individual stock** — which is why DVN was derived *before* the ADI stop is due to fire, not after.
+
+### Reachability check — the short-term shortfall is a CAP problem, on a cap whose trigger fired
+- **Short-term $2,375.94 = 25.21%**, **4 names** (NVDA 9.23% · TSM 8.80% · ADI 3.76% · ICE 3.41%) — **minimum MET** ✓
+- **Max reachable at the binding cap = 4 × 10% = 40% < 50% → 🔴 CAP-CONSTRAINED.** Binding cap named: **the macro cap**, rate leg **live and re-tested above**. **This is a documented, legitimate cap consequence for a second session, not an execution failure.**
+- ⚠️ **If ADI fills and DVN does not, the sleeve drops to 3 names and BREACHES the 4-name minimum.** ⭐ **That is a second, independent reason the DVN order must go the same session — the sweep is owed on the cash rule AND on the minimum-name-count rule.**
+
+### Decision — 1 expected exit, 1 pre-derived buy. **Every number below is fixed now and must NOT be re-derived at the open.**
+
+**A) ADI — NO ACTION TAKEN. The order already on the book does the work.**
+- `c77585aa` **SELL 1 ADI, trailing stop 10%, stop $357.25671, GTC** — **left exactly as it is.** Not cancelled, not modified, not widened.
+- **Expected: fires on the opening print** (pre-market $354.79 is 0.69% below the line). Expected proceeds **≈ $355–357**; realized ≈ **−$15.03 / −4.04%.**
+- 🔴 **If ADI opens ABOVE $357.25671 and does not fire, there is NO buy** — cash stays at 0.27%, the sleeve stays at 4 names, and **nothing below executes.** **The DVN order is strictly contingent on the ADI fill and must not be sent before it is confirmed.**
+
+**B) DVN — BUY, contingent, cap-tested on today's equity per the 8/28 ratification.**
+
+| Field | Value |
+|---|---|
+| Order | **BUY 7 DVN, LIMIT $49.50, DAY** |
+| Max cost | **$346.50** |
+| **% of equity ($9,425.07)** | **3.68%** |
+| vs **10% macro cap ($942.51)** | ✓ **LEGAL — 6.32 pts of headroom** |
+| vs 15% short-term sleeve cap | ✓ **LEGAL** |
+| R:R **at the limit price** | **2.81 : 1** (not 3.16:1 — computed at the worst fill the order can take) ✓ above the 1.5:1 floor |
+| Stop to place **immediately after fill** | **10% trailing stop GTC** → ≈ **$44.55** off a $49.50 fill. New name, no existing lot, so the 8/14 add-on rule does not apply. |
+| Hard cut | **−7%** = **$46.04** off a $49.50 fill — **the trailing stop at $44.55 sits below it, so a separate resting −7% order is NOT owed**; the trail is the only line and it is a real order. |
+
+**Sequencing — fixed now, in this order, no substitutions:**
+1. **Confirm `c77585aa` has FILLED** and read the actual fill price. *(If unfilled → STOP. No buy.)*
+2. **Confirm cash ≥ $346.50** from the account endpoint. **Cash only — RegT buying power is NEVER counted** (8/28 measurement rule). *(If cash < $346.50 → fall back to **BUY 6 DVN LIMIT $49.50 = $297.00 = 3.15%**, still legal, still 2.81:1.)*
+3. **Send BUY 7 DVN LIMIT $49.50 DAY.**
+4. **On fill, immediately place the 10% trailing stop GTC.** **No position goes unstopped into the 06:30–09:30 PT unrouted window.**
+
+**Why a LIMIT and not a market order:** DVN's quote returned **bid $45.83 × ask $50.13 = a 9.35% spread** — 🔴 **the stale single-venue artifact again.** **Trade-print override evidence (8/14 ratification):** DVN `dailyBar` **n = 7,662 prints, range $47.65–$49.01 = 2.85%** on **12.6M shares**; `latestTrade` **$48.51**. **Continuous trading inside a range 3.3× tighter than the quoted spread.** Override taken, and per the ratification **the order is a LIMIT** — at $49.50 the worst possible fill is still **3.68% of equity and 2.81:1**, so **no sizing rule and no R:R floor can be breached on any fill this order is capable of taking.** *(HAL's quote was clean at $36.83 × $37.00 = 0.46% — no override needed there.)*
+
+**C) Runner-up, if DVN is unfillable at $49.50:** **BUY 10 HAL LIMIT $37.50 = $375.00 = 3.98% of equity**, R:R at the limit **2.13:1** ✓, 10% trailing stop GTC ≈ $33.75. **Cap-tested today.** ⚠️ **Do NOT take OXY — it disarmed overnight at 1.10:1 and buying it would breach the 1.5:1 floor.**
+
+**D) Everything else — explicitly evaluated, explicitly no action:**
+- **ICE — `7ba8c040` STOP $150.97 GTC is resting and verified.** It is a **FIXED stop, not a trail; it does NOT ratchet.** **Conversion to a 10% trail requires an ICE HWM above $167.74; ICE is $160.70 and needs +4.38%. NOT ARMED — do not convert**, since a 10% trail below that price would sit under $150.97 and converting would be a stop moved DOWN.
+- **Trail tightenings: ZERO eligible.** Best held **MSFT +2.01%** — **12.99 pts from the +15% rung.** The phase has still never executed a tightening.
+- **Ratchets: ZERO.** No name has printed a new HWM; all eleven trailing stops sit at Monday's levels.
+- **−7% cuts: NONE.** Worst held **GOOGL −4.46%** (long-term; ST Rule 3 does not apply — LT Rule 8 governs and no thesis is broken). Worst short-term **ADI −4.70%**, which exits on its **trail** at −4.04%, not on the cut line.
+- **Long-term buying: NONE POSSIBLE** — sleeve 74.52%, and all three index ETFs breach at a single share.
+- **Niche entries: NONE** — all five vetoed on point 6.
+- **Momentum entries: NONE** — 9th empty session.
+- **Cash rule: NOT BREACHED** — 0.27% ≤ 5%. **No VOO buy is owed and that is the correct reading, not under-deployment.**
+
+### Compliance
+**9 positions ≤ 15** ✓ · **2/25 trades on Week 20** ✓ (23 unused; the plan above would take it to **4/25**) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only; ADI, ICE and the DVN candidate are individual stocks in the short-term sleeve** ✓ · ⚠️ **MSFT 21.29% — over the 20% LT cap on the mark; passive drift per the 8/14 entry-sizing ratification, NOT a violation, no trim** · SPY 16.18%, QQQ 15.04%, VOO 14.87%, GOOGL 7.14% ✓ · short-term **NVDA 9.23%, TSM 8.80%, ADI 3.76%, ICE 3.41% — all ≤ 15% and all ≤ the 10% live macro cap** ✓ · **DVN cap-tested at 3.68% BEFORE the order is written** ✓ · **cash $25.74 = 0.27% ≤ 5%** ✓ · **deployed 99.73%** ✓ · **stops GTC on 9/9 positions, 21/21 shares across 12 resting orders — no share is naked** ✓ · **no stop moved down** ✓ · **no stop moved by discretion — and ADI is the live test of that, with a Strong Buy rating and a $675 street-high target arguing for a rescue that the rulebook forbids** ✓ · **no position at the +15% rung** ✓ (best MSFT +2.01%) · **0 day trades** ✓ · **no margin used — RegT $9,450.81 untouched, 58th session; the DVN affordability test is computed on CASH ONLY per the 8/28 measurement rule** ✓ · **day P&L computed from `account.last_equity` $9,508.30, not from this log's prior entry** ✓ · **index cap re-test RUN, all three breach, 12th session** ✓ · **4-name short-term minimum MET, and the plan preserves it through the swap** ✓ · **macro cap re-tested leg-by-leg, rate leg LIVE, cap stays at 10%** ✓ · **point 6 computed in-house from 272 bars/symbol, zero vendor technicals** ✓ · 🔴 **long-term 74.52% vs a 50% target — structural, 43rd session** · 🔴 **short-term 25.21% below the 40% cap-constrained ceiling**
+
+**ORDERS PLACED THIS ROUTINE: 0 · CANCELLED: 0 · MODIFIED: 0.** The ADI exit needs no order — it is already resting. The DVN buy is **contingent on a fill that has not happened** and is armed for the market-open routine with every number fixed above.
+
+### Standing Triggers Carried Forward
+- 🔴 ⭐ **ADI `c77585aa` $357.25671 IS ALREADY BREACHED PRE-MARKET at $354.79 and should fire on the opening print.** **Do not cancel, widen or modify it.** A fill is a **REAL LOSS ≈ −$15.03 / −4.04%**, not a locked gain. **The ex-div covers only $1.10 of a $7.35 gap; the remaining −1.73% is real, and point 6 now fails on ADI too.**
+- 🔴 ⭐ **IF ADI FILLS, THE SWEEP IS OWED THE SAME SESSION and it is DVN, not HAL: BUY 7 DVN LIMIT $49.50 DAY = $346.50 = 3.68%, 2.81:1 at the limit, 10% trailing stop GTC on fill.** Confirm fill → confirm cash ≥ $346.50 (cash only) → buy. **Fallback 6 sh = $297.00. Runner-up HAL 10 sh LIMIT $37.50 = $375.00 = 3.98%, 2.13:1. DO NOT take OXY — disarmed at 1.10:1.**
+- 🔴 ⭐ **A CONTINGENCY MUST BE RE-DERIVED AT THE ROUTINE THAT FIRES IT, NOT RE-READ.** HAL 2.73:1 → 2.42:1 and OXY 1.68:1 → **1.10:1, below the floor**, in one session, on a 1.8% rally in each. **Firing the 8/31 plan verbatim would have breached an entry rule.** **Carry to the Week 20 review.**
+- 🔴 ⭐ **ICE — `7ba8c040` STOP $150.97 GTC is a FIXED stop and does NOT ratchet. CONVERT to a 10% trail only once ICE's HWM exceeds $167.74; it is $160.70 and needs +4.38%.** Thesis break = Q3 volumes repeating Q2's 5% miss; **the single number is the 10/29 print.** New: **MarketAxess deal pending, Pershing Square position disclosed.**
+- ⚠️ **DVN, IF BOUGHT: EX-DIVIDEND $0.32 ON SEP 15 — a 0.66% mechanical mark-down, 2.2× the one that just took ADI out.** **The 9/14 routine must re-measure the trail gap BEFORE the ex-div, and must subtract $0.32 before reading the 9/15 gap as weakness.** Written now so it is not learned twice.
+- 🔴 **THE MACRO CAP IS IN FORCE AT 10% ON A FIRED RATE LEG** (10-yr 4.78% +5bp, FedWatch 57–66% hike / 0.0% cut). **Session 2 of 5 on the lapse clock; the clock reset because a leg fired. Re-test all three legs every session.**
+- 🔴 **THERE IS STILL NO LEGAL INDEX CASH-SWEEP** — SPY 24.33%, QQQ 22.59%, VOO 22.29% at one added share vs a 20% cap, **12th session.** Any cash breach must be cured with an individual stock.
+- 🔴 **ALL FIVE NICHE NAMES VETOED ON POINT 6, 2nd consecutive session.** ⚠️ **And point 5 (short interest) was not obtainable for ANY of the five — the 7-point checklist is currently uncompletable for a niche entry. Escalate to the Week 20 review.**
+- ⚠️ **REWARD-LEG READING IS UNSETTLED.** DVN and HAL pass the operative "lower of two averages" reading and **fail** the strict "Street low above spot" reading. **ICE (8/31) remains the only name this phase to clear both. The Week 20 review must settle which governs.**
+- ⚠️ **TSM has no dated analyst action retrievable across two passes** — an evidence gap, not a clean bill of health. Re-attempt at midday.
+- 🔴 **AVGO REPORTS WED 9/2 AMC.** Consensus **$3.22–3.24 / $29.24–29.4B against a $29.4B company guide** — priced for in-line. **Implied move 7.37% vs a 7% cut line. DRIFT WATCH only; no pre-position.**
+- **STRUCTURAL: long-term 74.52% vs a 50% target — 43rd consecutive session over.**
+- **Closed-trade record: Week 20 — 0 wins / 1 loss, MKSI −$16.88.** An ADI fill makes it **0 / 2, ≈ −$31.91.** Prior: Week 19 final 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.
+- ⭐ **CARRY TO THE WEEK 20 REVIEW:** (a) the contingency-decay finding above; (b) the reward-leg reading question; (c) the point-5 data gap on the whole niche watchlist; (d) **retire the vendor momentum query — 9 empty sessions against an in-house screen that produced the day's best candidate**; (e) 8/31's end-to-end pre-committed sell→buy pair.
+
+⚠️ **BRANCH NOTE:** the scheduler started this session on `claude/bold-franklin-wdsc68`, not `main` — **the 6th consecutive session started off `main`.** `git fetch origin main` was run and `git rev-list --left-right --count origin/main...HEAD` = **0/0** **BEFORE any broker call** — the working branch is byte-identical to `origin/main` at `6e498ed`. **No memory-integrity failure.** Per CLAUDE.md ("all commits go directly to main") and routine STEP 10 (`git push origin HEAD:main`), this entry is pushed to **both** the branch and `main` as a fast-forward; nothing is discarded and `main` is strictly an ancestor. Flagged rather than resolved silently.
+
+**Next scheduled routine: Tue 9/1 Market Open, ~06:35 PT.** Its items, in order: (1) 🔴 **check whether `c77585aa` (ADI) filled — read the ACTUAL fill price, do not assume $357.26**; (2) 🔴 **if it filled: confirm cash ≥ $346.50 on the CASH line only, then BUY 7 DVN LIMIT $49.50 DAY, then place the 10% trailing stop GTC immediately — all four steps, in order, no re-derivation**; (3) 🔴 **if it did NOT fill: NO BUY. Cash stays 0.27%, sleeve stays 4 names, and the plan is complete by doing nothing**; (4) **ICE `7ba8c040` $150.97 fixed stop — verify resting, do NOT convert below a $167.74 HWM**; (5) **ISM Manufacturing PMI 07:00 PT (cons. 55.2) lands AFTER the orders — nothing above is conditional on it**; (6) **no position within 13.0 pts of the +15% rung (best MSFT +2.01%)**; (7) **worst held GOOGL −4.46%, no thesis break, LT Rule 8 holds**; (8) **9 positions, 21/21 shares stopped GTC across 12 orders, 2/25 trades, 0 day trades.**
+
+---
