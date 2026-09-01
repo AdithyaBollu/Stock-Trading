@@ -13084,3 +13084,47 @@ Best position in the book is **MSFT +3.81%**, **11.19 pts** below the +15% rung.
 **Next scheduled routine: Tue 9/1 Market Open, ~06:35 PT.** Its items, in order: (1) 🔴 **check whether `c77585aa` (ADI) filled — read the ACTUAL fill price, do not assume $357.26**; (2) 🔴 **if it filled: confirm cash ≥ $346.50 on the CASH line only, then BUY 7 DVN LIMIT $49.50 DAY, then place the 10% trailing stop GTC immediately — all four steps, in order, no re-derivation**; (3) 🔴 **if it did NOT fill: NO BUY. Cash stays 0.27%, sleeve stays 4 names, and the plan is complete by doing nothing**; (4) **ICE `7ba8c040` $150.97 fixed stop — verify resting, do NOT convert below a $167.74 HWM**; (5) **ISM Manufacturing PMI 07:00 PT (cons. 55.2) lands AFTER the orders — nothing above is conditional on it**; (6) **no position within 13.0 pts of the +15% rung (best MSFT +2.01%)**; (7) **worst held GOOGL −4.46%, no thesis break, LT Rule 8 holds**; (8) **9 positions, 21/21 shares stopped GTC across 12 orders, 2/25 trades, 0 day trades.**
 
 ---
+## 2026-09-01 — Afternoon Addendum (Midday Scan, 09:15 PT) — ⭐ **THE TSM EVIDENCE GAP IS CLOSED ON A THIRD ATTEMPT — Bernstein 8/11 RAISED $430 → $554 Outperform, and two independent consensus averages ($524.25 / $545.45) agree within 4.0%, well inside the 15% coherence bar, both above a $415.65 spot** · 🔴 **MSFT AND GOOGL BOTH CHECKED FOR A THESIS BREAK AND NEITHER HAS ONE — every driver returned is an already-priced standing overhang, with NOTHING dated 2026-09-01 for either name** · 🔴 **NO NEW SETUPS, AND THE MOMENTUM SCAN WAS A DELIBERATE SKIP — $37.72 of cash makes any output unfundable at any size; 10th consecutive empty session for the vendor query**
+
+### Point-2 re-attempt — TSM. **RESOLVED. Do not carry this gap forward again.**
+Flagged in the pre-market as "no dated analyst action retrievable across two passes — an evidence gap, not a clean bill of health. Re-attempt at midday." The third attempt returned dated actions:
+
+| Date | Firm | Action | From → To |
+|---|---|---|---|
+| **2026-08-11** | **Sanford C. Bernstein** | **PT RAISED, Outperform maintained** | **$430 → $554** |
+| 2026-08-08 | Wall Street Zen | Rating cut | Strong Buy → Buy |
+| 2026-08-12 | Weiss Ratings | Rating cut | Buy (B−) → Hold (C+) |
+
+**Reward-leg coherence — PASSES both tests for the first time on this name:**
+- Sample 1 average **$524.25**; Sample 2 average **$545.45**. **Spread 4.0%** vs a 15% bar ✓
+- **Both averages sit ABOVE the $415.65 spot** ✓ · consensus rating **Buy** ✓
+- Net read: **one sell-side PT raise of 28.8% against two ratings-service trims**, on a Buy consensus. **Not a thesis break.** TSM is +0.54% on cost and held; no action, and the position was never at risk on this — the gap was an unresolved unknown, and it is now resolved rather than assumed away.
+
+### Thesis-break checks on the day's two movers — **BOTH CLEAN**
+**MSFT −1.45% (the day's largest single-name drag, −$29.32).** Catalyst search returns **no company event dated today**: no earnings miss, no guidance change, no dated downgrade. Named drivers are **rising interest rates** and the **standing AI-capex / data-centre buildout overhang** (the $35.2B capex figure already in the price), with Azure and Copilot commentary still positive. ⭐ **The rate driver is the book's own macro-cap rate leg appearing inside a position instead of inside a screen** — the 10-yr at 4.78% is repricing the longest-duration thing the book owns. That is coherence between the cap and the tape, not a new risk. **Thesis intact; LT Rule 8 holds; stop $466.002 sits 6.79% below.**
+
+**GOOGL −1.10%, −4.67% cumulative — the worst position in the book.** Catalyst search returns **nothing dated 2026-09-01**. Drivers recycled from priced events: the **July capex raise to $195–205B from $180–190B**, AI talent turnover / leadership departures, search-ad competition, regulatory cost. Bull case unchanged — **Cloud backlog ~$462B**, Waymo expansion. 🔴 **This is the THIRD consecutive session this exact query has returned only recycled drivers** (8/31 midday found the same). **No guidance cut, no dated downgrade, no sector event → no thesis break.** ⚠️ **Its `1f5ca016` leg at $327.033 is now the book's closest line at 2.56%, and it is the resolving mechanism — not a cut candidate.**
+
+### Momentum / new-setup scan — **DELIBERATE SKIP, logged with its reason**
+🔴 **Not omitted. Skipped, because it cannot produce an actionable output.** Cash is **$37.72 (0.40%)**, no stop has fired since 06:30 PT, and **nothing the screen could return is fundable at any legal size.** The vendor momentum query has now returned nothing fundable on **nine consecutive prior sessions**, with the 8/28 result actively wrong. **Running a screen whose every output is unaffordable is not research — it is the appearance of it.** The Week 20 review already carries "retire the vendor momentum query" as a dated item; **this session is its tenth supporting instance.**
+
+Nothing in the book is moving sharply either — the largest single-name move is **MSFT −1.45%**, no position moved more than 1.5% in either direction, and the tape is a broad shallow risk-off (**SPY −0.46%, QQQ −0.89%, VOO −0.42%**), not a repricing. **The STEP 7 "something is moving sharply" trigger is not met on its own terms; the three checks above were run as STEP 5 thesis work.**
+
+### 🔴 The armed board is now EMPTY and must be rebuilt at the next pre-market
+**DVN was the pre-derived sweep target and it has been bought.** What remains is stale:
+- **HAL 2.42:1** — last derived 05:29 PT today, not since.
+- **OXY 1.10:1** — 🔴 **BELOW the 1.5:1 floor. Not buyable.**
+- **MRK / APA / VLO / MPC / PSX / DINO — UNARMED.** All five niche names **VETOED on point 6**, and **point 5 is unobtainable for all five**, so the 7-point checklist is currently uncompletable for a niche entry.
+
+⭐ **There is no name the book could legally buy today with released cash without fresh derivation.** Per the 8/28 contingency ratification a target must be **re-derived at the routine that fires it, never re-read** — and HAL/OXY decaying from 2.73:1 / 1.68:1 to 2.42:1 / 1.10:1 in a single session on a 1.8% rally is the proof. **Rebuilding the armed board is the next pre-market's P0.**
+
+### Portfolio state at 09:15 PT
+**Equity $9,429.13 · cash $37.72 (0.40%) ✓ · deployed 99.60% · 9 positions · 27/27 shares stopped GTC across 12 orders · 4/25 trades on Week 20 · 0 day trades · realized this week −$34.07 (MKSI −$16.88, ADI −$17.19)**
+- **Long-term $7,022.82 = 74.48%** (43rd session over a 50% target) — MSFT 21.21%, SPY 16.20%, QQQ 15.07%, VOO 14.89%, GOOGL 7.12%
+- **Short-term $2,368.56 = 25.12%** — NVDA 9.33%, TSM 8.82%, DVN 3.61%, ICE 3.37%. **4-name minimum MET; max reachable 4 × 10% = 40%, exactly the floor → CAP-CONSTRAINED, and UNFUNDED at $37.72 against $1,403.09 needed.**
+- **Index sweep re-test, 13th session:** SPY **24.32%**, QQQ **22.59%**, VOO **22.29%** at one added share vs a 20% cap — 🔴 **all three BREACH. Any cash breach must be cured with an individual stock.**
+- **Zero cuts** (worst short-term ICE −1.09%, 5.91 pts of room) · **zero tightenings** (best MSFT +1.68%, 13.32 pts from the rung) · **zero ratchets** · **zero discretionary stop moves** · **zero stops moved down** · **orders placed 0, cancelled 0, modified 0.**
+
+**Full execution detail for today's two backfilled trades (ADI exit, DVN entry) is in `memory/TRADE-LOG.md` under the 2026-09-01 Midday Scan entry** — the market-open routine left no record and both are reconstructed from broker state.
+
+---
