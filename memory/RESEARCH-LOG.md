@@ -13128,3 +13128,191 @@ Nothing in the book is moving sharply either — the largest single-name move is
 **Full execution detail for today's two backfilled trades (ADI exit, DVN entry) is in `memory/TRADE-LOG.md` under the 2026-09-01 Midday Scan entry** — the market-open routine left no record and both are reconstructed from broker state.
 
 ---
+
+## 2026-09-02 — Pre-Market Research (Week 20 Day 3, Wednesday — 🔴 ⭐ **THE ARMED BOARD CANNOT BE REBUILT, AND THE REASON IS A SYSTEMATIC DATA FAILURE RATHER THAN AN IDEA FAILURE: SEVEN CANDIDATES WERE FULLY DERIVED AND SIX SPLIT INTO TWO PROVIDER CLUSTERS 16–44% APART, WITH THE LOW CLUSTER SITTING BELOW SPOT ON EVERY ENERGY NAME** — HAL 43.6%, DVN 39.2%, SLB 29.0%, FANG 28.5%, EOG 16.3%, all with TipRanks/StockAnalysis/Zacks below spot and MarketBeat/Yahoo/Investing.com/MarketWatch above · ⭐⭐ **AND THE SELF-CHECK IS THE SESSION'S MOST IMPORTANT FINDING: DVN WAS ARMED YESTERDAY AT 3.16:1 OFF THE HIGH CLUSTER ALONE, AND ON A GENUINELY INDEPENDENT SECOND SAMPLE ITS OWN REWARD LEG IS INCOHERENT. The 8/28 two-sample rule was satisfied in form and not in substance, because the "two samples" shared a feed** · ⭐ **SLB WAS 90 SECONDS FROM REPEATING THAT EXACT ERROR — MarketBeat $61.35 and Investing.com $61.90 agree within 0.90%, the tightest energy pair on the board, and pulling the low cluster returned TipRanks $48.19 / Yahoo $53.01 / Markets Insider $55.59, ALL BELOW a $57.15 spot. The name was rejected on the second pull, not the first** · 🔴 **HIGH-IMPACT GEOPOLITICAL EVENT IS LIVE: US AIRSTRIKES ON IRAN, HORMUZ TRAFFIC AT A CRAWL, BRENT $95.34–95.63 — the retired commodity leg would have fired today for the first time in 15 sessions, and it is still only supporting evidence** · 🔴 **MACRO CAP RE-TESTED LEG BY LEG AND IN FORCE AT 10% = $940.08 on the FedWatch sub-leg (56–66% HIKE, 0.0% cut, Sep 16); the rate sub-leg MISSED (10-yr 4.79%, +1bp vs a +5bp trigger) and the spec-breadth leg MISSED (2 of 5 niche names down >4%, not 4)** · ⭐ **DELL IS THE BEST-COHERENCE NAME THIS PHASE HAS EVER PRODUCED — five providers within 2.29% — AND IT IS REJECTED ANYWAY ON CLEAN ARITHMETIC: 1.18:1 at a $463 pre-market against a 1.5:1 floor. Written trigger: armed only between $434.22 and $453.56** · 🔴 **ALL FIVE NICHE NAMES VETOED ON POINT 6 FOR A 4TH CONSECUTIVE SESSION** from 252 in-house daily bars · **cash 0.40% — no deployment owed, NO TRADE TODAY, and nothing on the board is fundable at $37.69 regardless of merit.**)
+
+### STEP 2 — Account snapshot (05:15 PT)
+| Metric | Value |
+|---|---|
+| Equity | **$9,400.76** |
+| Cash | **$37.69 = 0.401%** ✓ ≤ 5% |
+| Deployed | **99.60%** |
+| `last_equity` (9/1 official) | $9,411.52 |
+| Day P&L (pre-open mark) | **−$10.76 (−0.114%)** |
+| Phase P&L | **−$599.24 (−5.99%)** |
+| Positions | **9 ≤ 15** ✓ |
+| Stops resting | **27/27 shares, 12 GTC orders — no share naked** ✓ |
+| Day trades | 0 ✓ |
+| RegT buying power | $9,438.45 — **UNCOUNTED and UNTOUCHED, 60th session** |
+
+**Day P&L computed from `account.last_equity` per the 8/28 measurement rule, not from the log's own prior entry.**
+
+### Sleeve status
+- **Long-term $7,008.13 = 74.55%** vs a 50% target — **44th consecutive session over.** MSFT 21.24%, SPY 16.21%, QQQ 15.04%, VOO 14.90%, GOOGL 7.15%.
+- **Short-term $2,354.93 = 25.05%** vs a 50% target — **4 names, minimum MET** ✓. NVDA 9.27%, TSM 8.77%, DVN 3.62%, ICE 3.40%.
+- **Reachability check RUN: 4 names × the 10% macro cap = a 40% ceiling → CAP-CONSTRAINED at the target level (4th session).** But **CAPITAL binds first and by two orders of magnitude**: closing the gap to 40% needs **$1,405.41 against $37.69 of cash. UNFUNDED, not unreachable and not name-short.** Computed on the **cash line only**.
+- **Cash 0.401% ≤ 5% → the deployment rule does NOT fire. No VOO buy and no sweep is owed. This is the correct reading of the rule, not under-deployment.**
+
+### 🔴 STEP 2b — Index cash-sweep re-test: ALL THREE STILL BREACH (14th consecutive session)
+**20% of $9,400.76 = $1,880.15.**
+| ETF | Cost basis | +1 sh @ mark | Total | % equity | Verdict |
+|---|---|---|---|---|---|
+| **SPY** | $1,530.04 | $762.1285 | $2,292.17 | **24.38%** | 🔴 **BREACH** |
+| **QQQ** | $1,419.98 | $707.0084 | $2,126.99 | **22.63%** | 🔴 **BREACH** |
+| **VOO** | $1,399.62 | $700.50 | $2,100.12 | **22.34%** | 🔴 **BREACH** |
+
+**No legal index instrument exists at any size, for a 14th session.** The STEP 6 vendor query "should I add an index ETF today" was **deliberately not run**: the cap arithmetic above is dispositive and **no vendor opinion can make an illegal order legal.** Any stop fill must be cured with an individual stock.
+
+### STEP 3 — Market environment: 🔴 **RISK-OFF OPEN, NEUTRAL VOL BAND**
+| Signal | Reading | Class |
+|---|---|---|
+| S&P 500 futures | **−0.64% to −0.76%** (~7,640–7,650) | risk-off |
+| Nasdaq 100 futures | **−1.09% to −1.34%** (~29,117–29,192) | risk-off, growth-led |
+| Russell 2000 futures | **−1.11%** | risk-off |
+| **VIX** | **16.43** (9/1 close 16.34, **+9.52% on the session**) | **15–25 → NEUTRAL, standard sizing** |
+| Breadth 9/1 | **NYSE decliners 2.19:1 · Nasdaq 2.71:1** | negative |
+| Put/call | total **0.95** · index 1.03 · equity 0.67 | neutral |
+| Sector leader 9/1 | **Energy +1.32% to +2.04%** | — |
+| Sector laggard 9/1 | **Consumer Discretionary −1.52% to −1.89%**; 3 of 11 sectors up | — |
+| **Brent / WTI** | **$95.34–95.63 / $90.33–91.69** | 🔴 **spiking** |
+
+**Classification: NEUTRAL on VIX (16.43), but the tape is a growth-led risk-off with Nasdaq futures down twice the S&P.** Standard sizing would apply — **the 10% macro cap binds tighter and governs.**
+
+### 🔴 STEP 4 — Macro & geopolitical
+| Event | Reading | Impact |
+|---|---|---|
+| 🔴 **Iran / Strait of Hormuz** | **US airstrikes on Iranian targets; tanker attacks; Hormuz traffic "at a crawl"/effectively closed.** Hormuz carries ~1/5 of global oil & gas trade. Brent **$95+**, US retail gasoline ~$4/gal | 🔴 **HIGH — the day's dominant driver.** Feeds inflation → hawkish Fed → higher yields → growth multiple compression. **This is the transmission channel producing Nasdaq −1.2% vs S&P −0.7%** |
+| 🔴 **Fed / Sep 16 FOMC** | Target range **3.50–3.75%**. **FedWatch 56–66% HIKE, 0.0% cut.** Reuters: 88% odds rates higher by December | 🔴 **HIGH — and it is the macro cap's live leg** |
+| **Treasury yields** | **10-yr 4.79% · 2-yr 4.39% · 2s10s +40bp** (10-yr **+1bp** vs 4.78% on 9/1) | MEDIUM — steepening, but the daily move is small |
+| **ADP (released 04:15 PT today)** | **44K actual vs 51K expected** — a soft miss | MEDIUM — mildly dovish at the margin, **swamped by the oil-inflation channel** |
+| **Inflation** | CPI **3.4% y/y** (Jul, eased from 3.5%), core **2.5%**. **Aug CPI lands 9/11** | MEDIUM-WATCH — oil spike lands in the Sept print, not the Aug one |
+| **GDP** | Q2 2026 **+1.5% SAAR** (2nd est., unrevised), Q1 +2.1% | LOW — priced |
+| **US–China** | Reciprocal-tariff suspension held to **Nov 10, 2026**; avg 36.5% US on CN. Reuters: possible **+7.5%** overcapacity tariff under consideration | MEDIUM-WATCH |
+| **Russia/Ukraine** | Strikes on Russian refineries/ports; World Bank sees fertilizer **+31%** in 2026 | MEDIUM — additive to the same energy/inflation channel |
+| **US fiscal** | CBO FY26 deficit **$1.9T = 5.8% of GDP**. No new debt-ceiling action | LOW-PRICED-IN |
+
+**Other scheduled today:** EIA crude inventories, factory orders, business inventories, MBA mortgage applications. **Initial claims Thu 9/3. August payrolls Fri 9/4 08:30 ET — the week's largest scheduled risk.**
+
+### 🔴 The macro sizing cap — RE-TESTED LEG BY LEG (session 3 of the cap's life)
+| Leg | Trigger as written 8/31 | Reading today | Fired? |
+|---|---|---|---|
+| **Rate/duration** (required) | 10-yr **+5bp or more in one session**, **or** FedWatch hike probability **≥ 50%** for the next FOMC | **10-yr 4.79%, only +1bp** ❌ · **FedWatch 56–66% hike, 0.0% cut** ✓ | 🔴 **YES — on the FedWatch sub-leg only. The rate-move sub-leg MISSED for the first time.** |
+| **Spec-complex breadth** (required-alt) | ≥4 of 5 niche names down >4% on a session the index is flat | 9/1: ASTS **−5.58%** ✓, OKLO **−5.03%** ✓, AEHR −3.38% ✗, NBIS −3.29% ✗, RKLB −2.16% ✗ → **2 of 5**, and SPY was −0.67%, not flat | ❌ **no** |
+| Commodity/vol (**supporting only**) | Brent > $95 **or** VIX > 20 | **Brent $95.34–95.63** ✓ · VIX 16.43 ✗ | ⚠️ **YES on Brent — the FIRST time in 15 sessions. Supporting evidence ONLY; it can never arm the cap alone.** |
+
+- **CAP IN FORCE: all new positions ≤ 10% of equity = $940.08.** A leg fired, so the **5-session lapse clock RESETS to 0 unfired sessions.**
+- ⭐ **Today inverts the 8/28 finding rather than confirming it.** The retired commodity leg finally fires on the same session the rate-*move* sub-leg misses. **The cap survives on the FedWatch sub-leg alone** — a reminder that the leg is a disjunction, and that a cap resting on a single sub-leg is one data revision from lapsing. **Re-test all three legs tomorrow; do not assume the rate leg carries.**
+- **ST Rule 6's independent 10% binary-event cap is NOT engaged** — no candidate reports inside a 1–14 day hold horizon.
+
+### STEP 5 — Earnings calendar, Week 20 Wednesday refresh (Monday's 8/31 full sweep stands)
+| Ticker | Date | BMO/AMC | Classification | Note |
+|---|---|---|---|---|
+| 🔴 **AVGO** | **Wed 9/2 (TODAY)** | **AMC** | **DRIFT WATCH — confirmed, no pre-position** | Consensus **$3.22–3.24 EPS / $29.24–29.43B** against management's own **$29.4B** guide — priced for in-line, not a beat. Implied move **7.37%** vs a **7% cut line**. **The book was stopped out of AVGO on 8/26 at −7.01%.** Re-entry only on beat + guide raise, next morning, and only if it clears point 6 fresh. **Not held. No anticipatory trade.** |
+| ⭐ **DELL** | **Tue 9/1** | **AMC — REPORTED** | **DRIFT SETUP FOUND, then REJECTED on R:R — see below** | **EPS $7.04 vs $4.91 est (+43%); revenue $46.97B vs $44.89B. Q3 guide $6.50 / $49.0B vs street $4.49 / $41.42B. FY27 raised to $25.50 / $192B vs street $18.92 / $172.67B.** A genuine beat-and-raise of unusual magnitude. |
+| LULU, ZS, DOCU, PATH, AMBA, IOT, GWRE | Thu 9/3 | AMC | **AVOID** | None affordable at a compliant size on $37.69; no edge derived |
+| CIEN, CPB, TTC, WLY, SCVL | Thu 9/3 | BMO | **AVOID** | Outside the strategy's universe or no edge |
+
+- **Held-position earnings check: MSFT, GOOGL, NVDA, TSM, DVN, ICE — none report this week.** ICE next **10/29**; DVN next **11/4** (63 days out).
+- **Niche watchlist earnings check: none report this week** — ASTS & RKLB Nov 9, OKLO Nov 10, AEHR Oct 5, NBIS Oct 22. **Their rejections remain technical, not event-driven.**
+
+### STEP 3b — News on every held name
+| Name | Mark | Day | Finding | Verdict |
+|---|---|---|---|---|
+| **GOOGL** | $336.129 | **+0.33%** | ⭐ **4th consecutive catalyst search returns NOTHING dated 2026-09-02.** Every driver recycled: the July capex raise to **$195–205B**, first negative quarterly FCF, EU fine, search/AI competition. Offsetting: cloud growth and backlog intact | **Thesis NOT broken. LT Rule 8 → HOLD.** Stop `1f5ca016` $327.033 is **2.71%** away — the book's closest line |
+| **MSFT** | $499.15 | −0.37% | ⚠️ **One NEW dated item: EU antitrust preliminary findings that Azure be designated a DMA "gatekeeper."** ⚠️ **The same source calls it "a new 52-week low," which is FALSE — MSFT is $499.15 against a $517.78 HWM. The item is directionally real but the framing is unreliable; treated as a regulatory-cost overhang, not a guidance event.** FQ4 fundamentals intact: EPS $4.74 / rev $90.01B, **Azure +43%**, Copilot 30M paid seats | **Thesis intact. HOLD.** Stop 6.64% below |
+| **NVDA** | $217.94 | +0.23% | **NVDA publicly DENIED the H100/H200 shortage rumors** that pressured it; says H20 China production is not constraining H100/H200/Blackwell. Q2 $96.2B rev / $2.22 EPS, Q3 guide $109B | **Thesis intact. HOLD.** −0.76%, **6.24 pts of room to the −7% line** |
+| **TSM** | $411.99 | −0.49% | **Stifel INITIATED at Buy (9/1).** FY26 revenue growth guide raised to **slightly above 40%**, capex $60–64B. Pressured with semis on rising long yields. ⚠️ **NEW: ex-dividend $1.114 on Sep 16** = a **0.27%** mechanical mark-down | **Thesis intact. HOLD.** ⚠️ **Ex-div logged 14 days early, per the ADI precedent** |
+| **DVN** | $48.57 | −0.98% | ⭐ **Thesis STRENGTHENING — Brent $95+ is a direct tailwind.** Highest quarterly profit since 2022; target raises from Truist, Morgan Stanley, Barclays, Citi, Evercore, JPM; Solitude Pipeline FID. **Ex-div $0.32 Sep 15 confirmed** | **HOLD.** ⚠️ **But its reward leg fails a second-sample test today — see the armed-board section. This bars ADDING to DVN; it does not require selling it.** |
+| **ICE** | $159.60 | 0.00% | ⭐ **MATERIAL NEW EVENT: ICE agreed to acquire MarketAxess for ~$5.7–6.0B**, expanding fixed income. Dividend **raised 8% to $0.52**, ex-div **Sep 16**. Q2 rev ~$2.67–2.7B, adj EPS $1.90 | **NOT a thesis break** — the thesis is Q3 volumes and the **10/29** print; a strategic acquisition is not the Q2 5% volume miss that defines the break. **HOLD.** Fixed stop $150.97, **5.41%** away |
+| **SPY / QQQ / VOO** | — | — | Index sleeve; no single-name catalyst | **HOLD** |
+
+### 🔴 ⭐ STEP 6/7 — THE ARMED-BOARD REBUILD (yesterday's P0): SEVEN CANDIDATES DERIVED, ZERO ARMED
+The board was **empty** coming in. With Brent > $95 and Hormuz closing, the energy complex was the obvious place to rebuild it. **It could not be rebuilt, and the reason is a data failure that repeats identically across the sector.**
+
+| Candidate | Spot (9/1 close) | Point 6 (in-house, 252 bars) | Reward-leg samples | Spread | Verdict |
+|---|---|---|---|---|---|
+| **HAL** | $36.80 | ✓ +8.48% vs 50d $33.92 | MarketBeat **$43.10** / MarketWatch **$43.42** vs TipRanks **$30.31** / StockAnalysis **$34.25** | **43.6%** | 🔴 **UNARMED** — 2 of 4 averages **BELOW spot**. Carried as "2.42:1" yesterday |
+| **DVN** *(held)* | $49.05 | ✓ +10.30% vs 50d $44.47 | MarketBeat $59.23 / Yahoo $59.54 / Investing $59.62 vs **TipRanks $42.82 / StockAnalysis $43.47 / Zacks $43.16** | **39.2%** | 🔴 **UNARMED** — 3 of 6 **BELOW spot**. **Armed 9/1 at 3.16:1 off the high cluster ALONE** |
+| **SLB** | $57.15 | ✓ +13.93% vs 50d $50.16 | MarketBeat $61.35 / Investing $61.90 / MarketWatch $62.15 vs **TipRanks $48.19 / Yahoo $53.01 / Mkts Insider $55.59** | **29.0%** | 🔴 **UNARMED** — 3 **BELOW spot**; also a real **buy→hold downgrade** on valuation after a ~60% rally + Kelvion deal execution risk |
+| **FANG** | $203.16 | ✓ +4.65% vs 50d $194.12 | MarketWatch $234.00 / Investing $232.75 / Yahoo $232.54 vs **StockAnalysis $186.35 / Zacks $182.11** | **28.5%** | 🔴 **UNARMED** — 2 **BELOW spot** |
+| **EOG** | $148.35 | ✓ +5.37% vs 50d $140.79 | MarketWatch $160.18 / Yahoo $159.96 / MarketBeat $156.33 vs **TipRanks $140.44 / StockAnalysis $137.70** | **16.3%** | 🔴 **UNARMED** — outside the 15% bar; 2 **BELOW spot** |
+| **OXY** | $60.95 | ✓ +9.67% vs 50d $55.58 | $64.83 (26 analysts); **only one cluster obtainable** | n/a | 🔴 **REJECTED on R:R = 0.91:1** — reward $3.88 vs −7% risk $4.27. **Decayed from 1.10:1 on 9/1 purely on a +1.28% rally** |
+| ⭐ **DELL** | $425.00 → **~$463 pre-mkt** | 🔴 **VETO — $425 is 2.12% BELOW its 50d $434.22** | StockAnalysis $510.26 / Investing $512.65 / MarketScreener $502.78 / MarketBeat $501.18 / Yahoo $510.26 | ⭐ **2.29%** | 🔴 **REJECTED on R:R = 1.18:1** at $463 (reward $38.18 / risk $32.41) vs a 1.5:1 floor |
+
+⭐⭐ **THE FINDING — this is not six coincidences, it is one systematic defect.** On every energy name, **TipRanks / StockAnalysis / Zacks carry stale, un-revised targets that now sit BELOW spot**, while **MarketBeat / Yahoo / Investing.com / MarketWatch carry revised ones.** The sector has re-rated (DVN +10.3%, HAL +8.5%, OXY +9.7%, SLB +13.9%, VLO +17.7%, MPC +22.1% over their 50-days) and **half the vendor universe has not updated.** The **only** name with a coherent reward leg is **DELL — the one candidate whose sector has not re-rated.** This is the 8/31 review item ("the reward-leg rule systematically disqualifies momentum") demonstrated across an entire sector on the day that sector received its largest catalyst of the phase.
+
+⭐⭐ **AND THE SELF-CHECK IS WORSE THAN THE FINDING.** **DVN was armed on 9/1 at 3.16:1, and every sample used came from a single cluster.** The 8/28 rule demands "two independent target samples"; MarketBeat, Yahoo and Investing.com agreeing is **not independence, it is one feed counted three times.** Today's second pull puts three DVN averages **below** spot. **The rule was satisfied in form and not in substance, and the book bought the name.** **SLB nearly repeated it inside a single session** — MarketBeat $61.35 and Investing.com $61.90 agree to **0.90%**, the tightest pair in the complex, and the low cluster killed it on the second pull. ⭐ **PROPOSED RULE AMENDMENT FOR THE WEEK 20 REVIEW: the two required samples must come from DIFFERENT PROVIDER FAMILIES — at least one from {TipRanks, StockAnalysis, Zacks} and one from {MarketBeat, Yahoo, Investing.com, MarketWatch}. Agreement within a family is not evidence.**
+
+**Does this force a sale of DVN? NO.** Exits are governed by stop hit, the −7% line, or a broken thesis. DVN is **−0.92%**, its stop sits **8.67%** below, its thesis is **strengthening** on Brent $95+, and it **passes point 6** at +10.3% over its 50-day. **The reward-leg rule is an ENTRY gate, not an exit rule. DVN is held; DVN may not be ADDED to.**
+
+### ⭐ DELL — the one name worth a written trigger
+Best target coherence the board has produced this phase (**five providers within 2.29%**), against a beat-and-raise of unusual size. **Rejected today on three independent grounds, any one of which is sufficient:**
+1. **R:R 1.18:1 < 1.5:1** at a ~$463 pre-market — the gap has already eaten the distance to target.
+2. **Point 6 veto** — the last close $425 is **below** the $434.22 50-day. *(Note: at $463 it would be above; the gate cannot be settled on a pre-print close, so it is written as a condition, not waived.)*
+3. **Unaffordable** — ~$463 against **$37.69** of cash, and against **~$327** even if GOOGL's stop fires. **Computed on the cash line only; RegT is not capital.**
+
+**WRITTEN TRIGGER (cap arithmetic recorded on the session it is written, per the 8/28 contingency ratification):**
+- **DELL is armed ONLY in the window $434.22 < P < $453.56.** Below $453.56 the R:R clears 1.5:1 (solved: $501.18 / 1.105); above $434.22 point 6 clears on live prints.
+- **1 share at $453.56 = 4.82% of $9,400.76** — ✓ legal vs the **10% macro cap ($940.08)** and the 15% sleeve cap, **5.18 pts of headroom.**
+- ⚠️ **Re-derive before any placement.** Targets are **PRE-print** and will be revised UP today — which moves the trigger. **This contingency is unfunded and must not be treated as a plan until capital exists.**
+
+### 🔴 STEP 7 — Niche radar: ALL FIVE VETOED ON POINT 6, 4th CONSECUTIVE SESSION
+**Point 6 computed from 252 in-house daily bars per symbol. Zero vendor technicals used.**
+
+| Ticker | Price | Classification | EPS Trend | Analyst Target | Key Catalyst | Short% | Action |
+|---|---|---|---|---|---|---|---|
+| **ASTS** | $55.80 | 🔴 **AVOID** | pre-revenue, constellation buildout | n/a — not derived, point 6 dispositive | Next print **Nov 9** | **unobtainable** | **VETO pt 6: −16.88% vs 50d $67.13**; also **−5.58%** on 9/1 |
+| **RKLB** | $62.54 | 🔴 **AVOID** | Neutron slippage risk | n/a — point 6 dispositive | Next print **Nov 9** | **unobtainable** | **VETO pt 6: −18.05% vs 50d $76.32.** Stopped out twice in Wk 19 |
+| **OKLO** | $38.53 | 🔴 **AVOID** | pre-revenue | 9 failed coherence samples to date | Next print **Nov 10** | **unobtainable** | **VETO pt 6: −14.20% vs 50d $44.91**; **−5.03%** on 9/1 |
+| **AEHR** | $76.59 | 🔴 **AVOID** | SiC/GaN test cycle | **incoherent — $65.75 (4 an.) vs $136.67 (7 an.), 108% apart** | Next print **Oct 5** | **unobtainable** | **VETO pt 6: −16.66% vs 50d $91.90** |
+| **NBIS** | $199.54 | 🔴 **AVOID** | AI infra buildout | negative reward leg previously | Next print **Oct 22** | **unobtainable** | **VETO pt 6: −7.66% vs 50d $216.09** — the least-broken of the five |
+
+- ⚠️ **Point 5 (short interest) remains unobtainable for all five — the 7-point checklist is still uncompletable for the entire core watchlist.** It was **not re-attempted today**, and the reason is stated rather than inherited: **point 6 is a HARD GATE that vetoes "regardless of ratio," it was re-derived fresh from primary bars for all five this morning, and it fails for all five.** Completing point 5 could not change any verdict. **The data gap itself stays escalated to the Week 20 review.**
+- ⚠️ **Quote endpoint degraded again — the stale single-venue artifact is back on all five** (ASTS 53.15×59.27, AEHR 66.91×88.46, NBIS 171.87×228.18, RKLB ask 0, all timestamped 2026-09-01T20:00Z on 100×100 books). **Prices above are 9/1 closes from `bars`, not from `quote`.** No order depends on a quote today.
+
+### ⭐ STEP 7b — Momentum scan: a COUNTER-INSTANCE to the standing retirement item
+The vendor momentum query has returned nothing fundable on **10 consecutive sessions** and carries a dated Week 20 retirement proposal. **Today it worked.** It surfaced **DELL +7.7–9.4% pre-market on heavy volume**, which on research proved to be a large-cap beat-and-raise with the best target coherence on the board — a real, first-class candidate that failed on arithmetic rather than on quality. The rest of the leaderboard (JLHL +27.8%, GTLB +21.3%, VIVK +20.4%, UPC +19.0%, GPUS +9.8%, KITT +8.9%) is micro-cap noise, unresearchable and uninvestable. ⭐ **The retirement item should be AMENDED rather than executed: the query's large-cap output has value; its small-cap output has produced nothing in 11 sessions. Carry to the Week 20 review as a narrowing, not a retirement.**
+
+### STEP 6 — Long-term sleeve: NO ACTION POSSIBLE OR OWED
+**LT is 74.55% against a 50% target — over, not under.** LT Rule 8 permits an exit only on a stop hit or a broken thesis, and **none of MSFT / SPY / QQQ / VOO / GOOGL qualifies** (all six catalyst searches above returned intact theses). The 8/14 entry-sizing ratification bars trimming **MSFT's 21.24%** passive drift. **All three index ETFs breach the 20% cap at a single added share (14th session).** **No long-term buy exists at any size, and none is owed.**
+
+### 🔴 DECISION — **NO TRADE. ZERO ORDERS PLACED, CANCELLED OR MODIFIED.**
+Every candidate evaluated explicitly and every rejection documented, per the "DEFAULT IS TO TRADE" standard:
+| Candidate | Rejected on |
+|---|---|
+| HAL, DVN(add), SLB, FANG, EOG | **Unanchored reward leg** — provider clusters 16.3–43.6% apart, low cluster below spot |
+| OXY | **R:R 0.91:1** < 1.5:1 |
+| DELL | **R:R 1.18:1** < 1.5:1 · point 6 veto on the last close · **unaffordable** |
+| ASTS, RKLB, OKLO, AEHR, NBIS | **Point 6 hard veto**, all five, on in-house bars |
+| AVGO | **Binary event tonight**, 7.37% implied move vs a 7% cut line — ST Rule 6 refuses it |
+| VOO / SPY / QQQ | **All three breach the 20% LT cap** at one added share |
+| **ALL OF THE ABOVE** | ⭐ **Unfundable regardless of merit — $37.69 of cash, and RegT is not capital** |
+
+**Cash is 0.401% ≤ 5%, so no deployment is owed and this is NOT under-deployment.** The board is empty because **nothing qualified**, not because nothing was looked at — **seven names were fully derived this morning.** Per the strategy's minimum-position rule, the short-term shortfall is logged as **cap-constrained and unfunded**, not as an idea-generation failure.
+
+### Compliance
+**9 positions ≤ 15** ✓ · **4/25 trades on Week 20** ✓ (21 unused) · **no options** ✓ · **ETFs (SPY/QQQ/VOO) long-term sleeve only; NVDA, TSM, DVN, ICE are individual stocks in the short-term sleeve** ✓ · ⚠️ **MSFT $1,996.60 = 21.24% — over the 20% LT cap on the mark; passive drift per the 8/14 entry-sizing ratification, NOT a violation, no trim** · SPY 16.21%, QQQ 15.04%, VOO 14.90%, GOOGL 7.15% ✓ · short-term **NVDA 9.27%, TSM 8.77%, DVN 3.62%, ICE 3.40% — all ≤ 15% and all ≤ the 10% live macro cap ($940.08)** ✓ · **cash $37.69 = 0.401% ≤ 5%** ✓ · **deployed 99.60%** ✓ · **stops GTC on 9/9 positions, 27/27 shares across 12 orders — no share is naked** ✓ · **no stop moved down** ✓ · **no stop moved by discretion** ✓ · **zero ratchets — no name printed a new HWM** ✓ · **no position ≤ −7%** ✓ (worst short-term **NVDA −0.76%, 6.24 pts of room**; worst overall **GOOGL −4.52%**, long-term where LT Rule 8 governs and ST Rule 3 does not apply) · **no position at the +15% rung** ✓ (best **MSFT +1.51%, 13.49 pts away** — the phase has still never executed a trail tightening) · **0 day trades** ✓ · **no margin used — RegT $9,438.45 untouched, 60th session** ✓ · **affordability and reachability computed on CASH ONLY per the 8/28 measurement rule** ✓ · **day P&L computed from `account.last_equity` $9,411.52** ✓ · **index cap re-test RUN on today's equity, all three breach, 14th session** ✓ · **4-name short-term minimum MET** ✓ · **macro cap re-tested leg by leg, in force at 10%, lapse clock reset** ✓ · **point 6 computed in-house from 252 bars/symbol, zero vendor technicals** ✓ · **every contingency written today carries its cap arithmetic (DELL 4.82%)** ✓ · 🔴 **long-term 74.55% vs a 50% target — structural, 44th session** · 🔴 **short-term 25.05% below the 40% cap-constrained ceiling, 12th session, UNFUNDED**
+
+### Standing Triggers Carried Forward
+- 🔴 ⭐ **THE ARMED BOARD IS STILL EMPTY AFTER A FULL REBUILD ATTEMPT — AND THE BLOCKER IS NAMED: PROVIDER-CLUSTER INCOHERENCE.** Seven candidates derived, zero armed. **HAL is DEMOTED from "2.42:1" to UNARMED; OXY has decayed to 0.91:1; SLB, FANG, EOG are unarmed; DVN cannot be added to.** **If any stop fires there is no pre-derived target and no index cure.**
+- 🔴 ⭐ **THE 8/28 TWO-SAMPLE RULE HAS A HOLE AND THE BOOK HAS ALREADY TRADED THROUGH IT.** DVN was armed 9/1 on three same-family sources. **Proposed amendment: one sample from {TipRanks, StockAnalysis, Zacks} AND one from {MarketBeat, Yahoo, Investing.com, MarketWatch}. Agreement within a provider family is not independence.** **Week 20 review, numbered item.**
+- 🔴 ⭐ **GOOGL `1f5ca016` STOP $327.033 IS THE BOOK'S CLOSEST LINE AT 2.71%** ($336.129), widened from 2.43% only because GOOGL is +0.33% pre-market. Second leg `f9865265` $316.43991 (5.86%). **LONG-TERM: LT Rule 8 governs, the −7% short-term cut does NOT apply, and a 4th consecutive catalyst search returned nothing dated. HOLD — the stop is the mechanism.** ⚠️ **A fill releases ≈ $327, the sweep is owed the same session, and there is NO index cure and NO armed target.**
+- 🔴 **DELL — armed ONLY in the window $434.22 < P < $453.56, and UNFUNDED.** 1 sh at $453.56 = 4.82% of equity ✓ legal. **Targets are pre-print and will be revised UP today; re-derive before any placement.** Best target coherence of the phase (2.29% across five providers).
+- 🔴 **AVGO REPORTS TONIGHT (Wed 9/2 AMC)** — implied move 7.37% vs a 7% cut line, consensus priced for in-line against management's own guide. **DRIFT WATCH. No pre-position. Re-entry only on beat + guide raise, next morning, and only if it clears point 6 fresh.** The book was stopped out of AVGO on 8/26 at −7.01%.
+- 🔴 **THE MACRO CAP SURVIVES ON THE FEDWATCH SUB-LEG ALONE** (56–66% hike, 0.0% cut, Sep 16). **The rate-MOVE sub-leg missed today (+1bp vs a +5bp trigger) and the spec-breadth leg missed (2 of 5).** Cap at 10% = $940.08; lapse clock reset. ⚠️ **A single FedWatch revision below 50% would leave the cap unarmed — re-test all three legs every session.**
+- ⚠️ **BRENT CROSSED $95 FOR THE FIRST TIME IN 15 SESSIONS** — the retired commodity leg would have fired today. **It is supporting evidence only and can never arm the cap alone.** Recorded because the 8/28 ratification retired it on 12 sessions of failure; today is its first hit and does not undo the retirement.
+- ⚠️ **THREE EX-DIVIDENDS LAND IN THE NEXT 14 DAYS AND ALL THREE ARE LOGGED EARLY, PER THE ADI PRECEDENT:** **DVN $0.32 on Sep 15** (0.66% mark-down) · **TSM $1.114 on Sep 16** (0.27%) · **ICE $0.52 on Sep 16** (0.33%). **The 9/14 and 9/15 routines must re-measure each trail gap BEFORE the ex-div and subtract the dividend before reading any gap as weakness.** ADI is why this is written two weeks early.
+- 🔴 ⭐ **ICE — `7ba8c040` STOP $150.97 GTC verified resting. It is a FIXED stop and does NOT ratchet.** **Convert to a 10% trail only once ICE's HWM exceeds $167.74; ICE is $159.60 and needs +5.10%.** Below that a 10% trail would sit under $150.97 and converting would be a stop moved DOWN. ⚠️ **NEW: the MarketAxess acquisition (~$5.7–6.0B) is a material event but NOT the thesis break — the break is Q3 volumes repeating Q2's 5% miss, and the single number is the 10/29 print.** Target $183.33.
+- 🔴 **THERE IS STILL NO LEGAL INDEX CASH-SWEEP** — SPY 24.38%, QQQ 22.63%, VOO 22.34% at one added share vs a 20% cap, **14th session.** Any cash breach must be cured with an individual stock.
+- 🔴 **ALL FIVE NICHE NAMES VETOED ON POINT 6, 4TH CONSECUTIVE SESSION** (ASTS −16.9%, RKLB −18.1%, OKLO −14.2%, AEHR −16.7%, NBIS −7.7% vs their 50-days, from 252 in-house bars). **Point 5 unobtainable for all five; the 7-point checklist stays uncompletable. Escalated to the Week 20 review.**
+- ⚠️ **MSFT — the "new 52-week low" claim in one vendor item is FALSE** ($499.15 vs a $517.78 HWM). The underlying **EU DMA gatekeeper preliminary finding** is real and is a regulatory-cost overhang, **not a guidance event and not a thesis break.** Do not let a later routine inherit the false framing.
+- ⭐ **AMEND, DO NOT RETIRE, THE VENDOR MOMENTUM QUERY.** It produced **DELL** today after 10 empty sessions — a real large-cap candidate. **Its large-cap output has value; its small-cap output has produced nothing in 11 sessions. Week 20 review: narrow it, don't kill it.**
+- **STRUCTURAL: long-term 74.55% vs a 50% target — 44th consecutive session over.**
+- **Closed-trade record: Week 20 — 0 wins / 2 losses, MKSI −$16.88 and ADI −$17.19, −$34.07 realized.** Prior: Week 19 final 1 win (MRVL +$0.40), 3 losses (RKLB, AVGO −$53.38, ASTS −$79.24), −$158.42 realized.
+- ⭐ **CARRY TO THE WEEK 20 REVIEW:** (a) 🔴 **the provider-family independence amendment — the book traded through this hole on 9/1**; (b) the reward-leg rule vs. re-rated sectors, now demonstrated across all of energy on its largest catalyst day; (c) narrow rather than retire the momentum query; (d) the long-term sleeve as the day's loss (2 consecutive sessions as of 9/1); (e) the point-5 data gap across the whole niche watchlist; (f) **whether a cap resting on one sub-leg of one leg is robust enough to bind the entire short-term sleeve.**
+
+⚠️ **BRANCH NOTE:** the scheduler started this session on `claude/bold-franklin-gwn6rj`, **the 8th consecutive session started off `main`.** `git fetch origin main` was run **BEFORE any broker call**: the branch was **exactly level with `origin/main` (0 ahead, 0 behind)**, so **no memory was stale and nothing is discarded.** ⚠️ **UNLIKE PRIOR SESSIONS, THIS ENTRY IS PUSHED ONLY TO `claude/bold-franklin-gwn6rj`, NOT TO `main`.** This session's operating instructions designate that branch and forbid pushing to another without explicit permission, which **conflicts with CLAUDE.md ("all commits go directly to `main`") and routine STEP 10 (`git push origin HEAD:main`).** The safe direction was taken: **the work is committed and pushed and nothing is lost, but a human must merge `claude/bold-franklin-gwn6rj` into `main` before the next routine reads memory, or the next session will not see this entry.** Flagged loudly rather than resolved silently.
+
+**Next scheduled routine: Wed 9/2 Market Open (~06:35 PT).** Its items, in order: (1) 🔴 **NO ORDERS ARE OWED AND NO ORDER IS PRE-DERIVED — the armed board is empty after a full seven-name rebuild attempt. Do not manufacture a trade; $37.69 funds nothing**; (2) 🔴 **GOOGL `1f5ca016` $327.033 is the closest line at 2.71% — LT Rule 8 hold, NOT a cut candidate, and a fill leaves the book with no target and no index cure**; (3) 🔴 **verify all 12 GTC stops rest and 27/27 shares stay covered**; (4) ⭐ **DELL — check whether it opens inside $434.22–$453.56; it is armed ONLY in that window and is UNFUNDED regardless. Targets will be revised up today; re-derive, never re-read**; (5) 🔴 **AVGO reports AMC tonight — confirm DRIFT WATCH, no pre-position, no anticipatory trade on a good open**; (6) **do NOT convert ICE below a $167.74 HWM (needs +5.10%)**; (7) **worst short-term NVDA −0.76% with 6.24 pts of room; worst overall GOOGL −4.52%, long-term**; (8) **no position within 13.5 pts of the +15% rung (best MSFT +1.51%)**; (9) **9 positions, cash 0.40%, 4/25 trades on Week 20, 0 day trades, −$34.07 realized**; (10) ⚠️ **the branch note above — this entry is NOT on `main`.**
+
+---
