@@ -6002,3 +6002,84 @@ The catalyst work on MSFT, GOOGL and TSM is in STEP 5 above and is appended to R
 **Next scheduled routine: Wed 9/2 Pre-Market.** Its items, in order: (1) 🔴 ⭐ **REBUILD THE ARMED BOARD — it is EMPTY. HAL is stale, OXY 1.10:1 is below the 1.5:1 floor, and there is no index cure for any stop fill**; (2) 🔴 **GOOGL `1f5ca016` $327.033 is the closest line at 2.43% — LT Rule 8 hold, not a cut candidate; a 4th catalyst search is owed before any re-read**; (3) 🔴 **AVGO reports AMC tonight-plus-one with a 7.37% implied move vs a 7% cut line — confirm DRIFT WATCH, no pre-position**; (4) **verify `e7840303` (DVN, now $44.3565 GTC after today's ratchet) and `7ba8c040` (ICE, $150.97 fixed GTC) both rest; do NOT convert ICE below a $167.74 HWM (needs +5.05%)**; (5) 🔴 **re-test the macro cap's three legs — in force at 10%, session 2 of 5, lapses after 5 unfired sessions**; (6) **no position within 13.0 pts of the +15% rung (best MSFT +1.97%)**; (7) **worst short-term NVDA −0.91% with 6.09 pts of room; worst overall GOOGL −4.79%, long-term**; (8) **9 positions, 27/27 shares stopped GTC across 12 orders, cash 0.40%, 4/25 trades on Week 20, 0 day trades, −$34.07 realized on the week**; (9) ⭐ **the long-term sleeve is now 2-for-2 as the day's loss — record the third instance if it happens, and take it to the Week 20 review either way.**
 
 ---
+
+## 2026-09-02 — Market-Open Execution (Day 58, Wednesday — Week 20 Day 3) — 🔴 **ZERO ORDERS PLACED, ZERO CANCELLED, ZERO MODIFIED — AND THE REASON IS CAPITAL, NOT CAUTION: cash is $37.69 and the cheapest legal entry on the armed board costs $293.88** · ⚠️ **NO PRE-MARKET RESEARCH ENTRY EXISTED FOR TODAY — the third routine-coverage gap in four sessions and the first to hit the research slot. STEPS 1–7 of the pre-market routine were executed INLINE per the market-open fallback and the full entry is written to RESEARCH-LOG; the research is complete, the schedule is not** · ⭐ **YESTERDAY'S P0 IS CLOSED — THE ARMED BOARD IS REBUILT AND IT REBUILDS TO EXACTLY ONE NAME: HAL 2.48:1, with its post-fill cost basis (3.13%) recorded on the session it is written, per the 8/28 contingency rule** · 🔴 **OXY IS NOW UNARMED RATHER THAN LOW-RATIO — one of its two consensus averages ($59.42) has fallen BELOW a $60.86 spot after a further rally, so there is no anchor to compute a ratio from. Yesterday's 1.10:1 rejection was one step too late in the checklist** · 🔴 **GOOGL FAILS POINT 6 ON OUR OWN BARS ($334.67 vs a $348.68 50-day, −4.02%, lower highs) AND IS THE BOOK'S CLOSEST LINE AT 2.38% — the exact ADI signature from 9/01, now on a second name in three sessions. It is LONG-TERM, so LT Rule 8 governs and it is a HOLD, not a cut** · ⭐ **THE RETIRED BRENT > $95 CAP LEG CROSSED FOR THE FIRST TIME IN 15 SESSIONS ($95.40–95.54) ON THE SAME SESSION THE REQUIRED RATE LEG'S bp COMPONENT MISSED (10-yr −4bp) — the cap stays in force at 10% on the FedWatch leg (66–67% hike), and the 8/28 retirement is vindicated a second way** · **cash 0.40% ✓ · 9 positions · 4/25 trades · 0 day trades · zero fills · zero cuts · zero tightenings · zero ratchets · zero discretionary stop moves · zero stops moved down**
+
+### Executions
+**NONE.** `/account/activities/FILL?after=2026-09-02` returns `[]`. **Executions this week: 4 — 4/25** against the combined cap (21 unused). **0 day trades.**
+
+### Orders placed / cancelled / modified
+**NONE.** The 12 resting GTC orders below were verified unchanged and untouched.
+
+### Account state (06:38 PT)
+| Field | Value |
+|---|---|
+| Equity | **$9,400.68** (later read $9,404.14) |
+| `last_equity` | **$9,411.52** → day **−$10.84 / −0.12%** |
+| Cash | **$37.69 = 0.40%** ✓ ≤ 5% |
+| Deployed | **99.60%** |
+| RegT buying power | $9,438.37 — **untouched, 59th consecutive session** |
+| Positions | **9 of 15** |
+| Day trades | **0** |
+
+### Sleeves
+| Sleeve | Names | Market value | % equity | Target | Status |
+|---|---|---|---|---|---|
+| **Long-term** | MSFT, GOOGL, QQQ, SPY, VOO | **$6,996.23** | **74.42%** | 50% | 🔴 **44th consecutive session OVER.** LT Rule 8 bars a discretionary trim; the 8/14 ratification bars trimming **MSFT's 21.14% passive drift** (21.21% → 21.14% on a flat position — the denominator moved, not the position). |
+| **Short-term** | NVDA, TSM, ICE, DVN | **$2,366.50** | **25.17%** | 50% | 🔴 **Under for a 12th session. Reachability RUN: 4 × 10% macro cap = a 40% ceiling below the 50% target → a CAP problem whose trigger IS live. But CAPITAL binds by two orders of magnitude — $2,334.19 needed against $37.69. UNFUNDED, not unreachable, not name-short. 4-name minimum MET.** |
+| Cash | — | $37.69 | 0.40% | ≤5% | ✓ |
+
+### Positions and resting stops — 27/27 shares covered, 12 GTC orders, nothing naked
+| Symbol | Sleeve | Qty | Entry | Mark | Unreal. | Stop order(s) | Stop | Distance |
+|---|---|---|---|---|---|---|---|---|
+| **MSFT** | LT | 4 | $491.72 | $496.94 | **+$20.88 / +1.06%** | `40683bb4` 1 · `563820fd` 2 · `681532fe` 1 (10% trail, HWM $517.78) | $466.002 | 6.22% |
+| 🔴 **GOOGL** | LT | 2 | $352.04 | $335.44 | **−$33.20 / −4.72%** | `1f5ca016` 1 (HWM $363.37) · `f9865265` 1 (HWM $351.5999) | **$327.033** / $316.43991 | 🔴 **2.38%** / 5.66% |
+| **QQQ** | LT | 2 | $709.99 | $706.10 | −$7.78 / −0.55% | `314fc783` (HWM $734.58) | $661.122 | 6.37% |
+| **SPY** | LT | 2 | $765.02 | $762.14 | −$5.76 / −0.38% | `4ab8e160` (HWM $775.30) | $697.77 | 8.45% |
+| **VOO** | LT | 2 | $699.81 | $700.555 | +$1.49 / +0.11% | `af500488` (HWM $716.39) | $644.751 | 7.97% |
+| **NVDA** | ST | 4 | $219.61 | $219.51 | −$0.40 / −0.05% | `e3899b2b` (HWM $230.47) | $207.423 | 5.51% |
+| **TSM** | ST | 2 | $413.42 | $415.21 | +$3.58 / +0.43% | `4520bce1` (HWM $429.64) | $386.676 | 6.87% |
+| **ICE** | ST | 2 | $160.55 | $157.87 | −$5.36 / −1.67% | `7ba8c040` (fixed −7%-class stop) | $150.97 | 4.37% |
+| **DVN** | ST | 7 | $49.017143 | $48.90 | −$0.82 / −0.24% | `e7840303` (HWM $49.285, ratcheted 9/01) | $44.3565 | 9.29% |
+
+### Rule checks run before deciding not to trade
+| Rule | Reading | Result |
+|---|---|---|
+| Cash ≤ 5% | **0.40%** | ✓ **Deployment rule does NOT fire. No VOO fallback is owed — and this is the correct reading of the rule, not under-deployment.** |
+| ST Rule 3 — hard cut −7% | worst ST **ICE −1.67%**, 5.33 pts of room | **Zero cuts.** GOOGL −4.72% is LONG-TERM, where LT Rule 8 governs and ST Rule 3 does not apply. |
+| Trail tighten 7% @ +15% / 5% @ +20% | best **MSFT +1.06%**, 13.94 pts from the first rung | **Zero eligible. The phase has still never executed a tightening.** |
+| Never move a stop down | no stop touched in either direction | ✓ |
+| Every cut line is a resting order (8/28) | **27/27 shares stopped across 12 GTC orders; no manual line exists anywhere in the book** | ✓ **Zero unrouted-window exposure.** |
+| Max 15 positions | 9 | ✓ |
+| ≤ 25 trades/week | 4 | ✓ 21 unused |
+| PDT | 0 day trades, 0 fills | ✓ |
+| Index cash-sweep legality | **SPY 24.38% · QQQ 22.62% · VOO 22.34%** at one added share vs a 20% cap | 🔴 **ILLEGAL for a 14th consecutive routine. Any future stop fill still has no index cure — which is why the contingency below exists.** |
+| Macro cap in force | **10% = $940.07**, fired on the FedWatch leg (66–67% hike, 0.0% cut); session 3 of 5, clock reset | ✓ binding on any new entry |
+
+### ⭐ Armed board rebuilt — the 9/01 P0, closed
+The 9/01 board finished **EMPTY** (DVN bought, HAL stale from 05:29 PT, OXY decayed to 1.10:1). Re-derived this morning on live spots and 274 in-house daily bars:
+| Name | Spot | Two independent samples | Coherence | Lower sample vs spot | R:R vs −7% | Point 6 | Verdict |
+|---|---|---|---|---|---|---|---|
+| ⭐ **HAL** | **$36.735** | **$43.10 / $43.52** | **0.97%** ✓ | **$43.10 > $36.735** ✓ | ⭐ **2.48:1** ✓ | **+8.17% vs 50-day**, no LH/LL ✓ | ⭐ **ARMED — the board's only name** |
+| **OXY** | $60.86 | $64.83 / **$59.42** | 8.71% ✓ | 🔴 **$59.42 < $60.86** ✗ | — | +9.17% ✓ | 🔴 **UNARMED — reward leg unanchored. No ratio is derived.** |
+| **SLB** | $57.45 | $61.35 / $61.90 | 0.89% ✓ | ✓ | 🔴 **0.97:1** ✗ | +14.08% ✓ | 🔴 **REJECTED on the 1.5:1 floor** |
+| **DVN** *(held)* | $48.90 | $59.23 / $59.38 | 0.25% ✓ | ✓ | 3.02:1 ✓ | +9.91% ✓ | **HOLD — re-anchors one day after entry** |
+
+### 🔴 Pre-derived stop-fill contingency — cap arithmetic recorded ON THE SESSION IT IS WRITTEN (8/28)
+| Field | Value |
+|---|---|
+| **Trigger** | **GOOGL `1f5ca016` (1 sh, stop $327.033 GTC) fills** — the book's closest line at **2.38%** |
+| Proceeds → cash | ≈ **$327.03** → ≈ **$364.72** |
+| **Action** | **BUY 8 HAL · LIMIT $37.10 · DAY** — a limit as a **ceiling**, per ICE 8/31 (filled 1.10% below) and DVN 9/01 (filled 0.98% below) |
+| **Cost at write time** | **8 × $36.735 = $293.88 = 3.13% of $9,400.68** |
+| **Caps at write time** | ≤ 15% ST sleeve ✓ · ≤ **10% live macro cap ($940.07)** ✓ · **CASH ONLY**, RegT untouched ✓ |
+| **Resting cut order** | **SELL 8 HAL · STOP $34.16 · GTC** (−7% off $36.735). A 10% trail sits at **$33.06 — $1.10 BELOW the committed cut line**, so the **tighter** order rests, per the 8/28 ratification. |
+| Sleeve effect | ST **25.17% → 28.30%** (5 names) · LT **74.42% → 71.15%**. **Both move toward target.** |
+| ⚠️ Re-derivation | **MANDATORY next routine.** HAL decayed 2.73 → 2.42:1 in a single session on a 1.8% rally. This ratio is not durable. |
+
+### Findings
+1. ⭐ **The reward-leg rule caught OXY one checklist step earlier than yesterday did.** On 9/01 OXY was rejected on a *ratio* (1.10:1). Today the correct rejection is that **one of its two independent consensus averages has fallen below spot**, so no anchor exists and no ratio may be computed at all. The 8/28 ordering — anchor first, ratio second — is doing exactly the work it was written for.
+2. 🔴 **The ADI signature has reappeared on GOOGL.** Point 6 fails on our own bars (−4.02% vs the 50-day, lower highs), the 200-day is breached (−0.20%), and it holds the book's closest line at 2.38%. On ADI this sequence preceded a stop fill by one session. **GOOGL is long-term: LT Rule 8 says hold, and no stop moves by discretion in either direction.** The stop is the mechanism, and it is armed.
+3. ⭐ **The macro cap's replacement leg and its retired leg diverged today, in the retirement's favour.** Brent crossed $95 for the first time in 15 sessions on the same session the 10-yr gave back 4bp. The cap held only because the FedWatch leg (66–67% hike) fired. A book still sized on Brent alone would have been correctly sized today and wrongly sized for the 8/28 Jackson Hole repricing and all 14 sessions since.
+4. 🔴 **The risk-off signature rotated to the duration end.** Nasdaq futures (−1.1 to −1.3%) are worse than the Russell (−1.1%) and the S&P (−0.6 to −0.8%) for the first time in six sessions, on NYSE breadth of **0.43:1** (834/1,931). The book is **74.42% long-term and concentrated in exactly that end** — this is the third consecutive session the long-term overweight is the exposure that matters, and it belongs in the Week 20 review as numbered item, not a note.
+5. ⚠️ **Third routine-coverage gap in four sessions** (8/31 midday, 9/01 market-open, 9/02 pre-market). Two were caught and backfilled by the following routine; this one was caught and executed inline. **The inline fallback works — but it has now been needed three times, and that is a schedule problem, not a research problem.**
